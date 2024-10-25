@@ -774,8 +774,8 @@ sections:
         subtitle: Suscríbete al Canal
         text: >+
           <div style="text-align: left">Si encontraste lo que necesitabas, te
-          ayudé con tus dudas o te gustó el contenido, suscribete al canal de
-          YT.</div>
+          ayudé con tus dudas o te gustó el contenido, **suscribete al canal de
+          YT**.</div>
 
         image:
           url: /images/abstract-feature1.svg
