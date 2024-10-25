@@ -665,7 +665,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: '“Espero que sea asi chainy, sino me deberas 10 dolares juas juas”'
-        tagline: Testimonial 4
+        tagline: Pollo de Platino
         subtitle: '@apachejk, 10 Meses'
         text: |
           entonces para cuando esos mario partys?
