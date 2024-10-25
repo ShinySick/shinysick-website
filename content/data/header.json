@@ -23,7 +23,7 @@
             "showIcon": false
         },
         {
-            "label": "Firmware",
+            "label": "Firmwares",
             "altText": "Firmwares",
             "url": "/firmwares",
             "icon": "arrowRight",
