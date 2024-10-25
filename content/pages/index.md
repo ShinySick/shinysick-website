@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Toda la información necesaria para configurar tus emuladores favoritos.
+      text: Configura tus emuladores favoritos.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
