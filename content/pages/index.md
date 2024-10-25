@@ -667,10 +667,8 @@ sections:
       - title: '“Espero que sea asi chainy, sino me deberas 10 dolares juas juas”'
         tagline: Testimonial 4
         subtitle: '@apachejk, 10 Meses'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          entonces para cuando esos mario partys?
         image:
           url: /images/apashe.png
           altText: Maria Walters
