@@ -493,7 +493,7 @@ sections:
         showIcon: true
         icon: youtube
         iconPosition: left
-        style: primary
+        style: secondary
         elementId: ''
     media:
       type: VideoBlock
