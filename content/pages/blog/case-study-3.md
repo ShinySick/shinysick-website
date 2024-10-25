@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/rpcs3.jpg
-  altText: Case study 3
+  altText: RPCS3 PC
   styles:
     self:
       borderRadius: x-large
