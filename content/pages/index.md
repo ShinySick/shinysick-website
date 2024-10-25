@@ -60,7 +60,7 @@ sections:
       url: /images/webapp-center-banner.png
   - type: FeaturedItemsSection
     title:
-      text: Populares
+      text: Emuladores Populares
       color: text-dark
       styles:
         self:
