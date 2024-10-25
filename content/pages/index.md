@@ -809,8 +809,8 @@ sections:
         tagline: YouTube
         subtitle: Únete a los Miembros
         text: >
-          Al ser miembro de canal recibes ventajas exclusivas, acceso
-          anticipado, menciones y sugerencias de contenido.
+          Al ser **miembro** de canal recibes **ventajas exclusivas, acceso
+          anticipado, menciones y sugerencias de contenido**.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
