@@ -14,7 +14,7 @@ sections:
     actions:
       - label: Únete a la comunidad
         altText: ''
-        url: /
+        url: 'https://discord.gg/bbyG99mbQF'
         showIcon: true
         icon: arrowRight
         iconPosition: right
