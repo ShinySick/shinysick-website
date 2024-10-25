@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: This is a blog post with related posts
+title: Este es un post de prueba
 date: '2024-10-25'
 author: content/data/person1.json
 excerpt: >-
