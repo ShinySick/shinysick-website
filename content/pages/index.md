@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Configura tus emuladores
+      text: BIENVENIDO
       color: text-neutral
       type: TitleBlock
     subtitle: Subtitle goes here
