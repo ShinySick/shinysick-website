@@ -1,6 +1,6 @@
 ---
 title: TUTORIALES
-slug: case-study-2
+slug: tutoriales
 date: '2024-10-25'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
