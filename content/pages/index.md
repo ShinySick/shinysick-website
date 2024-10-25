@@ -846,7 +846,7 @@ sections:
           A veces pasar el tiempo conviviendo **en vívo** es la mejor manera de
           **comunicarnos, descansar y divertirnos**.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/follow-twitch.webp
           altText: Placeholder image
           styles:
             self:
