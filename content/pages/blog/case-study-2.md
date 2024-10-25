@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/Ryujinx 1.2.jpg
-  altText: Case study 2
+  altText: Ryujinx 1.2
   styles:
     self:
       borderRadius: x-large
