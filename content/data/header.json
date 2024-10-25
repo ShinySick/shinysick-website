@@ -94,7 +94,7 @@
                 {
                     "type": "Link",
                     "label": "PS1",
-                    "altText": "",
+                    "altText": "Ps1",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
