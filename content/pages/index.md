@@ -334,7 +334,7 @@ sections:
       - url: /images/PopCorn chainy.png
         altText: shiny palomitas
         type: ImageBlock
-      - url: /images/rangle-logo.svg
+      - url: /images/Sad chainy.png
         altText: shiny sad
         type: ImageBlock
     motion: move-to-left
