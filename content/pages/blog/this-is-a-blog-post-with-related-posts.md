@@ -37,7 +37,7 @@ bottomSections:
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
+      title: YUZUUUU & LA WEA PAPA FRITA
       url: 'https://youtu.be/OyjK4bF_eXQ'
       autoplay: true
       loop: true
