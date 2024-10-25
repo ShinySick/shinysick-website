@@ -831,7 +831,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: Get started
+            label: Únete
             altText: ''
             url: 'https://bit.ly/48mqCTG'
             showIcon: false
