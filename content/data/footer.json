@@ -19,7 +19,7 @@
             },
             {
                 "label": "Tutoriales",
-                "url": "/",
+                "url": "/tutoriales",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
