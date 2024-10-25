@@ -76,15 +76,15 @@
     },
     "socialLinks": [
         {
-            "altText": "Facebook Page",
-            "url": "https://www.facebook.com/ShinySickHackplay",
-            "icon": "facebook",
-            "type": "Social"
-        },
-        {
             "altText": "Email link",
             "url": "https://www.youtube.com/@shinysick",
             "icon": "youtube",
+            "type": "Social"
+        },
+        {
+            "altText": "Facebook Page",
+            "url": "https://www.facebook.com/ShinySickHackplay",
+            "icon": "facebook",
             "type": "Social"
         },
         {
