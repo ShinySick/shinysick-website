@@ -698,7 +698,7 @@ sections:
 
         image:
           url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          altText: Dan Morales
           styles:
             self:
               borderRadius: full
