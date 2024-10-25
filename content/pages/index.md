@@ -617,10 +617,10 @@ sections:
           accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Aquí apoyándote en lo que decidas hacer
+          ![](https://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u1f973.png)![](https://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u1f973.png)![](https://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u1f973.png)
+
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
