@@ -761,7 +761,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: ¿Quieres apoyar de otras maneras?
       color: text-primary
       styles:
         self:
