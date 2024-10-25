@@ -717,9 +717,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
+      - title: “Sin Palabras.”
         tagline: Pollo de Diamante
         subtitle: 'Jane Doe, Company'
         text: >-
