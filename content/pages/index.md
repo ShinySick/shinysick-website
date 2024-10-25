@@ -671,7 +671,7 @@ sections:
           entonces para cuando esos mario partys?
         image:
           url: /images/apashe.png
-          altText: Maria Walters
+          altText: Apashejk 2019
           styles:
             self:
               borderRadius: full
