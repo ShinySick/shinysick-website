@@ -545,7 +545,7 @@ sections:
       mercado.
     actions:
       - type: Button
-        label: Get started
+        label: Ver en YT
         altText: ''
         url: >-
           https://www.youtube.com/playlist?list=PLRZYnOrbeoT3GVKH5zJZ4AcKaFMwk32BS
