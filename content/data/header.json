@@ -64,7 +64,7 @@
                 },
                 {
                     "label": "Suyu",
-                    "url": "/",
+                    "url": "/suyu",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
