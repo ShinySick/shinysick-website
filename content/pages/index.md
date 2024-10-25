@@ -451,7 +451,7 @@ sections:
         url: >-
           https://www.youtube.com/playlist?list=PLRZYnOrbeoT2tCC1C8XJbA4GY_azsoO05
         showIcon: true
-        icon: arrowRight
+        icon: youtube
         iconPosition: right
         style: primary
         elementId: ''
