@@ -12,7 +12,7 @@ sections:
       Aquí encontraras los mejores emuladores y sus configuraciones para que
       puedas disfrutarlos en tus dispositivos.
     actions:
-      - label: See Tutorials
+      - label: Únete a la comunidad
         altText: ''
         url: /
         showIcon: true
