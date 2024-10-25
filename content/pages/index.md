@@ -228,7 +228,7 @@ sections:
             url: >-
               https://www.youtube.com/playlist?list=PLRZYnOrbeoT1qvdAxluGdER7lXqeJKEmZ
             showIcon: false
-            icon: arrowRight
+            icon: youtube
             iconPosition: right
             style: primary
             elementId: ''
