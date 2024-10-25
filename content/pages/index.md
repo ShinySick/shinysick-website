@@ -697,7 +697,7 @@ sections:
 
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/danmorales.png
           altText: Dan Morales
           styles:
             self:
