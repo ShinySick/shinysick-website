@@ -366,7 +366,7 @@ sections:
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: GUÍAS MÁS POPULARES
+      text: MIRA LAS GUÍAS MÁS POPULARES
       color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
