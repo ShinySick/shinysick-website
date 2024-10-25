@@ -481,11 +481,9 @@ sections:
         self:
           textAlign: left
     subtitle: Entérate de las noticias más recientes.
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Vlogs de **calidad** y con información relevante en el mundo de la
+      **emulación** y el **gaming**.
     actions: []
     media:
       type: VideoBlock
