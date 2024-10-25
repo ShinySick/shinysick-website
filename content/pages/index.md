@@ -388,15 +388,9 @@ sections:
     subtitle: Emulando Nintendo Switch en Meta Quest 2
     text: >
       La emulación de la **Nintendo Switch** a sido un tema controversial en los
-      ultimos años, se ha
-
-
-      intentado detener esta actividad pero nos sigue sorprendiendo la cantidad
-      de lugares en 
-
-
-      donde podemos emular dicha consola, en este caso en un **Meta Quest 2
-      VR**.
+      ultimos años, se ha intentado detener esta actividad pero nos sigue
+      sorprendiendo la cantidad de lugares en donde podemos emular dicha
+      consola, en este caso en un **Meta Quest 2 VR**.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
