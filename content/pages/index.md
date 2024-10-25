@@ -317,6 +317,7 @@ sections:
   - posts:
       - content/pages/blog/guias-completas.md
       - content/pages/blog/tutoriales.md
+      - content/pages/blog/vlogs.md
     showThumbnail: true
     showDate: true
     showAuthor: true
