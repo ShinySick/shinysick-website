@@ -690,7 +690,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: '"Sin Palabras"'
+      - title: '"Sin Palabras."'
         tagline: Pollo Muy Importante
         subtitle: '@DanMorales100, 50 Meses'
         text: |+
