@@ -328,7 +328,7 @@ sections:
       - url: /images/GG chainy 2.png
         altText: shiny gg
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/laughting chainy.png
         altText: shiny XD
         type: ImageBlock
       - url: /images/sanity-logo.svg
