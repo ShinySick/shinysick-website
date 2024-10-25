@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/Guia Yuzu EA.jpg
+  url: /images/Guias-completas-emulacion.webp
   altText: Yuzu Early Access PC
   styles:
     self:
