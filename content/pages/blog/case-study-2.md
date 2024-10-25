@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/Ryujinx Full N.jpg
+  url: /images/tutoriales-emulacion.webp
   altText: Ryujinx 1.2
   styles:
     self:
