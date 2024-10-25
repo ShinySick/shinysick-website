@@ -88,15 +88,15 @@
             "type": "Social"
         },
         {
-            "altText": "LinkedIn link",
-            "url": "https://www.instagram.com/shinysick/",
-            "icon": "instagram",
-            "type": "Social"
-        },
-        {
             "altText": "Email link",
             "url": "https://www.youtube.com/@shinysick",
             "icon": "youtube",
+            "type": "Social"
+        },
+        {
+            "altText": "LinkedIn link",
+            "url": "https://www.instagram.com/shinysick/",
+            "icon": "instagram",
             "type": "Social"
         }
     ],
