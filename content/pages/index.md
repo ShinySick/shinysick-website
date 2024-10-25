@@ -586,7 +586,7 @@ sections:
     items:
       - title: "“Ahí nos vemos ✨\U0001F609”"
         tagline: Pollo Muy Importante
-        subtitle: '@JafiOfficial, 51 Mese'
+        subtitle: '@JafiOfficial, 51 Meses'
         text: |
           Gracias, me ayudó para actualizar el Mario Party Superstars xd
         image:
