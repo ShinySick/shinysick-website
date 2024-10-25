@@ -409,7 +409,7 @@ sections:
       type: VideoBlock
       autoplay: false
       loop: false
-      muted: true
+      muted: false
     badge:
       label: ''
       color: text-primary
