@@ -24,7 +24,7 @@
         },
         {
             "label": "Firmware",
-            "altText": "Blog",
+            "altText": "Firmwares",
             "url": "/firmwares",
             "icon": "arrowRight",
             "iconPosition": "right",
