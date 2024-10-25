@@ -549,7 +549,7 @@ sections:
         altText: ''
         url: >-
           https://www.youtube.com/playlist?list=PLRZYnOrbeoT3GVKH5zJZ4AcKaFMwk32BS
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
