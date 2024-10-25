@@ -1,5 +1,5 @@
 ---
-title: RPCS3 PC
+title: VLOGS
 slug: case-study-3
 date: '2024-10-25'
 excerpt: >-
