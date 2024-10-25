@@ -919,5 +919,6 @@ seo:
     mundo de los videojuegos retro.
   socialImage: /images/main-hero.jpg
   type: Seo
+  addTitleSuffix: true
 type: PageLayout
 ---
