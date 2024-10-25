@@ -287,7 +287,7 @@ sections:
     actions:
       - label: Ver Más
         altText: ''
-        url: 'https://discord.gg/bbyG99mbQF'
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right
