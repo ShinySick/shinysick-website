@@ -767,7 +767,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: 'Siguenos, Suscribete o Convietete en Miembro de Canal.'
     items:
       - title: YouTube
         tagline: Suscripción
