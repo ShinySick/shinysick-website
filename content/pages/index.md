@@ -369,7 +369,7 @@ sections:
       text: LAS SECCIONES MÁS POPULARES
       color: text-dark
   - title: Divider
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
