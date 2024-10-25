@@ -260,7 +260,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Ver
             altText: ''
             url: /
             showIcon: false
