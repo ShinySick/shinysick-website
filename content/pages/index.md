@@ -476,7 +476,7 @@ sections:
     title:
       type: TitleBlock
       text: Videos Informativos
-      color: text-dark
+      color: text-neutral
       styles:
         self:
           textAlign: left
