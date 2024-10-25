@@ -917,7 +917,7 @@ seo:
     Descubre ShinySick-Emu, tu fuente principal para emulación de consolas y
     preservación de videojuegos. Guías, tutoriales y las últimas noticias en el
     mundo de los videojuegos retro.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/emulacion-videojuegos.webp
   type: Seo
   addTitleSuffix: true
 type: PageLayout
