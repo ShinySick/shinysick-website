@@ -133,7 +133,7 @@
             "label": "Sign up",
             "altText": "Sign up",
             "url": "/",
-            "icon": "arrowRight",
+            "icon": "youtube",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Button",
