@@ -853,6 +853,16 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://www.twitch.tv/shinysick'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
