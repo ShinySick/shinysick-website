@@ -46,7 +46,7 @@
             "links": [
                 {
                     "label": "Yuzu",
-                    "url": "/",
+                    "url": "/yuzu",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
