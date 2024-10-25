@@ -229,7 +229,7 @@ sections:
     actions:
       - label: Discord
         altText: ''
-        url: /
+        url: discord.gg/bbyG99mbQF
         showIcon: false
         icon: arrowRight
         iconPosition: right
