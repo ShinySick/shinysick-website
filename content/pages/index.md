@@ -591,7 +591,7 @@ sections:
           Gracias, me ayudó para actualizar el Mario Party Superstars xd
         image:
           url: /images/jafiyt.jpg
-          altText: Maria Walters
+          altText: JafiOfficial
           styles:
             self:
               borderRadius: full
