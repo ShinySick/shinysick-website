@@ -812,7 +812,7 @@ sections:
           Al ser **miembro** de canal recibes **ventajas exclusivas, acceso
           anticipado, menciones y sugerencias de contenido**.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/membresia-youtube.webp
           altText: Placeholder image
           styles:
             self:
