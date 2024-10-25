@@ -798,7 +798,7 @@ sections:
         actions:
           - type: Button
             label: Suscríbete
-            altText: ''
+            altText: Boton de Suscripción
             url: bit.ly/35ODAvb
             showIcon: false
             icon: arrowRight
