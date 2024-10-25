@@ -939,7 +939,7 @@ sections:
         elementId: null
     badge:
       label: Contacto
-      color: text-primary
+      color: text-light
       type: Badge
     colors: bg-dark-fg-light
     type: GenericSection
