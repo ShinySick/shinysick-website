@@ -325,7 +325,7 @@ sections:
       - url: /images/feliv3.png
         altText: shiny feli
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/GG chainy 2.png
         altText: shiny gg
         type: ImageBlock
       - url: /images/contenful-logo.svg
