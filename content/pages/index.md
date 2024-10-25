@@ -315,7 +315,6 @@ sections:
       subtitle:
         textAlign: center
   - posts:
-      - content/pages/blog/case-study-2.md
       - content/pages/blog/case-study-3.md
       - content/pages/blog/guias-completas.md
     showThumbnail: true
