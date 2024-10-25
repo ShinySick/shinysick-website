@@ -23,7 +23,7 @@
             "showIcon": false
         },
         {
-            "label": "Blog",
+            "label": "Firmware",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
