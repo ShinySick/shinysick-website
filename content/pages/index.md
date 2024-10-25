@@ -806,7 +806,7 @@ sections:
             style: primary
             elementId: ''
       - title: Membresia de Canal
-        tagline: This is the tagline
+        tagline: YouTube
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
