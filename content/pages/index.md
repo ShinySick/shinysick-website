@@ -664,9 +664,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: '“Espero que sea asi chainy, sino me deberas 10 dolares juas juas”'
         tagline: Testimonial 4
         subtitle: '@apachejk, 10 Meses'
         text: >-
