@@ -50,7 +50,7 @@
             {
                 "type": "Link",
                 "label": "Firmwares",
-                "altText": "",
+                "altText": "Firmwares",
                 "url": "/firmwares",
                 "showIcon": false,
                 "icon": "arrowRight",
