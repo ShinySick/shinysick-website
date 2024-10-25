@@ -475,7 +475,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: Videos Informativos
       color: text-dark
       styles:
         self:
