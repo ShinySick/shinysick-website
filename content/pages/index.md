@@ -438,11 +438,12 @@ sections:
       type: TitleBlock
     subtitle: Completos y Detallados
     text: >
-      A veces no es necesario gastar tanto dinero para poder alcanzar o superar
-      los **60FPS** en nuestros juegos de PC.
+      Si alguna vez sentiste que 2 minutos no son suficientes para explicar y
+      entender lo que necesitas hacer, este es el canal para ti.
 
 
-      Con **Lossless Scaling** podrás alcanzar eso y más con unos simples clics.
+      Con **instrucciones claras, fáciles y detalladas** para no perderte y
+      fallar en el intento.
     actions: []
     media:
       title: Como configurar lossless scaling
