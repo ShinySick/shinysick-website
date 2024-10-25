@@ -322,7 +322,7 @@ sections:
       - url: /images/bye chainy.png
         altText: shiny bye
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/feliv3.png
         altText: shiny feli
         type: ImageBlock
       - url: /images/telus-logo.svg
