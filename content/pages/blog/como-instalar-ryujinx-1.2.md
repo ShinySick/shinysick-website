@@ -106,7 +106,7 @@ bottomSections:
     styles:
       self:
         justifyContent: center
-slug: this-is-a-blog-post-with-related-posts
+slug: como-instalar-ryujinx-1.2
 isFeatured: false
 isDraft: false
 seo:
