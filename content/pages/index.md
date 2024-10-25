@@ -619,7 +619,7 @@ sections:
 
         image:
           url: /images/rollo.png
-          altText: John Doe
+          altText: Rollo de Queso
           styles:
             self:
               borderRadius: full
