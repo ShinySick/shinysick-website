@@ -60,7 +60,7 @@ sections:
       url: /images/webapp-center-banner.png
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Populares
       color: text-dark
       styles:
         self:
