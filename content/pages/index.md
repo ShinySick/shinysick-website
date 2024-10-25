@@ -831,7 +831,7 @@ sections:
         type: FeaturedItem
       - title: Twitch
         tagline: Sígueme
-        subtitle: This is the item subtitle
+        subtitle: Sígueme en Stream
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
