@@ -484,7 +484,17 @@ sections:
     text: >
       Vlogs de **calidad** y con información relevante en el mundo de la
       **emulación** y el **gaming**.
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: >-
+          https://www.youtube.com/playlist?list=PLRZYnOrbeoT1NUvAOssK_xyYxnVvYYu5C
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: VideoBlock
       title: No actualices al Firmware 19.0.0
