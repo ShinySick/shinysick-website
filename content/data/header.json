@@ -70,6 +70,17 @@
                     "style": "secondary",
                     "type": "Link",
                     "altText": "Suyu"
+                },
+                {
+                    "type": "Link",
+                    "label": "See Tutorials",
+                    "altText": "",
+                    "url": "/Uzuy",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary",
