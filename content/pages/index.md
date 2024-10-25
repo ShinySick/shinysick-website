@@ -617,10 +617,8 @@ sections:
           accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
-        text: >+
-          Aquí apoyándote en lo que decidas hacer
-          ![](https://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u1f973.png)![](https://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u1f973.png)![](https://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u1f973.png)
-
+        text: |
+          a
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
