@@ -62,6 +62,10 @@ bottomSections:
         justifyContent: center
       subtitle:
         textAlign: left
+    badge:
+      type: Badge
+      label: YouTube
+      color: text-primary
   - type: DividerSection
     title: Divider
     elementId: ''
