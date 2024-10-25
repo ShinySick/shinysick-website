@@ -326,7 +326,7 @@ sections:
         altText: shiny feli
         type: ImageBlock
       - url: /images/telus-logo.svg
-        altText: Telus logo
+        altText: shiny gg
         type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo
