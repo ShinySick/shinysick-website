@@ -543,7 +543,17 @@ sections:
       Nuestros tutoriales no solo se limitan a **PC** y **Android**, tambíen
       tenemos sección dedicada a una de las **handheld** más populares del
       mercado.
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: >-
+          https://www.youtube.com/playlist?list=PLRZYnOrbeoT3GVKH5zJZ4AcKaFMwk32BS
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: VideoBlock
       title: Instala Emudeck en Steam Deck
