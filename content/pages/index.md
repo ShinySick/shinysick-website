@@ -7,7 +7,7 @@ sections:
       text: BIENVENIDO
       color: text-neutral
       type: TitleBlock
-    subtitle: El mundo de la emulacion te espera
+    subtitle: EL MUNDO DE LA EMULACIÓN TE ESPERA
     text: >
       Aquí encontraras los mejores emuladores y sus configuraciones para que
       puedas disfrutarlos en tus dispositivos.
