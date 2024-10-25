@@ -586,7 +586,7 @@ sections:
     items:
       - title: "“Gran recomendación, justo estaba buscando algo así \U0001F64F\U0001F3FB✨”"
         tagline: Pollo Muy Importante
-        subtitle: 'Maria Walters, Company'
+        subtitle: '@JafiOfficial'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
