@@ -584,7 +584,7 @@ sections:
   - type: CarouselSection
     subtitle: Miembros de canal con mayor antigüedad.
     items:
-      - title: "“Gran recomendación, justo estaba buscando algo así \U0001F64F\U0001F3FB✨”"
+      - title: "“Ahí nos vemos ✨\U0001F609”"
         tagline: Pollo Muy Importante
         subtitle: '@JafiOfficial'
         text: >-
