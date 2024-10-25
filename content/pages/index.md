@@ -833,8 +833,8 @@ sections:
         tagline: Sígueme
         subtitle: Sígueme en Stream
         text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+          A veces pasar el tiempo conviviendo **en vívo** es la mejor manera de
+          **comunicarnos, descansar y divertirnos**.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
