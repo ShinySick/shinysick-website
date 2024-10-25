@@ -436,7 +436,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: MÁS FPS en PC con Lossless Scaling
+    subtitle: Completos y Detallados
     text: >
       A veces no es necesario gastar tanto dinero para poder alcanzar o superar
       los **60FPS** en nuestros juegos de PC.
