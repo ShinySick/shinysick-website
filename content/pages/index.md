@@ -640,7 +640,7 @@ sections:
         type: FeaturedItem
       - title: '"Amanecimos basados"'
         tagline: Pollo Muy Importante
-        subtitle: '@gorditorta'
+        subtitle: '@gorditorta, 28 Meses'
         text: |
           fwlih añoña... ah no digo.. felih navida.. y ahora felih año nuevo uwu
         image:
