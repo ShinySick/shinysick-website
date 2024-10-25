@@ -722,7 +722,7 @@ sections:
         subtitle: Luisao Eclipse
         text: ''
         image:
-          url: /images/img-placeholder-dark.png
+          url: /images/luisao.png
           altText: Jane Doe
           styles:
             self:
