@@ -584,7 +584,7 @@ sections:
   - type: CarouselSection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: ÚNETE Y APOYA EL CANAL
       color: text-dark
     subtitle: Miembros de canal con mayor antigüedad.
     items:
