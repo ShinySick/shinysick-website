@@ -920,5 +920,7 @@ seo:
   socialImage: /images/emulacion-videojuegos.webp
   type: Seo
   addTitleSuffix: true
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
