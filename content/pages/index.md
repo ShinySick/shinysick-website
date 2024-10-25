@@ -799,7 +799,7 @@ sections:
           - type: Button
             label: Suscríbete
             altText: Boton de Suscripción
-            url: bit.ly/35ODAvb
+            url: 'https://bit.ly/35ODAvb'
             showIcon: false
             icon: arrowRight
             iconPosition: right
