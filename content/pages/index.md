@@ -388,11 +388,7 @@ sections:
     subtitle: Emulando Nintendo Switch en Meta Quest 2
     text: >+
       <div style="text-align: center">En este canal nos gusta **experimentar**
-      con cosas diferentes para **salir de la monotonía**.<br></br>Ésta es solo
-      una pequeña muestra de lo que hacemos y podémos **lograr más.**</div>
-
-
-      ***
+      con cosas diferentes para **salir de la monotonía**.</div>
 
     media:
       title: Uzuy en Meta Quest 2
