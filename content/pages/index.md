@@ -36,7 +36,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: ATENTO
+      label: ''
       color: text-neutral
       type: Badge
     elementId: ''
