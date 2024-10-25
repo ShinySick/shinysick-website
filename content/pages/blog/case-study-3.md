@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/rpcs3.jpg
+  url: /images/vlogs-emulacion.webp
   altText: RPCS3 PC
   styles:
     self:
