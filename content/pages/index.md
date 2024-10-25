@@ -643,10 +643,8 @@ sections:
           make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          fwlih añoña... ah no digo.. felih navida.. y ahora felih año nuevo uwu
         image:
           url: /images/gordi.png
           altText: Maria Walters
