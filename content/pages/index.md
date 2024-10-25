@@ -640,7 +640,7 @@ sections:
         type: FeaturedItem
       - title: '"Amanecimos basados"'
         tagline: Pollo Muy Importante
-        subtitle: 'Maria Walters, Company'
+        subtitle: '@gorditorta'
         text: |
           fwlih añoña... ah no digo.. felih navida.. y ahora felih año nuevo uwu
         image:
