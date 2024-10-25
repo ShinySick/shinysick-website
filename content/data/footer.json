@@ -61,7 +61,7 @@
             {
                 "type": "Link",
                 "label": "Prod.keys",
-                "altText": "",
+                "altText": "Prod.keys",
                 "url": "/prodkeys",
                 "showIcon": false,
                 "icon": "arrowRight",
