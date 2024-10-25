@@ -106,7 +106,7 @@
                     "type": "Link",
                     "label": "PS2",
                     "altText": "PS2",
-                    "url": "/",
+                    "url": "/ps2",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
