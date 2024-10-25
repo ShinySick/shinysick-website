@@ -230,7 +230,7 @@ sections:
             showIcon: false
             icon: ''
             iconPosition: right
-            style: secondary
+            style: primary
             elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
