@@ -856,7 +856,7 @@ sections:
         actions:
           - type: Button
             label: Sígueme
-            altText: ''
+            altText: Follow Twitch
             url: 'https://www.twitch.tv/shinysick'
             showIcon: false
             icon: arrowRight
