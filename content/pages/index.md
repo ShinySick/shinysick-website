@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Configura tus emuladores favoritos.
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
