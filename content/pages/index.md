@@ -444,7 +444,17 @@ sections:
 
       Con **instrucciones claras, fáciles y detalladas** para no perderte y
       fallar en el intento.
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: >-
+          https://www.youtube.com/playlist?list=PLRZYnOrbeoT2tCC1C8XJbA4GY_azsoO05
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       title: Como configurar lossless scaling
       url: 'https://youtu.be/NxmtJP-YNn8'
