@@ -95,7 +95,7 @@
                     "type": "Link",
                     "label": "PS1",
                     "altText": "Ps1",
-                    "url": "/ps1",
+                    "url": "/epsxe",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
