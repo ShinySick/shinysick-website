@@ -227,7 +227,7 @@ sections:
             justifyContent: center
             textAlign: left
     actions:
-      - label: Get started
+      - label: Discord
         altText: ''
         url: /
         showIcon: false
