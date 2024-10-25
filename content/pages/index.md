@@ -803,7 +803,7 @@ sections:
             showIcon: false
             icon: arrowRight
             iconPosition: right
-            style: secondary
+            style: primary
             elementId: ''
       - title: Feature Item Two
         tagline: This is the tagline
