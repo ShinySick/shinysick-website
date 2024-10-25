@@ -430,7 +430,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Encuentra Tutoriales de Interés
       color: text-dark
       styles:
         self:
