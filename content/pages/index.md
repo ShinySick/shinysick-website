@@ -12,15 +12,6 @@ sections:
       Aquí encontraras los mejores emuladores y sus configuraciones para que
       puedas disfrutarlos en tus dispositivos.
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
@@ -30,6 +21,15 @@ sections:
         style: secondary
         elementId: ''
         type: Link
+      - label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Button
     media:
       url: /images/emuladores.png
       altText: Unblock your team boost your time to production preview
