@@ -248,8 +248,8 @@ sections:
         title: XEMU
         subtitle: Xbox Original
         text: >
-          Xemu, es un emulador de código abierto que permite jugar titulos del
-          Xbox Original en PC
+          Emulador de código abierto que permite jugar titulos del Xbox Original
+          en PC
         image:
           type: ImageBlock
           url: /images/xemu.png
