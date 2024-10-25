@@ -71,9 +71,8 @@ sections:
       - type: FeaturedItem
         title: Yuzu
         subtitle: Nintendo Switch
-        text: >
-          Yuzu, fue un proyecto para desarrollar un emulador libre y de código
-          abierto de Nintendo Switch.
+        text: |
+          Yuzu, fue el MEJOR emulador de Nintendo Switch de código abierto.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
