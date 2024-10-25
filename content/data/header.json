@@ -132,7 +132,7 @@
         {
             "label": "YouTube",
             "altText": "Sign up",
-            "url": "/",
+            "url": "https://www.youtube.com/ShinySick",
             "icon": "youtube",
             "iconPosition": "right",
             "style": "secondary",
