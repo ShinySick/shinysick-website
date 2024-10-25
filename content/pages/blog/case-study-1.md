@@ -1,7 +1,7 @@
 ---
 title: Yuzu Early Access PC
 slug: case-study-1
-date: '2022-01-05'
+date: '2024-10-05'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
