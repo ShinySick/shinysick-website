@@ -329,7 +329,7 @@ sections:
         altText: shiny gg
         type: ImageBlock
       - url: /images/contenful-logo.svg
-        altText: Contentful logo
+        altText: shiny XD
         type: ImageBlock
       - url: /images/sanity-logo.svg
         altText: Sanity logo
