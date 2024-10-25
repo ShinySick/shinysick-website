@@ -1,6 +1,6 @@
 ---
 title: GUÍAS
-slug: case-study-1
+slug: guias-completas
 date: '2024-10-25'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
