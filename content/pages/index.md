@@ -639,7 +639,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: '"Amanecimos basados"'
-        tagline: Testimonial 3
+        tagline: Pollo Muy Importante
         subtitle: 'Maria Walters, Company'
         text: |
           fwlih añoña... ah no digo.. felih navida.. y ahora felih año nuevo uwu
