@@ -335,7 +335,7 @@ sections:
         altText: shiny palomitas
         type: ImageBlock
       - url: /images/rangle-logo.svg
-        altText: Rangle logo
+        altText: shiny sad
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
