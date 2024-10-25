@@ -216,6 +216,9 @@ sections:
         text: >
           Emulador multiplataforma de Playstation 3 de codigo abierto escrito en
           C++.
+
+
+          ­.
         image:
           url: /images/core-color-png.png
           altText: Featured icon three
