@@ -60,7 +60,7 @@
             },
             {
                 "type": "Link",
-                "label": "See Tutorials",
+                "label": "Prod.keys",
                 "altText": "",
                 "url": "/prodkeys",
                 "showIcon": false,
