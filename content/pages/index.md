@@ -771,7 +771,7 @@ sections:
     items:
       - title: YouTube
         tagline: Suscripción
-        subtitle: This is the item subtitle
+        subtitle: Suscríbete al Canal
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
