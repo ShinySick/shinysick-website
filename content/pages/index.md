@@ -66,7 +66,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: No te pierdas de nada
+    subtitle: Listas de Reproducción con todo el Contenido en YT.
     items:
       - type: FeaturedItem
         title: Yuzu
