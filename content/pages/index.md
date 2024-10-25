@@ -612,9 +612,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+      - title: "\"Aquí apoyándote en lo que decidas hacer \U0001F973\U0001F973\U0001F973\""
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: |
