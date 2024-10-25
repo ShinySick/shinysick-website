@@ -805,7 +805,7 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
-      - title: Feature Item Two
+      - title: Membresia de Canal
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
