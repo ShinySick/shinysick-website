@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: BIENVENIDO
-      color: text-neutral
+      color: text-light
       type: TitleBlock
     subtitle: EL MUNDO DE LA EMULACIÓN TE ESPERA
     text: >
