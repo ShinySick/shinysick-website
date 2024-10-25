@@ -491,7 +491,7 @@ sections:
         url: >-
           https://www.youtube.com/playlist?list=PLRZYnOrbeoT1NUvAOssK_xyYxnVvYYu5C
         showIcon: true
-        icon: arrowRight
+        icon: youtube
         iconPosition: right
         style: primary
         elementId: ''
