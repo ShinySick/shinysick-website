@@ -331,7 +331,7 @@ sections:
       - url: /images/laughting chainy.png
         altText: shiny XD
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/PopCorn chainy.png
         altText: shiny palomitas
         type: ImageBlock
       - url: /images/rangle-logo.svg
