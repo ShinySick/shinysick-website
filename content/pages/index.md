@@ -615,8 +615,10 @@ sections:
       - title: "\"Aquí apoyándote en lo que decidas hacer \U0001F973\U0001F973\U0001F973\""
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
-        text: |
-          a
+        text: >+
+          JAJAJAJA![](https://yt3.googleusercontent.com/zecUz-MDVr2zCDoTpFW9O6EtVYa3q5cLkZH8FQx3im7NJf1RKhu-2aOGabJYlJpNT-2n7S2z1-0=w24-h24-c-k-nd)REPAMPANOS
+          JAJAJAJAJA Me sigue haciendo el día JAJAJAJA
+
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
