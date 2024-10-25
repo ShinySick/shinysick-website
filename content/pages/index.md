@@ -285,7 +285,7 @@ sections:
             justifyContent: center
             textAlign: left
     actions:
-      - label: Discord
+      - label: Ver Más
         altText: ''
         url: 'https://discord.gg/bbyG99mbQF'
         showIcon: false
