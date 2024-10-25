@@ -808,8 +808,9 @@ sections:
       - title: Membresia de Canal
         tagline: YouTube
         subtitle: Únete a los Miembros
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          Al ser miembro de canal recibes ventajas exclusivas, acceso
+          anticipado, menciones y sugerencias de contenido.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
