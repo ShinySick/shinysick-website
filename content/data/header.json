@@ -42,7 +42,7 @@
         },
         {
             "label": "Emuladores Switch",
-            "altText": "Emuladores",
+            "altText": "Emuladores Switch",
             "links": [
                 {
                     "label": "Yuzu",
