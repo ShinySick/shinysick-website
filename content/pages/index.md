@@ -447,7 +447,7 @@ sections:
     media:
       title: Como configurar lossless scaling
       url: 'https://youtu.be/NxmtJP-YNn8'
-      autoplay: true
+      autoplay: false
       loop: true
       muted: true
       controls: false
