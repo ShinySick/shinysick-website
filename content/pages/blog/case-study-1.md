@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/Guia Yuzu EA.jpg
-  altText: Case study 1
+  altText: Yuzu Early Access PC
   styles:
     self:
       borderRadius: large
