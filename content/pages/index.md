@@ -142,8 +142,8 @@ sections:
       - title: RPCS3
         subtitle: Playstation 3
         text: >
-          RPCS3, es un emulador multiplataforma de Playstation 3 de codigo
-          abierto escrito en C++
+          Emulador multiplataforma de Playstation 3 de codigo abierto escrito en
+          C++
         image:
           url: /images/core-color-png.png
           altText: Featured icon three
