@@ -116,7 +116,7 @@
                 {
                     "type": "Link",
                     "label": "PS3",
-                    "altText": "",
+                    "altText": "PS3",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
