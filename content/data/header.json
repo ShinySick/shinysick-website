@@ -135,7 +135,7 @@
             "url": "/",
             "icon": "youtube",
             "iconPosition": "right",
-            "style": "primary",
+            "style": "secondary",
             "type": "Button",
             "showIcon": true
         },
