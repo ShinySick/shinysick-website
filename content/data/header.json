@@ -89,7 +89,7 @@
         {
             "type": "SubNav",
             "label": "Emuladores Playstation",
-            "altText": "Dropdown",
+            "altText": "Emuladores Playstation",
             "links": [
                 {
                     "type": "Link",
