@@ -31,7 +31,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/Shiny logo.png
+      url: /images/logo.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
