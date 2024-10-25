@@ -492,7 +492,7 @@ sections:
           https://www.youtube.com/playlist?list=PLRZYnOrbeoT1NUvAOssK_xyYxnVvYYu5C
         showIcon: true
         icon: youtube
-        iconPosition: right
+        iconPosition: left
         style: primary
         elementId: ''
     media:
