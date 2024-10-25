@@ -28,11 +28,12 @@ bottomSections:
         self:
           textAlign: left
     subtitle: Ah que si se puede!
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Esto se inserta abajo del post principal y asi puede tener una integración
+      mas sencilla y menos monotona.
+
+
+      Pudiendo agregar el texto y el video a un lado.
     actions: []
     media:
       type: VideoBlock
