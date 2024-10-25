@@ -319,7 +319,7 @@ sections:
       - url: /images/shiny bless.png
         altText: ShinyBless
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/bye chainy.png
         altText: shiny bye
         type: ImageBlock
       - url: /images/vise-logo.svg
