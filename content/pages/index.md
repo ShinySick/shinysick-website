@@ -430,7 +430,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Encuentra Tutoriales de Interés
+      text: Tutoriales de Interés
       color: text-dark
       styles:
         self:
