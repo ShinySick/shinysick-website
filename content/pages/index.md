@@ -394,7 +394,7 @@ sections:
       VR**.</div>
 
     media:
-      title: Title of the video
+      title: Uzuy en Meta Quest 2
       url: 'https://youtu.be/8tpp8Ep7NVo'
       controls: false
       aspectRatio: '16:9'
