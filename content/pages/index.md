@@ -395,7 +395,7 @@ sections:
 
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://youtu.be/8tpp8Ep7NVo'
       controls: false
       aspectRatio: '16:9'
       styles:
