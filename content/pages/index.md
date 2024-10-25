@@ -490,7 +490,7 @@ sections:
         altText: ''
         url: >-
           https://www.youtube.com/playlist?list=PLRZYnOrbeoT1NUvAOssK_xyYxnVvYYu5C
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
