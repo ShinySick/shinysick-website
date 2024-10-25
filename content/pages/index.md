@@ -249,7 +249,7 @@ sections:
         subtitle: Xbox Original
         text: >
           Emulador de código abierto que permite jugar titulos del Xbox Original
-          en PC
+          en PC.
         image:
           type: ImageBlock
           url: /images/xemu.png
