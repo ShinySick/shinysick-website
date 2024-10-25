@@ -772,8 +772,9 @@ sections:
       - title: YouTube
         tagline: Suscripción
         subtitle: Suscríbete al Canal
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Si encontraste lo que necesitabas, te ayudé con tus dudas o te gustó
+          el contenido, suscribete al canal de YT.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
