@@ -620,7 +620,7 @@ sections:
           JAJAJAJAJA Me sigue haciendo el día JAJAJAJA
 
         image:
-          url: /images/rollo.jpg
+          url: /images/rollo.png
           altText: John Doe
           styles:
             self:
