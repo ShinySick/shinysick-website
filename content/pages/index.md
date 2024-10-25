@@ -539,11 +539,10 @@ sections:
         self:
           textAlign: left
     subtitle: Soporte para Linux (Steam OS)
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Nuestros tutoriales no solo se limitan a **PC** y **Android**, tambíen
+      tenemos sección dedicada a una de las **handheld** más populares del
+      mercado.
     actions: []
     media:
       type: VideoBlock
