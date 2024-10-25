@@ -613,7 +613,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: "\"Aquí apoyándote en lo que decidas hacer \U0001F973\U0001F973\U0001F973\""
-        tagline: Testimonial 2
+        tagline: Pollo de Oro
         subtitle: '@rollodequeso'
         text: >+
           JAJAJAJA![](https://yt3.googleusercontent.com/zecUz-MDVr2zCDoTpFW9O6EtVYa3q5cLkZH8FQx3im7NJf1RKhu-2aOGabJYlJpNT-2n7S2z1-0=w24-h24-c-k-nd)REPAMPANOS
