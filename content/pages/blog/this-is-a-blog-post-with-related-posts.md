@@ -34,7 +34,16 @@ bottomSections:
 
 
       Pudiendo agregar el texto y el video a un lado.
-    actions: []
+    actions:
+      - type: Link
+        label: YouTube
+        altText: YouTube
+        url: bit.ly/35ODAvb
+        showIcon: true
+        icon: youtube
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       type: VideoBlock
       title: YUZUUUU & LA WEA PAPA FRITA
