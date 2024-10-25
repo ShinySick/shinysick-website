@@ -71,12 +71,9 @@ sections:
       - type: FeaturedItem
         title: Yuzu
         subtitle: Nintendo Switch
-        text: >+
+        text: >
           Yuzu, fue un proyecto para desarrollar un emulador libre y de código
-          abierto de Nintendo Switch. Se anunció que Yuzu estaría en desarrollo
-          el 14 de enero de 2018, ​​ 10 meses después del lanzamiento de
-          Nintendo Switch.​ Estaba desarrollado en C++
-
+          abierto de Nintendo Switch.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
