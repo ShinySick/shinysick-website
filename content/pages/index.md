@@ -23,7 +23,7 @@ sections:
         type: Link
       - label: Discord
         altText: ''
-        url: /
+        url: 'https://discord.gg/bbyG99mbQF'
         showIcon: false
         icon: arrowRight
         iconPosition: right
