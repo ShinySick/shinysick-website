@@ -212,7 +212,7 @@ sections:
         subtitle: Nintendo Switch
         text: >
           Uzuy, es un emulador de Switch para Android con un rendimiento
-          superior a Yuzu
+          superior a Yuzu.
         image:
           type: ImageBlock
           url: /images/162283256.png
