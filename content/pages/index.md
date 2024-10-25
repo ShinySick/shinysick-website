@@ -692,7 +692,7 @@ sections:
         type: FeaturedItem
       - title: '"Sin Palabras"'
         tagline: Pollo Muy Importante
-        subtitle: '@DanMorales100'
+        subtitle: '@DanMorales100, '
         text: |+
 
 
