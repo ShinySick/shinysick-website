@@ -1,5 +1,5 @@
 ---
-title: Yuzu Early Access PC
+title: GUÍAS
 slug: case-study-1
 date: '2024-10-25'
 excerpt: >-
