@@ -719,7 +719,7 @@ sections:
         type: FeaturedItem
       - title: “Sin Palabras.”
         tagline: Pollo de Diamante
-        subtitle: Luisao Eclipse
+        subtitle: 'Luisao Eclipse, 6 Meses'
         text: ''
         image:
           url: /images/luisao.png
