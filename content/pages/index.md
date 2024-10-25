@@ -584,7 +584,7 @@ sections:
   - type: CarouselSection
     title:
       type: TitleBlock
-      text: ÚNETE A LOS MIEMBROS Y APOYA EL CANAL
+      text: CONVIERTETE EN MIEMBRO Y APOYA EL CANAL
       color: text-dark
     subtitle: Miembros de canal con mayor antigüedad.
     items:
