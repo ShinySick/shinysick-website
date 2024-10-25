@@ -105,7 +105,7 @@
                 {
                     "type": "Link",
                     "label": "PS2",
-                    "altText": "",
+                    "altText": "PS2",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
