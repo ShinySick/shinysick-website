@@ -807,7 +807,7 @@ sections:
             elementId: ''
       - title: Membresia de Canal
         tagline: YouTube
-        subtitle: This is the item subtitle
+        subtitle: Únete a los Miembros
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
