@@ -797,7 +797,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: Get started
+            label: Suscríbete
             altText: ''
             url: bit.ly/35ODAvb
             showIcon: false
