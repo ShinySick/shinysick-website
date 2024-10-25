@@ -888,7 +888,7 @@ sections:
     type: FeaturedItemsSection
   - title:
       text: 'Dudas, Quejas & Sugerencias'
-      color: text-light
+      color: text-neutral
       type: TitleBlock
     subtitle: ''
     text: >
