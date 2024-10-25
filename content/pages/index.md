@@ -778,7 +778,7 @@ sections:
           YT**.</div>
 
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/suscripcion-youtube.webp
           altText: Placeholder Image
           styles:
             self:
