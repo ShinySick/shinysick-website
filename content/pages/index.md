@@ -99,15 +99,11 @@ sections:
       - title: Ryujinx
         subtitle: Nintendo Switch
         text: >
-          Ryujinx, es un emulador de Nintendo Switch de codigo abierto creado
-          por gdkchan.
-
-
           Éste emulador destaca por su excelente rendimiento y precisión,
           interfaz amigable y estable.
 
 
-          Está escrito en C#
+          Creado por gdkchan y está escrito en C#
         image:
           url: /images/Ryujinx_32512.png
           altText: Featured icon two
