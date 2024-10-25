@@ -770,7 +770,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - title: YouTube
-        tagline: This is the tagline
+        tagline: Suscribete
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
