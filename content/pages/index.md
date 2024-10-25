@@ -320,7 +320,7 @@ sections:
         altText: ShinyBless
         type: ImageBlock
       - url: /images/wellster-logo.svg
-        altText: Wellster logo
+        altText: shiny bye
         type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
