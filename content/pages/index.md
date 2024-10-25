@@ -140,42 +140,6 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - type: FeaturedItem
-        title: Cemu
-        subtitle: Nintendo Wii U
-        text: |
-          Emulador de Nintendo Wii U para Windows y Linux de código abierto.
-        image:
-          type: ImageBlock
-          url: /images/Cemu_Emulator_Official_Logo.png
-          altText: Placeholder text
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: Ver
-            altText: ''
-            url: >-
-              https://www.youtube.com/playlist?list=PLRZYnOrbeoT2xdv1ypbawWPm82Hvj12Ky
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-      - type: FeaturedItem
         title: Uzuy
         subtitle: Nintendo Switch
         text: |
@@ -194,6 +158,42 @@ sections:
             altText: ''
             url: >-
               https://www.youtube.com/playlist?list=PLRZYnOrbeoT3A0HY_ufJ3BwUnXhGjW4SV
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: Cemu
+        subtitle: Nintendo Wii U
+        text: |
+          Emulador de Nintendo Wii U para Windows y Linux de código abierto.
+        image:
+          type: ImageBlock
+          url: /images/Cemu_Emulator_Official_Logo.png
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Ver
+            altText: ''
+            url: >-
+              https://www.youtube.com/playlist?list=PLRZYnOrbeoT2xdv1ypbawWPm82Hvj12Ky
             showIcon: false
             icon: arrowRight
             iconPosition: right
