@@ -82,15 +82,15 @@
             "type": "Social"
         },
         {
-            "altText": "Facebook Page",
-            "url": "https://www.facebook.com/ShinySickHackplay",
-            "icon": "facebook",
-            "type": "Social"
-        },
-        {
             "altText": "LinkedIn link",
             "url": "https://www.instagram.com/shinysick/",
             "icon": "instagram",
+            "type": "Social"
+        },
+        {
+            "altText": "Facebook Page",
+            "url": "https://www.facebook.com/ShinySickHackplay",
+            "icon": "facebook",
             "type": "Social"
         },
         {
