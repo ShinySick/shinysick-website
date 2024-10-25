@@ -551,7 +551,7 @@ sections:
           https://www.youtube.com/playlist?list=PLRZYnOrbeoT3GVKH5zJZ4AcKaFMwk32BS
         showIcon: true
         icon: youtube
-        iconPosition: right
+        iconPosition: left
         style: primary
         elementId: ''
     media:
