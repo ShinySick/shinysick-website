@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: BIENVENIDO
+      text: BIENVENIDOS
       color: text-light
       type: TitleBlock
     subtitle: EL MUNDO DE LA EMULACIÓN TE ESPERA
