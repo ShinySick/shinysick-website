@@ -323,7 +323,7 @@ sections:
         altText: shiny bye
         type: ImageBlock
       - url: /images/vise-logo.svg
-        altText: Vise logo
+        altText: shiny feli
         type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo
