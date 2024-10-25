@@ -720,7 +720,7 @@ sections:
       - title: >-
           “Quote from some important person goes right here. I love using
           Netlify Create.”
-        tagline: Testimonial 6
+        tagline: Pollo de Diamante
         subtitle: 'Jane Doe, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
