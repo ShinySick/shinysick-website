@@ -453,7 +453,7 @@ sections:
         showIcon: true
         icon: youtube
         iconPosition: left
-        style: secondary
+        style: primary
         elementId: ''
     media:
       title: Como configurar lossless scaling
