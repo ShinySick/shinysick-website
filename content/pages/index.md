@@ -263,7 +263,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Ver
             altText: ''
             url: >-
               https://www.youtube.com/playlist?list=PLRZYnOrbeoT1qvdAxluGdER7lXqeJKEmZ
