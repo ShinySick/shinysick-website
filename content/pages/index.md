@@ -110,9 +110,6 @@ sections:
         text: >
           Ryujinx, se destaca por su excelente rendimiento y precisión, interfaz
           amigable y estable.
-
-
-          Creado por gdkchan y está escrito en C#
         image:
           url: /images/Ryujinx_32512.png
           altText: Featured icon two
