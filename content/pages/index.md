@@ -832,7 +832,7 @@ sections:
         actions:
           - type: Button
             label: Únete
-            altText: ''
+            altText: Boton Membresias YouTube
             url: 'https://bit.ly/48mqCTG'
             showIcon: false
             icon: arrowRight
