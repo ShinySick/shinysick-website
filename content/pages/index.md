@@ -316,7 +316,7 @@ sections:
         textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/Bless chainy.png
         altText: ShinyBless
         type: ImageBlock
       - url: /images/wellster-logo.svg
