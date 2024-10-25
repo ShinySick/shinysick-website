@@ -582,10 +582,6 @@ sections:
           - pr-7
     type: DividerSection
   - type: CarouselSection
-    title:
-      type: TitleBlock
-      text: CONVIERTETE EN MIEMBRO Y APOYA EL CANAL
-      color: text-dark
     subtitle: Miembros de canal con mayor antigüedad.
     items:
       - title: >-
