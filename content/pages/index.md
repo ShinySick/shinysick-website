@@ -445,7 +445,7 @@ sections:
       Con **Lossless Scaling** podrás alcanzar eso y más con unos simples clics.
     actions: []
     media:
-      title: Title of the video
+      title: Como configurar lossless scaling
       url: 'https://youtu.be/NxmtJP-YNn8'
       autoplay: true
       loop: true
