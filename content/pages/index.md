@@ -71,11 +71,10 @@ sections:
       - type: FeaturedItem
         title: Yuzu
         subtitle: Nintendo Switch
-        text: |+
-          Yuzu, fue el MEJOR emulador de Nintendo Switch de código abierto.
+        text: |
+          Fue el MEJOR emulador de Nintendo Switch de código abierto.
 
           ­
-
         actions:
           - type: Button
             label: Ver
