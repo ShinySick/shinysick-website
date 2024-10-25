@@ -174,9 +174,8 @@ sections:
       - type: FeaturedItem
         title: Cemu
         subtitle: Nintendo Wii U
-        text: >
-          Cemu, es un emulador de Nintendo Wii U para Windows y Linux de código
-          abierto.
+        text: |
+          Emulador de Nintendo Wii U para Windows y Linux de código abierto.
         image:
           type: ImageBlock
           url: /images/Cemu_Emulator_Official_Logo.png
