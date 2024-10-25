@@ -548,7 +548,7 @@ sections:
       type: VideoBlock
       title: Instala Emudeck en Steam Deck
       url: 'https://youtu.be/ObKGFO00ZEk'
-      autoplay: true
+      autoplay: false
       loop: true
       muted: true
       controls: false
