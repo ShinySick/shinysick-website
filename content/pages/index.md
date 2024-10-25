@@ -594,7 +594,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/jafiyt.jpg
           altText: Maria Walters
           styles:
             self:
