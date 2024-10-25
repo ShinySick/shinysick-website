@@ -769,7 +769,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
     elementId: null
-    variant: next-prev-nav-multiple
+    variant: tabs-nav
     colors: bg-light-fg-dark
     styles:
       self:
