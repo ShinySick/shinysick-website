@@ -28,7 +28,7 @@
             },
             {
                 "label": "Vlogs",
-                "url": "/vlogs",
+                "url": "/blog/vlogs",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
