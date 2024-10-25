@@ -42,7 +42,7 @@
         },
         {
             "label": "Emuladores",
-            "altText": "Dropdown",
+            "altText": "Emuladores",
             "links": [
                 {
                     "label": "Dropdown item",
