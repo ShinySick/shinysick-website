@@ -7,7 +7,7 @@ sections:
       text: BIENVENIDO
       color: text-neutral
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: El mundo de la emulacion te espera
     text: >
       Aquí encontraras los mejores emuladores y sus configuraciones para que
       puedas disfrutarlos en tus dispositivos.
