@@ -57,7 +57,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/webapp-center-banner.png
+      url: /images/webapp-center-banner.webp
   - type: FeaturedItemsSection
     title:
       text: Emuladores Populares
