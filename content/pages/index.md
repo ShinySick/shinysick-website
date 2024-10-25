@@ -437,11 +437,12 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: MÁS FPS en PC con Lossless Scaling
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      A veces no es necesario gastar tanto dinero para poder alcanzar o superar
+      los **60FPS** en nuestros juegos de PC.
+
+
+      Con **Lossless Scaling** podrás alcanzar eso y más con unos simples clics.
     actions: []
     media:
       title: Title of the video
