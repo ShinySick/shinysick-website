@@ -66,7 +66,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: No te pierdas de nada
     items:
       - type: FeaturedItem
         title: Yuzu
