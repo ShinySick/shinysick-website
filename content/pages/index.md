@@ -386,13 +386,13 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Emulando Nintendo Switch en Meta Quest 2
-    text: >+
-      <div style="text-align: center">La emulación de la **Nintendo Switch** a
-      sido un tema controversial en los ultimos años, se ha intentado detener
-      esta actividad pero nos sigue sorprendiendo la cantidad de lugares en
-      donde podemos emular dicha consola, en este caso en un **Meta Quest 2
-      VR**.</div>
+    text: >
+      <div style="text-align: center">En este canal nos gusta **experimentar**
+      con cosas diferentes para **salir de la monotonía**.Ésta es solo una
+      pequeña muestra de lo que hacemos y podémos **lograr más.**</div>
 
+
+      ****
     media:
       title: Uzuy en Meta Quest 2
       url: 'https://youtu.be/8tpp8Ep7NVo'
