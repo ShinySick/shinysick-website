@@ -21,7 +21,7 @@ sections:
         style: secondary
         elementId: ''
         type: Link
-      - label: Get started
+      - label: Discord
         altText: ''
         url: /
         showIcon: false
