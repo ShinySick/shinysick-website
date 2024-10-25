@@ -45,7 +45,7 @@
             "altText": "Emuladores",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Yuzu",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
