@@ -1,18 +1,31 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
-        "altText": "Logo dark",
+        "url": "/images/logo.png",
+        "altText": "Logo color",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "elementId": "main-logo"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "ProdKeys",
+            "url": "/prodkeys",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link",
+            "showIcon": false
+        },
+        {
+            "label": "Firmwares",
+            "altText": "Firmwares",
+            "url": "/firmwares",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -28,64 +41,103 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Dropdown",
-            "altText": "Dropdown",
+            "label": "Emuladores Switch",
+            "altText": "Emuladores Switch",
             "links": [
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Yuzu",
+                    "url": "/yuzu",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "Yuzu"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Ryujinx",
+                    "url": "/ryujinx",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "Ryujinx"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Suyu",
+                    "url": "/suyu",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "Suyu"
+                },
+                {
+                    "type": "Link",
+                    "label": "Uzuy",
+                    "altText": "Uzuy",
+                    "url": "/uzuy",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "type": "SubNav",
+            "label": "Emuladores Playstation",
+            "altText": "Emuladores Playstation",
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "PS1",
+                    "altText": "Ps1",
+                    "url": "/epsxe",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "PS2",
+                    "altText": "PS2",
+                    "url": "/ps2",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "PS3",
+                    "altText": "PS3",
+                    "url": "/ps3",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "secondary"
         }
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
+            "label": "YouTube",
             "altText": "Sign up",
-            "url": "/",
-            "icon": "arrowRight",
+            "url": "https://www.youtube.com/ShinySick",
+            "icon": "youtube",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Button"
-        },
-        {
-            "label": "Log in",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "showIcon": true
         }
     ],
     "variant": "logo-left-primary-nav-centered",

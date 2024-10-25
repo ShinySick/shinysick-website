@@ -1,15 +1,15 @@
 ---
-title: Case study 2
+title: TUTORIALES
 slug: case-study-2
-date: '2022-02-16'
+date: '2024-10-25'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
-  altText: Case study 2
+  url: /images/tutoriales-emulacion.webp
+  altText: Ryujinx 1.2
   styles:
     self:
       borderRadius: x-large

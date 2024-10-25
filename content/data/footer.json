@@ -1,16 +1,16 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/logo.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "###### **<sub><sup>Emulación y preservación de videojuegos retro.</sup></sub>**\n\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Popular",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
+                "label": "Guías",
+                "altText": "Guias Page",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -18,36 +18,29 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
+                "label": "Tutoriales",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "Tutoriales Page"
+            },
+            {
+                "label": "Vlogs",
+                "url": "/",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link",
+                "altText": "Vlogs Page"
             }
         ],
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "ShinySick - Emu",
         "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
             {
                 "label": "Blog",
                 "url": "/blog",
@@ -55,33 +48,55 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
+            },
+            {
+                "type": "Link",
+                "label": "Firmwares",
+                "altText": "Firmwares",
+                "url": "/firmwares",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Prod.keys",
+                "altText": "Prod.keys",
+                "url": "/prodkeys",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
+            "altText": "Email link",
+            "url": "https://www.youtube.com/@shinysick",
+            "icon": "youtube",
             "type": "Social"
         },
         {
             "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
+            "url": "https://www.instagram.com/shinysick/",
+            "icon": "instagram",
             "type": "Social"
         },
         {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
+            "altText": "Facebook Page",
+            "url": "https://www.facebook.com/ShinySickHackplay",
+            "icon": "facebook",
+            "type": "Social"
+        },
+        {
+            "altText": "Twitter link",
+            "url": "https://x.com/SHINYSICK",
+            "icon": "twitter",
             "type": "Social"
         }
     ],
@@ -103,7 +118,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
-    "colors": "bg-dark-fg-light",
+    "copyrightText": "Hecho de 💛por **ShinySick**\n",
+    "colors": "bg-neutral-fg-dark",
     "type": "Footer"
 }

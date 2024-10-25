@@ -4,44 +4,43 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
-      color: text-dark
+      text: BIENVENIDO
+      color: text-neutral
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: EL MUNDO DE LA EMULACIÓN TE ESPERA
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Aquí encontraras los mejores emuladores y sus configuraciones para que
+      puedas disfrutarlos en tus dispositivos.
     actions:
-      - label: Get started
+      - label: Únete a la comunidad
         altText: ''
-        url: /
-        showIcon: false
+        url: 'https://discord.gg/bbyG99mbQF'
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
-        type: Button
-      - label: See Tutorials
+        type: Link
+      - label: Discord
         altText: ''
-        url: /
-        showIcon: true
+        url: 'https://discord.gg/bbyG99mbQF'
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
         elementId: ''
-        type: Link
+        type: Button
     media:
-      url: /images/main-hero.svg
+      url: /images/emuladores.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
-      color: text-primary
+      label: ''
+      color: text-neutral
       type: Badge
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
@@ -51,24 +50,40 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+    backgroundImage:
+      type: BackgroundImage
+      altText: Emulacion Background
+      backgroundSize: cover
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+      url: /images/webapp-center-banner.png
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Emuladores Populares
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Listas de Reproducción con todo el Contenido en YT.
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
+        title: Yuzu
+        subtitle: Nintendo Switch
+        text: |
+          Fue el MEJOR emulador de Nintendo Switch de código abierto.
+        actions:
+          - type: Button
+            label: Ver
+            altText: ''
+            url: >-
+              https://www.youtube.com/playlist?list=PLRZYnOrbeoT088dUT0fvPbfjWU1-TMwyP
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         elementId: null
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -86,22 +101,31 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/yuzu ea.png
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Ryujinx
+        subtitle: Nintendo Switch
+        text: >
+          Destaca por su excelente rendimiento y precisión, interfaz amigable y
+          estable.
         image:
-          url: /images/icon2.svg
+          url: /images/Ryujinx_32512.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Button
+            label: Ver
+            altText: ''
+            url: >-
+              https://www.youtube.com/playlist?list=PLRZYnOrbeoT28MnQEgre8DwMuaR0ywPCu
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
@@ -115,18 +139,30 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - type: FeaturedItem
+        title: Uzuy
+        subtitle: Nintendo Switch
+        text: |
+          Emulador de Switch para Android con un rendimiento superior a Yuzu.
         image:
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
           type: ImageBlock
-        actions: []
+          url: /images/162283256.png
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Ver
+            altText: ''
+            url: >-
+              https://www.youtube.com/playlist?list=PLRZYnOrbeoT3A0HY_ufJ3BwUnXhGjW4SV
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
@@ -137,11 +173,121 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-        type: FeaturedItem
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: Cemu
+        subtitle: Nintendo Wii U
+        text: |
+          Emulador de Nintendo Wii U para Windows y Linux de código abierto.
+        image:
+          type: ImageBlock
+          url: /images/Cemu_Emulator_Official_Logo.png
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Ver
+            altText: ''
+            url: >-
+              https://www.youtube.com/playlist?list=PLRZYnOrbeoT2xdv1ypbawWPm82Hvj12Ky
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: XEMU
+        subtitle: Xbox Original
+        text: >
+          Emulador de código abierto que permite jugar titulos del Xbox Original
+          en PC.
+        image:
+          type: ImageBlock
+          url: /images/xemu.png
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Ver
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: RPCS3
+        subtitle: Playstation 3
+        text: >
+          Emulador multiplataforma de Playstation 3 de codigo abierto escrito en
+          C++.
+        image:
+          type: ImageBlock
+          url: /images/core-color-png.png
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Ver
+            altText: ''
+            url: >-
+              https://www.youtube.com/playlist?list=PLRZYnOrbeoT1qvdAxluGdER7lXqeJKEmZ
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
     actions:
-      - label: Get started
+      - label: Ver Más
         altText: ''
-        url: /
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -149,7 +295,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       styles:
         self:
@@ -168,37 +314,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
@@ -218,8 +333,43 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+    title:
+      type: TitleBlock
+      text: LAS SECCIONES MÁS POPULARES
+      color: text-dark
+  - subtitle: Manejamos TODOS los estados de ánimo.
+    images:
+      - url: /images/shiny bless.png
+        altText: ShinyBless
+        type: ImageBlock
+      - url: /images/bye chainy.png
+        altText: shiny bye
+        type: ImageBlock
+      - url: /images/feliv3.png
+        altText: shiny feli
+        type: ImageBlock
+      - url: /images/GG chainy 2.png
+        altText: shiny gg
+        type: ImageBlock
+      - url: /images/laughting chainy.png
+        altText: shiny XD
+        type: ImageBlock
+      - url: /images/PopCorn chainy.png
+        altText: shiny palomitas
+        type: ImageBlock
+      - url: /images/Sad chainy.png
+        altText: shiny sad
+        type: ImageBlock
+    motion: move-to-left
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
   - title: Divider
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
@@ -229,22 +379,21 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: DALE UN VISTAZO
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Emulando Nintendo Switch en Meta Quest 2
+    text: >+
+      <div style="text-align: center">En este canal nos gusta **experimentar**
+      con cosas diferentes para **salir de la monotonía**.</div>
+
     media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
+      title: Uzuy en Meta Quest 2
+      url: 'https://youtu.be/8tpp8Ep7NVo'
+      controls: true
       aspectRatio: '16:9'
       styles:
         self:
@@ -258,17 +407,17 @@ sections:
           borderWidth: 1
           borderRadius: large
       type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
+      autoplay: false
+      loop: false
+      muted: false
     badge:
-      label: Key Benefits
+      label: ''
       color: text-primary
       styles:
         self:
           textAlign: center
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         flexDirection: col
@@ -278,26 +427,38 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Tutoriales de Interés
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
+    subtitle: Completos y Detallados
+    text: >
+      Si alguna vez sentiste que 2 minutos no son suficientes para explicar y
+      entender lo que necesitas hacer, este es el canal para ti.
+
+
+      Con **instrucciones claras, fáciles y detalladas** para no perderte y
+      fallar en el intento.
+    actions:
+      - type: Button
+        label: Ver en YT
+        altText: ''
+        url: >-
+          https://www.youtube.com/playlist?list=PLRZYnOrbeoT2tCC1C8XJbA4GY_azsoO05
+        showIcon: true
+        icon: youtube
+        iconPosition: left
+        style: primary
+        elementId: ''
     media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
+      title: Como configurar lossless scaling
+      url: 'https://youtu.be/NxmtJP-YNn8'
+      autoplay: false
       loop: true
-      muted: true
-      controls: false
+      muted: false
+      controls: true
       aspectRatio: '16:9'
       styles:
         self:
@@ -319,77 +480,107 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-  - title:
-      text: Social Media Management
-      color: text-dark
+  - type: GenericSection
+    title:
       type: TitleBlock
-    subtitle: Increase your reach
+      text: Videos Informativos
+      color: text-light
+      styles:
+        self:
+          textAlign: left
+    subtitle: Entérate de las noticias más recientes.
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Vlogs de **calidad** y con información relevante en el mundo de la
+      **emulación** y el **gaming**.
     actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
+      - type: Button
+        label: Ver en YT
+        altText: ''
+        url: >-
+          https://www.youtube.com/playlist?list=PLRZYnOrbeoT1NUvAOssK_xyYxnVvYYu5C
         showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+        icon: youtube
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
+      type: VideoBlock
+      title: No actualices al Firmware 19.0.0
+      url: 'https://youtu.be/UxyfzpzD0hw'
+      autoplay: false
+      loop: true
+      muted: false
+      controls: true
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Steam Deck Friendly
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: Soporte para Linux (Steam OS)
+    text: >
+      Nuestros tutoriales no solo se limitan a **PC** y **Android**, tambíen
+      tenemos sección dedicada a una de las **handheld** más populares del
+      mercado.
+    actions:
+      - type: Button
+        label: Ver en YT
+        altText: ''
+        url: >-
+          https://www.youtube.com/playlist?list=PLRZYnOrbeoT3GVKH5zJZ4AcKaFMwk32BS
+        showIcon: true
+        icon: youtube
+        iconPosition: left
+        style: primary
+        elementId: ''
+    media:
+      type: VideoBlock
+      title: Instala Emudeck en Steam Deck
+      url: 'https://youtu.be/ObKGFO00ZEk'
+      autoplay: false
+      loop: false
+      muted: false
+      controls: true
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
     colors: bg-light-fg-dark
     styles:
       self:
-        alignItems: center
-    type: GenericSection
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -401,21 +592,16 @@ sections:
           - pr-7
     type: DividerSection
   - type: CarouselSection
-    title: null
-    subtitle: What our customers say about us
+    subtitle: Miembros de canal con mayor antigüedad.
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: "“Ahí nos vemos ✨\U0001F609”"
+        tagline: Pollo Muy Importante
+        subtitle: '@JafiOfficial, 51 Meses'
+        text: |
+          Gracias, me ayudó para actualizar el Mario Party Superstars xd
         image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          url: /images/jafiyt.jpg
+          altText: JafiOfficial
           styles:
             self:
               borderRadius: full
@@ -434,17 +620,16 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: "\"Aquí apoyándote en lo que decidas hacer \U0001F973\U0001F973\U0001F973\""
+        tagline: Pollo de Oro
+        subtitle: '@rollodequeso, 44 Meses'
+        text: >+
+          JAJAJAJA![](https://yt3.googleusercontent.com/zecUz-MDVr2zCDoTpFW9O6EtVYa3q5cLkZH8FQx3im7NJf1RKhu-2aOGabJYlJpNT-2n7S2z1-0=w24-h24-c-k-nd)REPAMPANOS
+          JAJAJAJAJA Me sigue haciendo el día JAJAJAJA
+
         image:
-          url: /images/person-placeholder-light.png
-          altText: John Doe
+          url: /images/rollo.png
+          altText: Rollo de Queso
           styles:
             self:
               borderRadius: full
@@ -463,17 +648,14 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: '"Amanecimos basados"'
+        tagline: Pollo Muy Importante
+        subtitle: '@gorditorta, 28 Meses'
+        text: |
+          fwlih añoña... ah no digo.. felih navida.. y ahora felih año nuevo uwu
         image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          url: /images/gordi.png
+          altText: Gorditorta
           styles:
             self:
               borderRadius: full
@@ -492,18 +674,14 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: '“Espero que sea asi chainy, sino me deberas 10 dolares juas juas”'
+        tagline: Pollo de Platino
+        subtitle: '@apachejk, 10 Meses'
+        text: |
+          entonces para cuando esos mario partys?
         image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          url: /images/apashe.png
+          altText: Apashejk 2019
           styles:
             self:
               borderRadius: full
@@ -522,17 +700,15 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
-        tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: '"Sin Palabras."'
+        tagline: Pollo Muy Importante
+        subtitle: '@DanMorales100, 50 Meses'
+        text: |+
+
+
         image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          url: /images/danmorales.png
+          altText: Dan Morales
           styles:
             self:
               borderRadius: full
@@ -551,23 +727,19 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: “Sin Palabras.”
+        tagline: Pollo de Diamante
+        subtitle: 'Luisao Eclipse, 6 Meses'
+        text: ''
         image:
-          url: /images/img-placeholder-dark.png
+          url: /images/luisao.png
           altText: Jane Doe
           styles:
             self:
               borderRadius: full
           type: ImageBlock
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -582,34 +754,37 @@ sections:
         type: FeaturedItem
     elementId: null
     variant: next-prev-nav
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         justifyContent: center
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: ¿Quieres apoyar de otras maneras?
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: 'Siguenos, Suscribete o Convietete en Miembro de Canal.'
     items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+      - title: YouTube
+        tagline: Suscripción
+        subtitle: Suscríbete al Canal
+        text: >+
+          <div style="text-align: left">Si encontraste lo que necesitabas, te
+          ayudé con tus dudas o te gustó el contenido, **suscribete al canal de
+          YT**.</div>
+
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/suscripcion-youtube.webp
           altText: Placeholder Image
           styles:
             self:
               borderRadius: x-large
           type: ImageBlock
-        colors: bg-light-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -620,19 +795,30 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        actions:
+          - type: Button
+            label: Suscríbete
+            altText: Boton de Suscripción
+            url: 'https://bit.ly/35ODAvb'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - title: Membresia de Canal
+        tagline: YouTube
+        subtitle: Únete a los Miembros
+        text: >
+          Al ser **miembro** de canal recibes **ventajas exclusivas, acceso
+          anticipado, menciones y sugerencias de contenido**.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/membresia-youtube.webp
           altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
           type: ImageBlock
-        colors: bg-light-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -643,19 +829,30 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+        actions:
+          - type: Button
+            label: Únete
+            altText: Boton Membresias YouTube
+            url: 'https://bit.ly/48mqCTG'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - title: Twitch
+        tagline: Sígueme
+        subtitle: Sígueme en Stream
+        text: >
+          A veces pasar el tiempo conviviendo **en vívo** es la mejor manera de
+          **comunicarnos, descansar y divertirnos**.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/follow-twitch.webp
           altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
           type: ImageBlock
-        colors: bg-light-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -666,6 +863,16 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
+        actions:
+          - type: Button
+            label: Sígueme
+            altText: Boton de Follow Twitch
+            url: 'https://www.twitch.tv/shinysick'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
@@ -680,15 +887,13 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
-      color: text-dark
+      text: 'Dudas, Quejas & Sugerencias'
+      color: text-neutral
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: >
+      Si tienes algúna **duda o situación especifica** no dudes en describirla y
+      nos pondremos en contacto contigo lo **antes** posible!
     media:
       fields:
         - name: name
@@ -733,15 +938,20 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Contact Us
-      color: text-primary
+      label: Contacto
+      color: text-light
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: ShinySick-Emu | Emulación de Consolas y Preservación de Videojuegos
+  metaDescription: >-
+    Descubre ShinySick-Emu, tu fuente principal para emulación de consolas y
+    preservación de videojuegos. Guías, tutoriales y las últimas noticias en el
+    mundo de los videojuegos retro.
+  socialImage: /images/emulacion-videojuegos.webp
   type: Seo
+  addTitleSuffix: true
+  metaTags: []
 type: PageLayout
 ---
