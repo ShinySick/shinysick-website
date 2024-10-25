@@ -99,8 +99,8 @@ sections:
       - title: Ryujinx
         subtitle: Nintendo Switch
         text: >
-          Éste emulador destaca por su excelente rendimiento y precisión,
-          interfaz amigable y estable.
+          Ryujinx se destaca por su excelente rendimiento y precisión, interfaz
+          amigable y estable.
 
 
           Creado por gdkchan y está escrito en C#
