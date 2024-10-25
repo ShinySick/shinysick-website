@@ -550,7 +550,7 @@ sections:
         url: >-
           https://www.youtube.com/playlist?list=PLRZYnOrbeoT3GVKH5zJZ4AcKaFMwk32BS
         showIcon: true
-        icon: arrowRight
+        icon: youtube
         iconPosition: right
         style: primary
         elementId: ''
