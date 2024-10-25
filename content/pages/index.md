@@ -645,7 +645,7 @@ sections:
           fwlih añoña... ah no digo.. felih navida.. y ahora felih año nuevo uwu
         image:
           url: /images/gordi.png
-          altText: Maria Walters
+          altText: Gorditorta
           styles:
             self:
               borderRadius: full
