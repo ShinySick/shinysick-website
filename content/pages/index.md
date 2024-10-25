@@ -773,7 +773,7 @@ sections:
         tagline: Suscripción
         subtitle: Suscríbete al Canal
         text: >+
-          <div style="text-align: center">Si encontraste lo que necesitabas, te
+          <div style="text-align: left">Si encontraste lo que necesitabas, te
           ayudé con tus dudas o te gustó el contenido, suscribete al canal de
           YT.</div>
 
