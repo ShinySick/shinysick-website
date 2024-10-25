@@ -23,7 +23,7 @@ bottomSections:
     title:
       type: TitleBlock
       text: INSTALA YUZU & LA WEA
-      color: text-light
+      color: text-primary
       styles:
         self:
           textAlign: left
