@@ -112,3 +112,9 @@ Si esta madre funciona bien de esta manera entonces será una forma mfacil de cr
 
 Si quiero insertar un video podria ponerlo [aqui](https://www.youtube.com/@shinysick) como enlace.
 
+
+
+```
+Hmmmm parece que no puedo poner nada antes del texto, supongo porque lo importante es la entrada del blog.
+```
+
