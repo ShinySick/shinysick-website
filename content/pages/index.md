@@ -115,7 +115,17 @@ sections:
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: >-
+              https://www.youtube.com/playlist?list=PLRZYnOrbeoT28MnQEgre8DwMuaR0ywPCu
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
