@@ -1,7 +1,7 @@
 {
     "logo": {
         "url": "/images/logo.png",
-        "altText": "Logo dark",
+        "altText": "Logo color",
         "styles": {
             "self": {
                 "margin": [
