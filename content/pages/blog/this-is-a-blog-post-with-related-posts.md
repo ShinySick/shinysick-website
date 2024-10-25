@@ -27,7 +27,7 @@ bottomSections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: Ah que si se puede!
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
