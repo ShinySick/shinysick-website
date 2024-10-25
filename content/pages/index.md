@@ -855,7 +855,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: Get started
+            label: Sígueme
             altText: ''
             url: 'https://www.twitch.tv/shinysick'
             showIcon: false
