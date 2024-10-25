@@ -314,7 +314,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Manejamos TODOS los estados de ánimo.
     images:
       - url: /images/shiny bless.png
         altText: ShinyBless
