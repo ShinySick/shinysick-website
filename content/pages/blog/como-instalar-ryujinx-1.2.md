@@ -50,7 +50,7 @@ bottomSections:
       url: 'https://youtu.be/OyjK4bF_eXQ'
       autoplay: true
       loop: true
-      muted: true
+      muted: false
       controls: true
       aspectRatio: '16:9'
       styles:
