@@ -1,5 +1,5 @@
 ---
-title: Ryujinx 1.2 PC
+title: TUTORIALES
 slug: case-study-2
 date: '2024-10-25'
 excerpt: >-
