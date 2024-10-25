@@ -584,9 +584,7 @@ sections:
   - type: CarouselSection
     subtitle: Miembros de canal con mayor antigüedad.
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: "“Gran recomendación, justo estaba buscando algo así \U0001F64F\U0001F3FB✨”"
         tagline: JafiOfficial
         subtitle: 'Maria Walters, Company'
         text: >-
