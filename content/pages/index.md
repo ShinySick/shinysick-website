@@ -149,17 +149,7 @@ sections:
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
-        actions:
-          - type: Button
-            label: Ver
-            altText: ''
-            url: >-
-              https://www.youtube.com/playlist?list=PLRZYnOrbeoT1qvdAxluGdER7lXqeJKEmZ
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
