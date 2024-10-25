@@ -497,7 +497,7 @@ sections:
       **emulación** y el **gaming**.
     actions:
       - type: Button
-        label: Ver
+        label: Ver en YT
         altText: ''
         url: >-
           https://www.youtube.com/playlist?list=PLRZYnOrbeoT1NUvAOssK_xyYxnVvYYu5C
