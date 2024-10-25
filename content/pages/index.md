@@ -829,6 +829,16 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://bit.ly/48mqCTG'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
       - title: Twitch
         tagline: Sígueme
         subtitle: Sígueme en Stream
