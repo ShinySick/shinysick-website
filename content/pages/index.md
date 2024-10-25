@@ -587,10 +587,8 @@ sections:
       - title: "“Ahí nos vemos ✨\U0001F609”"
         tagline: Pollo Muy Importante
         subtitle: '@JafiOfficial'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Gracias, me ayudó para actualizar el Mario Party Superstars xd
         image:
           url: /images/jafiyt.jpg
           altText: Maria Walters
