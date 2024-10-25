@@ -913,7 +913,10 @@ sections:
     type: GenericSection
 seo:
   metaTitle: ShinySick-Emu | Emulación de Consolas y Preservación de Videojuegos
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    Descubre ShinySick-Emu, tu fuente principal para emulación de consolas y
+    preservación de videojuegos. Guías, tutoriales y las últimas noticias en el
+    mundo de los videojuegos retro.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
