@@ -11,7 +11,7 @@
             {
                 "label": "Guías",
                 "altText": "Guias Page",
-                "url": "/",
+                "url": "/guias-completas",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
