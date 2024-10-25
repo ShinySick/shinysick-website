@@ -489,7 +489,7 @@ sections:
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
+      title: No actualices al Firmware 19.0.0
       url: 'https://youtu.be/UxyfzpzD0hw'
       autoplay: false
       loop: true
