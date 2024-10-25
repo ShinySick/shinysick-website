@@ -250,10 +250,9 @@ sections:
       - type: FeaturedItem
         title: RPCS3
         subtitle: Playstation 3
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Emulador multiplataforma de Playstation 3 de codigo abierto escrito en
+          C++.
         image:
           type: ImageBlock
           url: /images/core-color-png.png
