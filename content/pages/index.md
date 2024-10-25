@@ -446,7 +446,7 @@ sections:
       fallar en el intento.
     actions:
       - type: Button
-        label: Get started
+        label: Ver en YT
         altText: ''
         url: >-
           https://www.youtube.com/playlist?list=PLRZYnOrbeoT2tCC1C8XJbA4GY_azsoO05
