@@ -140,7 +140,7 @@
             "showIcon": true
         },
         {
-            "label": "Log in",
+            "label": "Discord",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
