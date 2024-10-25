@@ -73,8 +73,6 @@ sections:
         subtitle: Nintendo Switch
         text: |
           Fue el MEJOR emulador de Nintendo Switch de código abierto.
-
-          ­
         actions:
           - type: Button
             label: Ver
