@@ -22,7 +22,7 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: INSTALA YUZU & LA WEA
       color: text-dark
       styles:
         self:
