@@ -99,7 +99,7 @@ sections:
       - title: Ryujinx
         subtitle: Nintendo Switch
         text: >
-          Ryujinx se destaca por su excelente rendimiento y precisión, interfaz
+          Ryujinx, se destaca por su excelente rendimiento y precisión, interfaz
           amigable y estable.
 
 
