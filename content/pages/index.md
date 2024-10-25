@@ -316,6 +316,7 @@ sections:
         textAlign: center
   - posts:
       - content/pages/blog/guias-completas.md
+      - content/pages/blog/tutoriales.md
     showThumbnail: true
     showDate: true
     showAuthor: true
