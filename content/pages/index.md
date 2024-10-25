@@ -533,7 +533,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: Steam Deck Friendly
       color: text-dark
       styles:
         self:
