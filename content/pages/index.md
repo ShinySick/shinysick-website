@@ -719,7 +719,7 @@ sections:
         type: FeaturedItem
       - title: “Sin Palabras.”
         tagline: Pollo de Diamante
-        subtitle: 'Jane Doe, Company'
+        subtitle: Luisao Eclipse
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
