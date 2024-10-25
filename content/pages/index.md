@@ -139,38 +139,6 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: RPCS3
-        subtitle: Playstation 3
-        text: >
-          Emulador multiplataforma de Playstation 3 de codigo abierto escrito en
-          C++.
-        image:
-          url: /images/core-color-png.png
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
-        actions:
-          - type: Button
-            label: Ver
-            altText: ''
-            url: >-
-              https://www.youtube.com/playlist?list=PLRZYnOrbeoT1qvdAxluGdER7lXqeJKEmZ
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
       - type: FeaturedItem
         title: Cemu
         subtitle: Nintendo Wii U
@@ -207,6 +175,38 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
+      - title: RPCS3
+        subtitle: Playstation 3
+        text: >
+          Emulador multiplataforma de Playstation 3 de codigo abierto escrito en
+          C++.
+        image:
+          url: /images/core-color-png.png
+          altText: Featured icon three
+          elementId: ''
+          type: ImageBlock
+        actions:
+          - type: Button
+            label: Ver
+            altText: ''
+            url: >-
+              https://www.youtube.com/playlist?list=PLRZYnOrbeoT1qvdAxluGdER7lXqeJKEmZ
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+        type: FeaturedItem
       - type: FeaturedItem
         title: Uzuy
         subtitle: Nintendo Switch
