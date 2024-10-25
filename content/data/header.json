@@ -55,7 +55,7 @@
                 },
                 {
                     "label": "Ryujinx",
-                    "url": "/",
+                    "url": "/ryujinx",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
