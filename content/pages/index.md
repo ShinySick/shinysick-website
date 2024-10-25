@@ -585,7 +585,7 @@ sections:
     subtitle: Miembros de canal con mayor antigüedad.
     items:
       - title: "“Gran recomendación, justo estaba buscando algo así \U0001F64F\U0001F3FB✨”"
-        tagline: JafiOfficial
+        tagline: Pollo Muy Importante
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
