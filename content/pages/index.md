@@ -396,7 +396,7 @@ sections:
     media:
       title: Uzuy en Meta Quest 2
       url: 'https://youtu.be/8tpp8Ep7NVo'
-      controls: false
+      controls: true
       aspectRatio: '16:9'
       styles:
         self:
