@@ -82,15 +82,15 @@
             "type": "Social"
         },
         {
-            "altText": "Twitter link",
-            "url": "https://x.com/SHINYSICK",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
             "altText": "Email link",
             "url": "https://www.youtube.com/@shinysick",
             "icon": "youtube",
+            "type": "Social"
+        },
+        {
+            "altText": "Twitter link",
+            "url": "https://x.com/SHINYSICK",
+            "icon": "twitter",
             "type": "Social"
         },
         {
