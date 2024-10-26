@@ -59,7 +59,9 @@ styles:
 type: PostLayout
 seo:
   type: Seo
-  metaTitle: Tutoriales de Emulación - Aprende y Juega Sin Complicaciones de Manera Fácil
+  metaTitle: >-
+    Vlogs de Emulación - Consejos y Trucos para Gamers Retro y Más Contenido
+    Interesante
   metaDescription: >-
     Explora nuestros vlogs sobre emulación, donde compartimos consejos, trucos y
     las últimas novedades del mundo de los videojuegos retro. ¡Conéctate con la
