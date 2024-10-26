@@ -3,9 +3,7 @@ type: PostLayout
 title: Como Usar Lossless Scaling Correctamente
 date: '2024-10-21'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: "Consigue MÁS FPS en CUALQUIER PC incluso de GAMA BAJA. \U0001F632"
 featuredImage:
   type: ImageBlock
   url: /images/Yuzu-early-access-guia.jpg
