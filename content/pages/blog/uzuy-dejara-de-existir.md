@@ -64,6 +64,7 @@ seo:
     alternativas y lo que puedes esperar en el futuro. ¡No te lo pierdas!
   addTitleSuffix: false
   metaTags: []
+  socialImage: /images/adios-uzuy-mmjr-miniatura.webp
 colors: bg-light-fg-dark
 styles:
   self:
