@@ -109,7 +109,7 @@ seo:
     tus juegos favoritos con la mejor calidad y rendimiento. ¡Guías, descargas y
     noticias exclusivas!
   addTitleSuffix: false
-  socialImage: /images/wii-guitar-clone-hero.webp
+  socialImage: /images/cemu-giroscopio-miniatura.webp
   metaTags: []
 colors: bg-light-fg-dark
 styles:
