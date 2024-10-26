@@ -117,6 +117,7 @@ seo:
     noticias exclusivas!
   addTitleSuffix: false
   metaTags: []
+  socialImage: /images/Guia Yuzu EA.jpg
 colors: bg-light-fg-dark
 styles:
   self:
