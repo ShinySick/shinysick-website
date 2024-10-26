@@ -3,9 +3,7 @@ type: PostLayout
 title: Activa el Giroscopio en CEMU Emulator FÁCIL y RÁPIDO
 date: '2024-09-21'
 author: content/data/person1.json
-excerpt: >-
-  Si tienes una batería o guitarra de wii y quieres utilizarlas en PC, este
-  tutorial te ayudará. CONECTA TU WIIMOTE A PC WINDOWS 11
+excerpt: Usar el GIROSCOPIO EN CEMU es más sencillo de lo que piensas!
 featuredImage:
   type: ImageBlock
   url: /images/wii-guitar-clone-hero.webp
