@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: CÓMO DESCARGAR Y CONFIGURAR YUZU EARLY ACCESS EN PC
-date: '2023-02-21'
+date: '2024-02-21'
 author: content/data/person1.json
 excerpt: >-
   Aprende a INSTALAR Yuzu Early Access 4176 fué la versión más actualizada de
