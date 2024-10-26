@@ -103,7 +103,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Yuzu Early Access 4176 - El Mejor Emulador de Nintendo Switch
+  metaTitle: Cómo Activar el Giroscopio en Cemu - Tutorial
   metaDescription: ''
   addTitleSuffix: false
   socialImage: /images/cemu-giroscopio-miniatura.webp
