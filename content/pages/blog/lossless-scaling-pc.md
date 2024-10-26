@@ -116,7 +116,7 @@ seo:
     juegos. Optimiza tu experiencia de juego con nuestra guía detallada y mejora
     el rendimiento de tu PC.
   addTitleSuffix: true
-  socialImage: /images/Guia Yuzu EA.jpg
+  socialImage: /images/lossless-scaling-miniatura-2.webp
   metaTags: []
 colors: bg-light-fg-dark
 styles:
