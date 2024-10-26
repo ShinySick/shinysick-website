@@ -89,6 +89,10 @@ type: PostLayout
 seo:
   type: Seo
   metaTitle: Vlogs de Emulación - Consejos y Trucos para Gamers Retro
+  metaDescription: >-
+    Explora nuestros vlogs sobre emulación, donde compartimos consejos, trucos y
+    las últimas novedades del mundo de los videojuegos retro. ¡Conéctate con la
+    comunidad de gamers!
 ---
 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor.
