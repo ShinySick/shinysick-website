@@ -1,4 +1,5 @@
 [build]
+  command = "npm install -D @opennextjs/netlify"
   command = "npm run build"
   publish = ".next"
   functions = ".netlify/functions"
