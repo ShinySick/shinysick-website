@@ -39,7 +39,9 @@ bottomSections:
         self:
           textAlign: left
     subtitle: ''
-    text: ''
+    text: >
+      Mira éste video para enterarte de todos los detalles relacionados a ésta
+      noticia.
     actions: []
     media:
       type: VideoBlock
