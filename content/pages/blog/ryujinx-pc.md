@@ -122,9 +122,10 @@ styles:
   self:
     flexDirection: col
 ---
-**Yuzu Early Access 4176** fué la versión más actualizada de éste emulador, logrando tener un **rendimiento** **muy alto** incluso en dispositivos no tan potentes.
+**Ryujinx** es un emulador de Nintendo Switch, una consola de videojuegos de Nintendo, Ryujinx permite a los usuarios jugar a juegos de **Nintendo Switch en su computadora**, sin necesidad de tener la consola física.
 
-### Requisitos Minimos de PC para el Emulador Yuzu Early Access 4176:
+
+### Requisitos Minimos de PC para el Emulador Ryujinx:
 
 *   **CPU:** Ryzen 3 1200 / Core i5 4th Gen
 
@@ -144,15 +145,29 @@ Las prodkeys son los archivos encargados de que el emulador decodifique el titul
 
 *   [**Firmware**](/firmwares)
 
-*   [**Yuzu Early Access 4176**](https://bit.ly/3YCzUaM)
+*   [**Ryujinx 1.2**](https://github.com/GreemDev/Ryujinx/releases)
 
-En este caso la descarga del emulador viene en un rar en conjunto con las siguientes versiones disponibles:
+<br>
 
-*   Yuzu Mainline 1734
+### Instala las Prod.keys
 
-*   Yuzu Early Access 4176
+1.  Ve a File y selecciona abrir carpeta de ryujinx
 
-*   Citra Nightly 2104
+2.  Abre la carpeta system y pega tus archivos prod.keys y title.keys
 
-*   Citra Canary 2798
+3.  Listo ya las tienes instaladas
+
+<br>
+
+### Instala tu Firmware
+
+1.  En el menu superior del emulador selecciona Herramientas/Instalar Firmware/XCI o ZIP
+
+2.  Selecciona tu archivo de firmware .ZIP o .XCI
+
+3.  Acepta la instalación
+
+4.  Listo ya tienes el firmware instalado
+
+
 
