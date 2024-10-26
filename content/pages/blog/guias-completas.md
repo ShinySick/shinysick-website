@@ -43,7 +43,6 @@ bottomSections:
       - content/pages/blog/como-instalar-ryujinx-1.2.md
       - content/pages/blog/como-instalar-ryujinx-1.2.md
       - content/pages/blog/como-instalar-ryujinx-1.2.md
-      - content/pages/blog/como-instalar-ryujinx-1.2.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
