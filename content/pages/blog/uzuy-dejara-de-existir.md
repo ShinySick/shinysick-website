@@ -50,7 +50,7 @@ bottomSections:
       title: >-
         NUEVA INFO del EMULADOR UZUY MMJR- Tendremos Emulador de Nintendo Switch
         para Rato!
-      url: /images/placeholder-video.mp4
+      url: 'https://youtu.be/ZlHyeABN5Ss'
       autoplay: true
       loop: true
       muted: true
