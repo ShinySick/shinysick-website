@@ -4,8 +4,8 @@ title: El Emulador UZUY MMJR Dejará de Existir y ahora se llamara CITRÓN
 date: '2024-10-22'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  El Emulador UZUY no se dará por vencido y seguirá con su desarrollo a pesar de
+  todas las polemicas con los emuladores de Nintendo Switch.
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
