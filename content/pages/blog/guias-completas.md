@@ -72,6 +72,10 @@ type: PostLayout
 seo:
   type: Seo
   metaTitle: Guías Completas de Emulación - Domina Tus Emuladores Favoritos
+  metaDescription: >-
+    Accede a nuestras guías completas de emulación y lleva tu experiencia de
+    juego al siguiente nivel. Aprende a configurar y optimizar emuladores con
+    instrucciones detalladas y fáciles de seguir.
 ---
 <div style="text-align: left">¿Te entusiasma la emulación de videojuegos? ¡Estás en el sitio adecuado! Aquí, examinamos las guías completas que hemos elaborado para los emuladores más destacados.</div>
 
