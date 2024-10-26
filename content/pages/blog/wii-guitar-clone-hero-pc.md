@@ -124,3 +124,16 @@ styles:
     flexDirection: col
 ---
 Si tienes una **batería o guitarra de wii** y quieres utilizarlas en PC, este tutorial te ayudará a conectarlas a Windows 11.
+
+<br>
+
+### Descarga lo necesario
+
+Para esto necesitaras los siguientes programas:
+
+*   [Wiitarthing](https://github.com/TheNathannator/WiitarThing/releases/tag/v2.7.0.5)
+
+*   [Driver ViGEm](https://github.com/ViGEm/ViGEmBus/releases)
+
+*   [Clone Hero](https://clonehero.net/releases/)
+
