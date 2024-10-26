@@ -88,5 +88,9 @@ type: PostLayout
 seo:
   type: Seo
   metaTitle: Tutoriales de Emulación - Aprende y Juega Sin Complicaciones
+  metaDescription: >-
+    Descubre nuestros tutoriales de emulación que te enseñan todo, desde la
+    instalación hasta la configuración avanzada. Ideal para jugadores de todos
+    los niveles.
 ---
 Domina la emulación de videojuegos con nuestros tutoriales detallados. Desde la instalación hasta la optimización, aprende a jugar tus títulos favoritos en tu PC con facilidad.
