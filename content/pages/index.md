@@ -339,7 +339,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: justify
+          textAlign: center
   - subtitle: Manejamos TODOS los estados de ánimo.
     images:
       - url: /images/shiny bless.png
