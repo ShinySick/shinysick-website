@@ -47,7 +47,7 @@ bottomSections:
       type: VideoBlock
       title: Title of the video
       url: /images/placeholder-video.mp4
-      autoplay: true
+      autoplay: false
       loop: true
       muted: true
       controls: false
