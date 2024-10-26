@@ -337,6 +337,9 @@ sections:
       type: TitleBlock
       text: LAS SECCIONES MÁS POPULARES
       color: text-dark
+      styles:
+        self:
+          textAlign: right
   - subtitle: Manejamos TODOS los estados de ánimo.
     images:
       - url: /images/shiny bless.png
