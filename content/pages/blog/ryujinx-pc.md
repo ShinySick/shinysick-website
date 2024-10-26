@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/ryujinx-pc-miniatura.webp
-  altText: Yuzu Guia Completa Miniatura
+  altText: Ryujinx Guia Completa Miniatura
   elementId: ''
   styles:
     self:
