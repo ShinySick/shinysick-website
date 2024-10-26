@@ -3,10 +3,9 @@ title: GUÍAS
 slug: guias-completas
 date: '2024-10-25'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  ¿Te entusiasma la emulación de videojuegos? ¡Estás en el sitio adecuado! Aquí,
+  examinamos las guías completas que hemos elaborado para los emuladores más
+  destacados.
 featuredImage:
   url: /images/Guias-completas-emulacion.webp
   altText: Yuzu Early Access PC
@@ -15,16 +14,6 @@ featuredImage:
       borderRadius: large
   type: ImageBlock
 bottomSections:
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
@@ -34,16 +23,9 @@ bottomSections:
         self:
           textAlign: center
     posts:
+      - content/pages/blog/ryujinx-pc.md
+      - content/pages/blog/rpcs3-pc.md
       - content/pages/blog/yuzu-early-access-pc.md
-      - content/pages/blog/life-of-our-development-team.md
-      - content/pages/blog/surround-yourself-with-right-people.md
-      - content/pages/blog/top-twenty-ways-to-save-time.md
-      - content/pages/blog/como-instalar-ryujinx-1.2.md
-      - content/pages/blog/como-instalar-ryujinx-1.2.md
-      - content/pages/blog/como-instalar-ryujinx-1.2.md
-      - content/pages/blog/como-instalar-ryujinx-1.2.md
-      - content/pages/blog/como-instalar-ryujinx-1.2.md
-      - content/pages/blog/como-instalar-ryujinx-1.2.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
@@ -79,5 +61,12 @@ styles:
 type: PostLayout
 seo:
   type: Seo
+  metaTitle: Guías Completas de Emulación - Domina Tus Emuladores Favoritos
+  metaDescription: >-
+    Accede a nuestras guías completas de emulación y lleva tu experiencia de
+    juego al siguiente nivel. Aprende a configurar y optimizar emuladores con
+    instrucciones detalladas y fáciles de seguir.
+  socialImage: /images/Guias-completas-emulacion.webp
 ---
-Guias Completas de Emuladores, Programas o Procedimientos extensos para no perder ningun detalle y NO FALLAR en el intento.
+<div style="text-align: left">¿Te entusiasma la emulación de videojuegos? ¡Estás en el sitio adecuado! Aquí, examinamos las guías completas que hemos elaborado para los emuladores más destacados.</div>
+
