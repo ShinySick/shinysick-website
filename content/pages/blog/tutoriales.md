@@ -8,7 +8,7 @@ excerpt: >-
   tu PC con facilidad.
 featuredImage:
   url: /images/tutoriales-emulacion.webp
-  altText: Ryujinx 1.2
+  altText: Miniatura de tutoriales
   styles:
     self:
       borderRadius: x-large
