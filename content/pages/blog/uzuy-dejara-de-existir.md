@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/adios-uzuy-mmjr-miniatura.webp
-  altText: Thumbnail
+  altText: Adios uzuy mmjr miniatura
   elementId: ''
   styles:
     self:
