@@ -54,7 +54,7 @@ bottomSections:
       autoplay: true
       loop: false
       muted: true
-      controls: false
+      controls: true
       aspectRatio: '16:9'
       styles:
         self:
