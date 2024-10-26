@@ -112,9 +112,9 @@ seo:
   type: Seo
   metaTitle: Ryujinx - El Mejor Emulador de Nintendo Switch
   metaDescription: >-
-    Descubre Yuzu Early Access 4176, el emulador de Nintendo Switch líder. Juega
-    tus juegos favoritos con la mejor calidad y rendimiento. ¡Guías, descargas y
-    noticias exclusivas!
+    Descubre Ryujinx, el emulador avanzado de Nintendo Switch. Juega tus títulos
+    favoritos con una emulación precisa y de alta calidad. Guías, descargas y
+    actualizaciones.
   addTitleSuffix: false
   socialImage: /images/Guia Yuzu EA.jpg
   metaTags: []
