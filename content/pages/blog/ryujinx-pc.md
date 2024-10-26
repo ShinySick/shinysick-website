@@ -40,8 +40,7 @@ bottomSections:
           textAlign: left
     subtitle: Ryujinx
     text: >
-      **Guía Definitiva** para instalar y configurar **YUZU EARLY ACCESS** en
-      cualquier version.
+      **Guía Definitiva** para instalar y configurar **RYUJINX** en PC.
 
 
       Se recomienda ver el video en **velocidad 2x** solo si se te hace muy
