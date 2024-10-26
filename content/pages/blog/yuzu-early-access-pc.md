@@ -76,11 +76,13 @@ styles:
 
 *   **RAM:** 8GB con GPU / 12GB con iGPU
 
-
-
 ### Archivos Necesarios:
 
-*   [Prod.keys](/prodkeys)
+Las prodkeys son los archivos encargados de que el emulador decodifique el titulo del juego en conjunto con el firmware, sin estos archivos no será posible ningun tipo de emulación, si no los instalas podrias llegar a tener distintos tipos de errores.
 
-*   [Firmware](/firmwares)
+**¡ASEGURATE SIEMPRE DE INSTALAR LA VERSIÓN MÁS RECIENTE DISPONIBLE!**
+
+*   ****[**Prod.keys**](/prodkeys)****
+
+*   [**Firmware**](/firmwares)
 
