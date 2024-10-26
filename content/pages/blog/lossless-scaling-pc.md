@@ -210,3 +210,6 @@ Si elegiste la version del caribe deberás hacer el siguiente procedimiento para
 
 ##### Si quieres usar diferentes configuraciones por cada juego puedes crear un perfil con el boton de **ADD**
 
+<br>
+
+**Sigue la guía en el video de abajo para mas detalles!**
