@@ -51,7 +51,7 @@ bottomSections:
     media:
       type: VideoBlock
       title: Como Descargar y Configurar RPCS3 paso a paso - 2024
-      url: 'https://youtu.be/W8Km5empX1A'
+      url: 'https://youtu.be/NPPfZz6v7J0'
       autoplay: false
       loop: false
       muted: true
