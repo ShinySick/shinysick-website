@@ -40,7 +40,7 @@ bottomSections:
     elementId: ''
     variant: small-list
     colors: bg-light-fg-dark
-    hoverEffect: shadow-plus-move-up
+    hoverEffect: thick-underline
     styles:
       self:
         padding:
