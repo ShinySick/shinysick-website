@@ -166,22 +166,21 @@ Si elegiste la version del caribe deberás hacer el siguiente procedimiento para
 
 ### Configuración recomendada de Lossless Scaling:
 
-**Scaling Mode:** 
+**Scaling Mode:**
 
 *   Auto
 
 *   Aspect Ratio
 
-
-**Scaling Type:** 
+**Scaling Type:**
 
 *   **LS1** (en equipos de ***bajos recursos***),
 
 *   **AMD FSR** o **NVIDIA** **Image Scaling**. *(Si solo vas a usar Frame Generation deja el Scaling Type en **OFF**)*
 
-**Frame Generation:** 
+**Frame Generation:**
 
-*   **LSFG** 2.3 
+*   **LSFG** 2.3
 
 *   Mode x2
 
@@ -209,5 +208,5 @@ Si elegiste la version del caribe deberás hacer el siguiente procedimiento para
 
 <br>
 
-## Si quieres usar diferentes configuraciones por cada juego puedes crear un perfil con el boton de **ADD**
+##### Si quieres usar diferentes configuraciones por cada juego puedes crear un perfil con el boton de **ADD**
 
