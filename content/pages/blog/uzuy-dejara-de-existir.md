@@ -58,7 +58,10 @@ seo:
   metaTitle: >-
     Adiós al Emulador Uzuy: ¿Qué Significa el Fin para los Fans de Nintendo
     Switch?
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Descubre por qué el emulador Uzuy de Nintendo Switch dejará de existir y qué
+    implicaciones tiene para la comunidad gamer. Analizamos el impacto,
+    alternativas y lo que puedes esperar en el futuro. ¡No te lo pierdas!
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
