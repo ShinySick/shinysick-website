@@ -40,12 +40,8 @@ bottomSections:
           textAlign: left
     subtitle: Wiitarthing + Clone Hero
     text: >
-      **Guía Definitiva** para instalar y configurar **YUZU EARLY ACCESS** en
-      cualquier version.
-
-
-      Se recomienda ver el video en **velocidad 2x** solo si se te hace muy
-      largo el video.
+      Tutorial para poder **utilizar los instrumentos de Guitar Hero de la
+      Nintendo Wii** en PC con **Wiitarthing** y **Clone Hero**.
     actions: []
     media:
       type: VideoBlock
