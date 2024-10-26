@@ -24,7 +24,7 @@ bottomSections:
     actions: []
     elementId: ''
     variant: three-col-grid
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     hoverEffect: shadow-plus-move-up
     styles:
       self:
