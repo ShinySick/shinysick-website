@@ -337,6 +337,10 @@ sections:
       type: TitleBlock
       text: LAS SECCIONES MÁS POPULARES
       color: text-dark
+      styles:
+        self:
+          textAlign: center
+          fontWeight: 400
   - subtitle: Manejamos TODOS los estados de ánimo.
     images:
       - url: /images/shiny bless.png
@@ -944,14 +948,17 @@ sections:
     colors: bg-dark-fg-light
     type: GenericSection
 seo:
-  metaTitle: ShinySick-Emu | Emulación de Consolas y Preservación de Videojuegos
+  metaTitle: ShinySick | Emulación de Consolas y Preservación de Videojuegos
   metaDescription: >-
-    Descubre ShinySick-Emu, tu fuente principal para emulación de consolas y
+    Descubre en ShinySick tu fuente principal para emulación de consolas y
     preservación de videojuegos. Guías, tutoriales y las últimas noticias en el
     mundo de los videojuegos retro.
   socialImage: /images/emulacion-videojuegos.webp
   type: Seo
   addTitleSuffix: true
-  metaTags: []
+  metaTags:
+    - type: MetaTag
+      property: 'og:title'
+      content: ShinySick | Emulación de Consolas y Preservación de Videojuegos
 type: PageLayout
 ---
