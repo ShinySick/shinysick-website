@@ -45,7 +45,7 @@ bottomSections:
       self:
         padding:
           - pt-16
-          - pl-0
+          - pl-96
           - pb-16
           - pr-16
         justifyContent: flex-end
