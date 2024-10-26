@@ -52,7 +52,7 @@ bottomSections:
         para Rato!
       url: 'https://youtu.be/ZlHyeABN5Ss'
       autoplay: true
-      loop: true
+      loop: false
       muted: true
       controls: false
       aspectRatio: '16:9'
