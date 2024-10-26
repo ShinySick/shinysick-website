@@ -146,16 +146,16 @@ styles:
 
 Necesitarás obligatoriamente el firmware oficial o modificado de una PS3 ***(PS3UPDAT.PUP)*** y aunque lo puedes conseguir en el [sitio oficial](https://www.playstation.com/es-es/support/hardware/ps3/system-software/) algunos no logran descargarlo, por lo cual aquí abajo te dejo el enlace directo:
 
-[**Firmware PS3 OFICIAL PS3UPDAT.PUP
-**](http://deu01.ps3.update.playstation.net/update/ps3/image/eu/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP)[**Descarga RPCS3 Oficial**](https://rpcs3.net/download)
+[\*\*Firmware PS3 OFICIAL PS3UPDAT.PUP
+\*\*](http://deu01.ps3.update.playstation.net/update/ps3/image/eu/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP)[**Descarga RPCS3 Oficial**](https://rpcs3.net/download)
 
 ### Instala el Firmware PS3UPDAT.PUP
 
-1.  Ve al menú y selecciona File
+1.  Ve al menú y selecciona **File**
 
-2.  Install Firmware
+2.  **Install Firmware**
 
-3.  Selecciona tu archivo PS3UPDAT.PUP
+3.  Selecciona tu archivo **PS3UPDAT.PUP**
 
 ### Paginas Recomendadas Para Descargar Juegos
 
@@ -177,19 +177,19 @@ Con esto ya deberian aparecer listados tus juegos en el emulador.
 
 ### Actualiza tus juegos
 
-Para descargar las UPDATES de tus juegos de PS3 deberás hacer lo siguiente:
+Para descargar las **UPDATES** de tus juegos de PS3 deberás hacer lo siguiente:
 
 1.  Ir al [Discord Oficial de RPCS3](https://discord.gg/RPCS3)
 
 2.  Localizar el canal **#bot-spam**
 
-3.  Enviar mensaje con el siguiente formato: !psn check updates BCUS98232
+3.  Enviar mensaje con el siguiente formato: **!psn check updates BCUS98232**
 
 4.  Descargar las updates mostradas
 
-*El dato "BCUS98232" es el numero de serie del juego al que le estas buscando su actualización.*
+*El dato "**BCUS98232"** es el numero de serie del juego al que le estas buscando su actualización.*
 
-*Si hay más de un archivo de instalación se deben **DESCARGAR E INSTALAR TODOS **desde el primero al último.*
+*Si hay más de un archivo de instalación se deben* ***DESCARGAR E INSTALAR TODOS*** *desde el primero al último.*
 
 ### Instala los PKG de las UPDATES
 
@@ -199,3 +199,6 @@ Para descargar las UPDATES de tus juegos de PS3 deberás hacer lo siguiente:
 
 3.  Selecciona tu archivo **.pkg**
 
+
+
+Con esto ya tendrias tu emulador configurado y listo para usarse, si quieres más detalles consulta la guía de más abajo.
