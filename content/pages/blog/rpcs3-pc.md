@@ -4,8 +4,10 @@ title: CÓMO DESCARGAR Y CONFIGURAR RPCS3 EN PC
 date: '2023-03-20'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  RPCS3 es un emulador y depurador de código abierto diseñado para la
+  PlayStation 3, que permite a los usuarios jugar y depurar juegos de esta
+  consola en sus computadoras. Esta herramienta está desarrollada en C++ y
+  utiliza tecnologías de renderizado como OpenGL, Vulkan y DirectX 12.
 featuredImage:
   type: ImageBlock
   url: /images/Yuzu-early-access-guia.jpg
