@@ -16,6 +16,7 @@ featuredImage:
 bottomSections:
   - type: FeaturedPostsSection
     posts:
+      - content/pages/blog/activar-giroscopio-en-cemu.md
       - content/pages/blog/wii-guitar-clone-hero-pc.md
     showThumbnail: true
     showExcerpt: true
