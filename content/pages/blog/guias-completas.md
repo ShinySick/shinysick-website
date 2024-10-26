@@ -3,10 +3,9 @@ title: GUÍAS
 slug: guias-completas
 date: '2024-10-25'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  ¿Te entusiasma la emulación de videojuegos? ¡Estás en el sitio adecuado! Aquí,
+  examinamos las guías completas que hemos elaborado para los emuladores más
+  destacados.
 featuredImage:
   url: /images/Guias-completas-emulacion.webp
   altText: Yuzu Early Access PC
