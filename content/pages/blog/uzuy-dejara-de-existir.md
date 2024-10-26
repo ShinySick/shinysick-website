@@ -77,7 +77,7 @@ bottomSections:
   - type: RecentPostsSection
     title:
       type: TitleBlock
-      text: Recent posts
+      text: Posts Recientes
       color: text-dark
       styles:
         self:
