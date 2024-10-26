@@ -49,7 +49,7 @@ bottomSections:
     media:
       type: VideoBlock
       title: Como Descargar y configurar Ryujinx Keys y firmware 19.0.0
-      url: 'https://youtu.be/W8Km5empX1A'
+      url: 'https://youtu.be/GROJdsIoNXU'
       autoplay: false
       loop: false
       muted: true
