@@ -163,3 +163,51 @@ Si elegiste la version del caribe deberás hacer el siguiente procedimiento para
 5.  Listo ya lo tienes registrado
 
 <br>
+
+### Configuración recomendada de Lossless Scaling:
+
+**Scaling Mode:** 
+
+*   Auto
+
+*   Aspect Ratio
+
+
+**Scaling Type:** 
+
+*   **LS1** (en equipos de ***bajos recursos***),
+
+*   **AMD FSR** o **NVIDIA** **Image Scaling**. *(Si solo vas a usar Frame Generation deja el Scaling Type en **OFF**)*
+
+**Frame Generation:** 
+
+*   **LSFG** 2.3 
+
+*   Mode x2
+
+*   Performance Off *(Para equipos de bajos recursos **ON**)*
+
+**Rendering:**
+
+*   Sync Mode: **Vsync**
+
+*   Draw FPS: On
+
+**Capture:**
+
+*   Capture API: **DXGI**
+
+**GPU & Display**
+
+*   Elige el modelo de tu grafica, si sale más de uno repetido elige Auto
+
+*   Output Display: Puedes elegir tu favorito, en Auto elegira el monitor #1 asignado en Windows
+
+**Behavior**
+
+*   Multi-Display Mode: On *(Solo si tienes más de un monitor conectado a tu PC)*
+
+<br>
+
+## Si quieres usar diferentes configuraciones por cada juego puedes crear un perfil con el boton de **ADD**
+
