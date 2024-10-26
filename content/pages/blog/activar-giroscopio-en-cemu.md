@@ -7,7 +7,7 @@ excerpt: Usar el GIROSCOPIO EN CEMU es más sencillo de lo que piensas!
 featuredImage:
   type: ImageBlock
   url: /images/cemu-giroscopio-miniatura.webp
-  altText: Wii Guitar Clone Hero Tutorial Miniatura
+  altText: Giroscopio Cemu Tutorial Miniatura
   elementId: ''
   styles:
     self:
