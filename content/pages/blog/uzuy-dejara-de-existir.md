@@ -47,9 +47,7 @@ bottomSections:
     actions: []
     media:
       type: VideoBlock
-      title: >-
-        NUEVA INFO del EMULADOR UZUY MMJR- Tendremos Emulador de Nintendo Switch
-        para Rato!
+      title: El Emulador UZUY MMJR Dejará de existir ahora se llamará CITRON
       url: 'https://youtu.be/ZlHyeABN5Ss'
       autoplay: true
       loop: false
