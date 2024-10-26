@@ -8,7 +8,7 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/Yuzu-early-access-guia.jpg
+  url: /images/ryujinx-pc-miniatura.webp
   altText: Yuzu Guia Completa Miniatura
   elementId: ''
   styles:
