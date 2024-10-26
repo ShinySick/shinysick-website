@@ -110,7 +110,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Yuzu Early Access 4176
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
