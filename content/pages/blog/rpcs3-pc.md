@@ -11,7 +11,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/rpcs3-miniatura-pc.webp
-  altText: Yuzu Guia Completa Miniatura
+  altText: RPCS3 Guia Completa Miniatura
   elementId: ''
   styles:
     self:
