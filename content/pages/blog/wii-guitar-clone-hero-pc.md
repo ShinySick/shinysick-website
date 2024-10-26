@@ -4,8 +4,8 @@ title: Cómo Conectar Batería y Guitarra de Wii en Clone Hero
 date: '2021-01-31'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Si tienes una batería o guitarra de wii y quieres utilizarlas en PC, este
+  tutorial te ayudará. CONECTA TU WIIMOTE A PC WINDOWS 11
 featuredImage:
   type: ImageBlock
   url: /images/wii-guitar-clone-hero.webp
