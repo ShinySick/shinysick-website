@@ -806,7 +806,7 @@ sections:
             style: primary
             elementId: ''
       - title: Membresia de Canal
-        tagline: YouTube
+        tagline: Membresia de Canal
         subtitle: Únete a los Miembros
         text: >
           Al ser **miembro** de canal recibes **ventajas exclusivas, acceso
