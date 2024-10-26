@@ -137,7 +137,19 @@ Las prodkeys son los archivos encargados de que el emulador decodifique el titul
 
 **¡ASEGURATE SIEMPRE DE INSTALAR LA VERSIÓN MÁS RECIENTE DISPONIBLE!**
 
-*   ****[**Prod.keys**](/prodkeys)****
+*   [**Prod.keys**](/prodkeys)
 
 *   [**Firmware**](/firmwares)
+
+*   [**Yuzu Early Access 4176**](https://bit.ly/3YCzUaM)
+
+En este caso la descarga del emulador viene en un rar en conjunto con las siguientes versiones disponibles:
+
+*   Yuzu Mainline 1734
+
+*   Yuzu Early Access 4176
+
+*   Citra Nightly 2104
+
+*   Citra Canary 2798
 
