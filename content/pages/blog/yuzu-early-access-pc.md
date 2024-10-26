@@ -4,8 +4,9 @@ title: CÓMO DESCARGAR Y CONFIGURAR YUZU EARLY ACCESS EN PC
 date: '2023-02-21'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Aprende a INSTALAR Yuzu Early Access 4176 fué la versión más actualizada de
+  éste emulador, logrando tener un rendimiento muy alto incluso en dispositivos
+  no tan potentes.
 featuredImage:
   type: ImageBlock
   url: /images/Yuzu-early-access-guia.jpg
