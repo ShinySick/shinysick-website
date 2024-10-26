@@ -121,37 +121,41 @@ styles:
   self:
     flexDirection: col
 ---
-**Yuzu Early Access 4176** fué la versión más actualizada de éste emulador, logrando tener un **rendimiento** **muy alto** incluso en dispositivos no tan potentes.
+Consigue **MÁS FPS** en **CUALQUIER PC** incluso de **GAMA BAJA**. 😲
 
-### Requisitos Minimos de PC para el Emulador Yuzu Early Access 4176:
 
-*   **CPU:** Ryzen 3 1200 / Core i5 4th Gen
+**Lossless Scaling** te permite escalar juegos en ventana a pantalla completa utilizando algoritmos de escalado de última generación, así como también utilizar escalado patentado basado en Machine Learning y generación de cuadros (**Frame Generation**).
 
-*   **GPU:** RX 550 4GB / GTX 1050 4GB
+### Requisitos Minimos de Lossless Scaling:
 
-*   **iGPU:** AMD Radeon Vega 3 / Intel UHD 730 / Intel Iris
+*   **CPU:** *Practicamente cualquiera*
 
-*   **RAM:** 8GB con GPU / 12GB con iGPU
+*   **GPU:** GTX 1060 / Radeon RX 580
+
+*   **iGPU:** Intel HD Graphics en adelante
+
+*   **RAM:** *No hay minimo*
+
+*   **Directx:** Version 11
 
 ### Archivos Necesarios:
 
-Las prodkeys son los archivos encargados de que el emulador decodifique el titulo del juego en conjunto con el firmware, sin estos archivos no será posible ningun tipo de emulación, si no los instalas podrias llegar a tener distintos tipos de errores.
+Este software lo puedes conseguir de 2 maneras responsablemente correctas.
+Si quieres probarlo para ver su rendimiento y saber si vale la pena prueba con el siguiente enlace:
 
-**¡ASEGURATE SIEMPRE DE INSTALAR LA VERSIÓN MÁS RECIENTE DISPONIBLE!**
+*   [**Lossless Scaling del Caribe 🏴‍☠️🦜**](https://bit.ly/3zU724A)
 
-*   [**Prod.keys**](/prodkeys)
+*   [**Lossless Scaling Steam Oficial**](https://store.steampowered.com/app/993090/Lossless_Scaling/)
 
-*   [**Firmware**](/firmwares)
+Si elegiste la version del caribe deberás hacer el siguiente procedimiento para evitar un error con steam:
 
-*   [**Yuzu Early Access 4176**](https://bit.ly/3YCzUaM)
+1.  Abre la carpeta de Lossless Scaling
 
-En este caso la descarga del emulador viene en un rar en conjunto con las siguientes versiones disponibles:
+2.  Abre la carpeta \_Crack
 
-*   Yuzu Mainline 1734
+3.  Ejecuta el archivo Crack.reg
 
-*   Yuzu Early Access 4176
+4.  Acepta el mensaje
 
-*   Citra Nightly 2104
-
-*   Citra Canary 2798
+5.  Listo ya lo tienes registrado
 
