@@ -943,7 +943,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: null
+        elementId: submit-button
     badge:
       label: Contacto
       color: text-light
