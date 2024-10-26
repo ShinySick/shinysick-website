@@ -44,10 +44,10 @@ bottomSections:
     styles:
       self:
         padding:
-          - pt-16
+          - pt-96
           - pl-96
-          - pb-16
-          - pr-16
+          - pb-96
+          - pr-96
         justifyContent: flex-end
   - type: DividerSection
     title: Divider
