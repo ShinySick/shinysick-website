@@ -1,7 +1,7 @@
 {
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/favicon.webp",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
+    "titleSuffix": "ShinySick",
     "defaultSocialImage": "/images/main-hero.jpg",
     "type": "Config",
     "header": "content/data/header.json"
