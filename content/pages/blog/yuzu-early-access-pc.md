@@ -42,6 +42,10 @@ bottomSections:
     text: >
       **Guía Definitiva** para instalar y configurar **YUZU EARLY ACCESS** en
       cualquier version.
+
+
+      Se recomienda ver el video en **velocidad 2x** solo si se te hace muy
+      largo el video.
     actions: []
     media:
       type: VideoBlock
