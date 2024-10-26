@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/wii-guitar-clone-hero.webp
-  altText: Yuzu Guia Completa Miniatura
+  altText: Wii Guitar Tutorial Miniatura
   elementId: ''
   styles:
     self:
