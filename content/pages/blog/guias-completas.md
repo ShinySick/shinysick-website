@@ -34,6 +34,7 @@ bottomSections:
         self:
           textAlign: center
     posts:
+      - content/pages/blog/ryujinx-pc.md
       - content/pages/blog/rpcs3-pc.md
       - content/pages/blog/yuzu-early-access-pc.md
     showThumbnail: true
