@@ -48,7 +48,7 @@ bottomSections:
     media:
       type: VideoBlock
       title: El Emulador UZUY MMJR Dejará de existir ahora se llamará CITRON
-      url: 'https://youtu.be/ZlHyeABN5Ss'
+      url: 'https://youtu.be/JMV7HreP2xo'
       autoplay: true
       loop: false
       muted: true
