@@ -48,7 +48,7 @@ bottomSections:
           - pl-96
           - pb-0
           - pr-0
-        justifyContent: flex-end
+        justifyContent: center
   - type: DividerSection
     title: Divider
     elementId: ''
