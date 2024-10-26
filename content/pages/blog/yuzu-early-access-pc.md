@@ -123,7 +123,7 @@ styles:
   self:
     flexDirection: col
 ---
-**Yuzu Early Access 4176** fué la versión más actualizada de éste emulador, logrando tener un **rendimiento** **muy alto** incluso en dispositivos no tan potentes.
+Aprende a **INSTALAR Yuzu Early Access 4176** fué la versión más actualizada de éste emulador, logrando tener un **rendimiento** **muy alto** incluso en dispositivos no tan potentes.
 
 ### Requisitos Minimos de PC para el Emulador Yuzu Early Access 4176:
 
