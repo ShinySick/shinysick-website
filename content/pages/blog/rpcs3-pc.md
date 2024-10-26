@@ -114,9 +114,9 @@ seo:
   type: Seo
   metaTitle: RPCS3 - El Mejor Emulador de PlayStation 3
   metaDescription: >-
-    Descubre Yuzu Early Access 4176, el emulador de Nintendo Switch líder. Juega
-    tus juegos favoritos con la mejor calidad y rendimiento. ¡Guías, descargas y
-    noticias exclusivas!
+    Descubre RPCS3, el emulador de Nintendo Switch líder. Juega tus juegos
+    favoritos con la mejor calidad y rendimiento. ¡Guías, descargas y noticias
+    exclusivas!
   addTitleSuffix: false
   socialImage: /images/rpcs3-miniatura-pc.webp
   metaTags: []
