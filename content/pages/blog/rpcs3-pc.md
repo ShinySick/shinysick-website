@@ -114,9 +114,9 @@ seo:
   type: Seo
   metaTitle: RPCS3 - Emulador de PlayStation 3 - La Mejor Emulación en 2024
   metaDescription: >-
-    Descubre RPCS3, el emulador de Nintendo Switch líder. Juega tus juegos
-    favoritos con la mejor calidad y rendimiento. ¡Guías, descargas y noticias
-    exclusivas!
+    Explora RPCS3, el emulador líder de PlayStation 3. Disfruta de tus juegos
+    favoritos con una calidad superior y rendimiento óptimo. Encuentra guías,
+    descargas y actualizaciones exclusivas.
   addTitleSuffix: false
   socialImage: /images/rpcs3-miniatura-pc.webp
   metaTags: []
