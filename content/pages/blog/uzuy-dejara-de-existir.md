@@ -19,36 +19,6 @@ featuredImage:
         - pb-0
         - pr-0
 bottomSections:
-  - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: Featured posts
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    posts:
-      - >-
-        content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
-      - content/pages/blog/five-tips-for-starting-a-startup.md
-      - content/pages/blog/what-is-a-design-system.md
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    hoverEffect: thick-underline
-    styles:
-      self:
-        padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
-        justifyContent: center
   - type: DividerSection
     title: Divider
     elementId: ''
