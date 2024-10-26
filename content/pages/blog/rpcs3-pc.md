@@ -42,8 +42,7 @@ bottomSections:
           textAlign: left
     subtitle: RPCS3
     text: >
-      **Guía Definitiva** para instalar y configurar **YUZU EARLY ACCESS** en
-      cualquier version.
+      **Guía Definitiva** para instalar y configurar **RPCS3** en PC.
 
 
       Se recomienda ver el video en **velocidad 2x** solo si se te hace muy
