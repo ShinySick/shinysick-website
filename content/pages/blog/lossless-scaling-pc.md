@@ -7,7 +7,7 @@ excerpt: "Consigue MÁS FPS en CUALQUIER PC incluso de GAMA BAJA. \U0001F632"
 featuredImage:
   type: ImageBlock
   url: /images/lossless-scaling-miniatura-2.webp
-  altText: Yuzu Guia Completa Miniatura
+  altText: Lossless Scaling Guia Completa Miniatura
   elementId: ''
   styles:
     self:
