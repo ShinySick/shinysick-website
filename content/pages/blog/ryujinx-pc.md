@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: CÓMO DESCARGAR Y CONFIGURAR RYUJINX EN PC
-date: '2023-03-07'
+date: '2024-03-07'
 author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
