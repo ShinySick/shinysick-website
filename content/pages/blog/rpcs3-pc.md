@@ -127,8 +127,6 @@ styles:
 ---
 **RPCS3** es un emulador y depurador de código abierto diseñado para la **PlayStation 3**, que permite a los usuarios jugar y depurar juegos de esta consola en sus computadoras. Esta herramienta está desarrollada en C++ y utiliza tecnologías de renderizado como **OpenGL, Vulkan y DirectX 12**.
 
-
-
 ### Requisitos Minimos de PC para el Emulador RPCS3:
 
 #### AMD
@@ -145,21 +143,60 @@ styles:
 
 *   **SO:** Windows, Linux, macOS, FreeBSD
 
-
-
 ### Archivos Necesarios:
 
 Necesitarás obligatoriamente el firmware oficial o modificado de una PS3 ***(PS3UPDAT.PUP)*** y aunque lo puedes conseguir en el [sitio oficial](https://www.playstation.com/es-es/support/hardware/ps3/system-software/) algunos no logran descargarlo, por lo cual aquí abajo te dejo el enlace directo:
 
-****[**Firmware PS3 OFICIAL PS3UPDAT.PUP
-**](http://deu01.ps3.update.playstation.net/update/ps3/image/eu/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP)****[**Descarga RPCS3 Oficial**](https://rpcs3.net/download)
+[**Firmware PS3 OFICIAL PS3UPDAT.PUP
+**](http://deu01.ps3.update.playstation.net/update/ps3/image/eu/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP)[**Descarga RPCS3 Oficial**](https://rpcs3.net/download)
 
+### Instala el Firmware PS3UPDAT.PUP
 
+1.  Ve al menú y selecciona File
+
+2.  Install Firmware
+
+3.  Selecciona tu archivo PS3UPDAT.PUP
 
 ### Paginas Recomendadas Para Descargar Juegos
 
 [DLPSGAME](https://dlpsgame.com/category/ps3/) *(Asegurate de tener un bloqueador de anuncios actívo)*
 
-**
+*La mayoria de los juegos conseguidos en esta pagina ya vienen en el formato necesario (en carpetas), Si tienes un juego en formato ISO necesitarás hacer OTRO PROCEDIMIENTO para convertirlos a carpetas.*
 
-**
+### Instala tus juegos de PS3 en RPCS3
+
+Una vez que ya conseguiste tus juegos en formato de carpeta haz lo siguiente:
+
+1.  Ve al menú y selecciona **File**
+
+2.  Selecciona **Add Games**
+
+3.  Elige la carpeta en donde se encuentran todas las carpetas de tus juegos
+
+Con esto ya deberian aparecer listados tus juegos en el emulador.
+
+### Actualiza tus juegos
+
+Para descargar las UPDATES de tus juegos de PS3 deberás hacer lo siguiente:
+
+1.  Ir al [Discord Oficial de RPCS3](https://discord.gg/RPCS3)
+
+2.  Localizar el canal **#bot-spam**
+
+3.  Enviar mensaje con el siguiente formato: !psn check updates BCUS98232
+
+4.  Descargar las updates mostradas
+
+*El dato "BCUS98232" es el numero de serie del juego al que le estas buscando su actualización.*
+
+*Si hay más de un archivo de instalación se deben **DESCARGAR E INSTALAR TODOS **desde el primero al último.*
+
+### Instala los PKG de las UPDATES
+
+1.  Ve al menú y selecciona **File**
+
+2.  **Install Packages/Raps/Edats**
+
+3.  Selecciona tu archivo **.pkg**
+
