@@ -50,7 +50,7 @@ bottomSections:
     actions: []
     media:
       type: VideoBlock
-      title: Como Descargar y configurar yuzu early access en PC paso a paso
+      title: Como Descargar y Configurar RPCS3 paso a paso - 2024
       url: 'https://youtu.be/W8Km5empX1A'
       autoplay: false
       loop: false
