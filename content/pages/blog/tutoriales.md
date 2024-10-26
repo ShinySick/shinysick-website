@@ -60,4 +60,6 @@ seo:
     los niveles.
   socialImage: /images/tutoriales-emulacion.webp
 ---
+<div style="text-align: left">Domina la emulación de videojuegos con nuestros tutoriales detallados.
+Desde la instalación hasta la optimización, aprende a jugar tus títulos favoritos en tu PC con facilidad.</div>
 
