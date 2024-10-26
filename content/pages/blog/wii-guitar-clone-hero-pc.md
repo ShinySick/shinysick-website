@@ -108,7 +108,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Yuzu Early Access 4176 - El Mejor Emulador de Nintendo Switch
+  metaTitle: Conectar Instrumentos de Wii en Clone Hero - Tutorial Paso a Paso
   metaDescription: >-
     Descubre Yuzu Early Access 4176, el emulador de Nintendo Switch líder. Juega
     tus juegos favoritos con la mejor calidad y rendimiento. ¡Guías, descargas y
