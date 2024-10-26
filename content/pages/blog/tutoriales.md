@@ -53,7 +53,7 @@ styles:
 type: PostLayout
 seo:
   type: Seo
-  metaTitle: Tutoriales de Emulación - Aprende y Juega Sin Complicaciones
+  metaTitle: Tutoriales de Emulación - Aprende y Juega Sin Complicaciones de Manera Fácil
   metaDescription: >-
     Descubre nuestros tutoriales de emulación que te enseñan todo, desde la
     instalación hasta la configuración avanzada. Ideal para jugadores de todos
