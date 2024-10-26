@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Yuzu-early-access-guia.jpg
-  altText: Thumbnail
+  altText: Yuzu Guia Completa Miniatura
   elementId: ''
   styles:
     self:
