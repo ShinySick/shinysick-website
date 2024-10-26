@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/wii-guitar-clone-hero.webp
-  altText: Wii Guitar Tutorial Miniatura
+  altText: Wii Guitar Clone Hero Tutorial Miniatura
   elementId: ''
   styles:
     self:
