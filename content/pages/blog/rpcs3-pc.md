@@ -10,7 +10,7 @@ excerpt: >-
   utiliza tecnologías de renderizado como OpenGL, Vulkan y DirectX 12.
 featuredImage:
   type: ImageBlock
-  url: /images/Yuzu-early-access-guia.jpg
+  url: /images/rpcs3.jpg
   altText: Yuzu Guia Completa Miniatura
   elementId: ''
   styles:
