@@ -123,37 +123,41 @@ styles:
   self:
     flexDirection: col
 ---
-**Yuzu Early Access 4176** fué la versión más actualizada de éste emulador, logrando tener un **rendimiento** **muy alto** incluso en dispositivos no tan potentes.
+**RPCS3** es un emulador y depurador de código abierto diseñado para la **PlayStation 3**, que permite a los usuarios jugar y depurar juegos de esta consola en sus computadoras. Esta herramienta está desarrollada en C++ y utiliza tecnologías de renderizado como **OpenGL, Vulkan y DirectX 12**.
 
-### Requisitos Minimos de PC para el Emulador Yuzu Early Access 4176:
 
-*   **CPU:** Ryzen 3 1200 / Core i5 4th Gen
 
-*   **GPU:** RX 550 4GB / GTX 1050 4GB
+### Requisitos Minimos de PC para el Emulador RPCS3:
 
-*   **iGPU:** AMD Radeon Vega 3 / Intel UHD 730 / Intel Iris
+#### AMD
 
-*   **RAM:** 8GB con GPU / 12GB con iGPU
+*   **CPU:** Cualquier procesador x64 - *(Si no tiene instrucciones AVX2 o es de menos de 4 Hilos tendrá mal rendimiento)*
+
+*   **GPU:** Radeon HD 5000 o mejor que tenga soporte de OpenGL 4.3 o mejor.
+
+*   **iGPU:** No soportada
+
+*   **RAM:** 8GB en Dual-Channel
+
+*   **HDD:** **512MB** para archivos del emulador - **5GB** para el disco duro emulado - **128MB** por cada archivo de cache por cada juego. *(Los archivos de cada juegos no estan incluidos en esta lista)*
+
+*   **SO:** Windows, Linux, macOS, FreeBSD
+
+
 
 ### Archivos Necesarios:
 
-Las prodkeys son los archivos encargados de que el emulador decodifique el titulo del juego en conjunto con el firmware, sin estos archivos no será posible ningun tipo de emulación, si no los instalas podrias llegar a tener distintos tipos de errores.
+Necesitarás obligatoriamente el firmware oficial o modificado de una PS3 ***(PS3UPDAT.PUP)*** y aunque lo puedes conseguir en el [sitio oficial](https://www.playstation.com/es-es/support/hardware/ps3/system-software/) algunos no logran descargarlo, por lo cual aquí abajo te dejo el enlace directo:
 
-**¡ASEGURATE SIEMPRE DE INSTALAR LA VERSIÓN MÁS RECIENTE DISPONIBLE!**
+****[**Firmware PS3 OFICIAL PS3UPDAT.PUP
+**](http://deu01.ps3.update.playstation.net/update/ps3/image/eu/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP)****[**Descarga RPCS3 Oficial**](https://rpcs3.net/download)
 
-*   [**Prod.keys**](/prodkeys)
 
-*   [**Firmware**](/firmwares)
 
-*   [**Yuzu Early Access 4176**](https://bit.ly/3YCzUaM)
+### Paginas Recomendadas Para Descargar Juegos
 
-En este caso la descarga del emulador viene en un rar en conjunto con las siguientes versiones disponibles:
+[DLPSGAME](https://dlpsgame.com/category/ps3/) *(Asegurate de tener un bloqueador de anuncios actívo)*
 
-*   Yuzu Mainline 1734
+**
 
-*   Yuzu Early Access 4176
-
-*   Citra Nightly 2104
-
-*   Citra Canary 2798
-
+**
