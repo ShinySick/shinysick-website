@@ -948,7 +948,7 @@ sections:
     colors: bg-dark-fg-light
     type: GenericSection
 seo:
-  metaTitle: ShinySick-Emu | Emulación de Consolas y Preservación de Videojuegos
+  metaTitle: ShinySick | Emulación de Consolas y Preservación de Videojuegos
   metaDescription: >-
     Descubre ShinySick-Emu, tu fuente principal para emulación de consolas y
     preservación de videojuegos. Guías, tutoriales y las últimas noticias en el
