@@ -88,6 +88,7 @@ styles:
 type: PostLayout
 seo:
   type: Seo
+  metaTitle: Vlogs de Emulación - Consejos y Trucos para Gamers Retro
 ---
 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor.
