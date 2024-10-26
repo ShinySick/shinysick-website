@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: "Consigue MÁS FPS en CUALQUIER PC incluso de GAMA BAJA. \U0001F632"
 featuredImage:
   type: ImageBlock
-  url: /images/Yuzu-early-access-guia.jpg
+  url: /images/lossless-scaling-miniatura.webp
   altText: Yuzu Guia Completa Miniatura
   elementId: ''
   styles:
