@@ -38,7 +38,7 @@ bottomSections:
           textAlign: left
     subtitle: Lossless Scaling
     text: >
-      **Guía Definitiva** para instalar y configurar **YUZU EARLY ACCESS** en
+      **Guía Definitiva** para instalar y configurar **LOSSLESS SCALING** en
       cualquier version.
 
 
