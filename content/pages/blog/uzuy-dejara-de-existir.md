@@ -112,5 +112,4 @@ styles:
   self:
     flexDirection: col
 ---
-El Emulador UZUY no se dará por vencido y seguirá con su desarrollo a pesar de todas las polemicas con los emuladores de Nintendo Switch.
-
+El emulador UZUY Cierra...💀 Pero NO COMO TE LO IMAGINAS.
