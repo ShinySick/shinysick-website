@@ -3,10 +3,9 @@ title: VLOGS
 slug: vlogs
 date: '2024-10-25'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  Explora nuestros vlogs sobre emulación, donde compartimos consejos, trucos y
+  las últimas novedades del mundo de los videojuegos retro. ¡Conéctate con la
+  comunidad de gamers!
 featuredImage:
   url: /images/vlogs-emulacion.webp
   altText: RPCS3 PC
