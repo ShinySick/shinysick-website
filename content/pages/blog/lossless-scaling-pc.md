@@ -108,7 +108,9 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Como Descargar MÁS FPS con Lossless Scaling
+  metaTitle: >-
+    Como Descargar MÁS FPS con Lossless Scaling - Optimiza tu Experiencia de
+    Juego
   metaDescription: >-
     Descubre Yuzu Early Access 4176, el emulador de Nintendo Switch líder. Juega
     tus juegos favoritos con la mejor calidad y rendimiento. ¡Guías, descargas y
