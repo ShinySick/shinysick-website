@@ -3,10 +3,9 @@ title: TUTORIALES
 slug: tutoriales
 date: '2024-10-25'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  Domina la emulación de videojuegos con nuestros tutoriales detallados. Desde
+  la instalación hasta la optimización, aprende a jugar tus títulos favoritos en
+  tu PC con facilidad.
 featuredImage:
   url: /images/tutoriales-emulacion.webp
   altText: Ryujinx 1.2
