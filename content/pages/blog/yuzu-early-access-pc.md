@@ -106,7 +106,7 @@ bottomSections:
     styles:
       self:
         justifyContent: center
-    hoverEffect: shadow-plus-move-up
+    hoverEffect: thin-underline
 slug: yuzu-early-access-pc
 isFeatured: false
 isDraft: false
