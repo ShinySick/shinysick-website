@@ -116,7 +116,7 @@ seo:
     favoritos con una emulación precisa y de alta calidad. Guías, descargas y
     actualizaciones.
   addTitleSuffix: false
-  socialImage: /images/Guia Yuzu EA.jpg
+  socialImage: /images/ryujinx-pc-miniatura.webp
   metaTags: []
 colors: bg-light-fg-dark
 styles:
