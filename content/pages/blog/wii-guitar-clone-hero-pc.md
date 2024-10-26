@@ -110,9 +110,9 @@ seo:
   type: Seo
   metaTitle: Conectar Instrumentos de Wii en Clone Hero - Tutorial Paso a Paso
   metaDescription: >-
-    Descubre Yuzu Early Access 4176, el emulador de Nintendo Switch líder. Juega
-    tus juegos favoritos con la mejor calidad y rendimiento. ¡Guías, descargas y
-    noticias exclusivas!
+    Descubre cómo conectar y configurar tus instrumentos de Wii en Clone Hero.
+    Sigue nuestro tutorial paso a paso para disfrutar de una experiencia musical
+    única.
   addTitleSuffix: false
   socialImage: /images/wii-guitar-clone-hero.webp
   metaTags: []
