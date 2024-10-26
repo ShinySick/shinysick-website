@@ -104,7 +104,10 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Cómo Activar el Giroscopio en Cemu - Tutorial
-  metaDescription: ''
+  metaDescription: >-
+    Aprende a activar y configurar el giroscopio de tu control en el emulador
+    Cemu con nuestra guía completa. Optimiza tu experiencia de juego en pocos
+    pasos.
   addTitleSuffix: false
   socialImage: /images/cemu-giroscopio-miniatura.webp
   metaTags: []
