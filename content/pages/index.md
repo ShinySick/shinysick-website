@@ -959,5 +959,6 @@ seo:
   metaTags:
     - type: MetaTag
       property: 'og:title'
+      content: ShinySick | Emulación de Consolas y Preservación de Videojuegos
 type: PageLayout
 ---
