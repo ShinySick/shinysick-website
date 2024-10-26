@@ -55,7 +55,9 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: >-
+    Adiós al Emulador Uzuy: ¿Qué Significa el Fin para los Fans de Nintendo
+    Switch?
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
