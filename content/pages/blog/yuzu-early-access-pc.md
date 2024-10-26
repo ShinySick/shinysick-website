@@ -76,3 +76,11 @@ styles:
 
 *   **RAM:** 8GB con GPU / 12GB con iGPU
 
+
+
+### Archivos Necesarios:
+
+*   [Prod.keys](/prodkeys)
+
+*   [Firmware](/firmwares)
+
