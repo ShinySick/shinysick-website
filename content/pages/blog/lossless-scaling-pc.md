@@ -47,7 +47,7 @@ bottomSections:
     actions: []
     media:
       type: VideoBlock
-      title: Como Descargar y configurar yuzu early access en PC paso a paso
+      title: Como Usar Lossless Scaling CORRECTAMENTE
       url: 'https://youtu.be/NxmtJP-YNn8'
       autoplay: false
       loop: false
