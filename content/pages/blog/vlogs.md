@@ -23,6 +23,7 @@ bottomSections:
         self:
           textAlign: center
     posts:
+      - content/pages/blog/uzuy-dejara-de-existir.md
       - content/pages/blog/life-of-our-development-team.md
     showThumbnail: true
     showExcerpt: true
