@@ -85,5 +85,7 @@ styles:
     borderRadius: none
     flexDirection: col
 type: PostLayout
+seo:
+  type: Seo
 ---
 Domina la emulación de videojuegos con nuestros tutoriales detallados. Desde la instalación hasta la optimización, aprende a jugar tus títulos favoritos en tu PC con facilidad.
