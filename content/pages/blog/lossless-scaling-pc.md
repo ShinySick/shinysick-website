@@ -115,7 +115,7 @@ seo:
     Descubre cómo descargar y usar Lossless Scaling para aumentar los FPS en tus
     juegos. Optimiza tu experiencia de juego con nuestra guía detallada y mejora
     el rendimiento de tu PC.
-  addTitleSuffix: false
+  addTitleSuffix: true
   socialImage: /images/Guia Yuzu EA.jpg
   metaTags: []
 colors: bg-light-fg-dark
