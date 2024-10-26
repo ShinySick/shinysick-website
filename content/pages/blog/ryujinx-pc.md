@@ -4,8 +4,8 @@ title: CÓMO DESCARGAR Y CONFIGURAR RYUJINX EN PC
 date: '2024-03-07'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Esta es LA MEJOR MANERA de como emular la nintendo switch en PC, utilizando
+  RYUJINX.
 featuredImage:
   type: ImageBlock
   url: /images/ryujinx-pc-miniatura.webp
