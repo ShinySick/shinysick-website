@@ -33,7 +33,7 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Uzuy ya no va a existir
+      text: Uzuy ya no va a existir... ¿O si?
       color: text-dark
       styles:
         self:
