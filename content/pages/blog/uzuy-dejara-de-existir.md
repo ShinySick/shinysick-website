@@ -8,7 +8,7 @@ excerpt: >-
   todas las polemicas con los emuladores de Nintendo Switch.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/adios-uzuy-mmjr-miniatura.webp
   altText: Thumbnail
   elementId: ''
   styles:
