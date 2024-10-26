@@ -124,7 +124,6 @@ styles:
 ---
 **Ryujinx** es un emulador de Nintendo Switch, una consola de videojuegos de Nintendo, Ryujinx permite a los usuarios jugar a juegos de **Nintendo Switch en su computadora**, sin necesidad de tener la consola física.
 
-
 ### Requisitos Minimos de PC para el Emulador Ryujinx:
 
 *   **CPU:** Ryzen 3 1200 / Core i5 4th Gen
@@ -169,5 +168,69 @@ Las prodkeys son los archivos encargados de que el emulador decodifique el titul
 
 4.  Listo ya tienes el firmware instalado
 
+<br>
 
+### Consigue tus juegos
+
+Paginas recomendadas: *(Se recomienda usar un buen bloqueador de anuncios porque todas tienen bastantes, entrar con precaución)*
+
+*   [NSW2U](https://nsw2u.com/)
+
+*   [ROMSLAB](https://romslab.com/)
+
+*   [NSWGAME](https://nswgame.com/category/switch/)
+
+*   [OniGamer](https://discord.gg/FWnyawQCcE)
+
+*   [Mediafire](https://bit.ly/3ZOWbmN)
+
+*   [Google Drive](https://bit.ly/4gS5Hvu)
+
+<br>
+
+### Instala Updates de Juegos
+
+Para instalar tus updates haz lo siguiente:
+
+1.  Da clic derecho en el juego a actualizar y selecciona: "Gestionar actualizaciones de juego"
+
+2.  Da clic en Agregar y selecciona tu archivo de actualizacion .NSP
+
+3.  Acepta el mensaje y asegurate de que se a seleccionado en la lista
+
+4.  Da clic en guardar y listo, juego actualizado
+
+<br>
+
+### Instala DLC de Juegos
+
+Para instalar los DLC en tus juegos haz lo siguiente:
+
+1.  Da clic derecho en el juego y selecciona: "Gestionar DLC"
+
+2.  Da clic en Agregar y selecciona tus archivos de DLC .NSP
+
+3.  Acepta el mensaje y asegurate de que se a seleccionado en la lista
+
+4.  Da clic en guardar y listo, DLC's Instalados 
+
+<br>
+
+### Instala Mods en Juegos
+
+Para instalar Mods en tus juegos haz lo siguiente:
+
+1.  Da clic derecho en el juego y selecciona: "Gestionar Mods"
+
+2.  Da clic en Agregar y selecciona la carpeta raiz del mod *(normalmente ahi estan las carpetas exefs o romfs)*
+
+3.  Acepta el mensaje y asegurate de que se ha seleccionado en la lista
+
+4.  Da clic en guardar y listo, Mods instalados
+
+<br>
+
+Y listo con estas configuraciónes ya puedes empezar a jugar tus titulos de Nintendo Switch en PC
+
+Si tienes dudas en algun paso especifico revisa la guía de abajo para una explicación aún más detallada.
 
