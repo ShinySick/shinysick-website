@@ -8,7 +8,7 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/Yuzu-early-access-guia.jpg
+  url: /images/wii-guitar-clone-hero.webp
   altText: Yuzu Guia Completa Miniatura
   elementId: ''
   styles:
