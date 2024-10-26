@@ -50,6 +50,10 @@ bottomSections:
     styles:
       self:
         justifyContent: center
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
 slug: yuzu-early-access-pc
 isFeatured: false
 isDraft: false
