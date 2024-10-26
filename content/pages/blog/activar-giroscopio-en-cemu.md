@@ -37,9 +37,8 @@ bottomSections:
         self:
           textAlign: left
     subtitle: Activa el Giroscopio en Cemu
-    text: >
-      Tutorial para poder **utilizar los instrumentos de Guitar Hero de la
-      Nintendo Wii** en PC con **Wiitarthing** y **Clone Hero**.
+    text: |
+      Tutorial para poder **utilizar el giroscopio de tus mandos** en **CEMU**.
     actions: []
     media:
       type: VideoBlock
