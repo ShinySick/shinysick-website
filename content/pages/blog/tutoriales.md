@@ -17,7 +17,6 @@ bottomSections:
   - type: FeaturedPostsSection
     posts:
       - content/pages/blog/wii-guitar-clone-hero-pc.md
-      - content/pages/blog/life-of-our-development-team.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
