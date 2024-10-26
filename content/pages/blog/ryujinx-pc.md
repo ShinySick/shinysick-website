@@ -48,7 +48,7 @@ bottomSections:
     actions: []
     media:
       type: VideoBlock
-      title: Como Descargar y configurar yuzu early access en PC paso a paso
+      title: Como Descargar y configurar Ryujinx Keys y firmware 19.0.0
       url: 'https://youtu.be/W8Km5empX1A'
       autoplay: false
       loop: false
