@@ -70,6 +70,10 @@ bottomSections:
         justifyContent: center
       subtitle:
         textAlign: left
+    badge:
+      type: Badge
+      label: Vlog
+      color: text-primary
   - type: RecentPostsSection
     title:
       type: TitleBlock
