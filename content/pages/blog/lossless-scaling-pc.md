@@ -121,7 +121,7 @@ styles:
   self:
     flexDirection: col
 ---
-Consigue **MÁS FPS** en **CUALQUIER PC** incluso de **GAMA BAJA**. 😲
+**DESCARGA MÁS FPS** en **CUALQUIER PC** incluso de **GAMA BAJA**. 😲
 
 **Lossless Scaling** te permite escalar juegos en ventana a pantalla completa utilizando algoritmos de escalado de última generación, así como también utilizar escalado patentado basado en Machine Learning y generación de cuadros (**Frame Generation**).
 
