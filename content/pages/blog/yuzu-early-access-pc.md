@@ -38,7 +38,7 @@ bottomSections:
       styles:
         self:
           textAlign: left
-    subtitle: Consulta la Guía
+    subtitle: Guía Completa
     text: >
       **Guía Definitiva** para instalar y configurar **YUZU EARLY ACCESS** en
       cualquier version.
