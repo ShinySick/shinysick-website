@@ -38,7 +38,7 @@ bottomSections:
       styles:
         self:
           textAlign: left
-    subtitle: Yuzu Early Access 4176
+    subtitle: Yuzu Early Access 4176.
     text: >
       **Guía Definitiva** para instalar y configurar **YUZU EARLY ACCESS** en
       cualquier version.
