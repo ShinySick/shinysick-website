@@ -71,7 +71,7 @@ styles:
 type: PostLayout
 seo:
   type: Seo
-  metaTitle: Guias
+  metaTitle: Guías Completas de Emulación - Domina Tus Emuladores Favoritos
 ---
 <div style="text-align: left">¿Te entusiasma la emulación de videojuegos? ¡Estás en el sitio adecuado! Aquí, examinamos las guías completas que hemos elaborado para los emuladores más destacados.</div>
 
