@@ -38,7 +38,7 @@ bottomSections:
       styles:
         self:
           textAlign: left
-    subtitle: Yuzu Early Access 4176
+    subtitle: Wiitarthing + Clone Hero
     text: >
       **Guía Definitiva** para instalar y configurar **YUZU EARLY ACCESS** en
       cualquier version.
