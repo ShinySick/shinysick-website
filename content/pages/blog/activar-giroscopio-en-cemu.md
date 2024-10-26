@@ -104,10 +104,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Yuzu Early Access 4176 - El Mejor Emulador de Nintendo Switch
-  metaDescription: >-
-    Descubre Yuzu Early Access 4176, el emulador de Nintendo Switch líder. Juega
-    tus juegos favoritos con la mejor calidad y rendimiento. ¡Guías, descargas y
-    noticias exclusivas!
+  metaDescription: ''
   addTitleSuffix: false
   socialImage: /images/cemu-giroscopio-miniatura.webp
   metaTags: []
