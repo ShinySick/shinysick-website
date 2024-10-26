@@ -33,7 +33,7 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: Uzuy ya no va a existir
       color: text-dark
       styles:
         self:
