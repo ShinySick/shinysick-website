@@ -45,7 +45,7 @@ bottomSections:
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
+      title: Como Descargar y configurar yuzu early access en PC paso a paso
       url: 'https://youtu.be/W8Km5empX1A'
       autoplay: false
       loop: false
