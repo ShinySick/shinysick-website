@@ -38,7 +38,7 @@ bottomSections:
     showAuthor: true
     actions: []
     elementId: ''
-    variant: two-col-grid
+    variant: three-col-grid
     colors: bg-light-fg-dark
     hoverEffect: thick-underline
     styles:
