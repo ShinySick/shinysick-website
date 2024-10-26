@@ -123,8 +123,9 @@ styles:
 ---
 Consigue **MÁS FPS** en **CUALQUIER PC** incluso de **GAMA BAJA**. 😲
 
-
 **Lossless Scaling** te permite escalar juegos en ventana a pantalla completa utilizando algoritmos de escalado de última generación, así como también utilizar escalado patentado basado en Machine Learning y generación de cuadros (**Frame Generation**).
+
+<br>
 
 ### Requisitos Minimos de Lossless Scaling:
 
@@ -137,6 +138,8 @@ Consigue **MÁS FPS** en **CUALQUIER PC** incluso de **GAMA BAJA**. 😲
 *   **RAM:** *No hay minimo*
 
 *   **Directx:** Version 11
+
+<br>
 
 ### Archivos Necesarios:
 
@@ -159,3 +162,4 @@ Si elegiste la version del caribe deberás hacer el siguiente procedimiento para
 
 5.  Listo ya lo tienes registrado
 
+<br>
