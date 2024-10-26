@@ -339,7 +339,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: center
+          textAlign: left
           fontWeight: 400
   - subtitle: Manejamos TODOS los estados de ánimo.
     images:
