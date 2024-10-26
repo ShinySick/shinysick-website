@@ -43,7 +43,7 @@ bottomSections:
     media:
       type: VideoBlock
       title: Como activar el giroscopio en cemu emulator facil y rapido
-      url: 'https://youtu.be/0Eb7houwca4'
+      url: 'https://youtu.be/HNhUNYsrYSU'
       autoplay: false
       loop: false
       muted: true
