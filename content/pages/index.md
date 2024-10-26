@@ -340,7 +340,7 @@ sections:
       styles:
         self:
           textAlign: center
-          fontWeight: 400
+          fontWeight: 700
   - subtitle: Manejamos TODOS los estados de ánimo.
     images:
       - url: /images/shiny bless.png
