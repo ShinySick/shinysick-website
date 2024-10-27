@@ -256,7 +256,7 @@ sections:
         elementId: ''
       - type: Button
         label: No le des click
-        altText: ''
+        altText: Dale click para una sorpresa
         url: 'https://bit.ly/35ODAvb '
         showIcon: true
         icon: arrowDown
