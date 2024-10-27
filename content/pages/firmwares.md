@@ -106,7 +106,7 @@ sections:
           - type: Button
             label: Descargar
             altText: ''
-            url: /
+            url: 'https://bit.ly/3PPJSAT'
             showIcon: true
             icon: arrowDown
             iconPosition: right
