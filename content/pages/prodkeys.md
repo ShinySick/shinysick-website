@@ -23,7 +23,7 @@ sections:
           - Windows
           - Android
           - Linux
-          - Feature four
+          - ''
         image:
           type: ImageBlock
           url: /images/yuzu-prodkeys-miniatura.webp
