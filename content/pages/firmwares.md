@@ -244,7 +244,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Get started
+        label: No le des click
         altText: ''
         url: 'https://bit.ly/35ODAvb '
         showIcon: false
