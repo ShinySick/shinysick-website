@@ -49,7 +49,7 @@ sections:
             borderStyle: dotted
       - type: FeaturedItem
         title: Firmware 18.1.0
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
