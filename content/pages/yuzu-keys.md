@@ -94,7 +94,16 @@ sections:
         tagline: ''
         subtitle: 'Te estas alejando de las necesarias y actuales :('
         text: ''
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://bit.ly/3FDTQ2X'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-dark-fg-light
         styles:
           self:
