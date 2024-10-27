@@ -195,7 +195,7 @@ sections:
         text: "Estoy 100% seguro que actualmente ya no ocupas esta versión a menos que sea algo especifico. \U0001F480\n"
       - type: FeaturedItem
         title: Firmware 16.0.3
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/firmware-quinto.webp
