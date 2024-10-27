@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Menú Inicial
 slug: /
 sections:
   - type: GenericSection
