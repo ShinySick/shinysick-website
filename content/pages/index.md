@@ -822,7 +822,7 @@ sections:
         text: |
           entonces para cuando esos mario partys?
         image:
-          url: /images/apashe.png
+          url: /images/apashe-miembro.webp
           altText: Apashejk 2019
           styles:
             self:
