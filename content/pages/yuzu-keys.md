@@ -155,15 +155,6 @@ sections:
         style: primary
         showIcon: true
       - type: Button
-        label: Firmware
-        altText: ''
-        url: /firmwares
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-      - type: Button
         label: Regresar
         altText: ''
         url: /prodkeys
@@ -171,6 +162,15 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        elementId: ''
+      - type: Button
+        label: Firmware
+        altText: ''
+        url: /firmwares
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
         elementId: ''
     variant: toggle-list
     colors: bg-neutral-fg-dark
