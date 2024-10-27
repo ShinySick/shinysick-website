@@ -8,7 +8,7 @@ topSections:
       text: No te lo Pierdas
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: ''
     posts:
       - content/pages/blog/uzuy-dejara-de-existir.md
     showThumbnail: true
