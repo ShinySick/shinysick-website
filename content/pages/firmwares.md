@@ -80,7 +80,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: ''
+            altText: Firmware 18.1.0 Descargar
             url: 'https://bit.ly/3XSbUjU'
             showIcon: true
             icon: arrowDown
