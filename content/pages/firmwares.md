@@ -265,7 +265,7 @@ sections:
         elementId: ''
       - type: Button
         label: Prod.keys
-        altText: ''
+        altText: Descargar Prod.keys
         url: /prodkeys
         showIcon: false
         icon: arrowRight
