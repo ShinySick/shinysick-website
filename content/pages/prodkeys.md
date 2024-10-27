@@ -98,7 +98,7 @@ sections:
           - type: Button
             label: Magia
             url: /
-            icon: arrowRight
+            icon: arrowDown
             iconPosition: right
             style: secondary
             showIcon: true
