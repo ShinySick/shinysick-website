@@ -46,7 +46,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Ryujinx
+        title: Ryujinx 1.2 + LDN
         price: $99
         details: Prod.Keys
         description: >-
