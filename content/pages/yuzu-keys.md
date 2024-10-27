@@ -99,7 +99,7 @@ sections:
             label: Descargar
             altText: ''
             url: 'https://bit.ly/3FDTQ2X'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: secondary
