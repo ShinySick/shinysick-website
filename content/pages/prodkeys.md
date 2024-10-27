@@ -116,7 +116,6 @@ sections:
           accusantium doloremque.
         features:
           - Android
-          - Feature three
           - Feature four
         image:
           type: ImageBlock
