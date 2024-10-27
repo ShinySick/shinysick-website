@@ -66,7 +66,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Senior Software Engineer
+        title: Yuzu Prodkeys 18.0.0
         subtitle: Engineering
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
