@@ -81,7 +81,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Cotton Knit Throws
+        title: Firmware 18.0.1
         subtitle: ''
         image:
           type: ImageBlock
