@@ -153,6 +153,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        showIcon: true
       - type: Button
         label: Firmware
         altText: ''
