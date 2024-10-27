@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: This is a new page
+title: Nintendo Switch Prod.keys
 sections: []
 slug: prodkeys
 isDraft: false
