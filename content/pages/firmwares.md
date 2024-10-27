@@ -243,6 +243,15 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Button
+        label: Get started
+        altText: ''
+        url: 'https://bit.ly/35ODAvb '
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     elementId: ''
     variant: small-list
     colors: bg-neutral-fg-dark
