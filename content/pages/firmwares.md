@@ -113,7 +113,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Firmware 17.0.1
-        subtitle: $117
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
