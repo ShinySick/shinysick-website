@@ -88,6 +88,9 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+        text: >
+          Es el más compatible con la mayoria de los juegos en todos los
+          emuladores.
       - type: FeaturedItem
         title: Firmware 18.0.0
         subtitle: ''
