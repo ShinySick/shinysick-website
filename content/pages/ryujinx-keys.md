@@ -40,7 +40,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Ryujinx Prodkeys 18.1.0
+        title: Ryujinx 1.2 Prodkeys 18.1.0
         subtitle: Estas son más compatibles.
         text: ''
         actions:
