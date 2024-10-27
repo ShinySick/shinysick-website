@@ -229,7 +229,8 @@ sections:
           - type: Button
             label: Ver
             altText: ''
-            url: /
+            url: >-
+              https://www.youtube.com/playlist?list=PLRZYnOrbeoT0J-vLlgrfNF60KnZrM7vvq
             showIcon: false
             icon: arrowRight
             iconPosition: right
