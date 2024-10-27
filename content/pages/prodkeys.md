@@ -139,7 +139,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: 'Sudachi '
+        title: Sudachi 1.0.11
         price: Free
         details: Prod.Keys
         description: >-
