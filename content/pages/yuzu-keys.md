@@ -92,7 +92,7 @@ sections:
       - type: FeaturedItem
         title: Yuzu Prodkeys 17.0.0
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: 'Te estas alejando de las necesarias y actuales :('
         text: ''
         image:
           type: ImageBlock
