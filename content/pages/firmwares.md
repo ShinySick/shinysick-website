@@ -112,7 +112,7 @@ sections:
               - pr-2
             justifyContent: center
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: Firmware 18.0.0
         subtitle: $117
         image:
           type: ImageBlock
