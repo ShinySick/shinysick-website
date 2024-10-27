@@ -15,7 +15,7 @@ sections:
       - type: PricingPlan
         title: Yuzu
         price: Free
-        details: Windows +
+        details: Prod.keys
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
