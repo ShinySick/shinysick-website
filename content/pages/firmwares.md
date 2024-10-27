@@ -223,7 +223,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: ''
+            altText: Firmware 16.0.3 Descargar
             url: 'https://bit.ly/3VZ9uwU'
             showIcon: true
             icon: arrowDown
