@@ -770,7 +770,7 @@ sections:
           JAJAJAJAJA Me sigue haciendo el día JAJAJAJA
 
         image:
-          url: /images/rollo.png
+          url: /images/rollo-miembro.webp
           altText: Rollo de Queso
           styles:
             self:
