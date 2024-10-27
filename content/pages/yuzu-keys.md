@@ -93,8 +93,7 @@ sections:
         title: Yuzu Prodkeys 17.0.0
         tagline: 'Te estas alejando de las necesarias y actuales :('
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
