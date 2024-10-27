@@ -15,7 +15,7 @@ sections:
       - type: PricingPlan
         title: ''
         price: '0'
-        details: ''
+        details: Early Access 4176
         description: |
           Aunque cesó su desarrollo aún puede correr algunos juegos recientes.
 
