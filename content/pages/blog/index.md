@@ -5,10 +5,10 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: No te lo Pierdas
+      text: ¡¡NO TE LO PIERDAS!!
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: ''
     posts:
       - content/pages/blog/uzuy-dejara-de-existir.md
     showThumbnail: true
@@ -31,12 +31,14 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
+  metaTitle: 'Blog - Todo sobre Emulación de Consolas: Tutoriales y Vlogs Exclusivos'
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
-  socialImage: /images/img-placeholder.svg
+    Explora el mundo de la emulación de consolas con nuestros tutoriales
+    detallados y vlogs exclusivos. Aprende a revivir tus juegos favoritos con
+    guías y consejos actualizados.
+  socialImage: /images/blog-miniatura.webp
   type: Seo
+  addTitleSuffix: true
 type: PostFeedLayout
 bottomSections: []
 postFeed:
