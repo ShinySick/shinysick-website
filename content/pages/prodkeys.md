@@ -64,7 +64,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            url: /
+            url: /ryujinx-keys
             icon: arrowDown
             iconPosition: right
             style: secondary
