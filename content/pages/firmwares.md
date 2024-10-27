@@ -13,7 +13,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ¡Más Reciente!
-        subtitle: $ 88 – $ 176
+        subtitle: Firmware 19.0.0
         text: >+
           Available in a range of colors and patterns, we make it easy to pick
           the perfect look for you.
