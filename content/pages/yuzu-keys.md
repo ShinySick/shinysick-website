@@ -40,7 +40,7 @@ sections:
             justifyContent: center
         tagline: ''
       - type: FeaturedItem
-        title: Open Source Engineer
+        title: Yuzu Prodkeys 18.1.0
         subtitle: Marketing
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
