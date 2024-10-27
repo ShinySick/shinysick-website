@@ -51,7 +51,7 @@ sections:
             textAlign: left
             borderColor: border-neutralAlt
             borderWidth: 2
-            borderRadius: x-small
+            borderRadius: medium
             flexDirection: row-reverse
             justifyContent: center
             borderStyle: dotted
