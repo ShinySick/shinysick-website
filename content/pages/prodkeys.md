@@ -87,7 +87,6 @@ sections:
           - Android
           - Linux
           - Mac
-          - ''
         image:
           type: ImageBlock
           url: /images/suyu-prodkeys-miniatura.webp
