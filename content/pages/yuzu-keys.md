@@ -152,7 +152,7 @@ sections:
         altText: ''
         url: /prodkeys
         showIcon: false
-        icon: arrowRight
+        icon: arrowLeft
         iconPosition: left
         style: secondary
         elementId: ''
