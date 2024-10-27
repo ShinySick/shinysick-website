@@ -132,7 +132,7 @@ sections:
             altText: ''
             url: 'https://bit.ly/44WJSFl '
             showIcon: true
-            icon: arrowRight
+            icon: arrowDown
             iconPosition: right
             style: secondary
             elementId: ''
