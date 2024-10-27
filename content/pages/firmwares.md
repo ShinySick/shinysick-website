@@ -171,7 +171,7 @@ sections:
             self:
               borderRadius: medium
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
