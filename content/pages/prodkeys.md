@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Nintendo Switch Prod.keys
+title: Nintendo Switch Prodkeys
 sections:
   - type: PricingSection
     title:
