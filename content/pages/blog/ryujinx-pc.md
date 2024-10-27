@@ -117,7 +117,7 @@ seo:
   addTitleSuffix: false
   socialImage: /images/ryujinx-pc-miniatura.webp
   metaTags: []
-colors: bg-light-fg-dark
+colors: bg-dark-fg-light
 styles:
   self:
     flexDirection: col
