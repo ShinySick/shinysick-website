@@ -159,6 +159,30 @@ sections:
             borderRadius: large
             justifyContent: center
         text: "Te estas yendo un poco atrás no crees? No es necesaria ya esta versión. \U0001F440\n"
+      - type: FeaturedItem
+        title: Firmware 16.1.0
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: |
+          Follow the tutorial to build your first Netlify Create site.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
     actions: []
     elementId: ''
     variant: small-list
