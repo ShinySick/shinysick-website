@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: Magia Para Nintendo Switch y Emuladores
       color: text-dark
       styles:
         self:
