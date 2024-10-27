@@ -796,7 +796,7 @@ sections:
         text: |
           fwlih añoña... ah no digo.. felih navida.. y ahora felih año nuevo uwu
         image:
-          url: /images/gordi.png
+          url: /images/gordi-miembro.webp
           altText: Gorditorta
           styles:
             self:
