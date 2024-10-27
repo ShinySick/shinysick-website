@@ -145,8 +145,8 @@ sections:
           accusantium doloremque.
         features:
           - Windows
-          - Linux
           - Android
+          - Linux
           - Feature four
         image:
           type: ImageBlock
