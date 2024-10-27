@@ -148,13 +148,6 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: No le des click
-        url: 'https://bit.ly/35ODAvb '
-        icon: arrowDown
-        iconPosition: right
-        style: primary
-        showIcon: true
-      - type: Button
         label: Regresar
         altText: ''
         url: /prodkeys
@@ -163,6 +156,13 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Button
+        label: No le des click
+        url: 'https://bit.ly/35ODAvb '
+        icon: arrowDown
+        iconPosition: right
+        style: primary
+        showIcon: true
       - type: Button
         label: Firmware
         altText: ''
