@@ -149,7 +149,7 @@ sections:
     actions:
       - type: Button
         label: No le des click
-        url: 'bit.ly/35ODAvb '
+        url: 'https://bit.ly/35ODAvb '
         icon: arrowDown
         iconPosition: right
         style: primary
