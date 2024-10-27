@@ -288,7 +288,7 @@ sections:
     actions:
       - label: Ver Más
         altText: ''
-        url: /
+        url: /emuladores
         showIcon: false
         icon: arrowRight
         iconPosition: right
