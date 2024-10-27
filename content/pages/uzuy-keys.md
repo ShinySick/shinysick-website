@@ -67,7 +67,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Uzuy MMJR Prodkeys 18.0.0
-        subtitle: Sirven para el Menú de Switch en Suyu y Sudachi ;)
+        subtitle: 'Ya no bajes, no harán un cambio :('
         text: ''
         actions:
           - type: Button
