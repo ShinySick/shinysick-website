@@ -26,7 +26,7 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/yuzu-logo.webp
+          url: /images/yuzu ea.png
           altText: Pricing plan 1
         actions:
           - type: Button
