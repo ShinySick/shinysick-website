@@ -118,7 +118,7 @@ sections:
         actions:
           - type: Button
             label: Ver
-            altText: ''
+            altText: Ryujinx Lista de Reproducción
             url: >-
               https://www.youtube.com/playlist?list=PLRZYnOrbeoT28MnQEgre8DwMuaR0ywPCu
             showIcon: false
