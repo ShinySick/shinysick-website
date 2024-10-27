@@ -114,5 +114,6 @@ styles:
   self:
     flexDirection: col
     borderRadius: large
+    borderColor: border-primary
 ---
 El emulador UZUY Cierra...💀 Pero NO COMO TE LO IMAGINAS.
