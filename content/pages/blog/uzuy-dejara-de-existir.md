@@ -115,5 +115,6 @@ styles:
     flexDirection: col
     borderRadius: large
     borderColor: border-dark
+    textAlign: center
 ---
 El emulador UZUY Cierra...💀 Pero NO COMO TE LO IMAGINAS.
