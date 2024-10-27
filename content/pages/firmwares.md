@@ -247,7 +247,7 @@ sections:
         label: No le des click
         altText: ''
         url: 'https://bit.ly/35ODAvb '
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
