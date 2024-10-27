@@ -37,7 +37,7 @@ sections:
             textAlign: right
             borderRadius: x-large
             flexDirection: col
-            justifyContent: flex-start
+            justifyContent: center
         tagline: ''
       - type: FeaturedItem
         title: Open Source Engineer
