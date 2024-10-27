@@ -174,7 +174,7 @@ sections:
           - type: Button
             label: Descargar
             altText: ''
-            url: /
+            url: 'https://bit.ly/3ri3uoe'
             showIcon: true
             icon: arrowDown
             iconPosition: right
