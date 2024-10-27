@@ -120,6 +120,7 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: col
+    borderRadius: large
 ---
 Si tienes una **batería o guitarra de wii** y quieres utilizarlas en PC, este tutorial te ayudará a conectarlas a Windows 11.
 
