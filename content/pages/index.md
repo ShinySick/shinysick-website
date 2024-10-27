@@ -155,7 +155,7 @@ sections:
         actions:
           - type: Button
             label: Ver
-            altText: ''
+            altText: Uzuy Lista de Reproducción
             url: >-
               https://www.youtube.com/playlist?list=PLRZYnOrbeoT3A0HY_ufJ3BwUnXhGjW4SV
             showIcon: false
