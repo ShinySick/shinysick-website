@@ -97,7 +97,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: ''
+            altText: Prodkeys 17.0.0 Descargar
             url: 'https://bit.ly/3FDTQ2X'
             showIcon: true
             icon: arrowDown
