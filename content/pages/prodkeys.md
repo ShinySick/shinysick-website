@@ -97,7 +97,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            url: /
+            url: /suyu-keys
             icon: arrowDown
             iconPosition: right
             style: secondary
