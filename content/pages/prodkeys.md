@@ -36,6 +36,7 @@ sections:
             iconPosition: right
             style: secondary
             showIcon: true
+            altText: Descargar Prodkeys Yuzu
         colors: bg-dark-fg-light
         styles:
           self:
@@ -69,6 +70,7 @@ sections:
             iconPosition: right
             style: secondary
             showIcon: true
+            altText: Descargar Prodkeys Ryujinx
         colors: bg-dark-fg-light
         styles:
           self:
@@ -102,6 +104,7 @@ sections:
             iconPosition: right
             style: secondary
             showIcon: true
+            altText: Descargar Prodkeys Suyu
         colors: bg-dark-fg-light
         styles:
           self:
@@ -132,6 +135,7 @@ sections:
             iconPosition: right
             style: secondary
             showIcon: true
+            altText: Descargar Prodkeys uzuy
         colors: bg-dark-fg-light
         styles:
           self:
@@ -164,6 +168,7 @@ sections:
             iconPosition: right
             style: secondary
             showIcon: true
+            altText: Descargar Prodkeys sudachi
         colors: bg-dark-fg-light
         styles:
           self:

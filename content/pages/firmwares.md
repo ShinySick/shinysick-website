@@ -44,7 +44,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: ''
+            altText: Firmware 19.0.0 Descargar
             url: 'https://bit.ly/3YhWHYf'
             showIcon: true
             icon: arrowDown
@@ -80,7 +80,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: ''
+            altText: Firmware 18.1.0 Descargar
             url: 'https://bit.ly/3XSbUjU'
             showIcon: true
             icon: arrowDown
@@ -116,7 +116,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: ''
+            altText: Firmware 18.0.0 Descargar
             url: 'https://bit.ly/3PPJSAT'
             showIcon: true
             icon: arrowDown
@@ -151,7 +151,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: ''
+            altText: Firmware 17.0.1 Descargar
             url: 'https://bit.ly/417Joux'
             showIcon: true
             icon: arrowDown
@@ -184,7 +184,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: ''
+            altText: Firmware 16.1.0 Descargar
             url: 'https://bit.ly/3ri3uoe'
             showIcon: true
             icon: arrowDown
@@ -223,7 +223,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: ''
+            altText: Firmware 16.0.3 Descargar
             url: 'https://bit.ly/3VZ9uwU'
             showIcon: true
             icon: arrowDown
@@ -247,7 +247,7 @@ sections:
     actions:
       - type: Button
         label: Regresar
-        altText: ''
+        altText: Regresar
         url: /
         showIcon: false
         icon: arrowRight
@@ -256,7 +256,7 @@ sections:
         elementId: ''
       - type: Button
         label: No le des click
-        altText: ''
+        altText: Dale click para una sorpresa
         url: 'https://bit.ly/35ODAvb '
         showIcon: true
         icon: arrowDown
@@ -265,7 +265,7 @@ sections:
         elementId: ''
       - type: Button
         label: Prod.keys
-        altText: ''
+        altText: Descargar Prod.keys
         url: /prodkeys
         showIcon: false
         icon: arrowRight

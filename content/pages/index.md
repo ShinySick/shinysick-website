@@ -13,7 +13,7 @@ sections:
       puedas disfrutarlos en tus dispositivos.
     actions:
       - label: Únete a la comunidad
-        altText: ''
+        altText: Únete a Discord
         url: 'https://discord.gg/bbyG99mbQF'
         showIcon: true
         icon: arrowRight
@@ -22,7 +22,7 @@ sections:
         elementId: ''
         type: Link
       - label: Discord
-        altText: ''
+        altText: Botón Discord
         url: 'https://discord.gg/bbyG99mbQF'
         showIcon: false
         icon: arrowRight
@@ -31,8 +31,8 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/emuladores.png
-      altText: Unblock your team boost your time to production preview
+      url: /images/emuladores-titulo.webp
+      altText: Minniatura Inicial de Emuladores de PC
       elementId: ''
       type: ImageBlock
     badge:
@@ -76,7 +76,7 @@ sections:
         actions:
           - type: Button
             label: Ver
-            altText: ''
+            altText: Yuzu Lista de Reproducción
             url: >-
               https://www.youtube.com/playlist?list=PLRZYnOrbeoT088dUT0fvPbfjWU1-TMwyP
             showIcon: false
@@ -118,7 +118,7 @@ sections:
         actions:
           - type: Button
             label: Ver
-            altText: ''
+            altText: Ryujinx Lista de Reproducción
             url: >-
               https://www.youtube.com/playlist?list=PLRZYnOrbeoT28MnQEgre8DwMuaR0ywPCu
             showIcon: false
@@ -155,7 +155,7 @@ sections:
         actions:
           - type: Button
             label: Ver
-            altText: ''
+            altText: Uzuy Lista de Reproducción
             url: >-
               https://www.youtube.com/playlist?list=PLRZYnOrbeoT3A0HY_ufJ3BwUnXhGjW4SV
             showIcon: false
@@ -191,7 +191,7 @@ sections:
         actions:
           - type: Button
             label: Ver
-            altText: ''
+            altText: Cemu Lista de Reproducción
             url: >-
               https://www.youtube.com/playlist?list=PLRZYnOrbeoT2xdv1ypbawWPm82Hvj12Ky
             showIcon: false
@@ -228,7 +228,7 @@ sections:
         actions:
           - type: Button
             label: Ver
-            altText: ''
+            altText: Suyu Lista de Reproducción
             url: >-
               https://www.youtube.com/playlist?list=PLRZYnOrbeoT0J-vLlgrfNF60KnZrM7vvq
             showIcon: false
@@ -265,7 +265,7 @@ sections:
         actions:
           - type: Button
             label: Ver
-            altText: ''
+            altText: Rpcs3 Lista de Reproducción
             url: >-
               https://www.youtube.com/playlist?list=PLRZYnOrbeoT1qvdAxluGdER7lXqeJKEmZ
             showIcon: false
@@ -287,7 +287,7 @@ sections:
             textAlign: left
     actions:
       - label: Ver Más
-        altText: ''
+        altText: Vér más emuladores
         url: /emuladores
         showIcon: false
         icon: arrowRight
@@ -460,7 +460,7 @@ sections:
     actions:
       - type: Button
         label: Ver en YT
-        altText: ''
+        altText: Ir al Video
         url: >-
           https://www.youtube.com/playlist?list=PLRZYnOrbeoT2tCC1C8XJbA4GY_azsoO05
         showIcon: true
@@ -511,7 +511,7 @@ sections:
     actions:
       - type: Button
         label: Ver en YT
-        altText: ''
+        altText: Ir al video
         url: >-
           https://www.youtube.com/playlist?list=PLRZYnOrbeoT1NUvAOssK_xyYxnVvYYu5C
         showIcon: true
@@ -562,7 +562,7 @@ sections:
     actions:
       - type: Button
         label: Ver en YT
-        altText: ''
+        altText: Ir al video
         url: >-
           https://www.youtube.com/playlist?list=PLRZYnOrbeoT3GVKH5zJZ4AcKaFMwk32BS
         showIcon: true
@@ -770,7 +770,7 @@ sections:
           JAJAJAJAJA Me sigue haciendo el día JAJAJAJA
 
         image:
-          url: /images/rollo.png
+          url: /images/rollo-miembro.webp
           altText: Rollo de Queso
           styles:
             self:
@@ -796,7 +796,7 @@ sections:
         text: |
           fwlih añoña... ah no digo.. felih navida.. y ahora felih año nuevo uwu
         image:
-          url: /images/gordi.png
+          url: /images/gordi-miembro.webp
           altText: Gorditorta
           styles:
             self:
@@ -822,7 +822,7 @@ sections:
         text: |
           entonces para cuando esos mario partys?
         image:
-          url: /images/apashe.png
+          url: /images/apashe-miembro.webp
           altText: Apashejk 2019
           styles:
             self:
@@ -849,7 +849,7 @@ sections:
 
 
         image:
-          url: /images/danmorales.png
+          url: /images/danmorales-miembro.webp
           altText: Dan Morales
           styles:
             self:
@@ -875,7 +875,7 @@ sections:
         text: ''
         image:
           url: /images/luisao.png
-          altText: Jane Doe
+          altText: Luisao Eclipse
           styles:
             self:
               borderRadius: full

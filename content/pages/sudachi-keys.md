@@ -20,7 +20,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: ''
+            altText: Prodkeys 19.0.0 Descargar
             url: 'https://bit.ly/48eOIj3'
             showIcon: true
             icon: arrowDown
@@ -46,7 +46,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: ''
+            altText: Prodkeys 18.1.0 Descargar
             url: 'https://bit.ly/4eVT01Y'
             showIcon: true
             icon: arrowDown
@@ -72,7 +72,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: ''
+            altText: Prodkeys 18.0.0 Descargar
             url: 'https://bit.ly/3J0bIqk'
             showIcon: true
             icon: arrowDown
@@ -97,7 +97,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: ''
+            altText: Prodkeys 17.0.0 Descargar
             url: 'https://bit.ly/3FDTQ2X'
             showIcon: true
             icon: arrowDown
@@ -129,7 +129,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: ''
+            altText: Prodkeys 16.x.x Descargar
             url: 'https://bit.ly/44WJSFl '
             showIcon: true
             icon: arrowDown
@@ -149,7 +149,7 @@ sections:
     actions:
       - type: Button
         label: Regresar
-        altText: ''
+        altText: Regresar
         url: /prodkeys
         showIcon: true
         icon: arrowLeft
@@ -163,9 +163,10 @@ sections:
         icon: arrowDown
         iconPosition: right
         style: primary
+        altText: Dale click para una sorpresa
       - type: Button
         label: Firmware
-        altText: ''
+        altText: Descargar firmware
         url: /firmwares
         showIcon: false
         icon: arrowRight
