@@ -213,7 +213,7 @@ sections:
           - type: Button
             label: Descargar
             altText: ''
-            url: /
+            url: 'https://bit.ly/3VZ9uwU'
             showIcon: true
             icon: arrowDown
             iconPosition: right
