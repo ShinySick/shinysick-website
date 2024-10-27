@@ -22,7 +22,7 @@ sections:
             altText: ''
             url: /
             showIcon: false
-            icon: arrowRight
+            icon: chevronDown
             iconPosition: right
             style: primary
             elementId: ''
