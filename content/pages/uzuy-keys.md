@@ -40,7 +40,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Yuzu Prodkeys 18.1.0
+        title: Uzuy MMJR Prodkeys 18.1.0
         subtitle: Estas son más compatibles.
         text: ''
         actions:
