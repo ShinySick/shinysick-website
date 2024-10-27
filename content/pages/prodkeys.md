@@ -136,10 +136,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-0
-              - pb-0
-              - pl-0
-              - pr-0
+              - pt-96
+              - pb-96
+              - pl-96
+              - pr-96
             borderRadius: large
     colors: bg-light-fg-dark
     styles:
