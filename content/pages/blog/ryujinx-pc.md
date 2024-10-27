@@ -117,10 +117,12 @@ seo:
   addTitleSuffix: false
   socialImage: /images/ryujinx-pc-miniatura.webp
   metaTags: []
-colors: bg-light-fg-dark
+colors: bg-dark-fg-light
 styles:
   self:
     flexDirection: col
+    textAlign: center
+    borderRadius: large
 ---
 **Ryujinx** es un emulador de Nintendo Switch, una consola de videojuegos de Nintendo, Ryujinx permite a los usuarios jugar a juegos de **Nintendo Switch en su computadora**, sin necesidad de tener la consola física.
 

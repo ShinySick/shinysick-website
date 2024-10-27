@@ -116,10 +116,12 @@ seo:
   addTitleSuffix: false
   socialImage: /images/wii-guitar-clone-hero.webp
   metaTags: []
-colors: bg-light-fg-dark
+colors: bg-dark-fg-light
 styles:
   self:
     flexDirection: col
+    borderRadius: large
+    textAlign: center
 ---
 Si tienes una **batería o guitarra de wii** y quieres utilizarlas en PC, este tutorial te ayudará a conectarlas a Windows 11.
 

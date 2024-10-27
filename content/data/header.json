@@ -41,91 +41,15 @@
             "type": "Link"
         },
         {
-            "label": "Emuladores Switch",
-            "altText": "Emuladores Switch",
-            "links": [
-                {
-                    "label": "Yuzu",
-                    "url": "/yuzu",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link",
-                    "altText": "Yuzu"
-                },
-                {
-                    "label": "Ryujinx",
-                    "url": "/ryujinx",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link",
-                    "altText": "Ryujinx"
-                },
-                {
-                    "label": "Suyu",
-                    "url": "/suyu",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link",
-                    "altText": "Suyu"
-                },
-                {
-                    "type": "Link",
-                    "label": "Uzuy",
-                    "altText": "Uzuy",
-                    "url": "/uzuy",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
-        },
-        {
-            "type": "SubNav",
-            "label": "Emuladores Playstation",
-            "altText": "Emuladores Playstation",
-            "links": [
-                {
-                    "type": "Link",
-                    "label": "PS1",
-                    "altText": "Ps1",
-                    "url": "/epsxe",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "PS2",
-                    "altText": "PS2",
-                    "url": "/ps2",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "PS3",
-                    "altText": "PS3",
-                    "url": "/ps3",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                }
-            ],
-            "labelStyle": "secondary"
+            "type": "Link",
+            "label": "Emuladores",
+            "altText": "",
+            "url": "/emuladores",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [

@@ -23,6 +23,7 @@ bottomSections:
         self:
           textAlign: center
     posts:
+      - content/pages/blog/lossless-scaling-pc.md
       - content/pages/blog/ryujinx-pc.md
       - content/pages/blog/rpcs3-pc.md
       - content/pages/blog/yuzu-early-access-pc.md
@@ -33,7 +34,7 @@ bottomSections:
     actions: []
     elementId: ''
     variant: three-col-grid
-    colors: bg-dark-fg-light
+    colors: bg-neutral-fg-dark
     hoverEffect: shadow-plus-move-up
     styles:
       self:
@@ -44,7 +45,7 @@ bottomSections:
           - pr-16
         justifyContent: center
 isFeatured: true
-colors: bg-light-fg-dark
+colors: bg-neutralAlt-fg-dark
 styles:
   self:
     padding:
@@ -56,7 +57,7 @@ styles:
     borderColor: border-light
     borderStyle: none
     borderWidth: 0
-    borderRadius: none
+    borderRadius: large
     flexDirection: col
 type: PostLayout
 seo:

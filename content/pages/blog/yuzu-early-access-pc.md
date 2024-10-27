@@ -120,10 +120,12 @@ seo:
   addTitleSuffix: false
   metaTags: []
   socialImage: /images/Guia Yuzu EA.jpg
-colors: bg-light-fg-dark
+colors: bg-dark-fg-light
 styles:
   self:
     flexDirection: col
+    textAlign: center
+    borderRadius: large
 ---
 Aprende a **INSTALAR Yuzu Early Access 4176** fué la versión más actualizada de éste emulador, logrando tener un **rendimiento** **muy alto** incluso en dispositivos no tan potentes.
 

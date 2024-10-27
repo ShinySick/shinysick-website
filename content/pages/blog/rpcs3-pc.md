@@ -102,10 +102,11 @@ bottomSections:
     actions: []
     elementId: ''
     variant: three-col-grid
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         justifyContent: center
+    hoverEffect: shadow-plus-move-up
 slug: rpcs3-pc
 isFeatured: false
 isDraft: false
@@ -119,10 +120,17 @@ seo:
   addTitleSuffix: false
   socialImage: /images/rpcs3-miniatura-pc.webp
   metaTags: []
-colors: bg-light-fg-dark
+colors: bg-dark-fg-light
 styles:
   self:
     flexDirection: col
+    borderRadius: large
+    textAlign: center
+    padding:
+      - pt-0
+      - pl-0
+      - pb-0
+      - pr-0
 ---
 **RPCS3** es un emulador y depurador de código abierto diseñado para la **PlayStation 3**, que permite a los usuarios jugar y depurar juegos de esta consola en sus computadoras. Esta herramienta está desarrollada en C++ y utiliza tecnologías de renderizado como **OpenGL, Vulkan y DirectX 12**.
 
@@ -146,8 +154,9 @@ styles:
 
 Necesitarás obligatoriamente el firmware oficial o modificado de una PS3 ***(PS3UPDAT.PUP)*** y aunque lo puedes conseguir en el [sitio oficial](https://www.playstation.com/es-es/support/hardware/ps3/system-software/) algunos no logran descargarlo, por lo cual aquí abajo te dejo el enlace directo:
 
-[\*\*Firmware PS3 OFICIAL PS3UPDAT.PUP
-\*\*](http://deu01.ps3.update.playstation.net/update/ps3/image/eu/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP)[**Descarga RPCS3 Oficial**](https://rpcs3.net/download)
+[**Firmware PS3 OFICIAL PS3UPDAT.PUP**](http://dmx01.ps3.update.playstation.net/update/ps3/image/mx/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP) **(Dale Clic Derecho y Guardar Vínculo Como)**
+
+[**Descarga RPCS3 Oficial**](https://rpcs3.net/download)
 
 ### Instala el Firmware PS3UPDAT.PUP
 
@@ -187,7 +196,7 @@ Para descargar las **UPDATES** de tus juegos de PS3 deberás hacer lo siguiente:
 
 4.  Descargar las updates mostradas
 
-*El dato "**BCUS98232"** es el numero de serie del juego al que le estas buscando su actualización.*
+*El dato* **"BCUS98232"** *es el numero de serie del juego al que le estas buscando su actualización.*
 
 *Si hay más de un archivo de instalación se deben* ***DESCARGAR E INSTALAR TODOS*** *desde el primero al último.*
 
@@ -198,7 +207,5 @@ Para descargar las **UPDATES** de tus juegos de PS3 deberás hacer lo siguiente:
 2.  **Install Packages/Raps/Edats**
 
 3.  Selecciona tu archivo **.pkg**
-
-
 
 Con esto ya tendrias tu emulador configurado y listo para usarse, si quieres más detalles consulta la guía de más abajo.

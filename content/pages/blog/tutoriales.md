@@ -36,7 +36,7 @@ bottomSections:
           - pr-16
         justifyContent: center
 isFeatured: true
-colors: bg-light-fg-dark
+colors: bg-neutralAlt-fg-dark
 styles:
   self:
     padding:
@@ -48,7 +48,7 @@ styles:
     borderColor: border-light
     borderStyle: none
     borderWidth: 0
-    borderRadius: none
+    borderRadius: large
     flexDirection: col
 type: PostLayout
 seo:

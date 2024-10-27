@@ -85,7 +85,7 @@ sections:
             style: primary
             elementId: ''
         elementId: null
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -101,7 +101,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/yuzu ea.png
+          url: /images/yuzu-logo.webp
           styles:
             self:
               borderRadius: x-large
@@ -111,7 +111,7 @@ sections:
           Destaca por su excelente rendimiento y precisión, interfaz amigable y
           estable.
         image:
-          url: /images/Ryujinx_32512.png
+          url: /images/ryujinx-logo.webp
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -126,7 +126,7 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -146,7 +146,7 @@ sections:
           Emulador de Switch para Android con un rendimiento superior a Yuzu.
         image:
           type: ImageBlock
-          url: /images/162283256.png
+          url: /images/uzuy.webp
           altText: Placeholder text
           elementId: ''
           styles:
@@ -163,7 +163,7 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -182,7 +182,7 @@ sections:
           Emulador de Nintendo Wii U para Windows y Linux de código abierto.
         image:
           type: ImageBlock
-          url: /images/Cemu_Emulator_Official_Logo.png
+          url: /images/cemu-logo.webp
           altText: Placeholder text
           elementId: ''
           styles:
@@ -199,7 +199,7 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -212,14 +212,14 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: XEMU
-        subtitle: Xbox Original
+        title: Suyu
+        subtitle: Nintendo Switch
         text: >
-          Emulador de código abierto que permite jugar titulos del Xbox Original
-          en PC.
+          Fué la continuación del emulador más popular de la Nintendo Switch,
+          Yuzu.
         image:
           type: ImageBlock
-          url: /images/xemu.png
+          url: /images/suyu-logo.webp
           altText: Placeholder text
           elementId: ''
           styles:
@@ -229,13 +229,14 @@ sections:
           - type: Button
             label: Ver
             altText: ''
-            url: /
+            url: >-
+              https://www.youtube.com/playlist?list=PLRZYnOrbeoT0J-vLlgrfNF60KnZrM7vvq
             showIcon: false
             icon: arrowRight
             iconPosition: right
             style: primary
             elementId: ''
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -255,7 +256,7 @@ sections:
           C++.
         image:
           type: ImageBlock
-          url: /images/core-color-png.png
+          url: /images/rpcs3-logo.webp
           altText: Placeholder text
           elementId: ''
           styles:
@@ -272,7 +273,7 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -287,7 +288,7 @@ sections:
     actions:
       - label: Ver Más
         altText: ''
-        url: ''
+        url: /emuladores
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -322,7 +323,7 @@ sections:
     showDate: true
     showAuthor: true
     variant: three-col-grid
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
@@ -429,6 +430,17 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: GenericSection
     title:
       text: Tutoriales de Interés
@@ -477,7 +489,7 @@ sections:
           borderRadius: large
       type: VideoBlock
     elementId: null
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         flexDirection: row
@@ -578,7 +590,7 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         flexDirection: row
@@ -586,7 +598,7 @@ sections:
       subtitle:
         textAlign: left
   - title: Divider
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
@@ -595,6 +607,132 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - title:
+      text: ¿Quieres apoyar de otras maneras?
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: 'Siguenos, Suscribete o Convietete en Miembro de Canal.'
+    items:
+      - title: YouTube
+        tagline: Suscripción
+        subtitle: Suscríbete al Canal
+        text: >+
+          <div style="text-align: left">Si encontraste lo que necesitabas, te
+          ayudé con tus dudas o te gustó el contenido, **suscribete al canal de
+          YT**.</div>
+
+        image:
+          url: /images/suscripcion-youtube.webp
+          altText: Placeholder Image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+        actions:
+          - type: Button
+            label: Suscríbete
+            altText: Boton de Suscripción
+            url: 'https://bit.ly/35ODAvb'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - title: YouTube
+        tagline: Membresia de Canal
+        subtitle: Únete a los Miembros
+        text: >
+          Al ser **miembro** de canal recibes **ventajas exclusivas, acceso
+          anticipado, menciones y sugerencias de contenido**.
+        image:
+          url: /images/membresia-youtube.webp
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+        actions:
+          - type: Button
+            label: Únete
+            altText: Boton Membresias YouTube
+            url: 'https://bit.ly/48mqCTG'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - title: Twitch
+        tagline: Sígueme
+        subtitle: Sígueme en Stream
+        text: >
+          A veces pasar el tiempo conviviendo **en vívo** es la mejor manera de
+          **comunicarnos, descansar y divertirnos**.
+        image:
+          url: /images/follow-twitch.webp
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+        actions:
+          - type: Button
+            label: Sígueme
+            altText: Boton de Follow Twitch
+            url: 'https://www.twitch.tv/shinysick'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-16
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: FeaturedItemsSection
   - type: CarouselSection
     subtitle: Miembros de canal con mayor antigüedad.
     items:
@@ -764,192 +902,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: ¿Quieres apoyar de otras maneras?
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: 'Siguenos, Suscribete o Convietete en Miembro de Canal.'
-    items:
-      - title: YouTube
-        tagline: Suscripción
-        subtitle: Suscríbete al Canal
-        text: >+
-          <div style="text-align: left">Si encontraste lo que necesitabas, te
-          ayudé con tus dudas o te gustó el contenido, **suscribete al canal de
-          YT**.</div>
-
-        image:
-          url: /images/suscripcion-youtube.webp
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-        actions:
-          - type: Button
-            label: Suscríbete
-            altText: Boton de Suscripción
-            url: 'https://bit.ly/35ODAvb'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-      - title: YouTube
-        tagline: Membresia de Canal
-        subtitle: Únete a los Miembros
-        text: >
-          Al ser **miembro** de canal recibes **ventajas exclusivas, acceso
-          anticipado, menciones y sugerencias de contenido**.
-        image:
-          url: /images/membresia-youtube.webp
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-        actions:
-          - type: Button
-            label: Únete
-            altText: Boton Membresias YouTube
-            url: 'https://bit.ly/48mqCTG'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-      - title: Twitch
-        tagline: Sígueme
-        subtitle: Sígueme en Stream
-        text: >
-          A veces pasar el tiempo conviviendo **en vívo** es la mejor manera de
-          **comunicarnos, descansar y divertirnos**.
-        image:
-          url: /images/follow-twitch.webp
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-        actions:
-          - type: Button
-            label: Sígueme
-            altText: Boton de Follow Twitch
-            url: 'https://www.twitch.tv/shinysick'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
-  - title:
-      text: 'Dudas, Quejas & Sugerencias'
-      color: text-neutral
-      type: TitleBlock
-    subtitle: ''
-    text: >
-      Si tienes algúna **duda o situación especifica** no dudes en describirla y
-      nos pondremos en contacto contigo lo **antes** posible! 
-
-
-      prueba
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: submit-button
-    badge:
-      label: Contacto
-      color: text-light
-      type: Badge
-    colors: bg-dark-fg-light
-    type: GenericSection
 seo:
   metaTitle: ShinySick | Emulación de Consolas y Preservación de Videojuegos
   metaDescription: >-

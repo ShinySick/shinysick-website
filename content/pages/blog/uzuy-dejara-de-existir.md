@@ -109,9 +109,17 @@ seo:
   addTitleSuffix: false
   metaTags: []
   socialImage: /images/adios-uzuy-mmjr-miniatura.webp
-colors: bg-light-fg-dark
+colors: bg-dark-fg-light
 styles:
   self:
     flexDirection: col
+    borderRadius: large
+    borderColor: border-dark
+    textAlign: center
+    padding:
+      - pt-0
+      - pl-0
+      - pb-0
+      - pr-0
 ---
 El emulador UZUY Cierra...💀 Pero NO COMO TE LO IMAGINAS.
