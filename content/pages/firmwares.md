@@ -210,7 +210,7 @@ sections:
                 - pb-0
                 - pr-0
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
