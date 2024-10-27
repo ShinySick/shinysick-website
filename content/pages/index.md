@@ -22,7 +22,7 @@ sections:
         elementId: ''
         type: Link
       - label: Discord
-        altText: ''
+        altText: Botón Discord
         url: 'https://discord.gg/bbyG99mbQF'
         showIcon: false
         icon: arrowRight
