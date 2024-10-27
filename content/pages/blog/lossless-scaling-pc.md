@@ -118,7 +118,7 @@ seo:
   addTitleSuffix: true
   socialImage: /images/lossless-scaling-miniatura-2.webp
   metaTags: []
-colors: bg-neutralAlt-fg-dark
+colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: col
