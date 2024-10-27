@@ -124,6 +124,7 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: col
+    textAlign: center
 ---
 Aprende a **INSTALAR Yuzu Early Access 4176** fué la versión más actualizada de éste emulador, logrando tener un **rendimiento** **muy alto** incluso en dispositivos no tan potentes.
 
