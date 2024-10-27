@@ -17,16 +17,7 @@ sections:
       - content/data/person4.json
       - content/data/person5.json
       - content/data/person6.json
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
