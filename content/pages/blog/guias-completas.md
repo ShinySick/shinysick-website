@@ -8,7 +8,7 @@ excerpt: >-
   destacados.
 featuredImage:
   url: /images/Guias-completas-emulacion.webp
-  altText: Guias Completas
+  altText: Miniatura de Guias Completas
   styles:
     self:
       borderRadius: large
