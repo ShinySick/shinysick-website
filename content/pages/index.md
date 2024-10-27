@@ -257,7 +257,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/rpcs3-logo.webp
-          altText: Placeholder text
+          altText: RPCS3 Logo
           elementId: ''
           styles:
             self:
