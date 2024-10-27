@@ -31,7 +31,7 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog -
+  metaTitle: 'Blog - Todo sobre Emulación de Consolas: Tutoriales y Vlogs Exclusivos'
   metaDescription: >-
     This is the blog of the demo site where we post about technology, product,
     and design.
