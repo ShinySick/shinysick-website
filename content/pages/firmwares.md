@@ -248,7 +248,7 @@ sections:
         altText: ''
         url: 'https://bit.ly/35ODAvb '
         showIcon: true
-        icon: youtube
+        icon: arrowDown
         iconPosition: right
         style: primary
         elementId: ''
