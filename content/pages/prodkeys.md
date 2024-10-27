@@ -58,7 +58,7 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/ryujinx-prodkeys-miniatura.webp
           altText: Pricing plan 2
         actions:
           - type: Button
