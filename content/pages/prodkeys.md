@@ -110,7 +110,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Sudachi
+        title: Uzuy
         price: Free
         details: No credit card required
         description: >-
@@ -123,7 +123,7 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/sudachi-prodkeys-miniatura.webp
+          url: /images/uzuy-prodkeys-miniatura.webp
           altText: Pricing plan 1
         actions:
           - type: Button
@@ -142,7 +142,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Uzuy
+        title: Sudachi
         price: Free
         details: No credit card required
         description: >-
@@ -155,7 +155,7 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/uzuy-prodkeys-miniatura.webp
+          url: /images/sudachi-prodkeys-miniatura.webp
           altText: Pricing plan 1
         actions:
           - type: Button
