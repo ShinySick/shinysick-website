@@ -123,6 +123,9 @@ sections:
               - pr-2
             justifyContent: center
             borderRadius: large
+        text: >
+          Elige este solo si quieres probar el Menú de la Switch en Suyu o
+          Sudachi.
       - type: FeaturedItem
         title: Firmware 17.0.1
         subtitle: ''
