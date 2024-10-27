@@ -100,7 +100,7 @@ sections:
             altText: ''
             url: 'https://bit.ly/3FDTQ2X'
             showIcon: true
-            icon: arrowRight
+            icon: arrowDown
             iconPosition: right
             style: secondary
             elementId: ''
