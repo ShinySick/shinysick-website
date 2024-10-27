@@ -67,7 +67,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Ryujinx 1.2 Prodkeys 18.0.0
-        subtitle: Sirven para el Menú de Switch en Suyu y Sudachi ;)
+        subtitle: 'Ya no bajes más, no las necesitas.'
         text: ''
         actions:
           - type: Button
