@@ -252,6 +252,15 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /prodkeys
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     elementId: ''
     variant: small-list
     colors: bg-neutral-fg-dark
