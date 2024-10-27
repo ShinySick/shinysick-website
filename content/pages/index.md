@@ -191,7 +191,7 @@ sections:
         actions:
           - type: Button
             label: Ver
-            altText: ''
+            altText: Cemu Lista de Reproducción
             url: >-
               https://www.youtube.com/playlist?list=PLRZYnOrbeoT2xdv1ypbawWPm82Hvj12Ky
             showIcon: false
