@@ -72,7 +72,7 @@ sections:
             altText: ''
             url: /
             showIcon: true
-            icon: arrowRight
+            icon: arrowDown
             iconPosition: right
             style: primary
             elementId: ''
