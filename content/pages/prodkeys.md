@@ -14,7 +14,7 @@ sections:
     plans:
       - type: PricingPlan
         title: Yuzu
-        price: 19.0.0
+        price: ''
         details: Prod.Keys
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
