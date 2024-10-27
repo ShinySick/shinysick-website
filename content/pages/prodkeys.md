@@ -18,6 +18,8 @@ sections:
         details: Prod.Keys
         description: |
           Aunque cesó su desarrollo aún puede correr algunos juegos recientes.
+
+          Las keys son compatibles con las siguientes plataformas:
         features:
           - Windows
           - Android
