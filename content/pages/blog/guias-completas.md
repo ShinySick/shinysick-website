@@ -45,7 +45,7 @@ bottomSections:
           - pr-16
         justifyContent: center
 isFeatured: true
-colors: bg-dark-fg-light
+colors: bg-neutralAlt-fg-dark
 styles:
   self:
     padding:
