@@ -110,7 +110,7 @@ sections:
               - pl-1
               - pb-1
               - pr-1
-            justifyContent: flex-end
+            justifyContent: center
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
         subtitle: $117
