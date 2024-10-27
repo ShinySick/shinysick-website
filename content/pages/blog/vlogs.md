@@ -8,7 +8,7 @@ excerpt: >-
   comunidad de gamers!
 featuredImage:
   url: /images/vlogs-emulacion.webp
-  altText: Vlogs miniatura
+  altText: Miniatura de Vlogs
   styles:
     self:
       borderRadius: x-large
