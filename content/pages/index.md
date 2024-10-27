@@ -891,66 +891,6 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - title:
-      text: 'Dudas, Quejas & Sugerencias'
-      color: text-neutral
-      type: TitleBlock
-    subtitle: ''
-    text: >
-      Si tienes algúna **duda o situación especifica** no dudes en describirla y
-      nos pondremos en contacto contigo lo **antes** posible! 
-
-
-      prueba
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: submit-button
-    badge:
-      label: Contacto
-      color: text-light
-      type: Badge
-    colors: bg-dark-fg-light
-    type: GenericSection
 seo:
   metaTitle: ShinySick | Emulación de Consolas y Preservación de Videojuegos
   metaDescription: >-
