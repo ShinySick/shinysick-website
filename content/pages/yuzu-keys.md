@@ -150,7 +150,7 @@ sections:
       - type: Button
         label: No le des click
         url: 'bit.ly/35ODAvb '
-        icon: youtube
+        icon: play
         iconPosition: right
         style: primary
         showIcon: true
