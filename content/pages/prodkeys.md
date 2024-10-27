@@ -127,7 +127,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            url: /
+            url: /uzuy-keys
             icon: arrowDown
             iconPosition: right
             style: secondary
