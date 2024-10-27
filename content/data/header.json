@@ -85,47 +85,6 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
-        },
-        {
-            "type": "SubNav",
-            "label": "Emuladores Playstation",
-            "altText": "Emuladores Playstation",
-            "links": [
-                {
-                    "type": "Link",
-                    "label": "PS1",
-                    "altText": "Ps1",
-                    "url": "/epsxe",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "PS2",
-                    "altText": "PS2",
-                    "url": "/ps2",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "PS3",
-                    "altText": "PS3",
-                    "url": "/ps3",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                }
-            ],
-            "labelStyle": "secondary"
         }
     ],
     "secondaryLinks": [
