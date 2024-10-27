@@ -49,7 +49,7 @@ sections:
             altText: ''
             url: 'https://bit.ly/4eVT01Y'
             showIcon: true
-            icon: arrowRight
+            icon: arrowDown
             iconPosition: right
             style: secondary
             elementId: ''
