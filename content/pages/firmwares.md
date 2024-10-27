@@ -219,7 +219,7 @@ sections:
               - pb-2
               - pr-2
             textAlign: left
-            borderRadius: none
+            borderRadius: large
             flexDirection: row
             justifyContent: center
     actions: []
