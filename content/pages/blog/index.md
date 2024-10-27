@@ -33,8 +33,9 @@ styles:
 seo:
   metaTitle: 'Blog - Todo sobre Emulación de Consolas: Tutoriales y Vlogs Exclusivos'
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
+    Explora el mundo de la emulación de consolas con nuestros tutoriales
+    detallados y vlogs exclusivos. Aprende a revivir tus juegos favoritos con
+    guías y consejos actualizados.
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
