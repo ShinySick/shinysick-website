@@ -16,9 +16,8 @@ sections:
         title: Yuzu
         price: ''
         details: Prod.Keys
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          Aunque cesó su desarrollo aún puede correr algunos juegos recientes.
         features:
           - Windows
           - Android
