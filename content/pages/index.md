@@ -99,7 +99,7 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          altText: Yuzu Logo
           elementId: ''
           url: /images/yuzu-logo.webp
           styles:
