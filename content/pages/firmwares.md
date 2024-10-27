@@ -158,6 +158,8 @@ sections:
               - pr-2
             borderRadius: large
             justifyContent: center
+        text: |
+          Te estas yendo un poco atrás no crees?
     actions: []
     elementId: ''
     variant: small-list
