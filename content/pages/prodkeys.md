@@ -110,7 +110,7 @@ sections:
       - type: PricingPlan
         title: Uzuy
         price: Free
-        details: No credit card required
+        details: Prod.Keys
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
