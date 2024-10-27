@@ -115,7 +115,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Yuzu Prodkeys 16.X.X
+        title: Suyu Prodkeys 16.X.X
         tagline: ''
         subtitle: Segúro viste un tutorial muy viejo x.x
         text: ''
