@@ -511,7 +511,7 @@ sections:
     actions:
       - type: Button
         label: Ver en YT
-        altText: ''
+        altText: Ir al video
         url: >-
           https://www.youtube.com/playlist?list=PLRZYnOrbeoT1NUvAOssK_xyYxnVvYYu5C
         showIcon: true
