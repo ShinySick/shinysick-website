@@ -96,7 +96,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/yuzu-logo.webp
           altText: Placeholder text
           styles:
             self:
