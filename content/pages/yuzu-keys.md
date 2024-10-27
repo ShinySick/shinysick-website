@@ -43,7 +43,16 @@ sections:
         title: Yuzu Prodkeys 18.1.0
         subtitle: Estas son más compatibles.
         text: ''
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://bit.ly/4eVT01Y'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-dark-fg-light
         styles:
           self:
