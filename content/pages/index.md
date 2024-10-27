@@ -215,8 +215,8 @@ sections:
         title: Suyu
         subtitle: Nintendo Switch
         text: >
-          Emulador de código abierto que permite jugar titulos del Xbox Original
-          en PC.
+          Fué la continuación del emulador más popular de la Nintendo Switch,
+          Yuzu.
         image:
           type: ImageBlock
           url: /images/suyu-logo.webp
