@@ -13,7 +13,7 @@ sections:
     subtitle: No le cuentes a nadie.
     items:
       - type: FeaturedItem
-        title: Ryujinx Prodkeys 19.0.0
+        title: Ryujinx 1.2 Prodkeys 19.0.0
         tagline: ''
         subtitle: No le des clic al enlace de abajo ;)
         text: ''
