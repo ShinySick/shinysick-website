@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Nintendo Switch Firmware
+title: Descargar Nintendo Switch Firmware
 sections:
   - type: DividerSection
     title: Divider
