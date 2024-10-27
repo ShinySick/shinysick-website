@@ -219,7 +219,7 @@ sections:
           en PC.
         image:
           type: ImageBlock
-          url: /images/xemu.png
+          url: /images/suyu-logo.webp
           altText: Placeholder text
           elementId: ''
           styles:
