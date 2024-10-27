@@ -5,7 +5,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: PROD KEYS
+      text: Nintendo Switch Prod.Keys
       color: text-dark
       styles:
         self:
