@@ -86,7 +86,7 @@ sections:
           - Windows
           - Android
           - Linux
-          - Feature four
+          - Mac
           - Feature five
         image:
           type: ImageBlock
