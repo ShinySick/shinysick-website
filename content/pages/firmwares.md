@@ -114,7 +114,7 @@ sections:
     actions: []
     elementId: ''
     variant: small-list
-    colors: bg-dark-fg-light
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
