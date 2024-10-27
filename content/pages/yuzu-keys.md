@@ -34,7 +34,7 @@ sections:
               - pl-8
               - pb-8
               - pr-8
-            textAlign: right
+            textAlign: center
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
