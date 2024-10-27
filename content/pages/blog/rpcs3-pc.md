@@ -153,8 +153,8 @@ styles:
 
 Necesitarás obligatoriamente el firmware oficial o modificado de una PS3 ***(PS3UPDAT.PUP)*** y aunque lo puedes conseguir en el [sitio oficial](https://www.playstation.com/es-es/support/hardware/ps3/system-software/) algunos no logran descargarlo, por lo cual aquí abajo te dejo el enlace directo:
 
-[\*\*Firmware PS3 OFICIAL PS3UPDAT.PUP
-\*\*](http://deu01.ps3.update.playstation.net/update/ps3/image/eu/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP)[**Descarga RPCS3 Oficial**](https://rpcs3.net/download)
+[Firmware PS3 OFICIAL PS3UPDAT.PUP
+](http://deu01.ps3.update.playstation.net/update/ps3/image/eu/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP)[**Descarga RPCS3 Oficial**](https://rpcs3.net/download)
 
 ### Instala el Firmware PS3UPDAT.PUP
 
@@ -205,7 +205,5 @@ Para descargar las **UPDATES** de tus juegos de PS3 deberás hacer lo siguiente:
 2.  **Install Packages/Raps/Edats**
 
 3.  Selecciona tu archivo **.pkg**
-
-
 
 Con esto ya tendrias tu emulador configurado y listo para usarse, si quieres más detalles consulta la guía de más abajo.
