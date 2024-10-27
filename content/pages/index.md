@@ -147,7 +147,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/uzuy.webp
-          altText: Placeholder text
+          altText: Uzuy Logo
           elementId: ''
           styles:
             self:
