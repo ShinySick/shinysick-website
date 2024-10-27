@@ -213,7 +213,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Suyu
-        subtitle: Xbox Original
+        subtitle: Nintendo Switch
         text: >
           Emulador de código abierto que permite jugar titulos del Xbox Original
           en PC.
