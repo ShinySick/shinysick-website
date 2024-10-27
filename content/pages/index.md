@@ -849,7 +849,7 @@ sections:
 
 
         image:
-          url: /images/danmorales.png
+          url: /images/danmorales-miembro.webp
           altText: Dan Morales
           styles:
             self:
