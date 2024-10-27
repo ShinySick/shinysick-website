@@ -66,7 +66,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Yuzu Prodkeys 18.0.0
+        title: Ryujinx 1.2 Prodkeys 18.0.0
         subtitle: Sirven para el Menú de Switch en Suyu y Sudachi ;)
         text: ''
         actions:
