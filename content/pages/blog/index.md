@@ -36,7 +36,7 @@ seo:
     Explora el mundo de la emulación de consolas con nuestros tutoriales
     detallados y vlogs exclusivos. Aprende a revivir tus juegos favoritos con
     guías y consejos actualizados.
-  socialImage: /images/img-placeholder.svg
+  socialImage: /images/blog-miniatura.webp
   type: Seo
   addTitleSuffix: true
 type: PostFeedLayout
