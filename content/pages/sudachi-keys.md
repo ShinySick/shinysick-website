@@ -129,7 +129,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: ''
+            altText: Prodkeys 16.x.x Descargar
             url: 'https://bit.ly/44WJSFl '
             showIcon: true
             icon: arrowDown
