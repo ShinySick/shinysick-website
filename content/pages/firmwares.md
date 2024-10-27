@@ -141,7 +141,7 @@ sections:
           - type: Button
             label: Descargar
             altText: ''
-            url: /
+            url: 'https://bit.ly/417Joux'
             showIcon: true
             icon: arrowDown
             iconPosition: right
