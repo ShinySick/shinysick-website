@@ -19,7 +19,7 @@ sections:
           experience.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/Cemu_Emulator_Official_Logo.png
           altText: Faux Fur Throw
           elementId: ''
           styles:
