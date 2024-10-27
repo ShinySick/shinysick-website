@@ -5,7 +5,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Colección de Emuladores para PC
       color: text-dark
       styles:
         self:
