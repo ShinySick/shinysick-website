@@ -2,17 +2,6 @@
 type: PageLayout
 title: Nintendo Switch Firmware
 sections:
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-20
-          - pl-20
-          - pb-20
-          - pr-20
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
