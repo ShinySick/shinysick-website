@@ -34,7 +34,7 @@
         },
         {
             "label": "Blog",
-            "altText": "Blog",
+            "altText": "Blog Menú",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
