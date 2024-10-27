@@ -116,7 +116,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: ''
+            altText: Firmware 18.0.0 Descargar
             url: 'https://bit.ly/3PPJSAT'
             showIcon: true
             icon: arrowDown
