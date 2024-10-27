@@ -31,7 +31,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/emuladores.png
+      url: /images/emuladores-titulo.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
