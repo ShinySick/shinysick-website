@@ -71,7 +71,7 @@ sections:
         text: ''
         actions:
           - type: Button
-            label: Get started
+            label: Descargar
             altText: ''
             url: 'https://bit.ly/3J0bIqk'
             showIcon: false
