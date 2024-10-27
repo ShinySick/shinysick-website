@@ -158,7 +158,7 @@ sections:
               - pr-2
             borderRadius: large
             justifyContent: center
-        text: "Te estas yendo un poco atrás no crees? No es necesaria ya esta versión \U0001F440\n"
+        text: "Te estas yendo un poco atrás no crees? No es necesaria ya esta versión. \U0001F440\n"
     actions: []
     elementId: ''
     variant: small-list
