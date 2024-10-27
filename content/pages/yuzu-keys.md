@@ -47,7 +47,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
