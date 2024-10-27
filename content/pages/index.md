@@ -228,7 +228,7 @@ sections:
         actions:
           - type: Button
             label: Ver
-            altText: ''
+            altText: Suyu Lista de Reproducción
             url: >-
               https://www.youtube.com/playlist?list=PLRZYnOrbeoT0J-vLlgrfNF60KnZrM7vvq
             showIcon: false
