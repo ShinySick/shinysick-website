@@ -183,9 +183,7 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
-        text: >
-          Estoy 100% seguro que actualmente ya no ocupas esta versión a menos
-          que sea algo especifico.
+        text: "Estoy 100% seguro que actualmente ya no ocupas esta versión a menos que sea algo especifico. \U0001F480\n"
     actions: []
     elementId: ''
     variant: small-list
