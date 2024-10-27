@@ -184,7 +184,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: ''
+            altText: Firmware 16.1.0 Descargar
             url: 'https://bit.ly/3ri3uoe'
             showIcon: true
             icon: arrowDown
