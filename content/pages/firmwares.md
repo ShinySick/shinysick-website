@@ -223,7 +223,7 @@ sections:
             flexDirection: row
             justifyContent: center
         text: |
-          Nahhh, no te creo que lo ocupes. ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+          ¿¿Nahhh, en serio?? no te creo que lo ocupes. ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
     actions: []
     elementId: ''
     variant: small-list
