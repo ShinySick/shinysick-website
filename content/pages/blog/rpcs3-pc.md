@@ -106,6 +106,7 @@ bottomSections:
     styles:
       self:
         justifyContent: center
+    hoverEffect: shadow-plus-move-up
 slug: rpcs3-pc
 isFeatured: false
 isDraft: false
