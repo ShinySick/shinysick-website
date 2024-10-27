@@ -212,7 +212,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: XEMU
+        title: Suyu
         subtitle: Xbox Original
         text: >
           Emulador de código abierto que permite jugar titulos del Xbox Original
