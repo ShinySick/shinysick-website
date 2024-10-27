@@ -109,7 +109,7 @@ seo:
   addTitleSuffix: false
   metaTags: []
   socialImage: /images/adios-uzuy-mmjr-miniatura.webp
-colors: bg-light-fg-dark
+colors: bg-dark-fg-light
 styles:
   self:
     flexDirection: col
