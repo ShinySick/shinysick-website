@@ -124,6 +124,7 @@ styles:
   self:
     flexDirection: col
     borderRadius: large
+    textAlign: center
 ---
 **RPCS3** es un emulador y depurador de código abierto diseñado para la **PlayStation 3**, que permite a los usuarios jugar y depurar juegos de esta consola en sus computadoras. Esta herramienta está desarrollada en C++ y utiliza tecnologías de renderizado como **OpenGL, Vulkan y DirectX 12**.
 
