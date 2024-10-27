@@ -24,7 +24,7 @@ sections:
             showIcon: true
             icon: arrowDown
             iconPosition: right
-            style: primary
+            style: secondary
             elementId: ''
         colors: bg-dark-fg-light
         styles:
