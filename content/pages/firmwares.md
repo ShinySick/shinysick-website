@@ -19,7 +19,7 @@ sections:
           experience.
         image:
           type: ImageBlock
-          url: /images/Cemu_Emulator_Official_Logo.png
+          url: /images/firmware-reciente.webp
           altText: Faux Fur Throw
           elementId: ''
           styles:
