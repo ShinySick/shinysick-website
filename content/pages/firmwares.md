@@ -12,7 +12,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: ¡Más Reciente!
+        title: FIRMWARE 19.0.0
         subtitle: Firmware 19.0.0
         text: >
           Cambios: General system stability improvements to enhance the user's
