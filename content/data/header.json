@@ -56,7 +56,7 @@
     "secondaryLinks": [
         {
             "label": "YouTube",
-            "altText": "Botón de Suscripcion Y ouTube",
+            "altText": "Botón de Suscripcion YouTube",
             "url": "https://www.youtube.com/ShinySick",
             "icon": "youtube",
             "iconPosition": "right",
