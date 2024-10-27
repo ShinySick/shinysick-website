@@ -149,7 +149,7 @@ sections:
     actions:
       - type: Button
         label: Regresar
-        altText: ''
+        altText: Regresar
         url: /prodkeys
         showIcon: true
         icon: arrowLeft
