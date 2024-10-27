@@ -166,7 +166,7 @@ sections:
         altText: Dale click para una sorpresa
       - type: Button
         label: Firmware
-        altText: ''
+        altText: Descargar Firmwares
         url: /firmwares
         showIcon: false
         icon: arrowRight
