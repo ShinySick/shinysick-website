@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Aquí NO ESTÁ lo que buscas ;)
     plans:
       - type: PricingPlan
         title: Yuzu
