@@ -119,7 +119,7 @@ seo:
   addTitleSuffix: false
   socialImage: /images/rpcs3-miniatura-pc.webp
   metaTags: []
-colors: bg-light-fg-dark
+colors: bg-dark-fg-light
 styles:
   self:
     flexDirection: col
