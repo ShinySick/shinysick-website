@@ -75,7 +75,7 @@ sections:
             altText: ''
             url: 'https://bit.ly/3J0bIqk'
             showIcon: true
-            icon: arrowRight
+            icon: arrowDown
             iconPosition: right
             style: secondary
             elementId: ''
