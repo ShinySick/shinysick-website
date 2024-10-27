@@ -146,7 +146,7 @@ sections:
           Emulador de Switch para Android con un rendimiento superior a Yuzu.
         image:
           type: ImageBlock
-          url: /images/162283256.png
+          url: /images/uzuy.webp
           altText: Placeholder text
           elementId: ''
           styles:
