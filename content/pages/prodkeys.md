@@ -15,7 +15,7 @@ sections:
       - type: PricingPlan
         title: Early Access 4176 + Optimized
         price: '0'
-        details: Early Access 4176
+        details: Prod.keys
         description: |
           Aunque cesó su desarrollo aún puede correr algunos juegos recientes.
 
