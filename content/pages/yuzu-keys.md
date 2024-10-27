@@ -153,6 +153,15 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /firmwares
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     variant: toggle-list
     colors: bg-neutral-fg-dark
     styles:
