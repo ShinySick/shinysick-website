@@ -42,10 +42,7 @@ sections:
       - type: FeaturedItem
         title: Yuzu Prodkeys 18.1.0
         subtitle: Estas son más compatibles.
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         actions: []
         colors: bg-dark-fg-light
         styles:
