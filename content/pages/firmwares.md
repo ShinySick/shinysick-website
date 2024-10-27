@@ -111,6 +111,7 @@ sections:
               - pb-2
               - pr-2
             justifyContent: center
+            borderRadius: large
       - type: FeaturedItem
         title: Firmware 17.0.1
         subtitle: ''
