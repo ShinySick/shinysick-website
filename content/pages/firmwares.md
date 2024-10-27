@@ -60,7 +60,7 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/firmware-18.1.0.webp
           altText: Faux Fur Throw
           elementId: ''
           styles:
