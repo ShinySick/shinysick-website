@@ -84,7 +84,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam.
         features:
           - Windows
-          - Feature two
+          - Android
           - Feature three
           - Feature four
           - Feature five
