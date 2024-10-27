@@ -161,7 +161,7 @@ sections:
         text: "Te estas yendo un poco atrás no crees? No es necesaria ya esta versión. \U0001F440\n"
       - type: FeaturedItem
         title: Firmware 16.1.0
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/firmware-cuarto.webp
