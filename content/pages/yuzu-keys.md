@@ -32,7 +32,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
-        tagline: a
+        tagline: ''
       - type: FeaturedItem
         title: Open Source Engineer
         subtitle: Marketing
