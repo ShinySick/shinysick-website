@@ -154,7 +154,7 @@ sections:
         iconPosition: right
         style: primary
       - type: Button
-        label: Get started
+        label: Firmware
         altText: ''
         url: /firmwares
         showIcon: false
