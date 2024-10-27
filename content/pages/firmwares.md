@@ -13,7 +13,7 @@ sections:
     items:
       - type: FeaturedItem
         title: FIRMWARE 19.0.0
-        subtitle: Firmware 19.0.0
+        subtitle: ¡Más Reciente!
         text: >
           Cambios: General system stability improvements to enhance the user's
           experience.
