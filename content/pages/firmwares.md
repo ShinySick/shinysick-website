@@ -14,46 +14,9 @@ sections:
       - type: FeaturedItem
         title: ¡Más Reciente!
         subtitle: Firmware 19.0.0
-        text: >+
+        text: >
           Cambios: General system stability improvements to enhance the user's
           experience.
-
-
-          Cambios: General system stability improvements to enhance the user's
-          experience.
-
-
-          Cambios: General system stability improvements to enhance the user's
-          experience.
-
-
-          Cambios: General system stability improvements to enhance the user's
-          experience.
-
-
-          Cambios: General system stability improvements to enhance the user's
-          experience.
-
-
-          Cambios: General system stability improvements to enhance the user's
-          experience.
-
-
-          Cambios: General system stability improvements to enhance the user's
-          experience.
-
-
-          Cambios: General system stability improvements to enhance the user's
-          experience.
-
-
-          Cambios: General system stability improvements to enhance the user's
-          experience.
-
-
-          Cambios: General system stability improvements to enhance the user's
-          experience.
-
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
