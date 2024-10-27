@@ -73,9 +73,9 @@ sections:
           self:
             padding:
               - pt-2
-              - pl-1
-              - pb-1
-              - pr-1
+              - pl-2
+              - pb-2
+              - pr-2
             textAlign: left
             borderRadius: large
             flexDirection: row
