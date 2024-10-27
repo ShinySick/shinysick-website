@@ -96,7 +96,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-    variant: small-list
+    variant: toggle-list
     colors: bg-neutral-fg-dark
     styles:
       self:
