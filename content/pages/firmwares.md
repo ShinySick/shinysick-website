@@ -133,7 +133,7 @@ sections:
               borderRadius: medium
         actions:
           - type: Button
-            label: Get started
+            label: Descargar
             altText: ''
             url: /
             showIcon: false
