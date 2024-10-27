@@ -151,7 +151,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: ''
+            altText: Firmware 17.0.1 Descargar
             url: 'https://bit.ly/417Joux'
             showIcon: true
             icon: arrowDown
