@@ -76,7 +76,7 @@ sections:
         actions:
           - type: Button
             label: Ver
-            altText: ''
+            altText: Yuzu Lista de Reproducción
             url: >-
               https://www.youtube.com/playlist?list=PLRZYnOrbeoT088dUT0fvPbfjWU1-TMwyP
             showIcon: false
