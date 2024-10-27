@@ -54,7 +54,7 @@ styles:
     borderColor: border-light
     borderStyle: none
     borderWidth: 0
-    borderRadius: none
+    borderRadius: large
     flexDirection: col
 type: PostLayout
 seo:
