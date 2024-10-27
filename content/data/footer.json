@@ -10,7 +10,7 @@
         "links": [
             {
                 "label": "Guías",
-                "altText": "Guias Completas",
+                "altText": "Guias Completas Botón",
                 "url": "/blog/guias-completas",
                 "icon": "arrowRight",
                 "iconPosition": "right",
