@@ -39,52 +39,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "label": "Emuladores Switch",
-            "altText": "Emuladores Switch",
-            "links": [
-                {
-                    "label": "Yuzu",
-                    "url": "/yuzu",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link",
-                    "altText": "Yuzu"
-                },
-                {
-                    "label": "Ryujinx",
-                    "url": "/ryujinx",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link",
-                    "altText": "Ryujinx"
-                },
-                {
-                    "label": "Suyu",
-                    "url": "/suyu",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link",
-                    "altText": "Suyu"
-                },
-                {
-                    "type": "Link",
-                    "label": "Uzuy",
-                    "altText": "Uzuy",
-                    "url": "/uzuy",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
         }
     ],
     "secondaryLinks": [
