@@ -116,7 +116,6 @@ sections:
           accusantium doloremque.
         features:
           - Android
-          - Feature four
         image:
           type: ImageBlock
           url: /images/uzuy-prodkeys-miniatura.webp
