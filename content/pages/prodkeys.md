@@ -26,7 +26,7 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/yuzu-logo.webp
           altText: Pricing plan 1
         actions:
           - type: Button
