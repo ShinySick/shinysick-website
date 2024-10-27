@@ -220,7 +220,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/suyu-logo.webp
-          altText: Placeholder text
+          altText: Suyu Logo
           elementId: ''
           styles:
             self:
