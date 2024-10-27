@@ -120,7 +120,7 @@ seo:
   addTitleSuffix: false
   metaTags: []
   socialImage: /images/Guia Yuzu EA.jpg
-colors: bg-light-fg-dark
+colors: bg-dark-fg-light
 styles:
   self:
     flexDirection: col
