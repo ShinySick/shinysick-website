@@ -120,5 +120,15 @@
     ],
     "copyrightText": "Hecho de 💛por **ShinySick**\n",
     "colors": "bg-neutral-fg-dark",
-    "type": "Footer"
+    "type": "Footer",
+    "styles": {
+        "self": {
+            "margin": [
+                "mt-36",
+                "ml-36",
+                "mb-36",
+                "mr-36"
+            ]
+        }
+    }
 }
