@@ -5,7 +5,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Nintendo Switch Prod.Keys
+      text: Nintendo Switch Firmwares
       color: text-dark
       styles:
         self:
