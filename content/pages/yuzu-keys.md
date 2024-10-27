@@ -20,7 +20,7 @@ sections:
           - type: Button
             label: Get started
             altText: ''
-            url: /
+            url: 'https://bit.ly/3YhWHYf'
             showIcon: true
             icon: arrowDown
             iconPosition: right
