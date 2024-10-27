@@ -233,7 +233,16 @@ sections:
             justifyContent: center
         text: |
           ¿¿Nahhh, en serio?? no te creo que lo ocupes. ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     elementId: ''
     variant: small-list
     colors: bg-neutral-fg-dark
