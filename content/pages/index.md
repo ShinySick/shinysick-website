@@ -265,7 +265,7 @@ sections:
         actions:
           - type: Button
             label: Ver
-            altText: ''
+            altText: Rpcs3 Lista de Reproducción
             url: >-
               https://www.youtube.com/playlist?list=PLRZYnOrbeoT1qvdAxluGdER7lXqeJKEmZ
             showIcon: false
