@@ -125,7 +125,7 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/firmware-tercero1.webp
           altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
