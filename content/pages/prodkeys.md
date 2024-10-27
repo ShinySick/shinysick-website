@@ -96,7 +96,7 @@ sections:
           altText: Pricing plan 3
         actions:
           - type: Button
-            label: Magia
+            label: Descargar
             url: /
             icon: arrowDown
             iconPosition: right
