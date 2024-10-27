@@ -23,7 +23,6 @@ sections:
           - Windows
           - Android
           - Linux
-          - ''
         image:
           type: ImageBlock
           url: /images/yuzu-prodkeys-miniatura.webp
