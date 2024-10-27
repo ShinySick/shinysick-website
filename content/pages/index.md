@@ -183,7 +183,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/cemu-logo.webp
-          altText: Placeholder text
+          altText: Cemu Logo
           elementId: ''
           styles:
             self:
