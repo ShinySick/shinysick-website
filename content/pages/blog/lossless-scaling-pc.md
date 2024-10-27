@@ -123,6 +123,7 @@ styles:
   self:
     flexDirection: col
     borderRadius: large
+    textAlign: center
 ---
 **DESCARGA MÁS FPS** en **CUALQUIER PC** incluso de **GAMA BAJA**. 😲
 
