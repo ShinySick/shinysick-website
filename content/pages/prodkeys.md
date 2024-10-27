@@ -15,7 +15,7 @@ sections:
       - type: PricingPlan
         title: Yuzu
         price: ''
-        details: Prod.Keys
+        details: ''
         description: |
           Aunque cesó su desarrollo aún puede correr algunos juegos recientes.
 
