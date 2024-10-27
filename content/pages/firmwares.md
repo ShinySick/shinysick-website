@@ -180,7 +180,7 @@ sections:
               - pb-0
               - pr-0
             textAlign: left
-            borderRadius: none
+            borderRadius: large
             flexDirection: row
             justifyContent: center
     actions: []
