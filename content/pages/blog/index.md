@@ -26,7 +26,7 @@ topSections:
           - pr-4
         justifyContent: flex-start
     type: FeaturedPostsSection
-    hoverEffect: move-up
+    hoverEffect: shadow-plus-move-up
 styles:
   title:
     textAlign: center
