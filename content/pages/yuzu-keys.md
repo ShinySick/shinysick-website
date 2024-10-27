@@ -36,7 +36,7 @@ sections:
               - pr-8
             textAlign: right
             borderRadius: x-large
-            flexDirection: row
+            flexDirection: col
             justifyContent: flex-start
         tagline: ''
       - type: FeaturedItem
