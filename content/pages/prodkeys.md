@@ -47,7 +47,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Ryujinx 1.2 + LDN
-        price: $99
+        price: MAGIA
         details: Prod.Keys
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
