@@ -29,7 +29,7 @@ sections:
           altText: Pricing plan 1
         actions:
           - type: Button
-            label: Try for free
+            label: Ir a Versiones
             url: /
             icon: arrowDown
             iconPosition: right
