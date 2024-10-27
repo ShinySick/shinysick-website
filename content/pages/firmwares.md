@@ -15,16 +15,8 @@ sections:
         title: ¡Más Reciente!
         subtitle: Firmware 19.0.0
         text: >+
-          Available in a range of colors and patterns, we make it easy to pick
-          the perfect look for you.
-
-
-
-
-          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
-          the real deal (but better)!
-
-
+          Cambios: General system stability improvements to enhance the user's
+          experience.
 
         image:
           type: ImageBlock
