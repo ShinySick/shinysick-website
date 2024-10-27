@@ -142,6 +142,7 @@ sections:
               - pl-1
               - pb-1
               - pr-1
+            borderRadius: large
     actions: []
     elementId: ''
     variant: small-list
