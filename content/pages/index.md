@@ -13,7 +13,7 @@ sections:
       puedas disfrutarlos en tus dispositivos.
     actions:
       - label: Únete a la comunidad
-        altText: ''
+        altText: Únete a Discord
         url: 'https://discord.gg/bbyG99mbQF'
         showIcon: true
         icon: arrowRight
