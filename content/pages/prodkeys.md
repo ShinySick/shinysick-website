@@ -15,7 +15,7 @@ sections:
       - type: PricingPlan
         title: Yuzu
         price: Free
-        details: No credit card required
+        details: Windows +
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
