@@ -26,7 +26,7 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/yuzu ea.png
+          url: /images/ryujinx-prodkeys-miniatura.webp
           altText: Pricing plan 1
         actions:
           - type: Button
