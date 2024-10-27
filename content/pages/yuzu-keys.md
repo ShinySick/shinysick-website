@@ -18,7 +18,7 @@ sections:
         text: ''
         actions:
           - type: Button
-            label: ''
+            label: Descargar
             altText: ''
             url: 'https://bit.ly/3YhWHYf'
             showIcon: true
