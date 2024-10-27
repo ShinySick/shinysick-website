@@ -146,7 +146,7 @@ sections:
         features:
           - Windows
           - Linux
-          - Feature three
+          - Android
           - Feature four
         image:
           type: ImageBlock
