@@ -14,7 +14,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 19.0.0
-        subtitle: ''
+        subtitle: Yuzu Prodkeys 19.0.0
         text: ''
         actions: []
         colors: bg-neutral-fg-dark
