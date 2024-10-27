@@ -126,7 +126,7 @@ sections:
           altText: Uzuy Prodkeys Mini
         actions:
           - type: Button
-            label: Try for free
+            label: Descargar
             url: /
             icon: arrowRight
             iconPosition: right
