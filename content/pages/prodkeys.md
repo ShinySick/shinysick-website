@@ -21,7 +21,7 @@ sections:
           accusantium doloremque.
         features:
           - Windows
-          - Feature two
+          - Android
           - Feature three
           - Feature four
         image:
