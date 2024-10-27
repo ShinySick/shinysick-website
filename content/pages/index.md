@@ -111,7 +111,7 @@ sections:
           Destaca por su excelente rendimiento y precisión, interfaz amigable y
           estable.
         image:
-          url: /images/suyu-logo.webp
+          url: /images/ryujinx-logo.webp
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
