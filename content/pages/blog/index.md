@@ -38,6 +38,7 @@ seo:
     guías y consejos actualizados.
   socialImage: /images/img-placeholder.svg
   type: Seo
+  addTitleSuffix: true
 type: PostFeedLayout
 bottomSections: []
 postFeed:
