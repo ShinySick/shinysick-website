@@ -151,7 +151,7 @@ sections:
         label: Regresar
         altText: ''
         url: /prodkeys
-        showIcon: false
+        showIcon: true
         icon: arrowLeft
         iconPosition: left
         style: secondary
