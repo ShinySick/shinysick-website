@@ -8,7 +8,7 @@ excerpt: >-
   destacados.
 featuredImage:
   url: /images/Guias-completas-emulacion.webp
-  altText: Yuzu Early Access PC
+  altText: Guias Completas
   styles:
     self:
       borderRadius: large
