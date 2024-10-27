@@ -90,7 +90,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item One
+        title: Yuzu Prodkeys 17.0.0
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
