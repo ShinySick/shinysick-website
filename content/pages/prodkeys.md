@@ -159,7 +159,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            url: /
+            url: /sudachi-keys
             icon: arrowDown
             iconPosition: right
             style: secondary
