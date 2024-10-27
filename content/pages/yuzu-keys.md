@@ -150,7 +150,7 @@ sections:
       - type: Button
         label: No le des click
         url: 'bit.ly/35ODAvb '
-        icon: play
+        icon: arrowDown
         iconPosition: right
         style: primary
         showIcon: true
