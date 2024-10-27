@@ -48,7 +48,7 @@ sections:
             justifyContent: center
             borderStyle: dotted
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: Firmware 18.1.0
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
