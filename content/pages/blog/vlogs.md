@@ -8,7 +8,7 @@ excerpt: >-
   comunidad de gamers!
 featuredImage:
   url: /images/vlogs-emulacion.webp
-  altText: RPCS3 PC
+  altText: Vlogs miniatura
   styles:
     self:
       borderRadius: x-large
