@@ -122,6 +122,7 @@ colors: bg-neutralAlt-fg-dark
 styles:
   self:
     flexDirection: col
+    borderRadius: large
 ---
 **DESCARGA MÁS FPS** en **CUALQUIER PC** incluso de **GAMA BAJA**. 😲
 
