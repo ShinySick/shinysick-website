@@ -195,7 +195,7 @@ Para descargar las **UPDATES** de tus juegos de PS3 deberás hacer lo siguiente:
 
 4.  Descargar las updates mostradas
 
-*El dato **"BCUS98232"** es el numero de serie del juego al que le estas buscando su actualización.*
+*El dato* **"BCUS98232"** *es el numero de serie del juego al que le estas buscando su actualización.*
 
 *Si hay más de un archivo de instalación se deben* ***DESCARGAR E INSTALAR TODOS*** *desde el primero al último.*
 
