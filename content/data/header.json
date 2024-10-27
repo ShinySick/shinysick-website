@@ -42,7 +42,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Emuladores",
             "altText": "",
             "url": "/emuladores",
             "showIcon": false,
