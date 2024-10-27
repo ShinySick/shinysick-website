@@ -69,7 +69,16 @@ sections:
         title: Yuzu Prodkeys 18.0.0
         subtitle: Sirven para el Menú de Switch en Suyu y Sudachi ;)
         text: ''
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://bit.ly/3J0bIqk'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-dark-fg-light
         styles:
           self:
