@@ -94,13 +94,6 @@ sections:
         tagline: ''
         subtitle: 'Te estas alejando de las necesarias y actuales :('
         text: ''
-        image:
-          type: ImageBlock
-          url: /images/yuzu-logo.webp
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
         actions: []
         colors: bg-dark-fg-light
         styles:
