@@ -183,6 +183,9 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+        text: >
+          Estoy 100% seguro que actualmente ya no ocupas esta versión a menos
+          que sea algo especifico.
     actions: []
     elementId: ''
     variant: small-list
