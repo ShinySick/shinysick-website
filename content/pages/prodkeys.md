@@ -139,7 +139,7 @@ sections:
       - type: PricingPlan
         title: Sudachi
         price: Free
-        details: No credit card required
+        details: Prod.Keys
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
