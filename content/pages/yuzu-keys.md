@@ -16,7 +16,16 @@ sections:
         title: 19.0.0
         subtitle: Yuzu Prodkeys 19.0.0
         text: ''
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutral-fg-dark
         styles:
           self:
