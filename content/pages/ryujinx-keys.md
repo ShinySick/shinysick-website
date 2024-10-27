@@ -20,7 +20,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: ''
+            altText: Prodkeys 19.0.0 Descargar
             url: 'https://bit.ly/48eOIj3'
             showIcon: true
             icon: arrowDown
