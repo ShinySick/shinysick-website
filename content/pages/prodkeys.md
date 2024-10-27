@@ -14,7 +14,7 @@ sections:
     plans:
       - type: PricingPlan
         title: Early Access 4176 + Optimized
-        price: '0'
+        price: MAGIA
         details: Prod.Keys
         description: |
           Aunque cesó su desarrollo aún puede correr algunos juegos recientes.
