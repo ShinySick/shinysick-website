@@ -164,7 +164,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Get started
+        label: Regresar
         altText: ''
         url: /prodkeys
         showIcon: false
