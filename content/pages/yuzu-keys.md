@@ -48,7 +48,7 @@ sections:
             label: Get started
             altText: ''
             url: 'https://bit.ly/4eVT01Y'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: secondary
