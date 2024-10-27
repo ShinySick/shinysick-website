@@ -14,7 +14,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Yuzu Prodkeys 19.0.0
-        subtitle: Yuzu Prodkeys 19.0.0
+        subtitle: No le des clic al enlace de abajo ;)
         text: ''
         actions:
           - type: Button
