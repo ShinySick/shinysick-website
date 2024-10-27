@@ -5,18 +5,18 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: No te lo Pierdas
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
     posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+      - content/pages/blog/uzuy-dejara-de-existir.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
     showAuthor: true
     variant: big-list
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
@@ -26,7 +26,7 @@ topSections:
           - pr-4
         justifyContent: flex-start
     type: FeaturedPostsSection
-    hoverEffect: move-up
+    hoverEffect: shadow-plus-move-up
 styles:
   title:
     textAlign: center
@@ -50,6 +50,6 @@ postFeed:
   actions: []
   elementId: null
   variant: three-col-grid
-  colors: bg-light-fg-dark
+  colors: bg-neutral-fg-dark
   hoverEffect: move-up
 ---
