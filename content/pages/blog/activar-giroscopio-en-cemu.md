@@ -111,7 +111,7 @@ seo:
   addTitleSuffix: false
   socialImage: /images/cemu-giroscopio-miniatura.webp
   metaTags: []
-colors: bg-light-fg-dark
+colors: bg-dark-fg-light
 styles:
   self:
     flexDirection: col
