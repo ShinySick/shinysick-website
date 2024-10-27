@@ -46,7 +46,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: ''
+            altText: Prodkeys 18.1.0 Descargar
             url: 'https://bit.ly/4eVT01Y'
             showIcon: true
             icon: arrowDown
