@@ -60,7 +60,7 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/firmware-18.1.0.webp
+          url: /images/firmware-primero.webp
           altText: Faux Fur Throw
           elementId: ''
           styles:
