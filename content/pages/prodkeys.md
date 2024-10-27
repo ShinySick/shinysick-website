@@ -14,7 +14,7 @@ sections:
     plans:
       - type: PricingPlan
         title: ''
-        price: ''
+        price: '0'
         details: ''
         description: |
           Aunque cesó su desarrollo aún puede correr algunos juegos recientes.
