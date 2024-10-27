@@ -13,7 +13,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 19.0.0
+        title: Yuzu Prodkeys 19.0.0
         subtitle: Yuzu Prodkeys 19.0.0
         text: ''
         actions:
