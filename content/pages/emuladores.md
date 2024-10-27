@@ -12,7 +12,6 @@ sections:
           textAlign: center
     posts:
       - content/pages/blog/yuzu-early-access-pc.md
-      - content/pages/blog/life-of-our-development-team.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
