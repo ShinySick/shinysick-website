@@ -32,7 +32,7 @@ sections:
                 - pr-0
         actions:
           - type: Button
-            label: Get started
+            label: Descargar
             altText: ''
             url: /
             showIcon: false
