@@ -253,7 +253,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Get started
+        label: Prod.keys
         altText: ''
         url: /prodkeys
         showIcon: false
