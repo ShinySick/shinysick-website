@@ -30,7 +30,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            url: /
+            url: /yuzu-keys
             icon: arrowDown
             iconPosition: right
             style: secondary
