@@ -148,7 +148,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: No le des clic.
+        label: No le des click
         url: 'bit.ly/35ODAvb '
         icon: arrowRight
         iconPosition: right
