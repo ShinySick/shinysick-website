@@ -121,6 +121,7 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: col
+    textAlign: center
 ---
 **Ryujinx** es un emulador de Nintendo Switch, una consola de videojuegos de Nintendo, Ryujinx permite a los usuarios jugar a juegos de **Nintendo Switch en su computadora**, sin necesidad de tener la consola física.
 
