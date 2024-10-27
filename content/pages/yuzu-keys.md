@@ -91,7 +91,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Yuzu Prodkeys 17.0.0
-        tagline: 'Te estas alejando de las necesarias y actuales :('
+        tagline: ''
         subtitle: This is the item subtitle
         text: ''
         image:
