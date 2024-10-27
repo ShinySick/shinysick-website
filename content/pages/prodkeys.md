@@ -78,7 +78,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Suyu
+        title: Suyu 0.0.3
         price: Custom
         details: Prod.Keys
         description: >-
