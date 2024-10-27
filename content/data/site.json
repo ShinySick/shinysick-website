@@ -2,7 +2,7 @@
     "favicon": "/images/favicon.webp",
     "footer": "content/data/footer.json",
     "titleSuffix": "ShinySick",
-    "defaultSocialImage": "/images/main-hero.jpg",
+    "defaultSocialImage": "/images/emulacion-videojuegos.webp",
     "type": "Config",
     "header": "content/data/header.json"
 }
