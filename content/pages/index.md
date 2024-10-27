@@ -182,7 +182,7 @@ sections:
           Emulador de Nintendo Wii U para Windows y Linux de código abierto.
         image:
           type: ImageBlock
-          url: /images/Cemu_Emulator_Official_Logo.png
+          url: /images/cemu-logo.webp
           altText: Placeholder text
           elementId: ''
           styles:
