@@ -247,7 +247,7 @@ sections:
     actions:
       - type: Button
         label: Regresar
-        altText: ''
+        altText: Regresar
         url: /
         showIcon: false
         icon: arrowRight
