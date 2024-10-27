@@ -104,7 +104,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            justifyContent: center
+            justifyContent: flex-start
             textAlign: left
         image:
           type: ImageBlock
