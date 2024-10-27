@@ -163,6 +163,7 @@ sections:
         icon: arrowDown
         iconPosition: right
         style: primary
+        altText: Dale click para una sorpresa
       - type: Button
         label: Firmware
         altText: ''
