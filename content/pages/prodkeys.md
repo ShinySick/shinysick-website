@@ -85,7 +85,7 @@ sections:
         features:
           - Windows
           - Android
-          - Feature three
+          - Linux
           - Feature four
           - Feature five
         image:
