@@ -20,7 +20,7 @@ sections:
           - type: Button
             label: Descargar
             altText: ''
-            url: 'https://bit.ly/3YhWHYf'
+            url: 'https://bit.ly/48eOIj3'
             showIcon: true
             icon: arrowDown
             iconPosition: right
