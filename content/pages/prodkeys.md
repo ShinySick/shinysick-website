@@ -54,7 +54,7 @@ sections:
           - Windows
           - Linux
           - Mac
-          - Feature four
+          - Android
         image:
           type: ImageBlock
           url: /images/ryujinx-prodkeys-miniatura.webp
