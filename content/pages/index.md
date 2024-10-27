@@ -126,7 +126,7 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
