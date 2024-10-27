@@ -13,7 +13,7 @@ sections:
     subtitle: Aquí NO ESTÁ lo que buscas ;)
     plans:
       - type: PricingPlan
-        title: ''
+        title: Early Access 4176 + Optimized
         price: '0'
         details: Early Access 4176
         description: |
