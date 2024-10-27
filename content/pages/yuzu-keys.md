@@ -14,7 +14,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 19.0.0
-        subtitle: Sales
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
