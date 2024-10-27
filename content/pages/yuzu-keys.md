@@ -148,7 +148,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Apply now
+        label: No le des clic.
         url: /
         icon: arrowRight
         iconPosition: right
