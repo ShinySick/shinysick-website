@@ -32,7 +32,7 @@ sections:
         type: Button
     media:
       url: /images/emuladores-titulo.webp
-      altText: Unblock your team boost your time to production preview
+      altText: Minniatura Inicial de Emuladores de PC
       elementId: ''
       type: ImageBlock
     badge:
