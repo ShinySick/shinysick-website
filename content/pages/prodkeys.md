@@ -110,7 +110,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Uzuy
+        title: Uzuy MMJR
         price: Free
         details: Prod.Keys
         description: >-
