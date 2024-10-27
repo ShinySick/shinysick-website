@@ -140,7 +140,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Sudachi 1.0.11
-        price: Free
+        price: MAGIA
         details: Prod.Keys
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
