@@ -79,7 +79,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Suyu 0.0.3
-        price: Custom
+        price: MAGIA
         details: Prod.Keys
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
