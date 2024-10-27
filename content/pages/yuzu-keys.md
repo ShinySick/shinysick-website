@@ -166,7 +166,7 @@ sections:
       - type: Button
         label: Get started
         altText: ''
-        url: /prod-keys
+        url: /prodkeys
         showIcon: false
         icon: arrowRight
         iconPosition: right
