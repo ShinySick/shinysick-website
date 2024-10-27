@@ -72,7 +72,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: ''
+            altText: Prodkeys 18.0.0 Descargar
             url: 'https://bit.ly/3J0bIqk'
             showIcon: true
             icon: arrowDown
