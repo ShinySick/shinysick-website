@@ -112,7 +112,7 @@ sections:
               - pr-2
             justifyContent: center
       - type: FeaturedItem
-        title: Firmware 18.0.0
+        title: Firmware 17.0.1
         subtitle: $117
         image:
           type: ImageBlock
