@@ -119,7 +119,7 @@ colors: bg-dark-fg-light
 styles:
   self:
     flexDirection: col
-    borderRadius: medium
+    borderRadius: full
 ---
 Si esta madre funciona bien de esta manera entonces será una forma mfacil de crear un sitio web que pueda incluir mis videos y listar las entradas como blogs.
 
