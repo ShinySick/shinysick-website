@@ -235,7 +235,7 @@ sections:
           ¿¿Nahhh, en serio?? no te creo que lo ocupes. ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
     actions:
       - type: Button
-        label: Get started
+        label: Regresar
         altText: ''
         url: /
         showIcon: false
