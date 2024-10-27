@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: No le cuentes a nadie.
     items:
       - type: FeaturedItem
         title: Yuzu Prodkeys 19.0.0
