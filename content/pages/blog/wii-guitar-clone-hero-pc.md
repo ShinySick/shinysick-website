@@ -116,7 +116,7 @@ seo:
   addTitleSuffix: false
   socialImage: /images/wii-guitar-clone-hero.webp
   metaTags: []
-colors: bg-light-fg-dark
+colors: bg-dark-fg-light
 styles:
   self:
     flexDirection: col
