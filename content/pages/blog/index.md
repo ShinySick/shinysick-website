@@ -5,7 +5,7 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: No te lo Pierdas
+      text: ¡¡NO TE LO PIERDAS!!
       color: text-dark
       type: TitleBlock
     subtitle: ''
