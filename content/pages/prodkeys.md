@@ -29,7 +29,7 @@ sections:
           altText: Pricing plan 1
         actions:
           - type: Button
-            label: Ir a Versiones
+            label: Descargar
             url: /
             icon: arrowDown
             iconPosition: right
