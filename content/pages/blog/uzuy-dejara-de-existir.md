@@ -116,5 +116,10 @@ styles:
     borderRadius: large
     borderColor: border-dark
     textAlign: center
+    padding:
+      - pt-14
+      - pl-14
+      - pb-14
+      - pr-14
 ---
 El emulador UZUY Cierra...💀 Pero NO COMO TE LO IMAGINAS.
