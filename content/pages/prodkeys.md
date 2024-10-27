@@ -13,7 +13,7 @@ sections:
     subtitle: Aquí NO ESTÁ lo que buscas ;)
     plans:
       - type: PricingPlan
-        title: Yuzu
+        title: ''
         price: ''
         details: ''
         description: |
