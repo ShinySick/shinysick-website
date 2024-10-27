@@ -112,7 +112,7 @@ sections:
           estable.
         image:
           url: /images/ryujinx-logo.webp
-          altText: Featured icon two
+          altText: Ryujinx Logo
           elementId: ''
           type: ImageBlock
         actions:
