@@ -255,7 +255,7 @@ sections:
           C++.
         image:
           type: ImageBlock
-          url: /images/core-color-png.png
+          url: /images/rpcs3-logo.webp
           altText: Placeholder text
           elementId: ''
           styles:
