@@ -875,7 +875,7 @@ sections:
         text: ''
         image:
           url: /images/luisao.png
-          altText: Jane Doe
+          altText: Luisao Eclipse
           styles:
             self:
               borderRadius: full
