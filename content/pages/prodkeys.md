@@ -119,7 +119,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/uzuy-prodkeys-miniatura.webp
-          altText: Pricing plan 1
+          altText: Uzuy Prodkeys Mini
         actions:
           - type: Button
             label: Try for free
