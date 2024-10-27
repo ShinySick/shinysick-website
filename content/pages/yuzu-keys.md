@@ -18,7 +18,7 @@ sections:
         text: ''
         actions:
           - type: Button
-            label: Get started
+            label: No le des click
             altText: ''
             url: 'https://bit.ly/3YhWHYf'
             showIcon: true
