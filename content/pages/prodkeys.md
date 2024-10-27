@@ -31,7 +31,7 @@ sections:
           - type: Button
             label: Try for free
             url: /
-            icon: arrowRight
+            icon: arrowDown
             iconPosition: right
             style: secondary
         colors: bg-dark-fg-light
