@@ -287,7 +287,7 @@ sections:
             textAlign: left
     actions:
       - label: Ver Más
-        altText: ''
+        altText: Vér más emuladores
         url: /emuladores
         showIcon: false
         icon: arrowRight
