@@ -121,7 +121,7 @@ styles:
     flexDirection: col
     borderRadius: large
     margin:
-      - ml-1
+      - ml-0
 ---
 Si esta madre funciona bien de esta manera entonces será una forma mfacil de crear un sitio web que pueda incluir mis videos y listar las entradas como blogs.
 
