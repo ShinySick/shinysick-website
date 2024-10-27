@@ -143,6 +143,7 @@ sections:
               - pb-2
               - pr-2
             borderRadius: large
+            justifyContent: center
     actions: []
     elementId: ''
     variant: small-list
