@@ -70,6 +70,7 @@ sections:
             iconPosition: right
             style: secondary
             showIcon: true
+            altText: Descargar Prodkeys Ryujinx
         colors: bg-dark-fg-light
         styles:
           self:
