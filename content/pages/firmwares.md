@@ -70,7 +70,7 @@ sections:
           - type: Button
             label: Descargar
             altText: ''
-            url: /
+            url: 'https://bit.ly/3XSbUjU'
             showIcon: true
             icon: arrowDown
             iconPosition: right
