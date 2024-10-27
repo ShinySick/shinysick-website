@@ -81,7 +81,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Firmware 18.0.1
+        title: Firmware 18.0.0
         subtitle: ''
         image:
           type: ImageBlock
