@@ -20,7 +20,8 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
-            "showIcon": false
+            "showIcon": false,
+            "altText": "Menú Prodkeys"
         },
         {
             "label": "Firmwares",
