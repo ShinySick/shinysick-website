@@ -126,6 +126,11 @@ sections:
         styles:
           self:
             flexDirection: row
+            padding:
+              - pt-1
+              - pl-1
+              - pb-1
+              - pr-1
     actions: []
     elementId: ''
     variant: small-list
