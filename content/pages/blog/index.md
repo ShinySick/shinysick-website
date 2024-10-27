@@ -10,7 +10,6 @@ topSections:
       type: TitleBlock
     subtitle: This is the subtitle
     posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
       - content/pages/blog/uzuy-dejara-de-existir.md
     showThumbnail: true
     showExcerpt: true
