@@ -113,5 +113,6 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: row
+    borderRadius: medium
 ---
 El emulador UZUY Cierra...💀 Pero NO COMO TE LO IMAGINAS.
