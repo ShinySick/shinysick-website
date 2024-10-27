@@ -614,7 +614,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 'Siguenos, Suscribete o Convietete en Miembro de Canal.'
+    subtitle: 'Siguenos, Suscribete o Convierete en Miembro de Canal.'
     items:
       - title: YouTube
         tagline: Suscripción
