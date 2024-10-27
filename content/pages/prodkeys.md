@@ -65,7 +65,7 @@ sections:
           - type: Button
             label: Descargar
             url: /
-            icon: arrowRight
+            icon: arrowDown
             iconPosition: right
             style: secondary
             showIcon: true
