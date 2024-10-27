@@ -1,7 +1,7 @@
 {
     "logo": {
-        "url": "/images/shinysick-logo.webp",
-        "altText": "Logo color",
+        "url": "/images/logo.webp",
+        "altText": "Logo ShinySick Encabezado",
         "styles": {
             "self": {
                 "margin": [
@@ -20,11 +20,12 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
-            "showIcon": false
+            "showIcon": false,
+            "altText": "Prdkeys Menú"
         },
         {
             "label": "Firmwares",
-            "altText": "Firmwares",
+            "altText": "Firmwares Menú",
             "url": "/firmwares",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -33,7 +34,7 @@
         },
         {
             "label": "Blog",
-            "altText": "Blog",
+            "altText": "Blog Menú",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -43,7 +44,7 @@
         {
             "type": "Link",
             "label": "Emuladores",
-            "altText": "",
+            "altText": "Emuladores Menú",
             "url": "/emuladores",
             "showIcon": false,
             "icon": "arrowRight",
@@ -55,7 +56,7 @@
     "secondaryLinks": [
         {
             "label": "YouTube",
-            "altText": "Sign up",
+            "altText": "Botón de Suscripcion YouTube",
             "url": "https://www.youtube.com/ShinySick",
             "icon": "youtube",
             "iconPosition": "right",

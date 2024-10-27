@@ -1,6 +1,6 @@
 {
     "logo": {
-        "url": "/images/logo.png",
+        "url": "/images/logo.webp",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
@@ -10,7 +10,7 @@
         "links": [
             {
                 "label": "Guías",
-                "altText": "Guias Page",
+                "altText": "Guias Completas Botón",
                 "url": "/blog/guias-completas",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -24,7 +24,7 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link",
-                "altText": "Tutoriales Page"
+                "altText": "Tutoriales Botón"
             },
             {
                 "label": "Vlogs",
@@ -33,7 +33,7 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link",
-                "altText": "Vlogs Page"
+                "altText": "Vlogs Botón"
             }
         ],
         "type": "FooterLinksGroup"
@@ -47,7 +47,8 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "Blog Menú"
             },
             {
                 "type": "Link",
@@ -76,19 +77,19 @@
     },
     "socialLinks": [
         {
-            "altText": "Email link",
+            "altText": "Youtube link",
             "url": "https://www.youtube.com/@shinysick",
             "icon": "youtube",
             "type": "Social"
         },
         {
-            "altText": "LinkedIn link",
+            "altText": "Instagram Link",
             "url": "https://www.instagram.com/shinysick/",
             "icon": "instagram",
             "type": "Social"
         },
         {
-            "altText": "Facebook Page",
+            "altText": "Pagina de facebook",
             "url": "https://www.facebook.com/ShinySickHackplay",
             "icon": "facebook",
             "type": "Social"

@@ -95,7 +95,7 @@ bottomSections:
       self:
         justifyContent: center
 slug: uzuy-dejara-de-existir
-isFeatured: false
+isFeatured: true
 isDraft: false
 seo:
   type: Seo
