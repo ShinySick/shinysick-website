@@ -117,7 +117,7 @@ sections:
       - type: FeaturedItem
         title: Yuzu Prodkeys 16.X.X
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Segúro viste un tutorial muy viejo x.x
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
