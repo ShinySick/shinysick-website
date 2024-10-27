@@ -22,7 +22,7 @@ sections:
         features:
           - Windows
           - Android
-          - Feature three
+          - Linux
           - Feature four
         image:
           type: ImageBlock
