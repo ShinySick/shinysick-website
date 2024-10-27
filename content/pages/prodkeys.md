@@ -110,7 +110,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Developers
+        title: Sudachi
         price: Free
         details: No credit card required
         description: >-
