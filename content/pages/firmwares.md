@@ -193,6 +193,30 @@ sections:
             flexDirection: row
             justifyContent: center
         text: "Estoy 100% seguro que actualmente ya no ocupas esta versión a menos que sea algo especifico. \U0001F480\n"
+      - type: FeaturedItem
+        title: Firmware 16.0.3
+        subtitle: $ 88 – $ 176
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
     actions: []
     elementId: ''
     variant: small-list
