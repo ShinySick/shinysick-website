@@ -16,7 +16,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Nintendo Switch Firmware
+      text: Descargar Nintendo Switch Firmware
       color: text-dark
       styles:
         self:
