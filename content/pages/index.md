@@ -101,7 +101,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/yuzu ea.png
+          url: /images/yuzu-logo.webp
           styles:
             self:
               borderRadius: x-large
