@@ -18,7 +18,7 @@ sections:
         text: ''
         actions:
           - type: Button
-            label: No le des click
+            label: Aquí No
             altText: ''
             url: 'https://bit.ly/3YhWHYf'
             showIcon: true
