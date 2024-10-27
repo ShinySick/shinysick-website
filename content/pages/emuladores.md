@@ -12,6 +12,7 @@ sections:
           textAlign: center
     posts:
       - content/pages/blog/yuzu-early-access-pc.md
+      - content/pages/blog/ryujinx-pc.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
