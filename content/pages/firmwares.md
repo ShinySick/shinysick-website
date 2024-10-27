@@ -175,10 +175,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
+              - pt-2
+              - pl-2
+              - pb-2
+              - pr-2
             textAlign: left
             borderRadius: large
             flexDirection: row
