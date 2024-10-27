@@ -131,7 +131,7 @@ sections:
             label: Descargar
             altText: ''
             url: 'https://bit.ly/44WJSFl '
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: secondary
