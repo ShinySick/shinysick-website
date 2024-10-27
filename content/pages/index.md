@@ -596,6 +596,132 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - title:
+      text: ¿Quieres apoyar de otras maneras?
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: 'Siguenos, Suscribete o Convietete en Miembro de Canal.'
+    items:
+      - title: YouTube
+        tagline: Suscripción
+        subtitle: Suscríbete al Canal
+        text: >+
+          <div style="text-align: left">Si encontraste lo que necesitabas, te
+          ayudé con tus dudas o te gustó el contenido, **suscribete al canal de
+          YT**.</div>
+
+        image:
+          url: /images/suscripcion-youtube.webp
+          altText: Placeholder Image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+        actions:
+          - type: Button
+            label: Suscríbete
+            altText: Boton de Suscripción
+            url: 'https://bit.ly/35ODAvb'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - title: YouTube
+        tagline: Membresia de Canal
+        subtitle: Únete a los Miembros
+        text: >
+          Al ser **miembro** de canal recibes **ventajas exclusivas, acceso
+          anticipado, menciones y sugerencias de contenido**.
+        image:
+          url: /images/membresia-youtube.webp
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+        actions:
+          - type: Button
+            label: Únete
+            altText: Boton Membresias YouTube
+            url: 'https://bit.ly/48mqCTG'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - title: Twitch
+        tagline: Sígueme
+        subtitle: Sígueme en Stream
+        text: >
+          A veces pasar el tiempo conviviendo **en vívo** es la mejor manera de
+          **comunicarnos, descansar y divertirnos**.
+        image:
+          url: /images/follow-twitch.webp
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+        actions:
+          - type: Button
+            label: Sígueme
+            altText: Boton de Follow Twitch
+            url: 'https://www.twitch.tv/shinysick'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-16
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: FeaturedItemsSection
   - type: CarouselSection
     subtitle: Miembros de canal con mayor antigüedad.
     items:
@@ -765,132 +891,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: ¿Quieres apoyar de otras maneras?
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: 'Siguenos, Suscribete o Convietete en Miembro de Canal.'
-    items:
-      - title: YouTube
-        tagline: Suscripción
-        subtitle: Suscríbete al Canal
-        text: >+
-          <div style="text-align: left">Si encontraste lo que necesitabas, te
-          ayudé con tus dudas o te gustó el contenido, **suscribete al canal de
-          YT**.</div>
-
-        image:
-          url: /images/suscripcion-youtube.webp
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-        actions:
-          - type: Button
-            label: Suscríbete
-            altText: Boton de Suscripción
-            url: 'https://bit.ly/35ODAvb'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-      - title: YouTube
-        tagline: Membresia de Canal
-        subtitle: Únete a los Miembros
-        text: >
-          Al ser **miembro** de canal recibes **ventajas exclusivas, acceso
-          anticipado, menciones y sugerencias de contenido**.
-        image:
-          url: /images/membresia-youtube.webp
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-        actions:
-          - type: Button
-            label: Únete
-            altText: Boton Membresias YouTube
-            url: 'https://bit.ly/48mqCTG'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-      - title: Twitch
-        tagline: Sígueme
-        subtitle: Sígueme en Stream
-        text: >
-          A veces pasar el tiempo conviviendo **en vívo** es la mejor manera de
-          **comunicarnos, descansar y divertirnos**.
-        image:
-          url: /images/follow-twitch.webp
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-        actions:
-          - type: Button
-            label: Sígueme
-            altText: Boton de Follow Twitch
-            url: 'https://www.twitch.tv/shinysick'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
 seo:
   metaTitle: ShinySick | Emulación de Consolas y Preservación de Videojuegos
   metaDescription: >-
