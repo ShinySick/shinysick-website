@@ -112,6 +112,6 @@ seo:
 colors: bg-light-fg-dark
 styles:
   self:
-    flexDirection: row-reverse
+    flexDirection: row
 ---
 El emulador UZUY Cierra...💀 Pero NO COMO TE LO IMAGINAS.
