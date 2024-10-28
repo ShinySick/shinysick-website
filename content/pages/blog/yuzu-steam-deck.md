@@ -10,7 +10,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/yuzu-steam-deck-guia.webp
-  altText: Yuzu Guia Completa Miniatura
+  altText: Yuzu Steam Deck Guia Miniatura
   elementId: ''
   styles:
     self:
