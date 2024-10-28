@@ -104,6 +104,7 @@ bottomSections:
     styles:
       self:
         justifyContent: center
+    hoverEffect: shadow-plus-move-up
 slug: ryujinx-1.2-tiene-virus
 isFeatured: false
 isDraft: false
