@@ -8,7 +8,7 @@ excerpt: >-
   tutorial te ayudará. CONECTA TU WIIMOTE A PC WINDOWS 11
 featuredImage:
   type: ImageBlock
-  url: /images/wii-guitar-clone-hero.webp
+  url: /images/ryujinx-1.2-tiene-virus.webp
   altText: Wii Guitar Clone Hero Tutorial Miniatura
   elementId: ''
   styles:
