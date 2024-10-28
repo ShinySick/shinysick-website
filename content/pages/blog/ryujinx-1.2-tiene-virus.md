@@ -125,6 +125,7 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: col
+    borderRadius: large
 ---
 Desde la salida del emulador **Ryujinx 1.2** ha habido un sin fin de quejas de la gente diciendo que **TIENE VIRUS** o **MALWARE**, cosa la cual es totalmente **FALSA**.
 
