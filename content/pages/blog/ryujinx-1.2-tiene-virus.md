@@ -109,7 +109,9 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Yuzu Early Access 4176 - El Mejor Emulador de Nintendo Switch
+  metaTitle: >-
+    ¡Desmontando Mitos! Ryujinx: Emulador de Nintendo Switch SIN Virus - Prueba
+    Irrefutable con VirusTotal
   metaDescription: >-
     Descubre Yuzu Early Access 4176, el emulador de Nintendo Switch líder. Juega
     tus juegos favoritos con la mejor calidad y rendimiento. ¡Guías, descargas y
