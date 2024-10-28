@@ -143,6 +143,10 @@ Nosotros realizamos pruebas a algunas de las versiones y estos fueron los result
 
 **Ryujinx 1.2.31:**![](/images/Captura%20de%20pantalla%202024-10-28%20042847.png)
 
+<br>
+
+### El problema con Ryujinx 1.2 y VirusTotal
+
 Si bien estos resultados son Satisfactorios, a los mas minuciosos y detallistas les puede llamar la atención que en un apartado es donde podemos encontrar **4 banderas rojas** para el archivo ejecutable del emulador Ryujinx.exe:
 
 ![](/images/Captura%20de%20pantalla%202024-10-28%20043154.png)
