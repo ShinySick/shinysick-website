@@ -47,8 +47,8 @@ bottomSections:
     media:
       type: VideoBlock
       title: >-
-        Como Conectar La Batería y Guitarra de Wii en Clone Hero - Conectar
-        Wiimote Windows  OCTUBRE 2024
+        ¿Un Malware podría estar afectando Ryujinx 1.2 o solo es histeria
+        colectiva?
       url: 'https://youtu.be/_pwYJmlDRow'
       autoplay: false
       loop: false
