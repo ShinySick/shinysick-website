@@ -118,7 +118,7 @@ seo:
     a nuestra guía detallada y análisis exhaustivo. ¡Garantiza tu seguridad
     mientras disfrutas de tus juegos favoritos!
   addTitleSuffix: true
-  socialImage: /images/Guia Yuzu EA.jpg
+  socialImage: /images/ryujinx-1.2-tiene-virus.webp
   metaTags: []
 colors: bg-light-fg-dark
 styles:
