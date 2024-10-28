@@ -33,7 +33,7 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Consulta la Guía
+      text: Consulta el Vlog
       color: text-dark
       styles:
         self:
