@@ -121,7 +121,7 @@ seo:
   addTitleSuffix: true
   socialImage: /images/ryujinx-1.2-tiene-virus.webp
   metaTags: []
-colors: bg-light-fg-dark
+colors: bg-dark-fg-light
 styles:
   self:
     flexDirection: col
