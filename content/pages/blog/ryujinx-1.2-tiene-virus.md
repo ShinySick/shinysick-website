@@ -4,8 +4,8 @@ title: ¿Un MALWARE podría estar afectando RYUJINX 1.2 o solo es HISTERIA COLEC
 date: '2024-10-28'
 author: content/data/person1.json
 excerpt: >-
-  Si tienes una batería o guitarra de wii y quieres utilizarlas en PC, este
-  tutorial te ayudará. CONECTA TU WIIMOTE A PC WINDOWS 11
+  Desde la salida del emulador Ryujinx 1.2 ha habido un sin fin de quejas de la
+  gente diciendo que TIENE VIRUS o MALWARE, cosa la cual es totalmente FALSA.
 featuredImage:
   type: ImageBlock
   url: /images/ryujinx-1.2-tiene-virus.webp
