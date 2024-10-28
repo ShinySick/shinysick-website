@@ -107,7 +107,7 @@ bottomSections:
     hoverEffect: shadow-plus-move-up
 slug: ryujinx-1.2-tiene-virus
 isFeatured: false
-isDraft: false
+isDraft: true
 seo:
   type: Seo
   metaTitle: >-
