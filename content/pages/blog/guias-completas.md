@@ -27,6 +27,7 @@ bottomSections:
       - content/pages/blog/ryujinx-pc.md
       - content/pages/blog/rpcs3-pc.md
       - content/pages/blog/yuzu-early-access-pc.md
+      - content/pages/blog/yuzu-steam-deck.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
