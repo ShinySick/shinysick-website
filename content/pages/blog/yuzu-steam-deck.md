@@ -50,7 +50,7 @@ bottomSections:
     actions: []
     media:
       type: VideoBlock
-      title: Como Descargar y configurar yuzu early access en PC paso a paso
+      title: Como Instalar Yuzu en Steam Deck
       url: 'https://youtu.be/n2YOOnlolY0'
       autoplay: false
       loop: false
