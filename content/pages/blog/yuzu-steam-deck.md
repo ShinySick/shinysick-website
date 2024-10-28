@@ -9,7 +9,7 @@ excerpt: >-
   no tan potentes.
 featuredImage:
   type: ImageBlock
-  url: /images/Yuzu-early-access-guia.jpg
+  url: /images/yuzu-steam-deck-guia.webp
   altText: Yuzu Guia Completa Miniatura
   elementId: ''
   styles:
