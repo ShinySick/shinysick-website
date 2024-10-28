@@ -40,8 +40,9 @@ bottomSections:
           textAlign: left
     subtitle: ¿Ryujinx 1.2 tiene Virus o no?
     text: >
-      Tutorial para poder **utilizar los instrumentos de Guitar Hero de la
-      Nintendo Wii** en PC con **Wiitarthing** y **Clone Hero**.
+      Si la información escrita no es tu fuerte y prefieres ver o escuchar lo
+      sucedido pues checa el **video** a continuación para enterarte más a
+      detalle de la noticia.
     actions: []
     media:
       type: VideoBlock
