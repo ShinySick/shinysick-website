@@ -67,7 +67,7 @@ bottomSections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
-    colors: bg-dark-fg-light
+    colors: bg-neutral-fg-dark
     styles:
       self:
         flexDirection: row
