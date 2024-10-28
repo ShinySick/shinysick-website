@@ -117,7 +117,7 @@ seo:
     utilizando VirusTotal. Asegúrate de descargar y jugar con confianza gracias
     a nuestra guía detallada y análisis exhaustivo. ¡Garantiza tu seguridad
     mientras disfrutas de tus juegos favoritos!
-  addTitleSuffix: false
+  addTitleSuffix: true
   socialImage: /images/Guia Yuzu EA.jpg
   metaTags: []
 colors: bg-light-fg-dark
