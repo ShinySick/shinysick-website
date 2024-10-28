@@ -6,8 +6,7 @@ author: content/data/person1.json
 excerpt: >-
   RPCS3 es un emulador y depurador de código abierto diseñado para la
   PlayStation 3, que permite a los usuarios jugar y depurar juegos de esta
-  consola en sus computadoras. Esta herramienta está desarrollada en C++ y
-  utiliza tecnologías de renderizado como OpenGL, Vulkan y DirectX 12.
+  consola en sus computadoras. 
 featuredImage:
   type: ImageBlock
   url: /images/rpcs3-miniatura-pc.webp
@@ -24,7 +23,7 @@ bottomSections:
   - type: DividerSection
     title: Divider
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
@@ -68,7 +67,7 @@ bottomSections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         flexDirection: row
@@ -78,7 +77,7 @@ bottomSections:
   - type: DividerSection
     title: Divider
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
