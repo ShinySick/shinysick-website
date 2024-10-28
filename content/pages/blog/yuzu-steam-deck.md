@@ -111,7 +111,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Yuzu Early Access 4176 - El Mejor Emulador de Nintendo Switch
+  metaTitle: Instala Yuzu en Steam Deck y Juega Nintendo Switch - Guía Definitiva 2024
   metaDescription: >-
     Descubre Yuzu Early Access 4176, el emulador de Nintendo Switch líder. Juega
     tus juegos favoritos con la mejor calidad y rendimiento. ¡Guías, descargas y
