@@ -121,17 +121,48 @@ styles:
   self:
     flexDirection: col
 ---
-Si tienes una **batería o guitarra de wii** y quieres utilizarlas en PC, este tutorial te ayudará a conectarlas a Windows 11.
+Desde la salida del emulador **Ryujinx 1.2** ha habido un sin fin de quejas de la gente diciendo que **TIENE VIRUS** o **MALWARE**, cosa la cual es totalmente **FALSA**.
 
 <br>
 
-### Descarga lo necesario
+Ésto ha raíz de que ésta versión del emulador no era publica y muchas personas desconfian de ella al mas minimo error.
 
-Para esto necesitaras los siguientes programas:
+Pero no hay nada de que preocuparse porque aquí en ShinySick hicimos pruebas a sus versiónes publicadas en el [github de Greemdev](https://github.com/GreemDev/Ryujinx/releases) y tuvimos resultados satisfactorios.
 
-*   [Wiitarthing](https://github.com/TheNathannator/WiitarThing/releases/tag/v2.7.0.5)
+<br>
 
-*   [Driver ViGEm](https://github.com/ViGEm/ViGEmBus/releases)
+### Haciendo pruebas con VIRUSTOTAL
 
-*   [Clone Hero](https://clonehero.net/releases/)
+Se sabe que la pagina de **VirusTotal** es uno de los principales escaneres de todo tipo de contenido en la red para verificar si algun **archivo** o **URL** tienen contenido malicioso y tambíen es el favorito de la gente.
 
+Nosotros realizamos pruebas a algunas de las versiones y estos fueron los resultados:
+
+**Ryujinx 1.2.59:**![](/images/Captura%20de%20pantalla%202024-10-28%20042628.png)
+
+**Ryujinx 1.2.57:**![](/images/Captura%20de%20pantalla%202024-10-28%20042724.png)
+
+**Ryujinx 1.2.31:**![](/images/Captura%20de%20pantalla%202024-10-28%20042847.png)
+
+Si bien estos resultados son Satisfactorios, a los mas minuciosos y detallistas les puede llamar la atención que en un apartado es donde podemos encontrar **4 banderas rojas** para el archivo ejecutable del emulador Ryujinx.exe:
+
+![](/images/Captura%20de%20pantalla%202024-10-28%20043154.png)
+
+**¡PERO TRANQUILO!** porque estas advertencias **NO SON PELIGROSAS**.
+
+La primera se trata del error **FileRepMalware \[Misc]** detectada por el antivirus Avast y la segunda **W64.AIDetectMalware** detectada por un motor generado por Inteligencia Artificial.
+
+![](/images/Captura%20de%20pantalla%202024-10-28%20043451.png)
+
+Y para terminar de eliminar tu preocupación, **Avast** genera una cantidad de "**confianza**" en cada app mientras más personas vayan usando algún software nuevo, por ende al no tener una cantidad suficiente de personas *(aún)* que hayan permitido la ejecución del emulador es que marca a Ryujinx 1.2 como si fuera un Malware.
+
+La detección de **BkavPro** impulsada por **IA** tambíen podria fallar tal y como cualquier motor/aplicación impulsado por Inteligencia Artificial, de hecho si googleas **W64.AIDetectMalware** encontrarás **MUCHOS** post de gente hablando sobre Falsos Positivos bajo este nombre.
+
+Y si te preguntas de porqué solo mencioné 2 advertencias y no las 4 mostradas... Pues porque VirusTotal no logró hacer nada con 2 de sus busquedas...
+
+![](/images/Captura%20de%20pantalla%202024-10-28%20044213.png)
+
+Con esto podemos concluír que Este emulador **NO TIENE NINGUN TIPO DE VIRUS O MALWARE ESCONDIDO EN SU CÓDIGO**, unicamente esas advertencias inofensivas las cuales son **FALSOS POSITIVOS.**
+
+<br>
+
+Si quieres información aún mas detallada, revisa el video de abajo!
