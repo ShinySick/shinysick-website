@@ -24,7 +24,7 @@ sections:
     items:
       - type: FeaturedItem
         title: FIRMWARE 19.0.1
-        subtitle: $ 88 – $ 176
+        subtitle: ¡Más Reciente!
         image:
           type: ImageBlock
           url: /images/firmware-reciente.webp
