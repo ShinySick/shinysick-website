@@ -179,7 +179,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/firmware-cuarto.webp
-          altText: Chunky Cotton Knit Throw
+          altText: Firmware 17.0.1
           elementId: ''
           styles:
             self:
