@@ -28,7 +28,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/firmware-reciente.webp
-          altText: Faux Fur Throw
+          altText: Firmware 19.0.1
           elementId: ''
           styles:
             self:
