@@ -144,7 +144,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/firmware-tercero1.webp
-          altText: Cotton Knit Throws
+          altText: Firmware 18.0.0
           elementId: ''
           styles:
             self:
