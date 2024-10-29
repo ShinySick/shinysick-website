@@ -46,6 +46,18 @@ sections:
             borderRadius: large
             flexDirection: row-reverse
             justifyContent: center
+        text: >+
+          *   Se solucionó un problema de conexión en el cual algunos
+          controladores de Nintendo GameCube no se detectaban.
+
+
+          *   Se solucionó un problema de algunos procesos de comunicación que
+          afectaba a las descargas en segundo plano en el modo de suspención.
+
+
+
+
+
       - type: FeaturedItem
         title: FIRMWARE 19.0.0
         subtitle: ¡Más Reciente!
