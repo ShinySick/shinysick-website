@@ -40,7 +40,7 @@ bottomSections:
       styles:
         self:
           textAlign: left
-    subtitle: Wiitarthing + Clone Hero
+    subtitle: ¿El Firmware 19.0.1 Rompe la Magia o no?
     text: >
       Tutorial para poder **utilizar los instrumentos de Guitar Hero de la
       Nintendo Wii** en PC con **Wiitarthing** y **Clone Hero**.
