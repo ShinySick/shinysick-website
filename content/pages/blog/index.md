@@ -10,7 +10,6 @@ topSections:
       type: TitleBlock
     subtitle: ''
     posts:
-      - content/pages/blog/uzuy-dejara-de-existir.md
       - >-
         content/pages/blog/nintendo-switch-firmware-19-0-1-actualizacion-impacto.md
     showThumbnail: true
