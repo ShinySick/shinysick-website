@@ -121,7 +121,7 @@ seo:
   addTitleSuffix: true
   socialImage: /images/firmware-19.0.1-miniatura.webp
   metaTags: []
-colors: bg-light-fg-dark
+colors: bg-dark-fg-light
 styles:
   self:
     flexDirection: col
