@@ -11,7 +11,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/firmware-19.0.1-miniatura.webp
-  altText: Wii Guitar Clone Hero Tutorial Miniatura
+  altText: Firmware 19.0.1 Blog
   elementId: ''
   styles:
     self:
