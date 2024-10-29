@@ -66,7 +66,7 @@ sections:
           experience.
         image:
           type: ImageBlock
-          url: /images/firmware-reciente.webp
+          url: /images/firmware-primero.webp
           altText: Faux Fur Throw
           elementId: ''
           styles:
