@@ -119,7 +119,7 @@ seo:
     mejoras, los cambios y cómo pueden afectar la experiencia de juego.
     ¡Mantente al día con nuestras novedades y optimiza tu consola al máximo!
   addTitleSuffix: true
-  socialImage: /images/Guia Yuzu EA.jpg
+  socialImage: /images/firmware-19.0.1-miniatura.webp
   metaTags: []
 colors: bg-light-fg-dark
 styles:
