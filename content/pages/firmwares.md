@@ -67,7 +67,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/firmware-primero.webp
-          altText: Faux Fur Throw
+          altText: Firmware 19.0.0
           elementId: ''
           styles:
             self:
