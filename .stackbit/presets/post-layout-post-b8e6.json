@@ -1,0 +1,188 @@
+{
+    "model": "PostLayout",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "post",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Guias Completas"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "CÓMO DESCARGAR Y CONFIGURAR YUZU EARLY ACCESS EN PC",
+                "date": "2024-02-21",
+                "author": {
+                    "$$ref": "content/data/person1.json",
+                    "$$type": "Person"
+                },
+                "excerpt": "Aprende a INSTALAR Yuzu Early Access 4176 fué la versión más actualizada de éste emulador, logrando tener un rendimiento muy alto incluso en dispositivos no tan potentes.",
+                "featuredImage": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/Yuzu-early-access-guia.jpg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Yuzu Guia Completa Miniatura",
+                    "elementId": "",
+                    "styles": {
+                        "self": {
+                            "padding": [
+                                "pt-0",
+                                "pl-0",
+                                "pb-0",
+                                "pr-0"
+                            ]
+                        }
+                    }
+                },
+                "bottomSections": [
+                    {
+                        "$$type": "DividerSection",
+                        "title": "Divider",
+                        "elementId": "",
+                        "colors": "bg-light-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-3",
+                                    "pl-3",
+                                    "pb-3",
+                                    "pr-3"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "GenericSection",
+                        "title": {
+                            "$$type": "TitleBlock",
+                            "text": "Consulta la Guía",
+                            "color": "text-dark",
+                            "styles": {
+                                "self": {
+                                    "textAlign": "left"
+                                }
+                            }
+                        },
+                        "subtitle": "Yuzu Early Access 4176",
+                        "text": "**Guía Definitiva** para instalar y configurar **YUZU EARLY ACCESS** en cualquier version.\n\nSe recomienda ver el video en **velocidad 2x** solo si se te hace muy largo el video.\n",
+                        "actions": [],
+                        "media": {
+                            "$$type": "VideoBlock",
+                            "title": "Como Descargar y configurar yuzu early access en PC paso a paso",
+                            "url": "https://youtu.be/W8Km5empX1A",
+                            "autoplay": false,
+                            "loop": false,
+                            "muted": true,
+                            "controls": true,
+                            "aspectRatio": "16:9",
+                            "elementId": null,
+                            "styles": {
+                                "self": {
+                                    "padding": [
+                                        "pt-2",
+                                        "pb-2",
+                                        "pl-2",
+                                        "pr-2"
+                                    ],
+                                    "borderColor": "border-dark",
+                                    "borderStyle": "solid",
+                                    "borderWidth": 1,
+                                    "borderRadius": "large"
+                                }
+                            }
+                        },
+                        "badge": null,
+                        "elementId": null,
+                        "colors": "bg-light-fg-dark",
+                        "backgroundImage": null,
+                        "styles": {
+                            "self": {
+                                "flexDirection": "row",
+                                "justifyContent": "center"
+                            },
+                            "subtitle": {
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "DividerSection",
+                        "title": "Divider",
+                        "elementId": "",
+                        "colors": "bg-light-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-3",
+                                    "pl-3",
+                                    "pb-3",
+                                    "pr-3"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "RecentPostsSection",
+                        "title": {
+                            "$$type": "TitleBlock",
+                            "text": "Posts Recientes",
+                            "color": "text-dark",
+                            "styles": {
+                                "self": {
+                                    "textAlign": "center"
+                                }
+                            }
+                        },
+                        "subtitle": null,
+                        "recentCount": 3,
+                        "showThumbnail": true,
+                        "showExcerpt": true,
+                        "showDate": true,
+                        "showAuthor": true,
+                        "actions": [],
+                        "badge": null,
+                        "elementId": "",
+                        "variant": "three-col-grid",
+                        "colors": "bg-light-fg-dark",
+                        "backgroundImage": null,
+                        "hoverEffect": "shadow-plus-move-up",
+                        "styles": {
+                            "self": {
+                                "justifyContent": "center"
+                            }
+                        }
+                    }
+                ],
+                "slug": "yuzu-early-access-pc",
+                "isFeatured": false,
+                "isDraft": false,
+                "seo": {
+                    "$$type": "Seo",
+                    "metaTitle": "Yuzu Early Access 4176 - El Mejor Emulador de Nintendo Switch",
+                    "metaDescription": "Descubre Yuzu Early Access 4176, el emulador de Nintendo Switch líder. Juega tus juegos favoritos con la mejor calidad y rendimiento. ¡Guías, descargas y noticias exclusivas!",
+                    "addTitleSuffix": false,
+                    "socialImage": {
+                        "$$ref": "stackbit_asset_id:static:public/images/Guia Yuzu EA.jpg",
+                        "$$type": "__asset_model"
+                    },
+                    "metaTags": []
+                },
+                "colors": "bg-dark-fg-light",
+                "styles": {
+                    "self": {
+                        "flexDirection": "col",
+                        "textAlign": "center",
+                        "borderRadius": "large"
+                    }
+                },
+                "markdown_content": "Aprende a **INSTALAR Yuzu Early Access 4176** fué la versión más actualizada de éste emulador, logrando tener un **rendimiento** **muy alto** incluso en dispositivos no tan potentes.\n\n### Requisitos Minimos de PC para el Emulador Yuzu Early Access 4176:\n\n*   **CPU:** Ryzen 3 1200 / Core i5 4th Gen\n\n*   **GPU:** RX 550 4GB / GTX 1050 4GB\n\n*   **iGPU:** AMD Radeon Vega 3 / Intel UHD 730 / Intel Iris\n\n*   **RAM:** 8GB con GPU / 12GB con iGPU\n\n### Archivos Necesarios:\n\nLas prodkeys son los archivos encargados de que el emulador decodifique el titulo del juego en conjunto con el firmware, sin estos archivos no será posible ningun tipo de emulación, si no los instalas podrias llegar a tener distintos tipos de errores.\n\n**¡ASEGURATE SIEMPRE DE INSTALAR LA VERSIÓN MÁS RECIENTE DISPONIBLE!**\n\n*   [**Prod.keys**](/prodkeys)\n\n*   [**Firmware**](/firmwares)\n\n*   [**Yuzu Early Access 4176**](https://bit.ly/3YCzUaM)\n\nEn este caso la descarga del emulador viene en un rar en conjunto con las siguientes versiones disponibles:\n\n*   Yuzu Mainline 1734\n\n*   Yuzu Early Access 4176\n\n*   Citra Nightly 2104\n\n*   Citra Canary 2798\n\n"
+            },
+            "thumbnail": "images/post-layout-post-b8e6.png"
+        }
+    ]
+}

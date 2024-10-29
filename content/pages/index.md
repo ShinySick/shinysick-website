@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Menú Inicial
 slug: /
 sections:
   - type: GenericSection
@@ -99,7 +99,7 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          altText: Yuzu Logo
           elementId: ''
           url: /images/yuzu-logo.webp
           styles:
@@ -112,7 +112,7 @@ sections:
           estable.
         image:
           url: /images/ryujinx-logo.webp
-          altText: Featured icon two
+          altText: Ryujinx Logo
           elementId: ''
           type: ImageBlock
         actions:
@@ -147,7 +147,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/uzuy.webp
-          altText: Placeholder text
+          altText: Uzuy Logo
           elementId: ''
           styles:
             self:
@@ -183,7 +183,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/cemu-logo.webp
-          altText: Placeholder text
+          altText: Cemu Logo
           elementId: ''
           styles:
             self:
@@ -220,7 +220,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/suyu-logo.webp
-          altText: Placeholder text
+          altText: Suyu Logo
           elementId: ''
           styles:
             self:
@@ -257,7 +257,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/rpcs3-logo.webp
-          altText: Placeholder text
+          altText: RPCS3 Logo
           elementId: ''
           styles:
             self:
@@ -614,7 +614,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 'Siguenos, Suscribete o Convietete en Miembro de Canal.'
+    subtitle: 'Siguenos, Suscribete o Convierete en Miembro de Canal.'
     items:
       - title: YouTube
         tagline: Suscripción
