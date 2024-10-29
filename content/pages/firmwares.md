@@ -143,7 +143,7 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/firmware-segundo.webp
+          url: /images/firmware-tercero1.webp
           altText: Cotton Knit Throws
           elementId: ''
           styles:
