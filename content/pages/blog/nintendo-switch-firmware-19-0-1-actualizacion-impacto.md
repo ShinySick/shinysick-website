@@ -118,7 +118,7 @@ seo:
     Switch y su posible impacto en las características actuales. Analizamos las
     mejoras, los cambios y cómo pueden afectar la experiencia de juego.
     ¡Mantente al día con nuestras novedades y optimiza tu consola al máximo!
-  addTitleSuffix: false
+  addTitleSuffix: true
   socialImage: /images/Guia Yuzu EA.jpg
   metaTags: []
 colors: bg-light-fg-dark
