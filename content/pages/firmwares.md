@@ -99,7 +99,7 @@ sections:
             borderColor: border-neutralAlt
             borderWidth: 2
             borderRadius: medium
-            flexDirection: row-reverse
+            flexDirection: row
             justifyContent: center
             borderStyle: dotted
       - type: FeaturedItem
