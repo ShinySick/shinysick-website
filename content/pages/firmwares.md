@@ -38,7 +38,7 @@ sections:
             label: Descargar
             altText: ''
             url: 'https://github.com/THZoria/NX_Firmware/releases/tag/19.0.1'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: secondary
