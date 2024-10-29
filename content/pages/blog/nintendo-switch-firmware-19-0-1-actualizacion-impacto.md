@@ -6,8 +6,8 @@ title: >-
 date: '2024-10-29'
 author: content/data/person1.json
 excerpt: >-
-  Si tienes una batería o guitarra de wii y quieres utilizarlas en PC, este
-  tutorial te ayudará. CONECTA TU WIIMOTE A PC WINDOWS 11
+  El día de hoy Nintendo ha lanzado una nueva actualización para el Firmware de
+  su Nintendo Switch a la versión 19.0.1
 featuredImage:
   type: ImageBlock
   url: /images/firmware-19.0.1-miniatura.webp
