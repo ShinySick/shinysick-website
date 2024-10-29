@@ -108,7 +108,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/firmware-segundo.webp
-          altText: Faux Fur Throw
+          altText: Firmware 18.1.0
           elementId: ''
           styles:
             self:
