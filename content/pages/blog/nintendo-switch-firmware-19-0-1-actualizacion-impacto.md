@@ -110,7 +110,9 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Yuzu Early Access 4176 - El Mejor Emulador de Nintendo Switch
+  metaTitle: >-
+    Nueva Actualización de Firmware 19.0.1 para Nintendo Switch - Impacto en la
+    Magia Actual
   metaDescription: >-
     Descubre Yuzu Early Access 4176, el emulador de Nintendo Switch líder. Juega
     tus juegos favoritos con la mejor calidad y rendimiento. ¡Guías, descargas y
