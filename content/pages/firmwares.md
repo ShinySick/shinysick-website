@@ -39,7 +39,7 @@ sections:
             altText: ''
             url: 'https://github.com/THZoria/NX_Firmware/releases/tag/19.0.1'
             showIcon: true
-            icon: arrowRight
+            icon: arrowDown
             iconPosition: right
             style: secondary
             elementId: ''
