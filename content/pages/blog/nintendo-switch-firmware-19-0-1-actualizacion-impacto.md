@@ -47,9 +47,7 @@ bottomSections:
     actions: []
     media:
       type: VideoBlock
-      title: >-
-        Como Conectar La Batería y Guitarra de Wii en Clone Hero - Conectar
-        Wiimote Windows  OCTUBRE 2024
+      title: Nueva Actualización de Firmware 19.0.1 en Switch - ¿Adios a la magia?
       url: 'https://youtu.be/biN2RUVFXdg'
       autoplay: false
       loop: false
