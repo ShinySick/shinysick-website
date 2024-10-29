@@ -10,7 +10,7 @@ excerpt: >-
   tutorial te ayudará. CONECTA TU WIIMOTE A PC WINDOWS 11
 featuredImage:
   type: ImageBlock
-  url: /images/wii-guitar-clone-hero.webp
+  url: /images/firmware-19.0.1-miniatura.webp
   altText: Wii Guitar Clone Hero Tutorial Miniatura
   elementId: ''
   styles:
