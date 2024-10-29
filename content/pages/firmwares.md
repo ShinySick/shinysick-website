@@ -211,7 +211,7 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/firmware-cuarto.webp
+          url: /images/firmware-quinto.webp
           altText: Faux Fur Throw
           elementId: ''
           styles:
