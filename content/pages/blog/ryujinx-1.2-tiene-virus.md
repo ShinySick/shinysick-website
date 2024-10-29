@@ -128,7 +128,7 @@ styles:
     borderRadius: large
     textAlign: center
 ---
-Desde la salida del emulador **Ryujinx 1.2** ha habido un sin fin de quejas de la gente diciendo que **TIENE VIRUS** o **MALWARE**, cosa la cual es totalmente **FALSA**.
+Desde la salida del emulador **Ryujinx 1.2** ha habido un sin fin de quejas de la gente diciendo que **TIENE VIRUS** o **MALWARE**, cosa la cual es totalmente **FALSA.**
 
 <br>
 
