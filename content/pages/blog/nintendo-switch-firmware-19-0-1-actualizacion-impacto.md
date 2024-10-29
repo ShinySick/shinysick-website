@@ -122,17 +122,28 @@ styles:
   self:
     flexDirection: col
 ---
-Si tienes una **batería o guitarra de wii** y quieres utilizarlas en PC, este tutorial te ayudará a conectarlas a Windows 11.
+El día de hoy **Nintendo** ha lanzado una **nueva actualización para el Firmware de su Nintendo Switch a la versión 19.0.1** la cual corrige algunos problemas que surgieron desde la **19.0.0.**
 
 <br>
 
-### Descarga lo necesario
+### Cambios de la version 19.0.1
 
-Para esto necesitaras los siguientes programas:
+*   Se solucionó un problema de conexión en el cual algunos controladores de Nintendo GameCube no se detectaban.
 
-*   [Wiitarthing](https://github.com/TheNathannator/WiitarThing/releases/tag/v2.7.0.5)
+*   Se solucionó un problema de algunos procesos de comunicación que afectaba a las descargas en segundo plano en el modo de suspención.
 
-*   [Driver ViGEm](https://github.com/ViGEm/ViGEmBus/releases)
+Puedes [descargar este Firmware 19.0.1 aqui.](/firmwares)
 
-*   [Clone Hero](https://clonehero.net/releases/)
+<br>
 
+### ¿Afecta esta actualización a la Magia?
+
+La respuesta corta es: NO.
+
+Ya que al ser una versión menor de Firmware las herramientas de magia se pudieron actualizar rapidamente y las puedes encontrar [aqui.](https://bit.ly/4e4khxh)
+
+<br>
+
+### ¿Y para los Emuladores beneficia en algo?
+
+Si te gusta tener siempre lo más actualizado podrás utilizarlo sin problema alguno, pero no existe ningun beneficio actual el tener la versión 19.0.1 en tu emulador, incluso para las prod.keys seguirán siendo utilizables las [prod.keys 19.0.0](/prodkeys)
