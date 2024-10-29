@@ -42,8 +42,9 @@ bottomSections:
           textAlign: left
     subtitle: ¿El Firmware 19.0.1 Rompe la Magia o no?
     text: >
-      Tutorial para poder **utilizar los instrumentos de Guitar Hero de la
-      Nintendo Wii** en PC con **Wiitarthing** y **Clone Hero**.
+      Esta nueva nueva actualización nos arregla los problemas existentes de
+      **la version 19.0.0**, pero... ¿Afectará a la Magia de las consolas y
+      emuladores?
     actions: []
     media:
       type: VideoBlock
