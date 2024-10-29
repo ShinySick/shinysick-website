@@ -212,7 +212,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/firmware-quinto.webp
-          altText: Faux Fur Throw
+          altText: Firmware 16.1.0
           elementId: ''
           styles:
             self:
