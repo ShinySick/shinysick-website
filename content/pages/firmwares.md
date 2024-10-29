@@ -43,7 +43,7 @@ sections:
               - pb-6
               - pr-6
             textAlign: left
-            borderRadius: none
+            borderRadius: large
             flexDirection: row-reverse
             justifyContent: center
       - type: FeaturedItem
