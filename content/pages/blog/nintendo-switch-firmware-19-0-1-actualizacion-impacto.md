@@ -114,9 +114,10 @@ seo:
     Nueva Actualización de Firmware 19.0.1 para Nintendo Switch - Impacto en la
     Magia Actual
   metaDescription: >-
-    Descubre Yuzu Early Access 4176, el emulador de Nintendo Switch líder. Juega
-    tus juegos favoritos con la mejor calidad y rendimiento. ¡Guías, descargas y
-    noticias exclusivas!
+    Descubre todo sobre la última actualización de firmware 19.0.1 para Nintendo
+    Switch y su posible impacto en las características actuales. Analizamos las
+    mejoras, los cambios y cómo pueden afectar la experiencia de juego.
+    ¡Mantente al día con nuestras novedades y optimiza tu consola al máximo!
   addTitleSuffix: false
   socialImage: /images/Guia Yuzu EA.jpg
   metaTags: []
