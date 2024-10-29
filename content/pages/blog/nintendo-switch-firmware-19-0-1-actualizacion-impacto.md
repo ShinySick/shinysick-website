@@ -104,6 +104,7 @@ bottomSections:
     styles:
       self:
         justifyContent: center
+    hoverEffect: shadow-plus-move-up
 slug: nintendo-switch-firmware-19-0-1-actualizacion-impacto
 isFeatured: false
 isDraft: false
