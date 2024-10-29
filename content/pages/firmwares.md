@@ -245,7 +245,7 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/firmware-quinto.webp
+          url: /images/firmware-sexto.webp
           altText: Firmware 16.0.3
           elementId: ''
           styles:
