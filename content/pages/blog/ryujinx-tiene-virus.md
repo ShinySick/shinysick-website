@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/ryujinx-1.2-tiene-virus.webp
-  altText: Wii Guitar Clone Hero Tutorial Miniatura
+  altText: ¿Ryujinx 1.2 Tiene Virus?
   elementId: ''
   styles:
     self:
