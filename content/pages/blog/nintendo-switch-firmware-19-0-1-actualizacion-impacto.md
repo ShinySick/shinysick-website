@@ -126,6 +126,7 @@ styles:
   self:
     flexDirection: col
     textAlign: center
+    borderRadius: large
 ---
 El día de hoy **Nintendo** ha lanzado una **nueva actualización para el Firmware de su Nintendo Switch a la versión 19.0.1** la cual corrige algunos problemas que surgieron desde la **19.0.0.**
 
