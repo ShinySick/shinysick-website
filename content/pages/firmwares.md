@@ -35,7 +35,7 @@ sections:
               borderRadius: medium
         actions:
           - type: Button
-            label: Get started
+            label: Descargar
             altText: ''
             url: 'https://github.com/THZoria/NX_Firmware/releases/tag/19.0.1'
             showIcon: false
