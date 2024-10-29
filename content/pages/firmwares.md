@@ -44,7 +44,7 @@ sections:
               - pr-6
             textAlign: left
             borderRadius: none
-            flexDirection: row
+            flexDirection: row-reverse
             justifyContent: center
       - type: FeaturedItem
         title: FIRMWARE 19.0.0
