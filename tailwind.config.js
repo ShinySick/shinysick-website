@@ -122,14 +122,6 @@ module.exports = {
                     padding: `${themeStyle.buttonSecondary.verticalPadding}px ${themeStyle.buttonSecondary.horizontalPadding}px`,
                     textTransform: themeStyle.buttonSecondary.case
                 },
-                '.sb-component-button-tertiary': {
-                    borderRadius: theme(`borderRadius.${themeStyle.buttonTertiary.borderRadius}`),
-                    boxShadow: theme(`boxShadow.${themeStyle.buttonTertiary.shadow}`),
-                    fontWeight: themeStyle.buttonTertiary.weight,
-                    letterSpacing: theme(`letterSpacing.${themeStyle.buttonTertiary.letterSpacing}`),
-                    padding: `${themeStyle.buttonTertiary.verticalPadding}px ${themeStyle.buttonTertiary.horizontalPadding}px`,
-                    textTransform: themeStyle.buttonTertiary.case
-                },
                 '.sb-component-link-primary': {
                     fontWeight: themeStyle.linkPrimary.weight,
                     letterSpacing: theme(`letterSpacing.${themeStyle.linkPrimary.letterSpacing}`),
