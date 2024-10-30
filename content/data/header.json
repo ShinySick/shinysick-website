@@ -60,7 +60,7 @@
             "url": "https://www.youtube.com/ShinySick",
             "icon": "youtube",
             "iconPosition": "right",
-            "style": "secondary",
+            "style": "FF0000",
             "type": "Button",
             "showIcon": true
         }
