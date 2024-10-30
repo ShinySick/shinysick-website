@@ -82,7 +82,7 @@ sections:
             showIcon: false
             icon: arrowRight
             iconPosition: right
-            style: primary
+            style: secondary
             elementId: ''
         elementId: null
         colors: bg-dark-fg-light
