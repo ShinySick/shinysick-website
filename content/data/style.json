@@ -4,6 +4,7 @@
     "neutral": "#E8E8EB",
     "neutralAlt": "#DCDCDC",
     "primary": "#2a2a2a",
+    "ytRed": "#FF0000",
     "fontBody": "sans",
     "fontHeadlines": "sans",
     "h1": {
@@ -65,6 +66,16 @@
         "type": "ThemeStyleButton"
     },
     "buttonSecondary": {
+        "weight": "normal",
+        "case": "none",
+        "letterSpacing": "normal",
+        "borderRadius": "DEFAULT",
+        "shadow": "none",
+        "horizontalPadding": 30,
+        "verticalPadding": 12,
+        "type": "ThemeStyleButton"
+    },
+    "buttonTertiary": {
         "weight": "normal",
         "case": "none",
         "letterSpacing": "normal",
