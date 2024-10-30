@@ -184,7 +184,7 @@
             @apply placeholder-dark/50;
         }
         .sb-component-button-primary {
-            @apply bg-primary border-primary text-light;
+            @apply bg-YTRed border-primary text-light;
         }
         .sb-component-button-secondary {
             @apply border-dark text-dark;
