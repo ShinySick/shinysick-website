@@ -288,10 +288,8 @@ sections:
       - type: FeaturedItem
         title: Citron
         subtitle: Nintendo Switch
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Emulador de Nintendo Switch que procedió al extinto Uzuy.
         image:
           type: ImageBlock
           url: /images/citron_icono.ico
