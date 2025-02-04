@@ -36,7 +36,11 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Guías Completas de Emuladores | Instalación y Uso Paso a Paso
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: >-
+    Descubre nuestras Guías Completas de Emuladores en ShinySick. Aprende a
+    instalar y configurar emuladores de consolas retro y actuales con nuestros
+    tutoriales detallados. Mantén vivos tus videojuegos favoritos con nuestra
+    guía paso a paso.
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
