@@ -212,6 +212,41 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
+        title: Citron
+        subtitle: Nintendo Switch
+        text: |
+          Emulador de Nintendo Switch que procedió al extinto Uzuy.
+        image:
+          type: ImageBlock
+          url: /images/citron_icono.ico
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Ver
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
         title: Suyu
         subtitle: Nintendo Switch
         text: >
@@ -231,41 +266,6 @@ sections:
             altText: Suyu Lista de Reproducción
             url: >-
               https://www.youtube.com/playlist?list=PLRZYnOrbeoT0J-vLlgrfNF60KnZrM7vvq
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-      - type: FeaturedItem
-        title: Citron
-        subtitle: Nintendo Switch
-        text: |
-          Emulador de Nintendo Switch que procedió al extinto Uzuy.
-        image:
-          type: ImageBlock
-          url: /images/citron_icono.ico
-          altText: Placeholder text
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: Ver
-            altText: ''
-            url: /
             showIcon: false
             icon: arrowRight
             iconPosition: right
