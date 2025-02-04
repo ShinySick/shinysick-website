@@ -68,6 +68,40 @@ sections:
       type: TitleBlock
     subtitle: Listas de Reproducción con todo el Contenido en YT.
     items:
+      - title: Ryujinx
+        subtitle: Nintendo Switch
+        text: >
+          Destaca por su excelente rendimiento y precisión, interfaz amigable y
+          estable.
+        image:
+          url: /images/ryujinx-logo.webp
+          altText: Ryujinx Logo
+          elementId: ''
+          type: ImageBlock
+        actions:
+          - type: Button
+            label: Ver
+            altText: Ryujinx Lista de Reproducción
+            url: >-
+              https://www.youtube.com/playlist?list=PLRZYnOrbeoT28MnQEgre8DwMuaR0ywPCu
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+        type: FeaturedItem
       - type: FeaturedItem
         title: Yuzu
         subtitle: Nintendo Switch
@@ -105,40 +139,6 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Ryujinx
-        subtitle: Nintendo Switch
-        text: >
-          Destaca por su excelente rendimiento y precisión, interfaz amigable y
-          estable.
-        image:
-          url: /images/ryujinx-logo.webp
-          altText: Ryujinx Logo
-          elementId: ''
-          type: ImageBlock
-        actions:
-          - type: Button
-            label: Ver
-            altText: Ryujinx Lista de Reproducción
-            url: >-
-              https://www.youtube.com/playlist?list=PLRZYnOrbeoT28MnQEgre8DwMuaR0ywPCu
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
       - type: FeaturedItem
         title: Citron
         subtitle: Nintendo Switch
