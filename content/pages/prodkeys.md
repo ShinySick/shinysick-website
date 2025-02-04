@@ -50,9 +50,9 @@ sections:
         title: Ryujinx 1.2 + LDN
         price: MAGIA
         details: Prod.Keys
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Continuación del Ryujinx original, ahora desarrollado por GreemDev,
+          sigue funcionando PERFECTO.
         features:
           - Windows
           - Linux
