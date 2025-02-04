@@ -81,7 +81,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Developers
+        title: Citron 0.4.0
         price: Free
         details: No credit card required
         description: >-
