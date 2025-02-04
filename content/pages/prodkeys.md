@@ -150,9 +150,9 @@ sections:
         title: Uzuy MMJR
         price: MAGIA
         details: Prod.Keys
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          UZUY Cesó su desarrollo... pero renació en CITRON así que todas las
+          mejoras estan ahi.
         features:
           - Android
         image:
