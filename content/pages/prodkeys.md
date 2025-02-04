@@ -81,7 +81,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Citron 0.4.0
+        title: Citron 0.4
         price: Free
         details: No credit card required
         description: >-
