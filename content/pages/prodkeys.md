@@ -99,7 +99,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            url: /
+            url: /citron-keys
             icon: arrowDown
             iconPosition: right
             style: secondary
