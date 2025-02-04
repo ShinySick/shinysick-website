@@ -35,7 +35,7 @@ slug: emuladores
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Emuladores Guias Completas
+  metaTitle: Guías Completas de Emuladores | Instalación y Uso Paso a Paso
   metaDescription: Write here your new page's description including most relevant keywords.
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
