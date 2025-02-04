@@ -223,7 +223,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: La Magia de los Emuladores de Nintendo Switch | Prod.Keys
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: >-
+    Explora cómo emular juegos de Nintendo Switch y revive la magia de tus
+    títulos favoritos con las prod.keys necesarias.
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
