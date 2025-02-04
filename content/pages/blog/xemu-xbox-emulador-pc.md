@@ -127,17 +127,19 @@ styles:
     textAlign: center
     borderRadius: large
 ---
-Aprende a **INSTALAR Yuzu Early Access 4176** fué la versión más actualizada de éste emulador, logrando tener un **rendimiento** **muy alto** incluso en dispositivos no tan potentes.
+Aprende a **INSTALAR el emulador XEMU de XBOX Clasico** esta es la versión más actualizada de éste emulador, logrando tener un **rendimiento** **muy alto** incluso en dispositivos no tan potentes.
 
 ### Requisitos Minimos de PC para el Emulador Yuzu Early Access 4176:
 
 *   **CPU:** Ryzen 3 1200 / Core i5 4th Gen
 
-*   **GPU:** RX 550 4GB / GTX 1050 4GB
+*   **GPU:** Cualquiera con Soporte de OpenGL 4.0
 
 *   **iGPU:** AMD Radeon Vega 3 / Intel UHD 730 / Intel Iris
 
-*   **RAM:** 8GB con GPU / 12GB con iGPU
+*   **RAM:** 8GB Minimo / 16GB Recomendado
+
+*   **SO:** Windows / Linux / MacOS
 
 ### Archivos Necesarios:
 
