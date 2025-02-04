@@ -84,9 +84,9 @@ sections:
         title: Citron 0.4
         price: MAGIA
         details: Prod.keys
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Segundo proyecto más grande despues de Ryujinx 1.2 con actualizaciones
+          de desarrollo constante.
         features:
           - Windows
           - Linux
