@@ -211,42 +211,6 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Uzuy
-        subtitle: Nintendo Switch
-        text: |
-          Emulador de Switch para Android con un rendimiento superior a Yuzu.
-        image:
-          type: ImageBlock
-          url: /images/uzuy.webp
-          altText: Uzuy Logo
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: Ver
-            altText: Uzuy Lista de Reproducción
-            url: >-
-              https://www.youtube.com/playlist?list=PLRZYnOrbeoT3A0HY_ufJ3BwUnXhGjW4SV
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-      - type: FeaturedItem
         title: RPCS3
         subtitle: Playstation 3
         text: >
@@ -266,6 +230,42 @@ sections:
             altText: Rpcs3 Lista de Reproducción
             url: >-
               https://www.youtube.com/playlist?list=PLRZYnOrbeoT1qvdAxluGdER7lXqeJKEmZ
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: Uzuy
+        subtitle: Nintendo Switch
+        text: |
+          Emulador de Switch para Android con un rendimiento superior a Yuzu.
+        image:
+          type: ImageBlock
+          url: /images/uzuy.webp
+          altText: Uzuy Logo
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Ver
+            altText: Uzuy Lista de Reproducción
+            url: >-
+              https://www.youtube.com/playlist?list=PLRZYnOrbeoT3A0HY_ufJ3BwUnXhGjW4SV
             showIcon: false
             icon: arrowRight
             iconPosition: right
