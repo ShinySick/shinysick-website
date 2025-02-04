@@ -176,14 +176,14 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Cemu
-        subtitle: Nintendo Wii U
+        title: Citron
+        subtitle: Nintendo Switch
         text: |
-          Emulador de Nintendo Wii U para Windows y Linux de código abierto.
+          Emulador de Nintendo Switch que procedió al extinto Uzuy.
         image:
           type: ImageBlock
-          url: /images/cemu-logo.webp
-          altText: Cemu Logo
+          url: /images/citron_icono.ico
+          altText: Placeholder text
           elementId: ''
           styles:
             self:
@@ -191,9 +191,8 @@ sections:
         actions:
           - type: Button
             label: Ver
-            altText: Cemu Lista de Reproducción
-            url: >-
-              https://www.youtube.com/playlist?list=PLRZYnOrbeoT2xdv1ypbawWPm82Hvj12Ky
+            altText: ''
+            url: /
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -212,14 +211,14 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Citron
-        subtitle: Nintendo Switch
+        title: Cemu
+        subtitle: Nintendo Wii U
         text: |
-          Emulador de Nintendo Switch que procedió al extinto Uzuy.
+          Emulador de Nintendo Wii U para Windows y Linux de código abierto.
         image:
           type: ImageBlock
-          url: /images/citron_icono.ico
-          altText: Placeholder text
+          url: /images/cemu-logo.webp
+          altText: Cemu Logo
           elementId: ''
           styles:
             self:
@@ -227,8 +226,9 @@ sections:
         actions:
           - type: Button
             label: Ver
-            altText: ''
-            url: /
+            altText: Cemu Lista de Reproducción
+            url: >-
+              https://www.youtube.com/playlist?list=PLRZYnOrbeoT2xdv1ypbawWPm82Hvj12Ky
             showIcon: false
             icon: arrowRight
             iconPosition: right
