@@ -42,6 +42,6 @@ seo:
     tutoriales detallados. Mantén vivos tus videojuegos favoritos con nuestra
     guía paso a paso.
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Guias-completas-emulacion.webp
   metaTags: []
 ---
