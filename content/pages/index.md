@@ -118,7 +118,7 @@ sections:
         actions:
           - type: Button
             label: Ver
-            altText: ''
+            altText: Citron Playlist YouTube
             url: >-
               https://www.youtube.com/playlist?list=PLRZYnOrbeoT05OyoBkMcIhPKCrBIWWmR7
             showIcon: false
