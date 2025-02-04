@@ -91,7 +91,7 @@ sections:
           - Windows
           - Linux
           - Mac
-          - Feature four
+          - Android
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
