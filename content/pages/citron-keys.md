@@ -90,7 +90,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Yuzu Prodkeys 17.0.0
+        title: Citron Prodkeys 17.0.0
         tagline: ''
         subtitle: 'Te estas alejando de las necesarias y actuales :('
         text: ''
