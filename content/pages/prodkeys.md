@@ -116,9 +116,9 @@ sections:
         title: Suyu 0.0.3
         price: MAGIA
         details: Prod.Keys
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          Conitnuación del emulador YUZU, pero nació muerto... Sí lo usas...
+          enserio?
         features:
           - Windows
           - Android
