@@ -82,7 +82,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Citron 0.4
-        price: Free
+        price: MAGIA
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
