@@ -294,7 +294,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/citron_icono.ico
           altText: Placeholder text
           elementId: ''
           styles:
