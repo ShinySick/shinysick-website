@@ -104,6 +104,7 @@ sections:
             iconPosition: right
             style: secondary
             showIcon: true
+            altText: Descargar ProdKeys Citron
         colors: bg-dark-fg-light
         styles:
           self:
