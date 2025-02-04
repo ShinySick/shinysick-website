@@ -222,7 +222,7 @@ slug: prodkeys
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
+  metaTitle: La Magia de los Emuladores de Nintendo Switch | Prod.Keys
   metaDescription: Write here your new page's description including most relevant keywords.
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
