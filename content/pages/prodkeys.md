@@ -89,7 +89,7 @@ sections:
           accusantium doloremque.
         features:
           - Windows
-          - Feature two
+          - Linux
           - Feature three
           - Feature four
         image:
