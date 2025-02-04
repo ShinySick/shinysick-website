@@ -90,7 +90,7 @@ sections:
         features:
           - Windows
           - Linux
-          - Feature three
+          - Mac
           - Feature four
         image:
           type: ImageBlock
