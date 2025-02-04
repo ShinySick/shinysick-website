@@ -68,6 +68,76 @@ sections:
       type: TitleBlock
     subtitle: Listas de Reproducción con todo el Contenido en YT.
     items:
+      - title: Ryujinx
+        subtitle: Nintendo Switch
+        text: >
+          Destaca por su excelente rendimiento y precisión, interfaz amigable y
+          estable.
+        image:
+          url: /images/ryujinx-logo.webp
+          altText: Ryujinx Logo
+          elementId: ''
+          type: ImageBlock
+        actions:
+          - type: Button
+            label: Ver
+            altText: Ryujinx Lista de Reproducción
+            url: >-
+              https://www.youtube.com/playlist?list=PLRZYnOrbeoT28MnQEgre8DwMuaR0ywPCu
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+        type: FeaturedItem
+      - type: FeaturedItem
+        title: Citron
+        subtitle: Nintendo Switch
+        text: |
+          Emulador de Nintendo Switch que procedió al extinto Uzuy.
+        image:
+          type: ImageBlock
+          url: /images/citron_icono.ico
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Ver
+            altText: Citron Lista de Reproduccion
+            url: >-
+              https://www.youtube.com/playlist?list=PLRZYnOrbeoT05OyoBkMcIhPKCrBIWWmR7
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
       - type: FeaturedItem
         title: Yuzu
         subtitle: Nintendo Switch
@@ -105,76 +175,6 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Ryujinx
-        subtitle: Nintendo Switch
-        text: >
-          Destaca por su excelente rendimiento y precisión, interfaz amigable y
-          estable.
-        image:
-          url: /images/ryujinx-logo.webp
-          altText: Ryujinx Logo
-          elementId: ''
-          type: ImageBlock
-        actions:
-          - type: Button
-            label: Ver
-            altText: Ryujinx Lista de Reproducción
-            url: >-
-              https://www.youtube.com/playlist?list=PLRZYnOrbeoT28MnQEgre8DwMuaR0ywPCu
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
-      - type: FeaturedItem
-        title: Uzuy
-        subtitle: Nintendo Switch
-        text: |
-          Emulador de Switch para Android con un rendimiento superior a Yuzu.
-        image:
-          type: ImageBlock
-          url: /images/uzuy.webp
-          altText: Uzuy Logo
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: Ver
-            altText: Uzuy Lista de Reproducción
-            url: >-
-              https://www.youtube.com/playlist?list=PLRZYnOrbeoT3A0HY_ufJ3BwUnXhGjW4SV
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
       - type: FeaturedItem
         title: Cemu
         subtitle: Nintendo Wii U
@@ -212,43 +212,6 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Suyu
-        subtitle: Nintendo Switch
-        text: >
-          Fué la continuación del emulador más popular de la Nintendo Switch,
-          Yuzu.
-        image:
-          type: ImageBlock
-          url: /images/suyu-logo.webp
-          altText: Suyu Logo
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: Ver
-            altText: Suyu Lista de Reproducción
-            url: >-
-              https://www.youtube.com/playlist?list=PLRZYnOrbeoT0J-vLlgrfNF60KnZrM7vvq
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-      - type: FeaturedItem
         title: RPCS3
         subtitle: Playstation 3
         text: >
@@ -268,6 +231,79 @@ sections:
             altText: Rpcs3 Lista de Reproducción
             url: >-
               https://www.youtube.com/playlist?list=PLRZYnOrbeoT1qvdAxluGdER7lXqeJKEmZ
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: Uzuy
+        subtitle: Nintendo Switch
+        text: |
+          Emulador de Switch para Android con un rendimiento superior a Yuzu.
+        image:
+          type: ImageBlock
+          url: /images/uzuy.webp
+          altText: Uzuy Logo
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Ver
+            altText: Uzuy Lista de Reproducción
+            url: >-
+              https://www.youtube.com/playlist?list=PLRZYnOrbeoT3A0HY_ufJ3BwUnXhGjW4SV
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: Suyu
+        subtitle: Nintendo Switch
+        text: >
+          Fué la continuación del emulador más popular de la Nintendo Switch,
+          Yuzu.
+        image:
+          type: ImageBlock
+          url: /images/suyu-logo.webp
+          altText: Suyu Logo
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Ver
+            altText: Suyu Lista de Reproducción
+            url: >-
+              https://www.youtube.com/playlist?list=PLRZYnOrbeoT0J-vLlgrfNF60KnZrM7vvq
             showIcon: false
             icon: arrowRight
             iconPosition: right
