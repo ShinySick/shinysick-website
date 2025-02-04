@@ -190,7 +190,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Descargar ProdKeys del Emulador Citron
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: >-
+    Obtén los ProdKeys necesarios para ejecutar juegos en el emulador Citron
+    fácilmente.
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
