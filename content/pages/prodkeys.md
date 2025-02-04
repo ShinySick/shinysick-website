@@ -50,9 +50,9 @@ sections:
         title: Ryujinx 1.2 + LDN
         price: MAGIA
         details: Prod.Keys
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Continuación del Ryujinx original, ahora desarrollado por GreemDev,
+          sigue funcionando PERFECTO.
         features:
           - Windows
           - Linux
@@ -81,12 +81,46 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
+        title: Citron 0.4
+        price: MAGIA
+        details: Prod.keys
+        description: >
+          Segundo proyecto más grande despues de Ryujinx 1.2 con actualizaciones
+          de desarrollo constante.
+        features:
+          - Windows
+          - Linux
+          - Mac
+          - Android
+        image:
+          type: ImageBlock
+          url: /images/citron-prodkeys-miniatura.webp
+          altText: Pricing plan 1
+        actions:
+          - type: Button
+            label: Descargar
+            url: /citron-keys
+            icon: arrowDown
+            iconPosition: right
+            style: secondary
+            showIcon: true
+            altText: Descargar ProdKeys Citron
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
         title: Suyu 0.0.3
         price: MAGIA
         details: Prod.Keys
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          Conitnuación del emulador YUZU, pero nació muerto... Sí lo usas...
+          enserio?
         features:
           - Windows
           - Android
@@ -118,9 +152,9 @@ sections:
         title: Uzuy MMJR
         price: MAGIA
         details: Prod.Keys
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          UZUY Cesó su desarrollo... pero renació en CITRON así que todas las
+          mejoras estan ahi.
         features:
           - Android
         image:
@@ -149,9 +183,9 @@ sections:
         title: Sudachi 1.0.11
         price: MAGIA
         details: Prod.Keys
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Segundo Fork que intento revivir el legado de YUZU... sin mucho exito
+          pero igual tiene mejoras a probar.
         features:
           - Windows
           - Android
@@ -188,8 +222,10 @@ slug: prodkeys
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaTitle: La Magia de los Emuladores de Nintendo Switch | Prod.Keys
+  metaDescription: >-
+    Explora cómo emular juegos de Nintendo Switch y revive la magia de tus
+    títulos favoritos con las prod.keys necesarias.
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
