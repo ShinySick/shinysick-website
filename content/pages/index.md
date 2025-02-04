@@ -140,14 +140,14 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - type: FeaturedItem
-        title: Uzuy
+        title: Citron
         subtitle: Nintendo Switch
         text: |
-          Emulador de Switch para Android con un rendimiento superior a Yuzu.
+          Emulador de Nintendo Switch que procedió al extinto Uzuy.
         image:
           type: ImageBlock
-          url: /images/uzuy.webp
-          altText: Uzuy Logo
+          url: /images/citron_icono.ico
+          altText: Placeholder text
           elementId: ''
           styles:
             self:
@@ -155,9 +155,8 @@ sections:
         actions:
           - type: Button
             label: Ver
-            altText: Uzuy Lista de Reproducción
-            url: >-
-              https://www.youtube.com/playlist?list=PLRZYnOrbeoT3A0HY_ufJ3BwUnXhGjW4SV
+            altText: ''
+            url: /
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -176,14 +175,14 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Citron
+        title: Uzuy
         subtitle: Nintendo Switch
         text: |
-          Emulador de Nintendo Switch que procedió al extinto Uzuy.
+          Emulador de Switch para Android con un rendimiento superior a Yuzu.
         image:
           type: ImageBlock
-          url: /images/citron_icono.ico
-          altText: Placeholder text
+          url: /images/uzuy.webp
+          altText: Uzuy Logo
           elementId: ''
           styles:
             self:
@@ -191,8 +190,9 @@ sections:
         actions:
           - type: Button
             label: Ver
-            altText: ''
-            url: /
+            altText: Uzuy Lista de Reproducción
+            url: >-
+              https://www.youtube.com/playlist?list=PLRZYnOrbeoT3A0HY_ufJ3BwUnXhGjW4SV
             showIcon: false
             icon: arrowRight
             iconPosition: right
