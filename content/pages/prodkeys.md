@@ -181,9 +181,9 @@ sections:
         title: Sudachi 1.0.11
         price: MAGIA
         details: Prod.Keys
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Segundo Fork que intento revivir el legado de YUZU... sin mucho exito
+          pero igual tiene mejoras a probar.
         features:
           - Windows
           - Android
