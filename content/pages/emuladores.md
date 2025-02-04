@@ -14,6 +14,7 @@ sections:
       - content/pages/blog/yuzu-early-access-pc.md
       - content/pages/blog/ryujinx-pc.md
       - content/pages/blog/rpcs3-pc.md
+      - content/pages/blog/yuzu-steam-deck.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
@@ -35,9 +36,13 @@ slug: emuladores
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaTitle: Guías Completas de Emuladores | Instalación y Uso Paso a Paso
+  metaDescription: >-
+    Descubre nuestras Guías Completas de Emuladores en ShinySick. Aprende a
+    instalar y configurar emuladores de consolas retro y actuales con nuestros
+    tutoriales detallados. Mantén vivos tus videojuegos favoritos con nuestra
+    guía paso a paso.
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Guias-completas-emulacion.webp
   metaTags: []
 ---
