@@ -337,6 +337,6 @@ seo:
   metaTitle: Cómo Descargar los Prod.keys para Emuladores de Nintendo Switch
   metaDescription: "¿Necesitas los archivos prod.keys y title.keys para emular Nintendo Switch en Citron, Sudachi o Ryujinx? Aquí podrás descargarlos de manera segura. \U0001F511\U0001F3AE"
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/prodkeys-miniatura.webp
   metaTags: []
 ---
