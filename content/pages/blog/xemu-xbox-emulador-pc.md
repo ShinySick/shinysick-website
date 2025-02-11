@@ -41,8 +41,8 @@ bottomSections:
           textAlign: left
     subtitle: Yuzu Early Access 4176
     text: >
-      **Guía Definitiva** para instalar y configurar **YUZU EARLY ACCESS** en
-      cualquier version.
+      **Guía Definitiva** para instalar y configurar **XEMU** en cualquier
+      version.
 
 
       Se recomienda ver el video en **velocidad 2x** solo si se te hace muy
