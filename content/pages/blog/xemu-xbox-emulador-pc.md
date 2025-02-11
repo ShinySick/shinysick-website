@@ -7,7 +7,7 @@ excerpt: "Descubre XEMU, el mejor emulador de Xbox Clásico para PC. Aprende có
 featuredImage:
   type: ImageBlock
   url: /images/Guia Completa XEMU.webp
-  altText: Yuzu Guia Completa Miniatura
+  altText: XEMU Guia Completa Miniatura
   elementId: ''
   styles:
     self:
