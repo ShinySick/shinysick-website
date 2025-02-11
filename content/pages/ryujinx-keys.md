@@ -189,7 +189,7 @@ slug: ryujinx-keys
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
+  metaTitle: Cómo Conseguir los Archivos Prod.keys para RYUJINX
   metaDescription: Write here your new page's description including most relevant keywords.
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
