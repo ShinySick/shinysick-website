@@ -155,3 +155,80 @@ Necesitaremos los archivos del emulador base más los archivos de BIOS y HDD, co
 
 
 
+### Compatibilidad de los Juegos
+
+Antes de realizar todo el proceso de instalación es necesario verificar que tu juego deseado a emular es compatible con el Emulador XEMU, para esto revisa la siguiente pagina:
+
+[Pagina de Compatibilidad](https://xemu.app/#compatibility)
+
+
+
+### Instalación del Emulador XEMU
+
+Descarga el emulador en su pagina oficial en su version más reciente [aquí](https://xemu.app/)
+
+También descarga la [BIOS y HDD](https://bit.ly/3AM3NMX) mencionados anteriormente.
+
+Ve al apartado de Machine -> Settings -> System
+
+Aquí deberas instalar lo siguiente:
+
+*   **MCPX Boot To ROM:** Da Clic y selecciona el archivo llamado mcpx\_1.0.bin
+
+*   **Flash ROM (BIOS):** Da Clic y selecciona el archivo llamado Complex\_4627Debug.bin
+
+*   **Hard Disk:** Da Clic y selecciona el archivo llamado xbox\_hdd.qcow2
+
+*   **EEPROM:** No sera necesario hacer nada, el emulador lo selecciona automaticamente
+
+
+
+### Configuración de XEMU
+
+#### Resolución:
+
+Apartir de aqui se recomienda ir al apartado de y seleccionar el tamaño de ventana que desees o ponerlo en pantalla completa.
+
+
+
+#### Controles:
+
+Los controles los puedes configurar en el apartado de Input, solo debes conectar un control a tu PC y el emulador lo detectara y mapeara en automático.
+
+
+
+### Descargar Juegos para XEMU
+
+Puedes encontrar juegos buscando en la siguiente pagina: [DLXBGAME](https://dlxbgame.com/category/classic/)
+
+
+
+### Como Convertir Juegos de XBE a ISO
+
+*   Tener un juego en formato XBE
+
+*   Descargar la herramienta [C-XBOX Tool](https://bit.ly/48XdSTM)
+
+*   Abrir la herramienta y seleccionar "ISO Creation"
+
+*   Damos Clic en "Add Folder"
+
+*   Seleccionar en "Source Folder" la carpeta de nuestro juego que tenga el juego en formato XBE
+
+*   Seleccionar en "Target Folder" la carpeta donde se guardará nuestro ISO
+
+*   Clic en OK y despues en Start
+
+*   Listo, ya tienes tu Juego en formato ISO
+
+
+
+### Abrir Juegos en XEMU
+
+*   Selecciona en el menú el apartado de Machine -> Load Disc -> Selecciona tu juego en formato ISO.
+
+*   Vuelve a seleccionar el apartado Machine -> Reset y Disfruta!
+
+
+
+Si tienes más dudas revisa la Guia Completa en la parte de Abajo.
