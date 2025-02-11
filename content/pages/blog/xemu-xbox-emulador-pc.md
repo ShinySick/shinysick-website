@@ -129,7 +129,7 @@ styles:
 ---
 Aprende a **INSTALAR el emulador XEMU de XBOX Clasico** esta es la versión más actualizada de éste emulador, logrando tener un **rendimiento** **muy alto** incluso en dispositivos no tan potentes.
 
-### Requisitos Minimos de PC para el Emulador Yuzu Early Access 4176:
+### Requisitos Minimos de PC para el Emulador XEMU de XBOX Clasico:
 
 *   **CPU:** Ryzen 3 1200 / Core i5 4th Gen
 
@@ -143,23 +143,15 @@ Aprende a **INSTALAR el emulador XEMU de XBOX Clasico** esta es la versión más
 
 ### Archivos Necesarios:
 
-Las prodkeys son los archivos encargados de que el emulador decodifique el titulo del juego en conjunto con el firmware, sin estos archivos no será posible ningun tipo de emulación, si no los instalas podrias llegar a tener distintos tipos de errores.
+Necesitaremos los archivos del emulador base más los archivos de BIOS y HDD, como complemento deberas utilizar una herramienta para convertir los juegos en formato XBE a ISO.
 
 **¡ASEGURATE SIEMPRE DE INSTALAR LA VERSIÓN MÁS RECIENTE DISPONIBLE!**
 
-*   [**Prod.keys**](/prodkeys)
+*   [Emulador XEMU](https://xemu.app/)
 
-*   [**Firmware**](/firmwares)
+*   [XEMU BIOS & HDD](https://bit.ly/3AM3NMX)
 
-*   [**Yuzu Early Access 4176**](https://bit.ly/3YCzUaM)
+*   [Herramienta XBE a ISO](https://bit.ly/48XdSTM)
 
-En este caso la descarga del emulador viene en un rar en conjunto con las siguientes versiones disponibles:
 
-*   Yuzu Mainline 1734
-
-*   Yuzu Early Access 4176
-
-*   Citra Nightly 2104
-
-*   Citra Canary 2798
 
