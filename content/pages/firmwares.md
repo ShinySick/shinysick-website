@@ -337,4 +337,5 @@ seo:
   metaTitle: Cómo Descargar e Instalar el Firmware de Nintendo Switch
   metaDescription: "¿Buscas el firmware más reciente de Nintendo Switch para los emuladores Yuzu y Ryujinx? En esta guía te explicamos cómo descargarlo, instalarlo y actualizarlo correctamente. \U0001F4E5\U0001F3AE"
   addTitleSuffix: true
+  socialImage: /images/firmware-miniatura.webp
 ---
