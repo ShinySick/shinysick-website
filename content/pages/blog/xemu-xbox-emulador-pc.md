@@ -3,10 +3,7 @@ type: PostLayout
 title: CÓMO DESCARGAR Y CONFIGURAR XEMU EN PC
 date: '2025-02-04'
 author: content/data/person1.json
-excerpt: >-
-  Aprende a INSTALAR Yuzu Early Access 4176 fué la versión más actualizada de
-  éste emulador, logrando tener un rendimiento muy alto incluso en dispositivos
-  no tan potentes.
+excerpt: "Descubre XEMU, el mejor emulador de Xbox Clásico para PC. Aprende cómo instalarlo, configurarlo y jugar tus títulos favoritos con la mejor compatibilidad y rendimiento. \U0001F579️ ¡Revive la era dorada de Xbox en tu computadora!"
 featuredImage:
   type: ImageBlock
   url: /images/Yuzu-early-access-guia.jpg
