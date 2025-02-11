@@ -334,4 +334,5 @@ slug: firmwares
 isDraft: false
 seo:
   type: Seo
+  metaTitle: Cómo Descargar e Instalar el Firmware de Nintendo Switch
 ---
