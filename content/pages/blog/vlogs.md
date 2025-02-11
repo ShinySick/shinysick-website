@@ -24,6 +24,7 @@ bottomSections:
           textAlign: center
     posts:
       - content/pages/blog/uzuy-dejara-de-existir.md
+      - content/pages/blog/ryujinx-tiene-virus.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
