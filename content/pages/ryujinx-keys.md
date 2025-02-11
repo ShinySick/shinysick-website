@@ -192,6 +192,6 @@ seo:
   metaTitle: Cómo Conseguir los Archivos Prod.keys para RYUJINX
   metaDescription: "¿Necesitas los archivos prod.keys para emular Nintendo Switch en Ryujinx? Aqui encontrarás dónde descargarlos. \U0001F511\U0001F3AE"
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/ryujinx-prodkeys-miniatura-2.webp
   metaTags: []
 ---
