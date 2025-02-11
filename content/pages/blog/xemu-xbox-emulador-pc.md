@@ -112,7 +112,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Yuzu Early Access 4176 - El Mejor Emulador de Nintendo Switch
+  metaTitle: 'XEMU: El Mejor Emulador de Xbox Clásico para PC – Guía y Configuración'
   metaDescription: >-
     Descubre Yuzu Early Access 4176, el emulador de Nintendo Switch líder. Juega
     tus juegos favoritos con la mejor calidad y rendimiento. ¡Guías, descargas y
