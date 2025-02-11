@@ -50,7 +50,7 @@ bottomSections:
     actions: []
     media:
       type: VideoBlock
-      title: Como Descargar y configurar yuzu early access en PC paso a paso
+      title: Como Instalar XEMU en PC para Emular XBOX - Guia Completa
       url: 'https://youtu.be/3k2F7WyMoxI'
       autoplay: false
       loop: false
