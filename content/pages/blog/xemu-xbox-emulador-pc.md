@@ -39,7 +39,7 @@ bottomSections:
       styles:
         self:
           textAlign: left
-    subtitle: Yuzu Early Access 4176
+    subtitle: Xemu Emulator para XBOX Clasico
     text: >
       **Guía Definitiva** para instalar y configurar **XEMU** en cualquier
       version.
