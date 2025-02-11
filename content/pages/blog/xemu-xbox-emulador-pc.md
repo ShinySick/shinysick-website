@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: "Descubre XEMU, el mejor emulador de Xbox Clásico para PC. Aprende cómo instalarlo, configurarlo y jugar tus títulos favoritos con la mejor compatibilidad y rendimiento. \U0001F579️ ¡Revive la era dorada de Xbox en tu computadora!"
 featuredImage:
   type: ImageBlock
-  url: /images/Yuzu-early-access-guia.jpg
+  url: /images/Guia Completa XEMU.webp
   altText: Yuzu Guia Completa Miniatura
   elementId: ''
   styles:
