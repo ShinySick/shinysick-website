@@ -227,6 +227,6 @@ seo:
     Explora cómo emular juegos de Nintendo Switch y revive la magia de tus
     títulos favoritos con las prod.keys necesarias.
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/prodkeys-miniatura.webp
   metaTags: []
 ---
