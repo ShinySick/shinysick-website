@@ -194,6 +194,6 @@ seo:
     Obtén los ProdKeys necesarios para ejecutar juegos en el emulador Citron
     fácilmente.
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/citron-prodkeys-miniatura-2.webp
   metaTags: []
 ---
