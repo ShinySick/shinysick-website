@@ -118,7 +118,7 @@ seo:
     tus juegos favoritos con la mejor calidad y rendimiento. ¡Guías, descargas y
     noticias exclusivas!
   addTitleSuffix: false
-  socialImage: /images/Guia Yuzu EA.jpg
+  socialImage: /images/Guia Completa XEMU.webp
   metaTags: []
 colors: bg-dark-fg-light
 styles:
