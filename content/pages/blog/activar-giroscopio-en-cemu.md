@@ -118,7 +118,7 @@ styles:
     borderRadius: large
     textAlign: center
 ---
-Si tienes una **batería o guitarra de wii** y quieres utilizarlas en PC, este tutorial te ayudará a conectarlas a Windows 11.
+Si tienes un Mando de PS3, PS4, PS5 o alguno con Giroscopio y quieres utilizarlo en tu emulador de CEMU llegaste a la Guía correcta.
 
 <br>
 
@@ -126,10 +126,40 @@ Si tienes una **batería o guitarra de wii** y quieres utilizarlas en PC, este t
 
 Para esto necesitaras los siguientes programas:
 
-*   [Wiitarthing](https://github.com/TheNathannator/WiitarThing/releases/tag/v2.7.0.5)
+*   EMULADOR CEMU: [https://cemu.info/](https://cemu.info/Materiales)
 
-*   [Driver ViGEm](https://github.com/ViGEm/ViGEmBus/releases)
 
-*   [Clone Hero](https://clonehero.net/releases/)
 
-Prueba de Marcado
+### Materiales necesarios 
+
+*   Mando con giroscopio
+
+*   Tener Bluetooth en tu PC
+
+
+### Procedimiento
+
+*   Conecta tu control preferido por bluetooth a los dispositivos de Windows
+
+*   Abre tu emulador y ve a Opciones -> Configuracion de entrada
+
+*   Crea un perfil nuevo y ponle algun nombre
+
+*   En Mando Emulado selecciona "Wii U GamePad"
+
+*   En Mando da clic y en API selecciona SDLController
+
+*   En la nueva opcion de Mando selecciona tu control conectado a tu PC
+
+*   Da clic en Añadir
+
+*   Luego da clic en Configuración
+
+*   Selecciona la casilla de "Utilizar el movimiento" y da clic en aceptar
+
+*   Mapea todos los demas botones de tu control a tu preferencia
+
+*   Da clic en guardar tu perfil
+
+*   Y listo, disfruta tus juegos con giroscopio
+
