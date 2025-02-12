@@ -189,9 +189,9 @@ slug: sudachi-keys
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaTitle: Cómo DESCARGAR los Archivos Prod.keys para SUDACHI
+  metaDescription: "¿Necesitas los archivos prod.keys para emular Nintendo Switch en SUDACHI? Aqui encontrarás dónde descargarlos. \U0001F511\U0001F3AE"
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/sudachi-prodkeys-miniatura2.webp
   metaTags: []
 ---
