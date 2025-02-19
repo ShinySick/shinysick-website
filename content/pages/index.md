@@ -67,8 +67,7 @@ sections:
         self:
           textAlign: center
     posts:
-      - >-
-        content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
+      - content/pages/blog/citron-en-steam-deck.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
