@@ -47,6 +47,10 @@ bottomSections:
 
       Se recomienda ver el video en **velocidad 2x** solo si se te hace muy
       largo el video.
+
+
+      *El video actual es de **YUZU** pero es el mismo procedimiento para
+      Citron, se actualizará cuando esté disponible el video con Citron.*
     actions: []
     media:
       type: VideoBlock
