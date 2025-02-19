@@ -1,0 +1,188 @@
+{
+    "model": "PostLayout",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Yuzu Steam deck",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Tutoriales"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "CÓMO DESCARGAR Y CONFIGURAR YUZU EN STEAM DECK",
+                "date": "2024-10-25",
+                "author": {
+                    "$$ref": "content/data/person1.json",
+                    "$$type": "Person"
+                },
+                "excerpt": "Aprende a INSTALAR Yuzu Early Access 4176 fué la versión más actualizada de éste emulador, logrando tener un rendimiento muy alto incluso en dispositivos no tan potentes.",
+                "featuredImage": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/yuzu-steam-deck-guia.webp",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Yuzu Steam Deck Guia Miniatura",
+                    "elementId": "",
+                    "styles": {
+                        "self": {
+                            "padding": [
+                                "pt-0",
+                                "pl-0",
+                                "pb-0",
+                                "pr-0"
+                            ]
+                        }
+                    }
+                },
+                "bottomSections": [
+                    {
+                        "$$type": "DividerSection",
+                        "title": "Divider",
+                        "elementId": "",
+                        "colors": "bg-neutral-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-3",
+                                    "pl-3",
+                                    "pb-3",
+                                    "pr-3"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "GenericSection",
+                        "title": {
+                            "$$type": "TitleBlock",
+                            "text": "Consulta la Guía",
+                            "color": "text-dark",
+                            "styles": {
+                                "self": {
+                                    "textAlign": "left"
+                                }
+                            }
+                        },
+                        "subtitle": "Yuzu Early Access 4176",
+                        "text": "**Guía Definitiva** para instalar y configurar **YUZU EN STEAM DECK**.\n\nSe recomienda ver el video en **velocidad 2x** solo si se te hace muy largo el video.\n",
+                        "actions": [],
+                        "media": {
+                            "$$type": "VideoBlock",
+                            "title": "Como Instalar Yuzu en Steam Deck",
+                            "url": "https://youtu.be/n2YOOnlolY0",
+                            "autoplay": false,
+                            "loop": false,
+                            "muted": true,
+                            "controls": true,
+                            "aspectRatio": "16:9",
+                            "elementId": null,
+                            "styles": {
+                                "self": {
+                                    "padding": [
+                                        "pt-2",
+                                        "pb-2",
+                                        "pl-2",
+                                        "pr-2"
+                                    ],
+                                    "borderColor": "border-dark",
+                                    "borderStyle": "solid",
+                                    "borderWidth": 1,
+                                    "borderRadius": "large"
+                                }
+                            }
+                        },
+                        "badge": null,
+                        "elementId": null,
+                        "colors": "bg-neutral-fg-dark",
+                        "backgroundImage": null,
+                        "styles": {
+                            "self": {
+                                "flexDirection": "row",
+                                "justifyContent": "center"
+                            },
+                            "subtitle": {
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "DividerSection",
+                        "title": "Divider",
+                        "elementId": "",
+                        "colors": "bg-neutral-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-3",
+                                    "pl-3",
+                                    "pb-3",
+                                    "pr-3"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "RecentPostsSection",
+                        "title": {
+                            "$$type": "TitleBlock",
+                            "text": "Posts Recientes",
+                            "color": "text-dark",
+                            "styles": {
+                                "self": {
+                                    "textAlign": "center"
+                                }
+                            }
+                        },
+                        "subtitle": null,
+                        "recentCount": 3,
+                        "showThumbnail": true,
+                        "showExcerpt": true,
+                        "showDate": true,
+                        "showAuthor": true,
+                        "actions": [],
+                        "badge": null,
+                        "elementId": "",
+                        "variant": "three-col-grid",
+                        "colors": "bg-neutral-fg-dark",
+                        "backgroundImage": null,
+                        "hoverEffect": "shadow-plus-move-up",
+                        "styles": {
+                            "self": {
+                                "justifyContent": "center"
+                            }
+                        }
+                    }
+                ],
+                "slug": "yuzu-steam-deck",
+                "isFeatured": false,
+                "isDraft": false,
+                "seo": {
+                    "$$type": "Seo",
+                    "metaTitle": "Instala Yuzu en Steam Deck y Juega Nintendo Switch - Guía Definitiva 2024",
+                    "metaDescription": "Descubre cómo instalar el emulador Yuzu en tu Steam Deck y transforma tu experiencia de juego. Sigue nuestra guía definitiva 2024 para jugar tus títulos favoritos de Nintendo Switch con el máximo rendimiento y calidad. ¡Todo lo que necesitas saber, en un solo lugar!",
+                    "addTitleSuffix": true,
+                    "socialImage": {
+                        "$$ref": "stackbit_asset_id:static:public/images/yuzu-steam-deck-guia.webp",
+                        "$$type": "__asset_model"
+                    },
+                    "metaTags": []
+                },
+                "colors": "bg-dark-fg-light",
+                "styles": {
+                    "self": {
+                        "flexDirection": "col",
+                        "textAlign": "center",
+                        "borderRadius": "large"
+                    }
+                },
+                "markdown_content": "Aprende a **INSTALAR Yuzu en STEAM DECK,** Incluso éste mismo procedimiento te servirá para instalar **Suyu.**\n\nEn este caso la version recomendada es **Yuzu Early Access 4176 o Suyu 0.0.3** pero puedes utilizar la versión que más te agrade.\n\n### Requisitos Minimos de Steam Deck para el Emulador Yuzu:\n\n*   **Steam Deck LCD / Steam Deck OLED**\n\n### Archivos Necesarios:\n\nLas prodkeys son los archivos encargados de que el emulador decodifique el titulo del juego en conjunto con el firmware, sin estos archivos no será posible ningun tipo de emulación, si no los instalas podrias llegar a tener distintos tipos de errores.\n\n**¡ASEGURATE SIEMPRE DE INSTALAR LA VERSIÓN MÁS RECIENTE DISPONIBLE!**\n\n*   [**Prod.keys**](/prodkeys)\n\n*   [**Firmware**](/firmwares)\n\n*   [**Yuzu Early Access 4176 (Formato AppImage)**](https://bit.ly/4eRK8tK)\n\n*   [**Yuzu.sh (Es el launcher del emulador para el modo gaming de Steam Rom Manager)**](https://bit.ly/3NEh7ph)\n\n<br>\n\n### Instalar el AppImage en Steam Deck\n\nPrimero deberémos estar en el modo Escritorio de la Steam Deck:\n\n1.  Pulsa el **botón de apagado 5 segundos**\n\n2.  Elige **Modo Escritorio**\n\n3.  Espera a que cargue el sistema\n\n4.  Renombra el archivo **.Appimage** que descargaste y coloca solo \"**yuzu**\" *(Debe quedar un archivo final con nombre \"**yuzu.AppImage**\")*\n\n5.  Copialo y Pegalo en la carpeta **Home/Applications** \n\n6.  **IMPORTANTE** Ejecuta una ves tu archivo desde aquí, si no no va a funcionar despues.\n\n7.  Listo, ya esta instalada la base del emulador.\n\n<br>\n\n### Instalar el Launcher de Yuzu en Steam Rom Manager para el Modo Gaming *(Yuzu.sh)*\n\n1.  Localiza tu carpeta de instalacion de **Emudeck**\n\n2.  Copia y Pega tu archivo **yuzu.sh** en la siguiente ruta: **Instalacion de Emudeck/Emulation/tools/launchers**\n\n3.  Prueba abriendo el archivo **yuzu.sh** para comprobar que abre el emulador.\n\n<br>\n\n### Configurar Launcher en Steam Rom Manager\n\n1.  Abre **Emudeck** y selecciona **Steam Rom Manager**\n\n2.  En el listado izquierdo buscar y seleccionar la opción \"**Nintendo Switch - Yuzu**\" y Activarlo\n\n3.  Del lado derecho en **las configuraciones** buscamos \"**Executable**\" y seleccionamos el archivo **yuzu.sh**\n\n4.  Clic en el boton **Test Parser** para verificar que lee los juegos\n\n5.  Clic en **Save** para guardar cambios en el parser\n\n6.  Hasta arriba daremos clic en **Add Games**\n\n7.  Clic en **Parse**\n\n8.  Selecciona las portadas de juegos que más te gusten\n\n9.  Clic abajo en **Save to Steam**\n\n10. Listo, tienes tus juegos agregados en el **Modo Gaming**\n\n<br>\n\nSi te perdiste en algún paso, revisa nuestra guía aún más detallada que se encuentra en el video de abajo!\n\nRecuerda suscribirte si te ayudo el contenido!\n\n"
+            },
+            "thumbnail": "images/post-layout-yuzu-steam-deck-d2da.png"
+        }
+    ]
+}
