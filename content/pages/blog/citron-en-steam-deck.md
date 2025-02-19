@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: CÓMO DESCARGAR Y CONFIGURAR CITRON EN STEAM DECK
-date: '2025-02-25'
+date: '2025-02-19'
 author: content/data/person1.json
 excerpt: >-
   Aprende a INSTALAR Citron 0.4 la versión más actualizada de éste emulador
