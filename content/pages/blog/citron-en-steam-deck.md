@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/yuzu-steam-deck-guia.webp
-  altText: Yuzu Steam Deck Guia Miniatura
+  altText: Citron Steam Deck Guia Miniatura
   elementId: ''
   styles:
     self:
