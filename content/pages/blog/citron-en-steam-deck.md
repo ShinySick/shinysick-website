@@ -127,11 +127,11 @@ styles:
     textAlign: center
     borderRadius: large
 ---
-Aprende a **INSTALAR Yuzu en STEAM DECK,** Incluso éste mismo procedimiento te servirá para instalar **Suyu.**
+Aprende a **INSTALAR CITRON en STEAM DECK.**
 
-En este caso la version recomendada es **Yuzu Early Access 4176 o Suyu 0.0.3** pero puedes utilizar la versión que más te agrade.
+En este caso la version recomendada es **Citron 0.4** pero puedes utilizar la versión que más te agrade.
 
-### Requisitos Minimos de Steam Deck para el Emulador Yuzu:
+### Requisitos Minimos de Steam Deck para el Emulador Citron:
 
 *   **Steam Deck LCD / Steam Deck OLED**
 
@@ -145,7 +145,7 @@ Las prodkeys son los archivos encargados de que el emulador decodifique el titul
 
 *   [**Firmware**](/firmwares)
 
-*   [**Yuzu Early Access 4176 (Formato AppImage)**](https://bit.ly/4eRK8tK)
+*   [**Citron 0.4 Appimage (Oficial Alojado en Mediafire)**](https://bit.ly/3CXOFgs)****
 
 *   [**Yuzu.sh (Es el launcher del emulador para el modo gaming de Steam Rom Manager)**](https://bit.ly/3NEh7ph)
 
@@ -163,7 +163,7 @@ Primero deberémos estar en el modo Escritorio de la Steam Deck:
 
 4.  Renombra el archivo **.Appimage** que descargaste y coloca solo "**yuzu**" *(Debe quedar un archivo final con nombre "**yuzu.AppImage**")*
 
-5.  Copialo y Pegalo en la carpeta **Home/Applications** 
+5.  Copialo y Pegalo en la carpeta **Home/Applications**
 
 6.  **IMPORTANTE** Ejecuta una ves tu archivo desde aquí, si no no va a funcionar despues.
 
@@ -208,4 +208,3 @@ Primero deberémos estar en el modo Escritorio de la Steam Deck:
 Si te perdiste en algún paso, revisa nuestra guía aún más detallada que se encuentra en el video de abajo!
 
 Recuerda suscribirte si te ayudo el contenido!
-
