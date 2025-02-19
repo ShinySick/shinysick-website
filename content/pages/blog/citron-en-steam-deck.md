@@ -54,7 +54,7 @@ bottomSections:
     actions: []
     media:
       type: VideoBlock
-      title: Como Instalar Yuzu en Steam Deck
+      title: Como Instalar Citron en Steam Deck
       url: 'https://youtu.be/n2YOOnlolY0'
       autoplay: false
       loop: false
