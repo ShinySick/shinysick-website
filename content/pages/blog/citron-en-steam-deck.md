@@ -8,7 +8,7 @@ excerpt: >-
   siendo el sucesor mas actualizado del antiguo Yuzu Early Access 4176
 featuredImage:
   type: ImageBlock
-  url: /images/yuzu-steam-deck-guia.webp
+  url: /images/citron-guia-completa-seo.webp
   altText: Citron Steam Deck Guia Miniatura
   elementId: ''
   styles:
