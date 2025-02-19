@@ -41,7 +41,8 @@ bottomSections:
           textAlign: left
     subtitle: Citron 0.4
     text: >
-      **Guía Definitiva** para instalar y configurar **YUZU EN STEAM DECK**.
+      **Guía Definitiva** para instalar y configurar **Citron 0.4 EN STEAM
+      DECK**.
 
 
       Se recomienda ver el video en **velocidad 2x** solo si se te hace muy
