@@ -4,9 +4,8 @@ title: CÓMO DESCARGAR Y CONFIGURAR CITRON EN STEAM DECK
 date: '2024-10-25'
 author: content/data/person1.json
 excerpt: >-
-  Aprende a INSTALAR Yuzu Early Access 4176 fué la versión más actualizada de
-  éste emulador, logrando tener un rendimiento muy alto incluso en dispositivos
-  no tan potentes.
+  Aprende a INSTALAR Citron 0.4 la versión más actualizada de éste emulador
+  siendo el sucesor mas actualizado del antiguo Yuzu Early Access 4176
 featuredImage:
   type: ImageBlock
   url: /images/yuzu-steam-deck-guia.webp
