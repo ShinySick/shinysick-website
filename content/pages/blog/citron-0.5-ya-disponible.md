@@ -9,7 +9,7 @@ excerpt: >-
   compatibilidad y nuevas funciones. 
 featuredImage:
   type: ImageBlock
-  url: /images/firmware-19.0.1-miniatura.webp
+  url: /images/nuevo-citron-0.5.webp
   altText: Citron 0.5 Ya Está Aquí
   elementId: ''
   styles:
