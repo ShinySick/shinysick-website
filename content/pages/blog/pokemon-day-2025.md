@@ -121,6 +121,12 @@ styles:
 ---
 El **Día de Pokémon 2025** está a la vuelta de la esquina, y The Pokémon Company ya tiene grandes sorpresas preparadas para los fans. Esta celebración anual conmemora el lanzamiento de los primeros juegos de la franquicia en Japón y es la ocasión perfecta para revelar novedades sobre juegos, series y más.
 
+
+
+![](/images/pokemon-day-miniatura.webp)
+
+
+
 ### **¿Cuándo y dónde ver el Pokémon Presents 2025?**
 
 El evento principal del Día de Pokémon será un **Pokémon Presents**, programado para el **27 de febrero de 2025**. La transmisión oficial podrá verse en el canal de YouTube de Pokémon a la siguiente hora en México:
