@@ -40,8 +40,8 @@ bottomSections:
           textAlign: left
     subtitle: Pokemon Concierge Ep1
     text: >
-      Tutorial para poder **utilizar los instrumentos de Guitar Hero de la
-      Nintendo Wii** en PC con **Wiitarthing** y **Clone Hero**.
+      En lo que esperas de ese **Pokemon Presents** disfruta de la mini serie
+      **Pokemon Concierge**
     actions: []
     media:
       type: VideoBlock
