@@ -109,11 +109,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: 'Citron 0.5: La Nueva Versión del Emulador de Nintendo Switch Ya Está Aquí'
-  metaDescription: >-
-    Descubre todo sobre la última actualización de firmware 19.0.1 para Nintendo
-    Switch y su posible impacto en las características actuales. Analizamos las
-    mejoras, los cambios y cómo pueden afectar la experiencia de juego.
-    ¡Mantente al día con nuestras novedades y optimiza tu consola al máximo!
+  metaDescription: ''
   addTitleSuffix: true
   socialImage: /images/firmware-19.0.1-miniatura.webp
   metaTags: []
