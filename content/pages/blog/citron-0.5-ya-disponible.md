@@ -10,7 +10,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/firmware-19.0.1-miniatura.webp
-  altText: Firmware 19.0.1 Blog
+  altText: Citron 0.5 Ya Está Aquí
   elementId: ''
   styles:
     self:
