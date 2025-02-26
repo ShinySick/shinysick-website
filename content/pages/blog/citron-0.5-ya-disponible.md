@@ -45,7 +45,7 @@ bottomSections:
     actions: []
     media:
       type: VideoBlock
-      title: Nueva Actualización de Firmware 19.0.1 en Switch - ¿Adios a la magia?
+      title: Citron En Steam Deck 2025
       url: 'https://youtu.be/IwjPTUgB_OQ'
       autoplay: false
       loop: false
