@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: DESCARGA LA NUEVA VERSION de CITRON 0.5
+title: DESCARGA LA NUEVA VERSION DE CITRON 0.5
 date: '2024-10-29'
 author: content/data/person1.json
 excerpt: >-
