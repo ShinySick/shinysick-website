@@ -113,6 +113,7 @@ colors: bg-dark-fg-light
 styles:
   self:
     flexDirection: col
+    borderRadius: large
 ---
 El **Día de Pokémon 2025** está a la vuelta de la esquina, y The Pokémon Company ya tiene grandes sorpresas preparadas para los fans. Esta celebración anual conmemora el lanzamiento de los primeros juegos de la franquicia en Japón y es la ocasión perfecta para revelar novedades sobre juegos, series y más.
 
