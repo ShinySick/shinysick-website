@@ -100,7 +100,7 @@ bottomSections:
       self:
         justifyContent: center
 slug: pokemon-day-2025
-isFeatured: true
+isFeatured: false
 isDraft: false
 seo:
   type: Seo
