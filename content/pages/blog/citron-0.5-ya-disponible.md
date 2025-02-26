@@ -1,8 +1,6 @@
 ---
 type: PostLayout
-title: >-
-  Nueva Actualización de Firmware 19.0.1 para Nintendo Switch - Impacto en la
-  Magia Actual
+title: DESCARGA LA NUEVA VERSION de CITRON 0.5
 date: '2024-10-29'
 author: content/data/person1.json
 excerpt: >-
