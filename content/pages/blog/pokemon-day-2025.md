@@ -3,9 +3,7 @@ type: PostLayout
 title: 'Día de Pokémon 2025: Fecha, Horario y Posibles Anuncios'
 date: '2025-02-26'
 author: content/data/person1.json
-excerpt: >-
-  Si tienes una batería o guitarra de wii y quieres utilizarlas en PC, este
-  tutorial te ayudará. CONECTA TU WIIMOTE A PC WINDOWS 11
+excerpt: "El Pokémon Day 2025 está lleno de sorpresas: un nuevo Pokémon Presents, el estreno del corto \"Dragonite y la Entrega Especial\", rumores sobre Pokémon Leyendas: Z-A y eventos especiales en Pokémon GO. ¡Descubre todo lo que te espera este 27 de febrero! \U0001F389\U0001F525"
 featuredImage:
   type: ImageBlock
   url: /images/wii-guitar-clone-hero.webp
