@@ -109,7 +109,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: 'Citron 0.5: La Nueva Versión del Emulador de Nintendo Switch Ya Está Aquí'
-  metaDescription: ''
+  metaDescription: "El emulador Citrón 0.5 ya está disponible, con mejoras en gráficos, rendimiento y compatibilidad. Ahora con soporte para el Home Menu, optimización en Vulkan y nuevas funciones de red. Descubre todas las novedades de esta versión y cómo mejorar tu experiencia de emulación. \U0001F680\U0001F3AE"
   addTitleSuffix: true
   socialImage: /images/firmware-19.0.1-miniatura.webp
   metaTags: []
