@@ -233,4 +233,18 @@ El equipo de desarrollo ya tiene planes para las siguientes versiones, entre ell
 
 Con **Citrón 0.5**, el emulador sigue evolucionando y consolidándose como una opción potente para la emulación de **Nintendo Switch**. Aunque aún hay desafíos, los avances en gráficos, rendimiento y compatibilidad muestran un futuro prometedor para este proyecto.
 
+## **Descarga Citron 0.5**
+
+[Android](https://git.citron-emu.org/Citron/Citron/releases/download/v0.5-canary-refresh/Citron-18f8a0f99-mainlineRelease.apk)
+
+[Android Optimizado](https://git.citron-emu.org/Citron/Citron/releases/download/v0.5-canary-refresh/Citron-18f8a0f99-mainlineRelease_optimized.apk)
+
+[Linux](https://git.citron-emu.org/Citron/Citron/releases/download/v0.5-canary-refresh/Citron-Linux-Canary-Refresh_0.5_compatibility.zip)
+
+[Linux Steam Deck(Appimage)](https://git.citron-emu.org/Citron/Citron/releases/download/v0.5-canary-refresh/Citron-Linux-Canary-Refresh_0.5_steam_deck.zip)
+
+[Windows](https://git.citron-emu.org/Citron/Citron/releases/download/v0.5-canary-refresh/Citron-Windows-Canary-Refresh_0.5.zip)
+
+
+
 ¿Ya probaste la nueva versión? ¡Cuéntanos tu experiencia en los comentarios!
