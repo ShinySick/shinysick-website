@@ -48,7 +48,7 @@ bottomSections:
       title: >-
         Como Conectar La Batería y Guitarra de Wii en Clone Hero - Conectar
         Wiimote Windows  OCTUBRE 2024
-      url: 'https://youtu.be/0Eb7houwca4'
+      url: 'https://youtu.be/iMupz5lVKPI?si=F9tE_FuBFBVnpf1O'
       autoplay: false
       loop: false
       muted: true
