@@ -33,7 +33,7 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Consulta la Guía
+      text: ¡CELEBRA EL POKEMON DAY!
       color: text-dark
       styles:
         self:
