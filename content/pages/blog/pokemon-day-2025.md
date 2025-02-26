@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: "El Pokémon Day 2025 está lleno de sorpresas: un nuevo Pokémon Presents, el estreno del corto \"Dragonite y la Entrega Especial\", rumores sobre Pokémon Leyendas: Z-A y eventos especiales en Pokémon GO. ¡Descubre todo lo que te espera este 27 de febrero! \U0001F389\U0001F525"
 featuredImage:
   type: ImageBlock
-  url: /images/wii-guitar-clone-hero.webp
+  url: /images/Pokemon-day-evento.webp
   altText: Wii Guitar Clone Hero Tutorial Miniatura
   elementId: ''
   styles:
