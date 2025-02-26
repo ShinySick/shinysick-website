@@ -10,8 +10,7 @@ topSections:
       type: TitleBlock
     subtitle: ''
     posts:
-      - >-
-        content/pages/blog/nintendo-switch-firmware-19-0-1-actualizacion-impacto.md
+      - content/pages/blog/citron-0.5-ya-disponible.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
