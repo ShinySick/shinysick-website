@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: DESCARGA LA NUEVA VERSION DE CITRON 0.5
+title: 'Citron 0.5: La Nueva Versión del Emulador de Nintendo Switch Ya Está Aquí'
 date: '2025-02-25'
 author: content/data/person1.json
 excerpt: >-
