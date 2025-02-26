@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: DESCARGA LA NUEVA VERSION DE CITRON 0.5
-date: '2024-10-29'
+date: '2025-02-25'
 author: content/data/person1.json
 excerpt: >-
   El día de hoy Nintendo ha lanzado una nueva actualización para el Firmware de
