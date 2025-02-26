@@ -40,9 +40,8 @@ bottomSections:
           textAlign: left
     subtitle: Guía Aun No Disponible
     text: >
-      Esta nueva nueva actualización nos arregla los problemas existentes de
-      **la version 19.0.0**, pero... ¿Afectará a la Magia de las consolas y
-      emuladores?
+      *En cuanto tengamos la guia visual disponible estará aqui publicada, por
+      mientras disfruta del ultimo video de Citron.*
     actions: []
     media:
       type: VideoBlock
