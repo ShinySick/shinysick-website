@@ -45,9 +45,7 @@ bottomSections:
     actions: []
     media:
       type: VideoBlock
-      title: >-
-        Como Conectar La Batería y Guitarra de Wii en Clone Hero - Conectar
-        Wiimote Windows  OCTUBRE 2024
+      title: "Soy Haru, la nueva concierge [EPISODIO COMPLETO] \U0001F4FA | Concierge Pokémon-Episodio 1"
       url: 'https://youtu.be/WRAnDI5ppVE?si=Ok_w5i12Y3O6OmSC'
       autoplay: false
       loop: false
