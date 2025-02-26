@@ -46,7 +46,7 @@ bottomSections:
     media:
       type: VideoBlock
       title: Nueva Actualización de Firmware 19.0.1 en Switch - ¿Adios a la magia?
-      url: 'https://youtu.be/biN2RUVFXdg'
+      url: 'https://youtu.be/IwjPTUgB_OQ'
       autoplay: false
       loop: false
       muted: true
