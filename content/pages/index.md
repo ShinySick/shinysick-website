@@ -67,7 +67,7 @@ sections:
         self:
           textAlign: center
     posts:
-      - content/pages/blog/citron-en-steam-deck.md
+      - content/pages/blog/citron-0.5-ya-disponible.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
