@@ -104,7 +104,7 @@ bottomSections:
       self:
         justifyContent: center
 slug: /citron-0.5-ya-disponible
-isFeatured: true
+isFeatured: false
 isDraft: false
 seo:
   type: Seo
