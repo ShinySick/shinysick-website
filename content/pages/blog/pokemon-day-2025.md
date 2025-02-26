@@ -109,7 +109,7 @@ seo:
   metaTitle: "\U0001F4E2 ¡Pokémon Day 2025! Horarios, Anuncios y Eventos Especiales \U0001F389"
   metaDescription: "Descubre todo sobre el Pokémon Day 2025: horarios en México, posibles anuncios, el nuevo corto animado y eventos en Pokémon GO. ¡No te lo pierdas! \U0001F525\U0001F3AE"
   addTitleSuffix: false
-  socialImage: /images/Guia Yuzu EA.jpg
+  socialImage: /images/Pokemon-day-evento.webp
   metaTags: []
 colors: bg-light-fg-dark
 styles:
