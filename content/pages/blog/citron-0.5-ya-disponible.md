@@ -38,7 +38,7 @@ bottomSections:
       styles:
         self:
           textAlign: left
-    subtitle: ¿El Firmware 19.0.1 Rompe la Magia o no?
+    subtitle: Guía Aun No Disponible
     text: >
       Esta nueva nueva actualización nos arregla los problemas existentes de
       **la version 19.0.0**, pero... ¿Afectará a la Magia de las consolas y
