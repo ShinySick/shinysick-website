@@ -107,10 +107,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: "\U0001F4E2 ¡Pokémon Day 2025! Horarios, Anuncios y Eventos Especiales \U0001F389"
-  metaDescription: >-
-    Descubre Yuzu Early Access 4176, el emulador de Nintendo Switch líder. Juega
-    tus juegos favoritos con la mejor calidad y rendimiento. ¡Guías, descargas y
-    noticias exclusivas!
+  metaDescription: "Descubre todo sobre el Pokémon Day 2025: horarios en México, posibles anuncios, el nuevo corto animado y eventos en Pokémon GO. ¡No te lo pierdas! \U0001F525\U0001F3AE"
   addTitleSuffix: false
   socialImage: /images/Guia Yuzu EA.jpg
   metaTags: []
