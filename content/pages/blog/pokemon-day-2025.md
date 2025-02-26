@@ -109,7 +109,7 @@ seo:
   addTitleSuffix: false
   socialImage: /images/Pokemon-day-evento.webp
   metaTags: []
-colors: bg-light-fg-dark
+colors: bg-neutralAlt-fg-dark
 styles:
   self:
     flexDirection: col
