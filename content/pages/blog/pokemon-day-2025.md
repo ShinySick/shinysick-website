@@ -7,7 +7,7 @@ excerpt: "El Pokémon Day 2025 está lleno de sorpresas: un nuevo Pokémon Prese
 featuredImage:
   type: ImageBlock
   url: /images/Pokemon-day-evento.webp
-  altText: Wii Guitar Clone Hero Tutorial Miniatura
+  altText: Pokemon Day 2025 Miniatura
   elementId: ''
   styles:
     self:
