@@ -38,7 +38,7 @@ bottomSections:
       styles:
         self:
           textAlign: left
-    subtitle: 'Pokemon '
+    subtitle: Pokemon Concierge Ep1
     text: >
       Tutorial para poder **utilizar los instrumentos de Guitar Hero de la
       Nintendo Wii** en PC con **Wiitarthing** y **Clone Hero**.
