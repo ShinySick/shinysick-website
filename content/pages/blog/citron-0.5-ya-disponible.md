@@ -40,9 +40,8 @@ bottomSections:
         self:
           textAlign: left
     subtitle: Checa la noticia
-    text: >
-      *En cuanto tengamos la guia visual disponible estará aqui publicada, por
-      mientras disfruta del ultimo video de Citron.*
+    text: |
+      *Checa los cambios que tiene y lo nuevo que se viene de Citron 0.5*
     actions: []
     media:
       type: VideoBlock
