@@ -46,7 +46,7 @@ bottomSections:
     actions: []
     media:
       type: VideoBlock
-      title: Citron En Steam Deck 2025
+      title: Nuevo Citron 0.5 Ya Esta Aquí
       url: 'https://youtu.be/3AICsqpqLyA'
       autoplay: false
       loop: false
