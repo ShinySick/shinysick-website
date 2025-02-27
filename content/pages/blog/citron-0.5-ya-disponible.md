@@ -39,7 +39,7 @@ bottomSections:
       styles:
         self:
           textAlign: left
-    subtitle: Guía Aun No Disponible
+    subtitle: Checa la noticia
     text: >
       *En cuanto tengamos la guia visual disponible estará aqui publicada, por
       mientras disfruta del ultimo video de Citron.*
