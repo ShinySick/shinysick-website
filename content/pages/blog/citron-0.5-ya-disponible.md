@@ -34,7 +34,7 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Consulta la Guía
+      text: Citron 0.5
       color: text-dark
       styles:
         self:
