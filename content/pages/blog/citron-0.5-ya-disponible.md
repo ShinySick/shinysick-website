@@ -34,20 +34,19 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Consulta la Guía
+      text: Ya esta Aquí Citron 0.5
       color: text-dark
       styles:
         self:
           textAlign: left
-    subtitle: Guía Aun No Disponible
-    text: >
-      *En cuanto tengamos la guia visual disponible estará aqui publicada, por
-      mientras disfruta del ultimo video de Citron.*
+    subtitle: Checa la noticia
+    text: |
+      *Checa los cambios que tiene y lo nuevo que se viene de Citron 0.5*
     actions: []
     media:
       type: VideoBlock
-      title: Citron En Steam Deck 2025
-      url: 'https://youtu.be/IwjPTUgB_OQ'
+      title: Nuevo Citron 0.5 Ya Esta Aquí
+      url: 'https://youtu.be/3AICsqpqLyA'
       autoplay: false
       loop: false
       muted: true
