@@ -76,6 +76,8 @@ styles:
     textAlign: center
     borderRadius: large
 ---
+****![](/images/GTA%20V%20Enhanced%20Banner.webp)
+
 **GTA V: Enhanced Edition llega a PC con mejoras gráficas y de rendimiento**
 
 Rockstar Games ha lanzado oficialmente **GTA V: Enhanced Edition** para PC, trayendo consigo todas las mejoras visuales y de rendimiento que antes eran exclusivas de PlayStation 5 y Xbox Series X|S. Esta actualización gratuita promete una experiencia más fluida y detallada, aprovechando las últimas tecnologías gráficas disponibles en la plataforma.
