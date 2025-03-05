@@ -109,7 +109,7 @@ seo:
   metaTitle: "\U0001F3AE GTA V: Enhanced Edition llega a PC – Mejoras gráficas, rendimiento y más \U0001F680"
   metaDescription: "Rockstar lanza GTA V: Enhanced Edition en PC con mejoras gráficas, trazado de rayos, DLSS 3 y más. Descubre todas las novedades y cómo optimizar tu experiencia en Los Santos. \U0001F680\U0001F525"
   addTitleSuffix: false
-  socialImage: /images/Guia Yuzu EA.jpg
+  socialImage: /images/GTAV Enhanced.webp
   metaTags: []
 colors: bg-light-fg-dark
 styles:
