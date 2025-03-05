@@ -107,10 +107,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: "\U0001F3AE GTA V: Enhanced Edition llega a PC – Mejoras gráficas, rendimiento y más \U0001F680"
-  metaDescription: >-
-    Descubre Yuzu Early Access 4176, el emulador de Nintendo Switch líder. Juega
-    tus juegos favoritos con la mejor calidad y rendimiento. ¡Guías, descargas y
-    noticias exclusivas!
+  metaDescription: "Rockstar lanza GTA V: Enhanced Edition en PC con mejoras gráficas, trazado de rayos, DLSS 3 y más. Descubre todas las novedades y cómo optimizar tu experiencia en Los Santos. \U0001F680\U0001F525"
   addTitleSuffix: false
   socialImage: /images/Guia Yuzu EA.jpg
   metaTags: []
