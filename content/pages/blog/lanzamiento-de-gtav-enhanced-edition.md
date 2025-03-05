@@ -111,7 +111,7 @@ seo:
   addTitleSuffix: false
   socialImage: /images/GTAV Enhanced.webp
   metaTags: []
-colors: bg-light-fg-dark
+colors: bg-neutralAlt-fg-dark
 styles:
   self:
     flexDirection: col
