@@ -128,8 +128,6 @@ Los jugadores de PC ahora pueden disfrutar de **trazado de rayos (ray tracing)**
 
 ![](/images/GTA%20V%20Enhanced%20Comparison1.webp)*(Así es, nosotros tampoco vemos una diferencia enorme)*
 
-
-
 ## **Nuevos contenidos y características**
 
 Esta versión mejorada también incorpora nuevas funcionalidades y contenido exclusivo, incluyendo:
@@ -145,6 +143,8 @@ Esta versión mejorada también incorpora nuevas funcionalidades y contenido exc
 ## **Impacto en GTA Online**
 
 La actualización también beneficia a **GTA Online**, ofreciendo nuevas características y suscripciones a **GTA+**. Sin embargo, los jugadores de la versión original y la versión mejorada no podrán jugar juntos, ya que Rockstar ha separado ambas instancias del juego.
+
+![](/images/Grand_Theft_Auto_Online_Logo%20copia.webp)
 
 ## **Requisitos del sistema**
 
