@@ -7,7 +7,7 @@ excerpt: "Rockstar Games ha lanzado GTA V: Enhanced Edition para PC, llevando me
 featuredImage:
   type: ImageBlock
   url: /images/wii-guitar-clone-hero.webp
-  altText: Wii Guitar Clone Hero Tutorial Miniatura
+  altText: GTA V Enhanced Miniatura
   elementId: ''
   styles:
     self:
