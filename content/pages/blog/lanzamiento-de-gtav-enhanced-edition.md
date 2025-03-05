@@ -106,7 +106,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Yuzu Early Access 4176 - El Mejor Emulador de Nintendo Switch
+  metaTitle: "\U0001F3AE GTA V: Enhanced Edition llega a PC – Mejoras gráficas, rendimiento y más \U0001F680"
   metaDescription: >-
     Descubre Yuzu Early Access 4176, el emulador de Nintendo Switch líder. Juega
     tus juegos favoritos con la mejor calidad y rendimiento. ¡Guías, descargas y
