@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: "Rockstar Games ha lanzado GTA V: Enhanced Edition para PC, llevando mejoras gráficas, soporte para DLSS 3 y trazado de rayos. Descubre todas las novedades y cómo esta actualización gratuita mejora la experiencia en Los Santos. \U0001F525"
 featuredImage:
   type: ImageBlock
-  url: /images/wii-guitar-clone-hero.webp
+  url: /images/GTAV Enhanced.webp
   altText: GTA V Enhanced Miniatura
   elementId: ''
   styles:
