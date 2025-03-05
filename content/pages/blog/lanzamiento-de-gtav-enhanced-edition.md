@@ -118,17 +118,37 @@ styles:
     textAlign: center
     borderRadius: large
 ---
-Si tienes una **batería o guitarra de wii** y quieres utilizarlas en PC, este tutorial te ayudará a conectarlas a Windows 11.
+**GTA V: Enhanced Edition llega a PC con mejoras gráficas y de rendimiento**
 
-<br>
+Rockstar Games ha lanzado oficialmente **GTA V: Enhanced Edition** para PC, trayendo consigo todas las mejoras visuales y de rendimiento que antes eran exclusivas de PlayStation 5 y Xbox Series X|S. Esta actualización gratuita promete una experiencia más fluida y detallada, aprovechando las últimas tecnologías gráficas disponibles en la plataforma.
 
-### Descarga lo necesario
+## **Mejoras gráficas y técnicas**
 
-Para esto necesitaras los siguientes programas:
+Los jugadores de PC ahora pueden disfrutar de **trazado de rayos (ray tracing)**, **soporte para DLSS 3 y FSR3**, resoluciones más altas y tiempos de carga reducidos gracias a la implementación de **DirectStorage**. Además, Rockstar ha optimizado los reflejos y las sombras dinámicas, permitiendo una mayor inmersión en Los Santos.
 
-*   [Wiitarthing](https://github.com/TheNathannator/WiitarThing/releases/tag/v2.7.0.5)
+## **Nuevos contenidos y características**
 
-*   [Driver ViGEm](https://github.com/ViGEm/ViGEmBus/releases)
+Esta versión mejorada también incorpora nuevas funcionalidades y contenido exclusivo, incluyendo:
 
-*   [Clone Hero](https://clonehero.net/releases/)
+*   Vehículos adicionales y mejoras de rendimiento en **Hao’s Special Works**.
+
+*   **Encuentros con animales salvajes** en el mundo abierto.
+
+*   Mejor compatibilidad con **controladores DualSense** en PC.
+
+*   Soporte para **audio Dolby Atmos** para una experiencia sonora envolvente.
+
+## **Impacto en GTA Online**
+
+La actualización también beneficia a **GTA Online**, ofreciendo nuevas características y suscripciones a **GTA+**. Sin embargo, los jugadores de la versión original y la versión mejorada no podrán jugar juntos, ya que Rockstar ha separado ambas instancias del juego.
+
+## **Requisitos del sistema**
+
+Para disfrutar de las mejoras gráficas, se recomienda contar con una tarjeta gráfica moderna compatible con trazado de rayos y al menos **16 GB de RAM**. Los jugadores deben revisar los requisitos actualizados en la página oficial de Rockstar para garantizar una experiencia óptima.
+
+## **Conclusión**
+
+Con **GTA V: Enhanced Edition**, los jugadores de PC finalmente tienen acceso a todas las mejoras visuales y de rendimiento que llegaron a consolas en 2022. Esta actualización gratuita no solo extiende la vida útil del juego, sino que también demuestra el compromiso de Rockstar por seguir mejorando la experiencia de uno de los títulos más icónicos de la última década. ¿Ya descargaste la actualización?
+
+
 
