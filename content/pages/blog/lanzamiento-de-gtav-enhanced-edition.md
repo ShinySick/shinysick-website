@@ -126,6 +126,10 @@ Rockstar Games ha lanzado oficialmente **GTA V: Enhanced Edition** para PC, tray
 
 Los jugadores de PC ahora pueden disfrutar de **trazado de rayos (ray tracing)**, **soporte para DLSS 3 y FSR3**, resoluciones más altas y tiempos de carga reducidos gracias a la implementación de **DirectStorage**. Además, Rockstar ha optimizado los reflejos y las sombras dinámicas, permitiendo una mayor inmersión en Los Santos.
 
+![](/images/GTA%20V%20Enhanced%20Comparison1.webp)*(Así es, nosotros tampoco vemos una diferencia enorme)*
+
+
+
 ## **Nuevos contenidos y características**
 
 Esta versión mejorada también incorpora nuevas funcionalidades y contenido exclusivo, incluyendo:
@@ -149,6 +153,3 @@ Para disfrutar de las mejoras gráficas, se recomienda contar con una tarjeta gr
 ## **Conclusión**
 
 Con **GTA V: Enhanced Edition**, los jugadores de PC finalmente tienen acceso a todas las mejoras visuales y de rendimiento que llegaron a consolas en 2022. Esta actualización gratuita no solo extiende la vida útil del juego, sino que también demuestra el compromiso de Rockstar por seguir mejorando la experiencia de uno de los títulos más icónicos de la última década. ¿Ya descargaste la actualización?
-
-
-
