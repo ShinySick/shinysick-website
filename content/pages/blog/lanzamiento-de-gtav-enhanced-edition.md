@@ -3,9 +3,7 @@ type: PostLayout
 title: "\U0001F3AE GTA V: Enhanced Edition llega a PC – Mejoras gráficas, rendimiento y más \U0001F680"
 date: '2025-03-04'
 author: content/data/person1.json
-excerpt: >-
-  Si tienes una batería o guitarra de wii y quieres utilizarlas en PC, este
-  tutorial te ayudará. CONECTA TU WIIMOTE A PC WINDOWS 11
+excerpt: "Rockstar Games ha lanzado GTA V: Enhanced Edition para PC, llevando mejoras gráficas, soporte para DLSS 3 y trazado de rayos. Descubre todas las novedades y cómo esta actualización gratuita mejora la experiencia en Los Santos. \U0001F525"
 featuredImage:
   type: ImageBlock
   url: /images/wii-guitar-clone-hero.webp
