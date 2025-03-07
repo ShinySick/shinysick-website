@@ -39,7 +39,7 @@ bottomSections:
       styles:
         self:
           textAlign: left
-    subtitle: Yuzu Early Access 4176
+    subtitle: Como Instalar y Configurar RPCS3
     text: >
       **Guía Definitiva** para instalar y configurar **YUZU EN STEAM DECK**.
 
