@@ -10,7 +10,7 @@ excerpt: >-
   modernos. ¡Descubre todos los detalles y cómo actualizar tu consola!
 featuredImage:
   type: ImageBlock
-  url: /images/yuzu-steam-deck-guia.webp
+  url: /images/PS3 Update Miniatura.webp
   altText: Yuzu Steam Deck Guia Miniatura
   elementId: ''
   styles:
