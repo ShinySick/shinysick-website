@@ -152,6 +152,8 @@ Si quieres probarlo para ver su rendimiento y saber si vale la pena prueba con e
 
 *   [**Lossless Scaling del Caribe 🏴‍☠️🦜**](https://bit.ly/3zU724A)
 
+*   [**Lossless Scaling 3 (LSFG3) 🏴‍☠️🦜**](https://bit.ly/3Xy3WLX)
+
 *   [**Lossless Scaling Steam Oficial**](https://store.steampowered.com/app/993090/Lossless_Scaling/)
 
 Si elegiste la version del caribe deberás hacer el siguiente procedimiento para evitar un error con steam:
@@ -184,7 +186,7 @@ Si elegiste la version del caribe deberás hacer el siguiente procedimiento para
 
 **Frame Generation:**
 
-*   **LSFG** 2.3
+*   **LSFG** 3
 
 *   Mode x2
 
