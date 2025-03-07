@@ -41,11 +41,14 @@ bottomSections:
           textAlign: left
     subtitle: Como Instalar y Configurar RPCS3
     text: >
-      **Guía Definitiva** para instalar y configurar **YUZU EN STEAM DECK**.
+      Tambien puedes disfrutar y probar la ultima version del firmware en el
+      **EMULADOR RPCS3.**
 
 
-      Se recomienda ver el video en **velocidad 2x** solo si se te hace muy
-      largo el video.
+      ****
+
+
+      **Checa la Guia Completa para saber como intsalarlo y configurarlo.**
     actions: []
     media:
       type: VideoBlock
