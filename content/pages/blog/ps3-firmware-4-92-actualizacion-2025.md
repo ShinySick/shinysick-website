@@ -11,7 +11,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/PS3 Update Miniatura.webp
-  altText: Yuzu Steam Deck Guia Miniatura
+  altText: PS3 Firmware 4.92 Miniatura
   elementId: ''
   styles:
     self:
