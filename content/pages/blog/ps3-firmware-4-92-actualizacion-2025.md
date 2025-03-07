@@ -4,9 +4,10 @@ title: Sony sorprende con la actualización de firmware 4.92 para PS3 en 2025
 date: '2025-03-07'
 author: content/data/person1.json
 excerpt: >-
-  Aprende a INSTALAR Yuzu Early Access 4176 fué la versión más actualizada de
-  éste emulador, logrando tener un rendimiento muy alto incluso en dispositivos
-  no tan potentes.
+  Sony sorprende con la actualización de firmware 4.92 para PS3 en 2025. Esta
+  nueva versión mejora la estabilidad del sistema, refuerza la seguridad y
+  optimiza la compatibilidad con Blu-ray, permitiendo la reproducción de discos
+  modernos. ¡Descubre todos los detalles y cómo actualizar tu consola!
 featuredImage:
   type: ImageBlock
   url: /images/yuzu-steam-deck-guia.webp
