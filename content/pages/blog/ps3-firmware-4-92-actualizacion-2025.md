@@ -127,9 +127,11 @@ styles:
     textAlign: center
     borderRadius: large
 ---
-
-
 Sony ha lanzado una nueva versión de firmware para la **PlayStation 3** después de muchos años sin grandes actualizaciones. La versión **4.92**, publicada el **5 de marzo de 2025**, trae mejoras en estabilidad, compatibilidad con Blu-ray y seguridad. A pesar de que la PS3 fue lanzada en **2006**, Sony sigue manteniéndola funcional, algo que ha sorprendido a muchos jugadores retro y coleccionistas.
+
+![](/images/Ps3%20Logo.webp)
+
+
 
 ## 🛠️ Principales mejoras de la versión 4.92
 
@@ -151,6 +153,10 @@ Aunque Sony no ha dado detalles específicos sobre todos los cambios, estas son 
 
 *   Soporte actualizado para los formatos de protección de copia más recientes, asegurando la compatibilidad con nuevos lanzamientos en Blu-ray.
 
+![](/images/PS3%20BluRay.webp)
+
+
+
 ### 🔒 **Mejoras de seguridad**
 
 *   Correcciones de vulnerabilidades para reforzar la seguridad del sistema.
@@ -171,7 +177,8 @@ Para la actualización se requiere al menos **200 MB de espacio libre** en el di
 
 El lanzamiento de esta actualización muestra que, a pesar de los años, Sony sigue ofreciendo cierto nivel de soporte para la **PS3**. Aunque no se agregan nuevas funciones revolucionarias, las mejoras en seguridad y compatibilidad aseguran que la consola siga siendo viable para los jugadores que la utilizan para juegos físicos, digitales y como centro multimedia.
 
+![](/images/PS3%20slim%20and%20fat.webp)
+
+
+
 🎮 **¿Sigues usando tu PS3?** Cuéntanos en los comentarios si aún la disfrutas y qué opinas de esta inesperada actualización.
-
-
-
