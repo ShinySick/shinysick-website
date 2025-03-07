@@ -34,7 +34,7 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Te Podría Interesár!
+      text: Te Podría Interesar!
       color: text-dark
       styles:
         self:
