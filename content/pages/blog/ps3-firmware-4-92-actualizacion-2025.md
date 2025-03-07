@@ -53,7 +53,7 @@ bottomSections:
     media:
       type: VideoBlock
       title: Como Instalar Yuzu en Steam Deck
-      url: 'https://youtu.be/n2YOOnlolY0'
+      url: 'https://youtu.be/NPPfZz6v7J0'
       autoplay: false
       loop: false
       muted: true
