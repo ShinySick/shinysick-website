@@ -127,85 +127,51 @@ styles:
     textAlign: center
     borderRadius: large
 ---
-Aprende a **INSTALAR Yuzu en STEAM DECK,** Incluso éste mismo procedimiento te servirá para instalar **Suyu.**
 
-En este caso la version recomendada es **Yuzu Early Access 4176 o Suyu 0.0.3** pero puedes utilizar la versión que más te agrade.
 
-### Requisitos Minimos de Steam Deck para el Emulador Yuzu:
+Sony ha lanzado una nueva versión de firmware para la **PlayStation 3** después de muchos años sin grandes actualizaciones. La versión **4.92**, publicada el **5 de marzo de 2025**, trae mejoras en estabilidad, compatibilidad con Blu-ray y seguridad. A pesar de que la PS3 fue lanzada en **2006**, Sony sigue manteniéndola funcional, algo que ha sorprendido a muchos jugadores retro y coleccionistas.
 
-*   **Steam Deck LCD / Steam Deck OLED**
+## 🛠️ Principales mejoras de la versión 4.92
 
-### Archivos Necesarios:
+Aunque Sony no ha dado detalles específicos sobre todos los cambios, estas son las mejoras confirmadas:
 
-Las prodkeys son los archivos encargados de que el emulador decodifique el titulo del juego en conjunto con el firmware, sin estos archivos no será posible ningun tipo de emulación, si no los instalas podrias llegar a tener distintos tipos de errores.
+### ✅ **Rendimiento y estabilidad**
 
-**¡ASEGURATE SIEMPRE DE INSTALAR LA VERSIÓN MÁS RECIENTE DISPONIBLE!**
+*   Optimizaciones en el sistema para mejorar la estabilidad general.
 
-*   [**Prod.keys**](/prodkeys)
+*   Correcciones menores de errores en el software.
 
-*   [**Firmware**](/firmwares)
+### 📽️ **Compatibilidad con Blu-ray mejorada**
 
-*   [**Yuzu Early Access 4176 (Formato AppImage)**](https://bit.ly/4eRK8tK)
+*   **Actualización completa del sistema Blu-ray**, lo que mejora la reproducción de discos en la PS3.
 
-*   [**Yuzu.sh (Es el launcher del emulador para el modo gaming de Steam Rom Manager)**](https://bit.ly/3NEh7ph)
+*   Se han corregido errores de compatibilidad con algunos Blu-ray modernos, permitiendo su reproducción sin problemas.
 
-<br>
+*   **Mejor decodificación de video y audio**, optimizando la experiencia de ver películas en alta definición.
 
-### Instalar el AppImage en Steam Deck
+*   Soporte actualizado para los formatos de protección de copia más recientes, asegurando la compatibilidad con nuevos lanzamientos en Blu-ray.
 
-Primero deberémos estar en el modo Escritorio de la Steam Deck:
+### 🔒 **Mejoras de seguridad**
 
-1.  Pulsa el **botón de apagado 5 segundos**
+*   Correcciones de vulnerabilidades para reforzar la seguridad del sistema.
 
-2.  Elige **Modo Escritorio**
+*   Mayor protección contra posibles exploits.
 
-3.  Espera a que cargue el sistema
+## 🔄 Cómo actualizar tu PS3 a la versión 4.92
 
-4.  Renombra el archivo **.Appimage** que descargaste y coloca solo "**yuzu**" *(Debe quedar un archivo final con nombre "**yuzu.AppImage**")*
+Si deseas instalar esta nueva versión de firmware en tu consola, puedes hacerlo de dos maneras:
 
-5.  Copialo y Pegalo en la carpeta **Home/Applications** 
+1.  **Vía Internet (Recomendado)**: Desde el menú principal de la PS3, ve a *Ajustes* > *Actualización del sistema* y selecciona *Actualizar vía Internet*.
 
-6.  **IMPORTANTE** Ejecuta una ves tu archivo desde aquí, si no no va a funcionar despues.
+2.  **Mediante USB**: Descarga el archivo de actualización desde la web oficial de PlayStation, guárdalo en una memoria USB (formateada en FAT32) dentro de la carpeta `PS3/UPDATE/` y luego instálalo en la consola.
 
-7.  Listo, ya esta instalada la base del emulador.
+Para la actualización se requiere al menos **200 MB de espacio libre** en el disco duro de la PS3.
 
-<br>
+## 🚀 Sony sigue apostando por la PS3
 
-### Instalar el Launcher de Yuzu en Steam Rom Manager para el Modo Gaming *(Yuzu.sh)*
+El lanzamiento de esta actualización muestra que, a pesar de los años, Sony sigue ofreciendo cierto nivel de soporte para la **PS3**. Aunque no se agregan nuevas funciones revolucionarias, las mejoras en seguridad y compatibilidad aseguran que la consola siga siendo viable para los jugadores que la utilizan para juegos físicos, digitales y como centro multimedia.
 
-1.  Localiza tu carpeta de instalacion de **Emudeck**
+🎮 **¿Sigues usando tu PS3?** Cuéntanos en los comentarios si aún la disfrutas y qué opinas de esta inesperada actualización.
 
-2.  Copia y Pega tu archivo **yuzu.sh** en la siguiente ruta: **Instalacion de Emudeck/Emulation/tools/launchers**
 
-3.  Prueba abriendo el archivo **yuzu.sh** para comprobar que abre el emulador.
-
-<br>
-
-### Configurar Launcher en Steam Rom Manager
-
-1.  Abre **Emudeck** y selecciona **Steam Rom Manager**
-
-2.  En el listado izquierdo buscar y seleccionar la opción "**Nintendo Switch - Yuzu**" y Activarlo
-
-3.  Del lado derecho en **las configuraciones** buscamos "**Executable**" y seleccionamos el archivo **yuzu.sh**
-
-4.  Clic en el boton **Test Parser** para verificar que lee los juegos
-
-5.  Clic en **Save** para guardar cambios en el parser
-
-6.  Hasta arriba daremos clic en **Add Games**
-
-7.  Clic en **Parse**
-
-8.  Selecciona las portadas de juegos que más te gusten
-
-9.  Clic abajo en **Save to Steam**
-
-10. Listo, tienes tus juegos agregados en el **Modo Gaming**
-
-<br>
-
-Si te perdiste en algún paso, revisa nuestra guía aún más detallada que se encuentra en el video de abajo!
-
-Recuerda suscribirte si te ayudo el contenido!
 
