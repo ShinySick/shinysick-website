@@ -117,10 +117,9 @@ seo:
   type: Seo
   metaTitle: '✅ PS3 recibe actualización 4.92 en 2025: Mejoras en Blu-ray y estabilidad'
   metaDescription: >-
-    Descubre cómo instalar el emulador Yuzu en tu Steam Deck y transforma tu
-    experiencia de juego. Sigue nuestra guía definitiva 2024 para jugar tus
-    títulos favoritos de Nintendo Switch con el máximo rendimiento y calidad.
-    ¡Todo lo que necesitas saber, en un solo lugar!
+    Sony lanza la actualización 4.92 para PS3 en 2025, mejorando la estabilidad
+    del sistema, la seguridad y la compatibilidad con Blu-ray modernos. Descubre
+    todas las novedades y cómo actualizar tu consola.
   addTitleSuffix: true
   socialImage: /images/PS3 Update Miniatura.webp
   metaTags: []
