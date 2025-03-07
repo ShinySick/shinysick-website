@@ -122,7 +122,7 @@ seo:
     títulos favoritos de Nintendo Switch con el máximo rendimiento y calidad.
     ¡Todo lo que necesitas saber, en un solo lugar!
   addTitleSuffix: true
-  socialImage: /images/yuzu-steam-deck-guia.webp
+  socialImage: /images/PS3 Update Miniatura.webp
   metaTags: []
 colors: bg-dark-fg-light
 styles:
