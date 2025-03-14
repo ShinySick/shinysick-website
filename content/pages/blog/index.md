@@ -10,7 +10,7 @@ topSections:
       type: TitleBlock
     subtitle: ''
     posts:
-      - content/pages/blog/citron-0.5-ya-disponible.md
+      - content/pages/blog/citron-0.6-ya-disponible.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
