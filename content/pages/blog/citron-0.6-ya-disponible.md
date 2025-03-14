@@ -11,7 +11,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/nuevo-citron-0.5.webp
-  altText: Citron 0.5 Ya Está Aquí
+  altText: Citron 0.6 Ya Está Aquí
   elementId: ''
   styles:
     self:
