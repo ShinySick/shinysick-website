@@ -108,9 +108,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: >-
-    Citrón 0.5: La Nueva Actualización del Emulador de Nintendo Switch Llega con
-    Mejoras Clave
+  metaTitle: 'Citron 0.6: Nueva versión con multijugador, mejoras en Android y memoria'
   metaDescription: "El emulador Citrón 0.5 ya está disponible, con mejoras en gráficos, rendimiento y compatibilidad. Ahora con soporte para el Home Menu, optimización en Vulkan y nuevas funciones de red. Descubre todas las novedades de esta versión y cómo mejorar tu experiencia de emulación. \U0001F680\U0001F3AE"
   addTitleSuffix: true
   socialImage: /images/Citron-0.6-miniatura.webp
