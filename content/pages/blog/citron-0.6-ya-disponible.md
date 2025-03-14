@@ -34,7 +34,7 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ya esta Aquí Citron 0.5
+      text: Ya esta Aquí Citron 0.6
       color: text-dark
       styles:
         self:
