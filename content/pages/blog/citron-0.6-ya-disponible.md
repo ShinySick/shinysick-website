@@ -41,7 +41,7 @@ bottomSections:
           textAlign: left
     subtitle: Checa la noticia
     text: |
-      *Checa los cambios que tiene y lo nuevo que se viene de Citron 0.5*
+      *Checa los cambios que tiene y lo nuevo que se viene de Citron 0.6*
     actions: []
     media:
       type: VideoBlock
