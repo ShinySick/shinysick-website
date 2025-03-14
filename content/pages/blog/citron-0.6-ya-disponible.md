@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 'Citron 0.5: La Nueva Versión del Emulador de Nintendo Switch Ya Está Aquí'
+title: 'Citron 0.6: Nueva versión con multijugador, mejoras en Android y memoria'
 date: '2025-03-13'
 author: content/data/person1.json
 excerpt: >-
