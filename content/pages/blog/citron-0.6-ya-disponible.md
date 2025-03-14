@@ -45,7 +45,7 @@ bottomSections:
     actions: []
     media:
       type: VideoBlock
-      title: Nuevo Citron 0.5 Ya Esta Aquí
+      title: "\U0001F525Nuevo Citron 0.6 Ya Esta Aquí"
       url: 'https://youtu.be/v0_MIXZyEJM'
       autoplay: false
       loop: false
