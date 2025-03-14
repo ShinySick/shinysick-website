@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: 'Citron 0.5: La Nueva Versión del Emulador de Nintendo Switch Ya Está Aquí'
-date: '2025-02-25'
+date: '2025-03-13'
 author: content/data/person1.json
 excerpt: >-
   El 21 de febrero de 2025, el equipo de desarrollo de Citrón lanzó la versión
