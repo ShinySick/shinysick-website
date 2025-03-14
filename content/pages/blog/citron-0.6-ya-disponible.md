@@ -4,9 +4,10 @@ title: 'Citron 0.5: La Nueva Versión del Emulador de Nintendo Switch Ya Está A
 date: '2025-03-13'
 author: content/data/person1.json
 excerpt: >-
-  El 21 de febrero de 2025, el equipo de desarrollo de Citrón lanzó la versión
-  0.5, una actualización repleta de mejoras en gráficos, rendimiento,
-  compatibilidad y nuevas funciones. 
+  Citron 0.6 llegó el 11 de marzo de 2025 con grandes mejoras para Android,
+  gestión de memoria y una esperada función multijugador en beta. Descubre todo
+  sobre esta actualización que lleva la emulación de Nintendo Switch al
+  siguiente nivel.
 featuredImage:
   type: ImageBlock
   url: /images/nuevo-citron-0.5.webp
