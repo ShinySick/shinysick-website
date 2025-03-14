@@ -10,7 +10,7 @@ excerpt: >-
   siguiente nivel.
 featuredImage:
   type: ImageBlock
-  url: /images/nuevo-citron-0.5.webp
+  url: /images/Citron-0.6-miniatura.webp
   altText: Citron 0.6 Ya Está Aquí
   elementId: ''
   styles:
