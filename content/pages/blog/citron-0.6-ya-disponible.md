@@ -121,126 +121,128 @@ styles:
     textAlign: center
     borderRadius: large
 ---
-El **21 de febrero de 2025**, el equipo de desarrollo de **Citrón** lanzó la versión **0.5**, una actualización repleta de mejoras en gráficos, rendimiento, compatibilidad y nuevas funciones. Si eres fanático de la emulación en **PC y Android**, esta versión trae avances significativos que mejorarán la experiencia al ejecutar juegos de **Nintendo Switch**.
+El emulador de Nintendo Switch **Citron** acaba de lanzar su versión **0.6** el **11 de marzo de 2025**, trayendo una ola de mejoras centradas en **Android**, **gestión de memoria** y una muy esperada **funcionalidad multijugador**. Esta actualización no solo mejora la estabilidad y rendimiento, sino que también aborda varios problemas clave de la versión anterior.
 
-A continuación, te contamos **todas las novedades** de esta versión.
+## 💡 Principales novedades de Citron 0.6
 
-## **Principales Mejoras de Citrón 0.5**
+### 🛲 **Optimizaciones para Android**
 
-### **Gráficos y Renderizado**
+*   **Actualización completa del sistema de compilación**: Se actualizaron **Kotlin**, **Java**, **Gradle** y **NDK** a sus últimas versiones.
 
-*   **Mejoras en Vulkan**: Implementación de resolución MSAA nativa en la caché de texturas.
+*   **Mejor ejecución de código nativo ARM**, optimizando el rendimiento del hardware.
 
-*   **Compatibilidad mejorada**: Correcciones para los drivers de Samsung, AMD y Qualcomm.
+*   **Compatibilidad mejorada** con una mayor variedad de dispositivos Android.
 
-*   **Mejor conversión de formatos de texturas** para mejorar la fidelidad visual.
+### 🧰 **Gestión de memoria mejorada**
 
-### **Interfaz y Funcionalidades**
+*   **Nuevo sistema de caché TLB por software**, que mejora el rendimiento en el acceso a memoria.
 
-*   **Soporte para el Home Menu**: Ahora puedes abrir el menú principal de la consola dentro del emulador.
+*   **Manejo de errores mejorado** y **mayor estabilidad** en escenarios donde el acceso a la memoria fallaba.
 
-*   **Gestión mejorada de pantallas y capas**.
+*   **Mejor recuperación de errores**, evitando crasheos inesperados.
 
-*   **Overlay de uso de RAM** y mejoras en la visualización térmica.
+### 🛣️ **Multijugador (beta)**
 
-*   **Nuevo logo de Citrón** en el menú "Acerca de".
+*   **Primera implementación del multijugador en Android** (aún en desarrollo).
 
-*   **Eliminado el aviso de desencriptación de firmware**.
+*   **Soporte básico para salas** y **moderación por parte del creador de la sala**.
 
-### **Seguridad y Gestión de Memoria**
+*   **Desempeño sorprendente** según los beta testers, sentando las bases para futuras expansiones.
 
-*   **Verificación de licencia** en la aplicación de Android.
+## 🔧 Mejoras técnicas y del sistema
 
-*   **Mejor seguridad en la asignación de memoria** y validación en la memoria del host.
+### 🎨 **Gráficos y renderizado**
 
-*   **Correcciones en accesos no autorizados a la memoria** para mayor estabilidad.
+*   **Mejoras en Vulkan**: Manejo más robusto de la memoria y alineación mejorada para distintos fabricantes.
 
-### **Mejoras Técnicas**
+*   **Compilación de shaders mejorada**: Implementación optimizada de las etapas de geometría y teselación.
 
-*   **Implementaciones en NVDRV Service** para mejor compatibilidad con GPU.
+### 🔒 **Seguridad reforzada**
 
-*   **Limpieza en la implementación del sistema de audio**.
+*   **El firmware ahora es obligatorio** para lanzar juegos.
 
-*   **Soporte para nuevos comandos en la API de sonido y mejoras en estabilidad**.
+*   **Eliminación de claves autogeneradas** y gestión mejorada de claves solo en memoria.
 
-### **Red y Funciones Online**
+*   **Sistema de validación de firmware más estricto**.
 
-*   **Optimización del manejo de interfaces de red**.
+### 🔜 **Cumplimiento legal**
 
-*   **Soporte mejorado para resolución de direcciones IP**.
+*   **Se eliminaron referencias a guías rápidas** para evitar problemas legales.
 
-*   **Nuevas funciones en los servicios de amigos de Nintendo**.
+*   **Se reemplazaron mensajes de error sobre ROMs** por avisos neutrales.
 
-### **Rendimiento y Compatibilidad**
+*   **Guía a recursos comunitarios** para ayudar a los usuarios sin dar instrucciones directas.
 
-*   **Android**:
+## 💨 Rendimiento y estabilidad
 
-    *   Desactivado el overlay de RAM por defecto (tenía errores).
+*   **Deshabilitación de presentación asíncrona** por problemas de estabilidad.
 
-    *   Primera solución para el bug de **0.0 FPS** en algunos dispositivos.
+*   **Manejo más seguro de errores de memoria**.
 
-*   **Actualización de dependencias**:
+*   **Registro de depuración mejorado** para rastrear errores.
 
-    *   Qt 6.8.2, fmt y SDL2 actualizados.
+*   **Reversión de cambios problemáticos** para mantener la estabilidad.
 
-    *   Mejor gestión de compilación y dependencias.
+### 🛶 Mejoras específicas para Android
 
-### **Mejoras en Servicios**
+*   **Compatibilidad con más dispositivos**, incluyendo mejoras para **GPUs Adreno**.
 
-*   **Integración con cuentas de Nintendo**.
+*   **Implementación TLB optimizada** para arquitectura ARM.
 
-*   **Validación de permisos mejorada**.
+*   **Uso de memoria más eficiente** en plataformas móviles.
 
-*   **Optimización en la gestión de configuraciones y servicios del emulador**.
+*   **Configuración predeterminada mejorada** para una experiencia más fluida.
 
-## **Notas de Instalación**
+## 🔄 Notas de instalación
 
-*   Se recomienda una **instalación limpia** al actualizar desde versiones anteriores.
+*   **Se recomienda una instalación limpia** para asegurar el mejor rendimiento.
 
-*   **Usuarios de Android** deben verificar la compatibilidad con su dispositivo.
+*   **El firmware es ahora obligatorio** y las claves autogeneradas fueron eliminadas.
 
-*   Se han actualizado los requisitos de compilación para todas las plataformas.
+*   **Las partidas guardadas anteriores son compatibles**.
 
-## **Problemas Conocidos**
+## 📊 Problemas conocidos
 
-*   Algunas funciones de la GPU siguen en desarrollo.
+*   Algunas funciones multijugador siguen en desarrollo.
 
-*   Persisten regresiones gráficas en ciertos títulos.
+*   La optimización de memoria sigue en progreso para dispositivos de gama baja.
 
-*   Las funciones de red aún están en una etapa temprana.
+*   Algunas características de Vulkan pueden comportarse diferente según la GPU.
 
-*   Puede haber problemas específicos de renderizado en algunas plataformas.
+*   **Reversiones temporales** en ARM NCE y TLB debido a problemas de estabilidad.
 
-*   En ciertos escenarios, podrían ocurrir violaciones de acceso a la memoria.
+## 👩‍🔧 Contribuidores destacados
 
-## **¿Qué Sigue para Citrón?**
+*   **Zephyron**: Optimización del núcleo, Android y gestión de memoria.
 
-El equipo de desarrollo ya tiene planes para las siguientes versiones, entre ellos:
+*   **CamilleLaVey**: Implementación de GPU y recompilador de shaders (revertido por estabilidad).
 
-*   **Mayor optimización del renderizado en GPU**.
+*   **vampiric\_x**: Mejoras en la interfaz y funcionalidad multijugador.
 
-*   **Mejoras en el soporte de red y funciones multijugador**.
+*   **Comunidad**: Pruebas y retroalimentación.
 
-*   **Más avances en la versión para Android**.
+## 🚀 Planes futuros
 
-*   **Implementación de nuevos servicios** para mejorar la compatibilidad.
+*   **Implementación completa del multijugador**.
 
-## **Conclusión**
+*   **Más optimización para Android**.
 
-Con **Citrón 0.5**, el emulador sigue evolucionando y consolidándose como una opción potente para la emulación de **Nintendo Switch**. Aunque aún hay desafíos, los avances en gráficos, rendimiento y compatibilidad muestran un futuro prometedor para este proyecto.
+*   **Mejor gestión de memoria** en dispositivos de gama baja.
 
-## **Descarga Citron 0.5**
+*   **Mayor compatibilidad con juegos**.
 
-[Android](https://git.citron-emu.org/Citron/Citron/releases/download/v0.5-canary-refresh/Citron-18f8a0f99-mainlineRelease.apk)
+*   **Implementación de servicios adicionales**.
 
-[Android Optimizado](https://git.citron-emu.org/Citron/Citron/releases/download/v0.5-canary-refresh/Citron-18f8a0f99-mainlineRelease_optimized.apk)
+✨ **¡Citron sigue evolucionando rápido!** ¿Ya probaste esta versión? Cuéntanos qué te parece el nuevo rendimiento, y si el multijugador promete tanto como dicen los testers. 🎮🔋
 
-[Linux](https://git.citron-emu.org/Citron/Citron/releases/download/v0.5-canary-refresh/Citron-Linux-Canary-Refresh_0.5_compatibility.zip)
+## **Descarga Citron 0.6**
 
-[Linux Steam Deck(Appimage)](https://git.citron-emu.org/Citron/Citron/releases/download/v0.5-canary-refresh/Citron-Linux-Canary-Refresh_0.5_steam_deck.zip)
+[Android](https://git.citron-emu.org/Citron/Citron/releases/download/v0.6-canary-refresh/app-mainline-release.apk)
 
-[Windows](https://git.citron-emu.org/Citron/Citron/releases/download/v0.5-canary-refresh/Citron-Windows-Canary-Refresh_0.5.zip)
+[Android Optimizado](https://git.citron-emu.org/Citron/Citron/releases/download/v0.6-canary-refresh/app-mainline-release_optimized.apk)
 
+[Linux](https://git.citron-emu.org/Citron/Citron/releases/download/v0.6-canary-refresh/Citron-Linux-Canary-Refresh_0.6_native.tar.gz)
 
+[Linux Steam Deck(Appimage)](https://git.citron-emu.org/Citron/Citron/releases/download/v0.6-canary-refresh/Citron-Linux-Canary-Refresh_0.6_steam_deck.tar.gz)
 
-¿Ya probaste la nueva versión? ¡Cuéntanos tu experiencia en los comentarios!
+[Windows](https://git.citron-emu.org/Citron/Citron/releases/download/v0.6-canary-refresh/Citron-Windows-Canary-Refresh_0.6.7z)
