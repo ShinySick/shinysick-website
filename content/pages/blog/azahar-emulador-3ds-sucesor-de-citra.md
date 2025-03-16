@@ -77,7 +77,7 @@ seo:
     alternativa a Citra. Conoce sus novedades y cómo ayudar a que llegue a la
     versión estable.
   addTitleSuffix: true
-  socialImage: /images/Citron-0.6-miniatura.webp
+  socialImage: /images/azahar-prerelease.webp
   metaTags: []
 colors: bg-dark-fg-light
 styles:
