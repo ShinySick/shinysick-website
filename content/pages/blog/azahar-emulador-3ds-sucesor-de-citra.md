@@ -134,9 +134,22 @@ Si prefieres esperar a la versión estable y no lidiar con posibles errores meno
 
 ![](/images/Azahar-version.webp)
 
-
-
 ✨ **Azahar promete convertirse en el nuevo referente de la emulación de 3DS**. ¿Te unes a la revolución? 🎮
 
 
 
+## ⬇️DESCARGA AZAHAR 
+
+Recuerda que para conseguir este emulador puedes ir directamente al [sitio oficial de github](https://github.com/azahar-emu/azahar/releases/tag/2120-rc1)
+
+
+
+O con los siguientes enlaces directos:
+
+[Android](https://github.com/azahar-emu/azahar/releases/download/2120-rc1/azahar-2120-rc1-android-universal.apk)
+
+[Linux (Appimage)](https://github.com/azahar-emu/azahar/releases/download/2120-rc1/azahar-2120-rc1-linux-appimage.tar.gz)
+
+[MacOS](https://github.com/azahar-emu/azahar/releases/download/2120-rc1/azahar-2120-rc1-macos-universal.zip)
+
+[Windows](https://github.com/azahar-emu/azahar/releases/download/2120-rc1/azahar-2120-rc1-windows-msvc-installer.exe)
