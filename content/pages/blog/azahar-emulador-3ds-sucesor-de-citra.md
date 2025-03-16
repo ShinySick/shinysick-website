@@ -9,7 +9,7 @@ excerpt: >-
   base para la emulación de Nintendo 3DS.
 featuredImage:
   type: ImageBlock
-  url: /images/Citron-0.6-miniatura.webp
+  url: /images/azahar-prerelease.webp
   altText: Citron 0.6 Ya Está Aquí
   elementId: ''
   styles:
