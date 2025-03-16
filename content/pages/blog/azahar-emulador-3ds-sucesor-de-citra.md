@@ -125,128 +125,57 @@ styles:
     textAlign: center
     borderRadius: large
 ---
-El emulador de Nintendo Switch **Citron** acaba de lanzar su versión **0.6** el **11 de marzo de 2025**, trayendo una ola de mejoras centradas en **Android**, **gestión de memoria** y una muy esperada **funcionalidad multijugador**. Esta actualización no solo mejora la estabilidad y rendimiento, sino que también aborda varios problemas clave de la versión anterior.
+El mundo de la emulación de Nintendo 3DS recibe un nuevo capítulo con el lanzamiento candidato de [**Azahar**](https://azahar-emu.org/), la esperada fusión de los populares forks [**PabloMK7**](https://github.com/PabloMK7/citra) y **Lime3DS**. Aunque aún está en fase de prueba, este prelanzamiento promete sentar las bases para un emulador más estable, eficiente y preparado para el futuro. ¡Vamos a desglosar qué hace tan especial a Azahar!
 
-## 💡 Principales novedades de Citron 0.6
+![](/images/azahar-logo.webp)
 
-### 🛲 **Optimizaciones para Android**
+## 🌟 ¿Qué es Azahar y por qué es tan importante?
 
-*   **Actualización completa del sistema de compilación**: Se actualizaron **Kotlin**, **Java**, **Gradle** y **NDK** a sus últimas versiones.
+Azahar no es solo otro fork más de **Citra**. Es la evolución directa de dos de los forks más avanzados y queridos por la comunidad: **PabloMK7** (conocido por sus mejoras en rendimiento y compatibilidad) y **Lime3DS** (destacado por sus optimizaciones gráficas y estabilidad en Android). La meta principal de esta primera versión no es introducir cientos de nuevas funciones, sino construir una base sólida para futuras actualizaciones.
 
-*   **Mejor ejecución de código nativo ARM**, optimizando el rendimiento del hardware.
+Este lanzamiento es un **Release Candidate** —es decir, un candidato a versión estable— que, si supera las pruebas de la comunidad sin errores graves, se convertirá en la primera versión oficial de Azahar. ¡Tu participación probando esta versión es clave para lograrlo!
 
-*   **Compatibilidad mejorada** con una mayor variedad de dispositivos Android.
+![](/images/azahar-release-candidate-1.webp)
 
-### 🧰 **Gestión de memoria mejorada**
+## 🔥 Novedades y cambios principales
 
-*   **Nuevo sistema de caché TLB por software**, que mejora el rendimiento en el acceso a memoria.
+### 🚀 Adiós a los métodos antiguos: Bienvenido Artic Setup Tool
 
-*   **Manejo de errores mejorado** y **mayor estabilidad** en escenarios donde el acceso a la memoria fallaba.
+*   El sistema para adquirir archivos esenciales de la 3DS ha sido renovado. Ahora es obligatorio tener una consola real y usar la **nueva herramienta** [**Artic Setup Tool**](https://github.com/azahar-emu/ArticSetupTool).
 
-*   **Mejor recuperación de errores**, evitando crasheos inesperados.
+*   Se eliminaron los métodos antiguos de adquisición de archivos por seguridad y compatibilidad.
 
-### 🛣️ **Multijugador (beta)**
+### 🎮 Mayor rendimiento y nuevas opciones
 
-*   **Primera implementación del multijugador en Android** (aún en desarrollo).
+*   **Hack de rendimiento "Disable Right Eye Rendering"**: Desactiva el renderizado del ojo derecho (cuando el 3D no está en uso), aumentando el rendimiento hasta un **50%** en algunos juegos. ¡Eso sí, algunos títulos podrían mostrar glitches gráficos con esta opción!
 
-*   **Soporte básico para salas** y **moderación por parte del creador de la sala**.
+*   **Modo LLE para funciones en línea**: Se añadió una opción para activar todos los módulos LLE necesarios para funcionalidad online.
 
-*   **Desempeño sorprendente** según los beta testers, sentando las bases para futuras expansiones.
+### 🔒 Cambios en la gestión de archivos
 
-## 🔧 Mejoras técnicas y del sistema
+*   **Adiós al formato .3ds**: Por razones técnicas y de compatibilidad, Azahar ahora usa **.cci** (el verdadero formato detrás de los archivos .3ds). ¿Tienes ROMs en .3ds? Solo necesitas **renombrarlas a .cci** y seguir jugando.
 
-### 🎨 **Gráficos y renderizado**
+*   **Soporte para apps cifradas eliminado**: Ahora las aplicaciones deben estar en formato **descifrado**.
 
-*   **Mejoras en Vulkan**: Manejo más robusto de la memoria y alineación mejorada para distintos fabricantes.
+### 🛠️ Mejoras técnicas
 
-*   **Compilación de shaders mejorada**: Implementación optimizada de las etapas de geometría y teselación.
+*   **Dirección MAC virtual aleatoria**: Cada emulación genera una MAC diferente, mejorando la privacidad.
 
-### 🔒 **Seguridad reforzada**
+*   **Tema adaptativo en escritorio**: Ahora los íconos cambian a blanco cuando se usa el modo oscuro.
 
-*   **El firmware ahora es obligatorio** para lanzar juegos.
+*   **Arranque más rápido en Android**: Se mejoró la carga de juegos y se redujeron los tirones.
 
-*   **Eliminación de claves autogeneradas** y gestión mejorada de claves solo en memoria.
+## 🧠 ¿Por qué deberías probar esta versión?
 
-*   **Sistema de validación de firmware más estricto**.
+Aunque no es una versión estable, esta build es crucial para el futuro de Azahar. Probarla ayuda a detectar errores y acelerar la llegada de una versión final más pulida. Si encuentras algún fallo, puedes **reportarlo directamente en su GitHub**.
 
-### 🔜 **Cumplimiento legal**
+Si prefieres esperar a la versión estable y no lidiar con posibles errores menores, también es válido. Pero si eres de los que les gusta estar a la vanguardia y ayudar a la comunidad, este es el momento perfecto para dar el salto a Azahar.
 
-*   **Se eliminaron referencias a guías rápidas** para evitar problemas legales.
+![](/images/Azahar-version.webp)
 
-*   **Se reemplazaron mensajes de error sobre ROMs** por avisos neutrales.
 
-*   **Guía a recursos comunitarios** para ayudar a los usuarios sin dar instrucciones directas.
 
-## 💨 Rendimiento y estabilidad
+✨ **Azahar promete convertirse en el nuevo referente de la emulación de 3DS**. ¿Te unes a la revolución? 🎮
 
-*   **Deshabilitación de presentación asíncrona** por problemas de estabilidad.
 
-*   **Manejo más seguro de errores de memoria**.
 
-*   **Registro de depuración mejorado** para rastrear errores.
-
-*   **Reversión de cambios problemáticos** para mantener la estabilidad.
-
-### 🛶 Mejoras específicas para Android
-
-*   **Compatibilidad con más dispositivos**, incluyendo mejoras para **GPUs Adreno**.
-
-*   **Implementación TLB optimizada** para arquitectura ARM.
-
-*   **Uso de memoria más eficiente** en plataformas móviles.
-
-*   **Configuración predeterminada mejorada** para una experiencia más fluida.
-
-## 🔄 Notas de instalación
-
-*   **Se recomienda una instalación limpia** para asegurar el mejor rendimiento.
-
-*   **El firmware es ahora obligatorio** y las claves autogeneradas fueron eliminadas.
-
-*   **Las partidas guardadas anteriores son compatibles**.
-
-## 📊 Problemas conocidos
-
-*   Algunas funciones multijugador siguen en desarrollo.
-
-*   La optimización de memoria sigue en progreso para dispositivos de gama baja.
-
-*   Algunas características de Vulkan pueden comportarse diferente según la GPU.
-
-*   **Reversiones temporales** en ARM NCE y TLB debido a problemas de estabilidad.
-
-## 👩‍🔧 Contribuidores destacados
-
-*   **Zephyron**: Optimización del núcleo, Android y gestión de memoria.
-
-*   **CamilleLaVey**: Implementación de GPU y recompilador de shaders (revertido por estabilidad).
-
-*   **vampiric\_x**: Mejoras en la interfaz y funcionalidad multijugador.
-
-*   **Comunidad**: Pruebas y retroalimentación.
-
-## 🚀 Planes futuros
-
-*   **Implementación completa del multijugador**.
-
-*   **Más optimización para Android**.
-
-*   **Mejor gestión de memoria** en dispositivos de gama baja.
-
-*   **Mayor compatibilidad con juegos**.
-
-*   **Implementación de servicios adicionales**.
-
-✨ **¡Citron sigue evolucionando rápido!** ¿Ya probaste esta versión? Cuéntanos qué te parece el nuevo rendimiento, y si el multijugador promete tanto como dicen los testers. 🎮🔋
-
-## **Descarga Citron 0.6**
-
-[Android](https://git.citron-emu.org/Citron/Citron/releases/download/v0.6-canary-refresh/app-mainline-release.apk)
-
-[Android Optimizado](https://git.citron-emu.org/Citron/Citron/releases/download/v0.6-canary-refresh/app-mainline-release_optimized.apk)
-
-[Linux](https://git.citron-emu.org/Citron/Citron/releases/download/v0.6-canary-refresh/Citron-Linux-Canary-Refresh_0.6_native.tar.gz)
-
-[Linux Steam Deck(Appimage)](https://git.citron-emu.org/Citron/Citron/releases/download/v0.6-canary-refresh/Citron-Linux-Canary-Refresh_0.6_steam_deck.tar.gz)
-
-[Windows](https://git.citron-emu.org/Citron/Citron/releases/download/v0.6-canary-refresh/Citron-Windows-Canary-Refresh_0.6.7z)
