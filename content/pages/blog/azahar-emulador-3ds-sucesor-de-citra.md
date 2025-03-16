@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: 'Azahar: El nuevo emulador de 3DS que une los mejores forks de Citra'
-date: '2025-03-13'
+date: '2025-03-15'
 author: content/data/person1.json
 excerpt: >-
   Citron 0.6 llegó el 11 de marzo de 2025 con grandes mejoras para Android,
