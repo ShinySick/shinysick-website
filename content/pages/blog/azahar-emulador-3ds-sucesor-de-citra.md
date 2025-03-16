@@ -4,10 +4,9 @@ title: 'Azahar: El nuevo emulador de 3DS que une los mejores forks de Citra'
 date: '2025-03-15'
 author: content/data/person1.json
 excerpt: >-
-  Citron 0.6 llegó el 11 de marzo de 2025 con grandes mejoras para Android,
-  gestión de memoria y una esperada función multijugador en beta. Descubre todo
-  sobre esta actualización que lleva la emulación de Nintendo Switch al
-  siguiente nivel.
+  Descubre Azahar, el emulador que fusiona los forks más avanzados de Citra
+  (PabloMK7 y Lime3DS) para ofrecer más rendimiento, compatibilidad y una nueva
+  base para la emulación de Nintendo 3DS.
 featuredImage:
   type: ImageBlock
   url: /images/Citron-0.6-miniatura.webp
