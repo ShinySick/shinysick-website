@@ -10,7 +10,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/azahar-prerelease.webp
-  altText: Citron 0.6 Ya Está Aquí
+  altText: Azahar Emulator Pre Release
   elementId: ''
   styles:
     self:
