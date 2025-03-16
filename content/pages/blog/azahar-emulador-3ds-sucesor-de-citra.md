@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 'Citron 0.6: Nueva versión con multijugador, mejoras en Android y memoria'
+title: 'Azahar: El nuevo emulador de 3DS que une los mejores forks de Citra'
 date: '2025-03-13'
 author: content/data/person1.json
 excerpt: >-
