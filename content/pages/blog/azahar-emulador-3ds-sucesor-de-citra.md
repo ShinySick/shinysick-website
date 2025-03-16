@@ -108,7 +108,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: 'Citron 0.6: Nueva versión con multijugador, mejoras en Android y memoria'
+  metaTitle: 'Azahar: El nuevo emulador de 3DS que une los mejores forks de Citra'
   metaDescription: "Descubre las novedades de Citron 0.6, la última versión del emulador de Nintendo Switch lanzada el 11 de marzo de 2025. Mejores gráficos, optimización para Android, gestión de memoria mejorada y multijugador en beta. \U0001F680\U0001F3AE"
   addTitleSuffix: true
   socialImage: /images/Citron-0.6-miniatura.webp
