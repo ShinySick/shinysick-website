@@ -15,7 +15,9 @@ sections:
       - type: FeaturedItem
         title: Yuzu ProdKeys 20.0.0
         tagline: ''
-        subtitle: ''
+        subtitle: >-
+          Las más recientes y probablemente las ultimas por culpa de la Switch
+          2.
         text: ''
         image:
           type: ImageBlock
