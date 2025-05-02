@@ -24,7 +24,17 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: >-
+              https://drive.google.com/file/d/1POs5NqUZ-dnV6kyiPeXDNE2ewecDEL5-/view?usp=sharing
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-dark-fg-light
         styles:
           self:
