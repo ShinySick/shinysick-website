@@ -28,7 +28,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Descargar
             altText: ''
             url: >-
               https://drive.google.com/file/d/1POs5NqUZ-dnV6kyiPeXDNE2ewecDEL5-/view?usp=sharing
