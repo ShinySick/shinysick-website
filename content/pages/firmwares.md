@@ -108,6 +108,7 @@ sections:
             flexDirection: row
             textAlign: left
             justifyContent: center
+            borderColor: border-neutral
       - type: FeaturedItem
         title: Firmware 19.0.1
         tagline: ''
