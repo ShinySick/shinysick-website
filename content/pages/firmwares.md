@@ -37,7 +37,7 @@ sections:
           - type: Button
             label: Descargar
             altText: ''
-            url: ''
+            url: 'https://github.com/THZoria/NX_Firmware/releases/tag/20.0.0'
             showIcon: true
             icon: arrowDown
             iconPosition: right
