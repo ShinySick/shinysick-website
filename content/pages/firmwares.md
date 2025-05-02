@@ -90,7 +90,7 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
-        colors: bg-light-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
