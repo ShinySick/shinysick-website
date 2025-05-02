@@ -56,16 +56,20 @@ sections:
             flexDirection: row-reverse
             justifyContent: center
         text: >+
-          *   Se solucionó un problema de conexión en el cual algunos
-          controladores de Nintendo GameCube no se detectaban.
+          *   Se agregaron las Virtual Game Card.
 
 
-          *   Se solucionó un problema de algunos procesos de comunicación que
-          afectaba a las descargas en segundo plano en el modo de suspención.
+          *   Se agregó GameShare para usar con Switch 2
 
 
+          *   Cambió de color la Nintendo eShop y Nintendo Switch News
 
 
+          *   Se pueden transferir partidas guardadas y configuraciones de
+          sistema entre consolas Switch y Switch 2.
+
+
+          *   *(Esto no sirve de nada para el emulado... pero es bueno saberlo)*
 
       - type: FeaturedItem
         title: Firmware 19.0.1
