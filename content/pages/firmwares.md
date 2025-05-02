@@ -116,10 +116,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-2
-              - pl-2
-              - pb-2
-              - pr-2
+              - pt-5
+              - pl-5
+              - pb-5
+              - pr-5
             borderRadius: medium
             flexDirection: row
             textAlign: left
