@@ -102,7 +102,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Descargar
             altText: ''
             url: >-
               https://github.com/THZoria/NX_Firmware/releases/download/20.0.0/Firmware.20.0.0.zip
