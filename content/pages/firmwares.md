@@ -88,7 +88,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Descargar
             altText: ''
             url: /
             showIcon: false
