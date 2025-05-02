@@ -85,7 +85,17 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: >-
+              https://github.com/THZoria/NX_Firmware/releases/download/20.0.1/Firmware.20.0.1.zip
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-dark-fg-light
         styles:
           self:
