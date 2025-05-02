@@ -23,7 +23,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: FIRMWARE 19.0.1
+        title: FIRMWARE 20.0.0
         subtitle: ¡Más Reciente!
         image:
           type: ImageBlock
@@ -37,7 +37,8 @@ sections:
           - type: Button
             label: Descargar
             altText: ''
-            url: 'https://github.com/THZoria/NX_Firmware/releases/tag/19.0.1'
+            url: >-
+              https://github.com/THZoria/NX_Firmware/releases/download/20.0.0/Firmware.20.0.0.zip
             showIcon: true
             icon: arrowDown
             iconPosition: right
@@ -56,6 +57,26 @@ sections:
             flexDirection: row-reverse
             justifyContent: center
         text: >+
+          *   Se agregaron las Virtual Game Card.
+
+
+          *   Se agregó GameShare para usar con Switch 2
+
+
+          *   Cambió de color la Nintendo eShop y Nintendo Switch News
+
+
+          *   Se pueden transferir partidas guardadas y configuraciones de
+          sistema entre consolas Switch y Switch 2.
+
+
+          *   *(Esto no sirve de nada para el emulado... pero es bueno saberlo)*
+
+      - type: FeaturedItem
+        title: Firmware 19.0.1
+        tagline: ''
+        subtitle: ''
+        text: >+
           *   Se solucionó un problema de conexión en el cual algunos
           controladores de Nintendo GameCube no se detectaban.
 
@@ -63,10 +84,38 @@ sections:
           *   Se solucionó un problema de algunos procesos de comunicación que
           afectaba a las descargas en segundo plano en el modo de suspención.
 
-
-
-
-
+        image:
+          type: ImageBlock
+          url: /images/firmware-sexto.webp
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Descargar
+            altText: ''
+            url: 'https://github.com/THZoria/NX_Firmware/releases/tag/19.0.1'
+            showIcon: true
+            icon: arrowDown
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-2
+              - pl-2
+              - pb-2
+              - pr-2
+            borderRadius: medium
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+            borderColor: border-neutral
+            borderStyle: dotted
+            borderWidth: 2
       - type: FeaturedItem
         title: Firmware 19.0.0
         subtitle: ¡Más Reciente!
