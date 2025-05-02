@@ -19,13 +19,6 @@ sections:
           Las más recientes y probablemente las ultimas por culpa de la Switch
           2.
         text: ''
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
         actions:
           - type: Button
             label: Descargar
