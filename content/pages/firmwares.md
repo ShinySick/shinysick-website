@@ -23,7 +23,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: FIRMWARE 19.0.1
+        title: FIRMWARE 20.0.0
         subtitle: ¡Más Reciente!
         image:
           type: ImageBlock
