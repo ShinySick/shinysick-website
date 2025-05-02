@@ -107,7 +107,7 @@ sections:
             url: >-
               https://github.com/THZoria/NX_Firmware/releases/download/20.0.0/Firmware.20.0.0.zip
             showIcon: true
-            icon: arrowRight
+            icon: arrowDown
             iconPosition: right
             style: primary
             elementId: ''
