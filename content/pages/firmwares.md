@@ -105,7 +105,7 @@ sections:
             label: Get started
             altText: ''
             url: >-
-              https://github.com/THZoria/NX_Firmware/releases/download/20.0.1/Firmware.20.0.1.zip
+              https://github.com/THZoria/NX_Firmware/releases/download/20.0.0/Firmware.20.0.0.zip
             showIcon: false
             icon: arrowRight
             iconPosition: right
