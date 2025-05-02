@@ -92,7 +92,7 @@ sections:
             altText: ''
             url: /
             showIcon: true
-            icon: chevronDown
+            icon: arrowDown
             iconPosition: right
             style: primary
             elementId: ''
