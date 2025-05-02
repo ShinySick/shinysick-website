@@ -95,9 +95,9 @@ sections:
           self:
             padding:
               - pt-2
-              - pl-8
-              - pb-8
-              - pr-8
+              - pl-2
+              - pb-2
+              - pr-2
             borderRadius: medium
             flexDirection: row
             textAlign: left
