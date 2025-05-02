@@ -68,7 +68,7 @@ sections:
 
 
       - type: FeaturedItem
-        title: Firmware 20.0.0
+        title: Firmware 19.0.1
         tagline: ''
         subtitle: ''
         text: >+
