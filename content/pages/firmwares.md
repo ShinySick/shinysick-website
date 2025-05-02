@@ -77,12 +77,12 @@ sections:
         tagline: ''
         subtitle: ''
         text: >+
-          *   Se solucionó un problema de conexión en el cual algunos
-          controladores de Nintendo GameCube no se detectaban.
+          *   Se solucionó un problema de conexión donde controles de GameCube
+          no se detectaban.
 
 
-          *   Se solucionó un problema de algunos procesos de comunicación que
-          afectaba a las descargas en segundo plano en el modo de suspención.
+          *   Se solucionó un problema de algunos procesos de comunicación en el
+          modo de suspención.
 
         image:
           type: ImageBlock
