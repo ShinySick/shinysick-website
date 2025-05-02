@@ -70,7 +70,7 @@ sections:
       - type: FeaturedItem
         title: Firmware 20.0.0
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
