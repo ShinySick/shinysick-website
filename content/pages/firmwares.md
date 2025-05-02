@@ -84,7 +84,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/firmware-primero.webp
+          url: /images/firmware-quinto.webp
           altText: Placeholder text
           styles:
             self:
