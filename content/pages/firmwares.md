@@ -71,8 +71,14 @@ sections:
         title: Firmware 20.0.0
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          *   Se solucionó un problema de conexión en el cual algunos
+          controladores de Nintendo GameCube no se detectaban.
+
+
+          *   Se solucionó un problema de algunos procesos de comunicación que
+          afectaba a las descargas en segundo plano en el modo de suspención.
+
         image:
           type: ImageBlock
           url: /images/firmware-sexto.webp
