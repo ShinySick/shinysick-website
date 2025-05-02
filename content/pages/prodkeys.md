@@ -81,7 +81,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Citron 0.5
+        title: Citron 0.6.1
         price: MAGIA
         details: Prod.keys
         description: >
@@ -180,7 +180,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Sudachi 1.0.11
+        title: Sudachi 1.0.15
         price: MAGIA
         details: Prod.Keys
         description: >
