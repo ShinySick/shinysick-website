@@ -57,20 +57,8 @@ sections:
             flexDirection: row-reverse
             justifyContent: center
         text: >+
-          *   Se agregaron las Virtual Game Card.
-
-
-          *   Se agregó GameShare para usar con Switch 2
-
-
-          *   Cambió de color la Nintendo eShop y Nintendo Switch News
-
-
-          *   Se pueden transferir partidas guardadas y configuraciones de
-          sistema entre consolas Switch y Switch 2.
-
-
-          *   *(Esto no sirve de nada para el emulado... pero es bueno saberlo)*
+          *   Todo lo anterior de la 20.0.0 pero arregla el Error Code:
+          2206-1015
 
       - type: FeaturedItem
         title: Firmware 20.0.0
