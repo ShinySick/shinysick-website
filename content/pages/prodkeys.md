@@ -81,7 +81,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Citron 0.5
+        title: Citron 0.6.1
         price: MAGIA
         details: Prod.keys
         description: >
