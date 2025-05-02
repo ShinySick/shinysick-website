@@ -76,7 +76,8 @@ sections:
         title: Firmware 20.0.0
         tagline: ''
         subtitle: ''
-        text: ''
+        text: |
+          La pucha wn
         image:
           type: ImageBlock
           url: /images/firmware-primero.webp
