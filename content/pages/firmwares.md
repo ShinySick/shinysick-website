@@ -23,7 +23,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: FIRMWARE 20.0.0
+        title: FIRMWARE 20.0.1
         subtitle: ¡Más Reciente!
         image:
           type: ImageBlock
@@ -38,7 +38,7 @@ sections:
             label: Descargar
             altText: ''
             url: >-
-              https://github.com/THZoria/NX_Firmware/releases/download/20.0.0/Firmware.20.0.0.zip
+              https://github.com/THZoria/NX_Firmware/releases/download/20.0.1/Firmware.20.0.1.zip
             showIcon: true
             icon: arrowDown
             iconPosition: right
@@ -57,6 +57,14 @@ sections:
             flexDirection: row-reverse
             justifyContent: center
         text: >+
+          *   Todo lo anterior de la 20.0.0 pero arregla el Error Code:
+          2206-1015
+
+      - type: FeaturedItem
+        title: Firmware 20.0.0
+        tagline: ''
+        subtitle: ''
+        text: >+
           *   Se agregaron las Virtual Game Card.
 
 
@@ -72,17 +80,52 @@ sections:
 
           *   *(Esto no sirve de nada para el emulado... pero es bueno saberlo)*
 
+
+
+        image:
+          type: ImageBlock
+          url: /images/firmware-quinto.webp
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Descargar
+            altText: ''
+            url: >-
+              https://github.com/THZoria/NX_Firmware/releases/download/20.0.0/Firmware.20.0.0.zip
+            showIcon: true
+            icon: arrowDown
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-2
+              - pl-2
+              - pb-2
+              - pr-2
+            borderRadius: medium
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+            borderColor: border-neutral
+            borderWidth: 2
+            borderStyle: dotted
       - type: FeaturedItem
         title: Firmware 19.0.1
         tagline: ''
         subtitle: ''
         text: >+
-          *   Se solucionó un problema de conexión en el cual algunos
-          controladores de Nintendo GameCube no se detectaban.
+          *   Se solucionó un problema de conexión donde controles de GameCube
+          no se detectaban.
 
 
-          *   Se solucionó un problema de algunos procesos de comunicación que
-          afectaba a las descargas en segundo plano en el modo de suspención.
+          *   Se solucionó un problema de algunos procesos de comunicación en el
+          modo de suspención.
 
         image:
           type: ImageBlock
