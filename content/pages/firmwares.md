@@ -104,7 +104,7 @@ sections:
               - pl-2
               - pb-2
               - pr-2
-            borderRadius: x-large
+            borderRadius: medium
             flexDirection: row
             textAlign: left
             justifyContent: center
