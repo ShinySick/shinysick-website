@@ -94,6 +94,7 @@ sections:
             textAlign: left
             justifyContent: center
             borderColor: border-neutral
+            borderStyle: dotted
       - type: FeaturedItem
         title: Firmware 19.0.0
         subtitle: ¡Más Reciente!
