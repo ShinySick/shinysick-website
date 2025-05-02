@@ -33,7 +33,7 @@ sections:
             url: >-
               https://drive.google.com/file/d/1POs5NqUZ-dnV6kyiPeXDNE2ewecDEL5-/view?usp=sharing
             showIcon: true
-            icon: arrowRight
+            icon: arrowDown
             iconPosition: right
             style: primary
             elementId: ''
