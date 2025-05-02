@@ -13,6 +13,41 @@ sections:
     subtitle: No le cuentes a nadie.
     items:
       - type: FeaturedItem
+        title: Suyu ProdKeys 20.0.0
+        tagline: ''
+        subtitle: >-
+          Las más recientes y probablemente las ultimas por culpa de la Switch
+          2.
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Descargar
+            altText: ''
+            url: >-
+              https://drive.google.com/file/d/1POs5NqUZ-dnV6kyiPeXDNE2ewecDEL5-/view?usp=sharing
+            showIcon: true
+            icon: arrowDown
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
         title: Suyu Prodkeys 19.0.0
         tagline: ''
         subtitle: No le des clic al enlace de abajo ;)
