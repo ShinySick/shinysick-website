@@ -123,7 +123,7 @@ sections:
             borderRadius: medium
             flexDirection: row
             textAlign: left
-            justifyContent: flex-start
+            justifyContent: center
             borderColor: border-neutral
             borderWidth: 2
             borderStyle: dotted
