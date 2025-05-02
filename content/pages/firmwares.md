@@ -121,7 +121,7 @@ sections:
               - pb-2
               - pr-2
             borderRadius: medium
-            flexDirection: row
+            flexDirection: col
             textAlign: left
             justifyContent: center
             borderColor: border-neutral
