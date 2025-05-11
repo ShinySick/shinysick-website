@@ -17,7 +17,7 @@ sections:
         tagline: ''
         subtitle: >-
           Las más recientes y probablemente las ultimas por culpa de la Switch
-          2.
+          2. Usa estas para el Firmware 20.0.1 tambien.
         text: ''
         actions:
           - type: Button
