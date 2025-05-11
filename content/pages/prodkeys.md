@@ -20,7 +20,7 @@ sections:
           Más reciente y con mejoras de rendimiento para todas las plataformas,
           el verdadero heredero de Yuzu.
         features:
-          - Feature one
+          - Windows
           - Feature two
           - Feature three
           - Feature four
