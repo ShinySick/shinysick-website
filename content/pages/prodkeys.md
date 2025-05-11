@@ -13,6 +13,38 @@ sections:
     subtitle: Aquí NO ESTÁ lo que buscas ;)
     plans:
       - type: PricingPlan
+        title: Eden Pre-Alpha 0.0.1
+        price: MAGIA
+        details: Prod.Keys
+        description: >
+          Más reciente y con mejoras de rendimiento para todas las plataformas,
+          el verdadero heredero de Yuzu.
+        features:
+          - Windows
+          - Linux
+          - Android
+        image:
+          type: ImageBlock
+          url: /images/eden-thumbnail.webp
+          altText: Pricing plan 1
+        actions:
+          - type: Button
+            label: Descargar
+            url: /eden-keys
+            icon: arrowDown
+            iconPosition: right
+            style: secondary
+            showIcon: true
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
         title: Early Access 4176 + Optimized
         price: MAGIA
         details: Prod.Keys
