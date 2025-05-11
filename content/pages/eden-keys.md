@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Citron Prod.Keys
+title: Eden Prod.Keys
 sections:
   - type: FeaturedItemsSection
     title:
