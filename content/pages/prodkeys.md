@@ -21,7 +21,7 @@ sections:
           el verdadero heredero de Yuzu.
         features:
           - Windows
-          - Feature two
+          - Linux
           - Feature three
           - Feature four
         image:
