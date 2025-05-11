@@ -15,7 +15,7 @@ sections:
       - type: PricingPlan
         title: Eden Pre-Alpha 0.0.1
         price: MAGIA
-        details: No credit card required
+        details: Prod.Keys
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
