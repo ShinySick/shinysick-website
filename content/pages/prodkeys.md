@@ -23,7 +23,6 @@ sections:
           - Windows
           - Linux
           - Android
-          - ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
