@@ -13,7 +13,7 @@ sections:
     subtitle: No le cuentes a nadie.
     items:
       - type: FeaturedItem
-        title: Citron ProdKeys 20.0.0
+        title: Eden ProdKeys 20.0.0
         tagline: ''
         subtitle: >-
           Las más recientes y probablemente las ultimas por culpa de la Switch
