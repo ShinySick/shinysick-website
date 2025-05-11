@@ -16,9 +16,9 @@ sections:
         title: Eden Pre-Alpha 0.0.1
         price: MAGIA
         details: Prod.Keys
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Más reciente y con mejoras de rendimiento para todas las plataformas,
+          el verdadero heredero de Yuzu.
         features:
           - Feature one
           - Feature two
