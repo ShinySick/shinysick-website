@@ -25,7 +25,7 @@ sections:
           - Android
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/eden-thumbnail.webp
           altText: Pricing plan 1
         actions:
           - type: Button
