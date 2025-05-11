@@ -68,7 +68,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Citron Prodkeys 18.1.0
+        title: Eden Prodkeys 18.1.0
         subtitle: Estas son más compatibles.
         text: ''
         actions:
