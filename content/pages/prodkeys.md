@@ -13,7 +13,7 @@ sections:
     subtitle: Aquí NO ESTÁ lo que buscas ;)
     plans:
       - type: PricingPlan
-        title: Developers
+        title: Eden Pre-Alpha 0.0.1
         price: Free
         details: No credit card required
         description: >-
