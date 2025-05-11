@@ -33,7 +33,7 @@ sections:
             url: /
             icon: arrowDown
             iconPosition: right
-            style: primary
+            style: secondary
             showIcon: true
         colors: bg-dark-fg-light
         styles:
