@@ -23,8 +23,7 @@ sections:
           - type: Button
             label: Descargar
             altText: ''
-            url: >-
-              https://drive.google.com/file/d/1POs5NqUZ-dnV6kyiPeXDNE2ewecDEL5-/view?usp=sharing
+            url: 'https://ouo.io/TFOvln'
             showIcon: true
             icon: arrowDown
             iconPosition: right
@@ -49,7 +48,7 @@ sections:
           - type: Button
             label: Descargar
             altText: Prodkeys 19.0.0 Descargar
-            url: 'https://bit.ly/48eOIj3'
+            url: 'https://ouo.io/Ht4QM1'
             showIcon: true
             icon: arrowDown
             iconPosition: right
@@ -75,7 +74,7 @@ sections:
           - type: Button
             label: Descargar
             altText: Prodkeys 18.1.0 Descargar
-            url: 'https://bit.ly/4eVT01Y'
+            url: 'https://ouo.io/4innrYS'
             showIcon: true
             icon: arrowDown
             iconPosition: right
@@ -101,7 +100,7 @@ sections:
           - type: Button
             label: Descargar
             altText: Prodkeys 18.0.0 Descargar
-            url: 'https://bit.ly/3J0bIqk'
+            url: 'https://ouo.io/YAV8Go'
             showIcon: true
             icon: arrowDown
             iconPosition: right
@@ -126,7 +125,7 @@ sections:
           - type: Button
             label: Descargar
             altText: Prodkeys 17.0.0 Descargar
-            url: 'https://bit.ly/3FDTQ2X'
+            url: 'https://ouo.io/W6XXpp'
             showIcon: true
             icon: arrowDown
             iconPosition: right
@@ -158,7 +157,7 @@ sections:
           - type: Button
             label: Descargar
             altText: Prodkeys 16.x.x Descargar
-            url: 'https://bit.ly/44WJSFl '
+            url: 'https://ouo.io/TlV6vG'
             showIcon: true
             icon: arrowDown
             iconPosition: right
