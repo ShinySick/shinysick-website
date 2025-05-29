@@ -74,7 +74,7 @@ sections:
           - type: Button
             label: Descargar
             altText: Prodkeys 18.1.0 Descargar
-            url: 'https://bit.ly/4eVT01Y'
+            url: 'https://ouo.io/4innrYS'
             showIcon: true
             icon: arrowDown
             iconPosition: right
