@@ -58,7 +58,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: FIRMWARE 20.0.1
-        subtitle: ¡Más Reciente!
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/firmware-reciente.webp
