@@ -354,7 +354,7 @@ sections:
           - type: Button
             label: Descargar
             altText: Firmware 16.1.0 Descargar
-            url: ''
+            url: 'https://ouo.io/9mwXaz'
             showIcon: true
             icon: arrowDown
             iconPosition: right
