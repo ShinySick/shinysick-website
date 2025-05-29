@@ -23,7 +23,7 @@ sections:
           - type: Button
             label: Descargar
             altText: ''
-            url: ''
+            url: 'https://ouo.io/TFOvln'
             showIcon: true
             icon: arrowDown
             iconPosition: right
