@@ -170,7 +170,7 @@ sections:
           - type: Button
             label: Descargar
             altText: ''
-            url: 'https://github.com/THZoria/NX_Firmware/releases/tag/19.0.1'
+            url: ''
             showIcon: true
             icon: arrowDown
             iconPosition: right
