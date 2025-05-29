@@ -125,7 +125,7 @@ sections:
           - type: Button
             label: Descargar
             altText: Prodkeys 17.0.0 Descargar
-            url: 'https://ouo.io/W6XXpp'
+            url: ''
             showIcon: true
             icon: arrowDown
             iconPosition: right
