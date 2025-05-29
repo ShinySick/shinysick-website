@@ -250,7 +250,7 @@ sections:
           - type: Button
             label: Descargar
             altText: Firmware 18.1.0 Descargar
-            url: 'https://bit.ly/3XSbUjU'
+            url: ''
             showIcon: true
             icon: arrowDown
             iconPosition: right
