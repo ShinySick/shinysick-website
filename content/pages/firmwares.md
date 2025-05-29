@@ -39,7 +39,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: ''
+            altText: Download Switch Firmware 20.1.0
             url: 'https://ouo.io/Za3A4S'
             showIcon: true
             icon: arrowDown
