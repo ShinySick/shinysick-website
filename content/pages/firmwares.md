@@ -24,7 +24,7 @@ sections:
     items:
       - type: FeaturedItem
         title: FIRMWARE 20.1.0
-        tagline: FIRMWARE 20.1.0
+        tagline: ''
         subtitle: >-
           NUEVO SONIDO DEL MENU DE LANZAMIENTO... (En la Switch oficial claro...
           Al emular no importa.)
