@@ -32,7 +32,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/firmware 20.1.0.webp
-          altText: Placeholder text
+          altText: ''
           styles:
             self:
               borderRadius: x-large
