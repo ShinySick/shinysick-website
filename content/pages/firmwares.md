@@ -71,7 +71,7 @@ sections:
           - type: Button
             label: Descargar
             altText: ''
-            url: ''
+            url: 'https://ouo.io/MZLChBr'
             showIcon: true
             icon: arrowDown
             iconPosition: right
