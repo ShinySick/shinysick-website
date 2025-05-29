@@ -23,8 +23,42 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
+        title: FIRMWARE 20.1.0
+        tagline: ¡¡MÁS RECIENTE!!
+        subtitle: >-
+          NUEVO SONIDO DEL MENU DE LANZAMIENTO... (En la Switch oficial claro...
+          Al emular no importa.)
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/firmware 20.1.0.webp
+          altText: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Descargar
+            altText: Download Switch Firmware 20.1.0
+            url: 'https://ouo.io/Za3A4S'
+            showIcon: true
+            icon: arrowDown
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
         title: FIRMWARE 20.0.1
-        subtitle: ¡Más Reciente!
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/firmware-reciente.webp
@@ -37,12 +71,11 @@ sections:
           - type: Button
             label: Descargar
             altText: ''
-            url: >-
-              https://github.com/THZoria/NX_Firmware/releases/download/20.0.1/Firmware.20.0.1.zip
+            url: 'https://ouo.io/MZLChBr'
             showIcon: true
             icon: arrowDown
             iconPosition: right
-            style: secondary
+            style: primary
             elementId: ''
         colors: bg-dark-fg-light
         styles:
@@ -93,8 +126,7 @@ sections:
           - type: Button
             label: Descargar
             altText: ''
-            url: >-
-              https://github.com/THZoria/NX_Firmware/releases/download/20.0.0/Firmware.20.0.0.zip
+            url: 'https://ouo.io/o8S1Oc'
             showIcon: true
             icon: arrowDown
             iconPosition: right
@@ -138,7 +170,7 @@ sections:
           - type: Button
             label: Descargar
             altText: ''
-            url: 'https://github.com/THZoria/NX_Firmware/releases/tag/19.0.1'
+            url: 'https://ouo.io/c6FIjsR'
             showIcon: true
             icon: arrowDown
             iconPosition: right
@@ -182,7 +214,7 @@ sections:
           - type: Button
             label: Descargar
             altText: Firmware 19.0.0 Descargar
-            url: 'https://bit.ly/3YhWHYf'
+            url: 'https://ouo.io/nEYlBk'
             showIcon: true
             icon: arrowDown
             iconPosition: right
@@ -218,7 +250,7 @@ sections:
           - type: Button
             label: Descargar
             altText: Firmware 18.1.0 Descargar
-            url: 'https://bit.ly/3XSbUjU'
+            url: 'https://ouo.io/3R1eKk'
             showIcon: true
             icon: arrowDown
             iconPosition: right
@@ -254,7 +286,7 @@ sections:
           - type: Button
             label: Descargar
             altText: Firmware 18.0.0 Descargar
-            url: 'https://bit.ly/3PPJSAT'
+            url: 'https://ouo.io/jG0LlF'
             showIcon: true
             icon: arrowDown
             iconPosition: right
@@ -289,7 +321,7 @@ sections:
           - type: Button
             label: Descargar
             altText: Firmware 17.0.1 Descargar
-            url: 'https://bit.ly/417Joux'
+            url: 'https://ouo.io/G9yPFZ'
             showIcon: true
             icon: arrowDown
             iconPosition: right
@@ -322,7 +354,7 @@ sections:
           - type: Button
             label: Descargar
             altText: Firmware 16.1.0 Descargar
-            url: 'https://bit.ly/3ri3uoe'
+            url: 'https://ouo.io/9mwXaz'
             showIcon: true
             icon: arrowDown
             iconPosition: right
@@ -361,7 +393,7 @@ sections:
           - type: Button
             label: Descargar
             altText: Firmware 16.0.3 Descargar
-            url: 'https://bit.ly/3VZ9uwU'
+            url: 'https://ouo.io/v9ld32w'
             showIcon: true
             icon: arrowDown
             iconPosition: right
