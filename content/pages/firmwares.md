@@ -393,7 +393,7 @@ sections:
           - type: Button
             label: Descargar
             altText: Firmware 16.0.3 Descargar
-            url: 'https://bit.ly/3VZ9uwU'
+            url: ''
             showIcon: true
             icon: arrowDown
             iconPosition: right
