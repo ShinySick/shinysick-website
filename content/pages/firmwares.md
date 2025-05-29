@@ -31,7 +31,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/firmware 20.1.0.webp
           altText: Placeholder text
           styles:
             self:
