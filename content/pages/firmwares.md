@@ -286,7 +286,7 @@ sections:
           - type: Button
             label: Descargar
             altText: Firmware 18.0.0 Descargar
-            url: ''
+            url: 'https://ouo.io/jG0LlF'
             showIcon: true
             icon: arrowDown
             iconPosition: right
