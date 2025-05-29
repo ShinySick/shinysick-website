@@ -214,7 +214,7 @@ sections:
           - type: Button
             label: Descargar
             altText: Firmware 19.0.0 Descargar
-            url: ''
+            url: 'https://ouo.io/nEYlBk'
             showIcon: true
             icon: arrowDown
             iconPosition: right
