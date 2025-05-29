@@ -126,7 +126,7 @@ sections:
           - type: Button
             label: Descargar
             altText: ''
-            url: ''
+            url: 'https://ouo.io/o8S1Oc'
             showIcon: true
             icon: arrowDown
             iconPosition: right
