@@ -1,8 +1,6 @@
 ---
 type: PostLayout
-title: >-
-  Opción recomendada: Guía Completa 2025: Instala y Configura el Emulador Eden
-  para Switch en PC
+title: 'Guía Completa 2025: Instala y Configura el Emulador Eden para Switch en PC'
 date: '2025-05-29'
 author: content/data/person1.json
 excerpt: >-
