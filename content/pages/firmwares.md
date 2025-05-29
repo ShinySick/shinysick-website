@@ -393,7 +393,7 @@ sections:
           - type: Button
             label: Descargar
             altText: Firmware 16.0.3 Descargar
-            url: ''
+            url: 'https://ouo.io/v9ld32w'
             showIcon: true
             icon: arrowDown
             iconPosition: right
