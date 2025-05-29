@@ -23,7 +23,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Yuzu ProdKeys 20.1.0
+        title: FIRMWARE 20.1.0
         tagline: FIRMWARE 20.1.0
         subtitle: >-
           NUEVO SONIDO DEL MENU DE LANZAMIENTO... (En la Switch oficial claro...
