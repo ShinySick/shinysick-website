@@ -286,7 +286,7 @@ sections:
           - type: Button
             label: Descargar
             altText: Firmware 18.0.0 Descargar
-            url: 'https://bit.ly/3PPJSAT'
+            url: ''
             showIcon: true
             icon: arrowDown
             iconPosition: right
