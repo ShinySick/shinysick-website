@@ -26,8 +26,8 @@ sections:
         title: Yuzu ProdKeys 20.1.0
         tagline: FIRMWARE 20.1.0
         subtitle: >-
-          Las más recientes y probablemente las ultimas por culpa de la Switch
-          2.
+          NUEVO SONIDO DEL MENU DE LANZAMIENTO... (En la Switch oficial claro...
+          Al emular no importa.)
         text: ''
         image:
           type: ImageBlock
