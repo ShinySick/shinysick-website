@@ -39,7 +39,7 @@ bottomSections:
       styles:
         self:
           textAlign: left
-    subtitle: Yuzu Early Access 4176
+    subtitle: Eden 0.0.2 Guia Completa
     text: >
       **Guía Definitiva** para instalar y configurar **YUZU EN STEAM DECK**.
 
