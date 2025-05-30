@@ -61,7 +61,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Post Destacado
       color: text-dark
       styles:
         self:
@@ -405,37 +405,7 @@ sections:
         self:
           textAlign: center
           fontWeight: 400
-  - subtitle: Manejamos TODOS los estados de ánimo.
-    images:
-      - url: /images/shiny bless.png
-        altText: ShinyBless
-        type: ImageBlock
-      - url: /images/bye chainy.png
-        altText: shiny bye
-        type: ImageBlock
-      - url: /images/feliv3.png
-        altText: shiny feli
-        type: ImageBlock
-      - url: /images/GG chainy 2.png
-        altText: shiny gg
-        type: ImageBlock
-      - url: /images/laughting chainy.png
-        altText: shiny XD
-        type: ImageBlock
-      - url: /images/PopCorn chainy.png
-        altText: shiny palomitas
-        type: ImageBlock
-      - url: /images/Sad chainy.png
-        altText: shiny sad
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
+    showExcerpt: false
   - title: Divider
     colors: bg-neutral-fg-dark
     styles:
@@ -453,14 +423,14 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Emulando Nintendo Switch en Meta Quest 2
+    subtitle: Configura correctamente Lossless Scaling
     text: >+
       <div style="text-align: center">En este canal nos gusta **experimentar**
       con cosas diferentes para **salir de la monotonía**.</div>
 
     media:
-      title: Uzuy en Meta Quest 2
-      url: 'https://youtu.be/8tpp8Ep7NVo'
+      title: Como Configurar Lossless Scaling
+      url: 'https://youtu.be/NxmtJP-YNn8'
       controls: true
       aspectRatio: '16:9'
       styles:
@@ -506,61 +476,6 @@ sections:
           - pr-3
   - type: GenericSection
     title:
-      text: Tutoriales de Interés
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Completos y Detallados
-    text: >
-      Si alguna vez sentiste que 2 minutos no son suficientes para explicar y
-      entender lo que necesitas hacer, este es el canal para ti.
-
-
-      Con **instrucciones claras, fáciles y detalladas** para no perderte y
-      fallar en el intento.
-    actions:
-      - type: Button
-        label: Ver en YT
-        altText: Ir al Video
-        url: >-
-          https://www.youtube.com/playlist?list=PLRZYnOrbeoT2tCC1C8XJbA4GY_azsoO05
-        showIcon: true
-        icon: youtube
-        iconPosition: left
-        style: primary
-        elementId: ''
-    media:
-      title: Como configurar lossless scaling
-      url: 'https://youtu.be/NxmtJP-YNn8'
-      autoplay: false
-      loop: true
-      muted: false
-      controls: true
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
-  - type: GenericSection
-    title:
       type: TitleBlock
       text: Videos Informativos
       color: text-light
@@ -603,57 +518,6 @@ sections:
           borderWidth: 1
           borderRadius: large
     colors: bg-dark-fg-light
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Steam Deck Friendly
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-    subtitle: Soporte para Linux (Steam OS)
-    text: >
-      Nuestros tutoriales no solo se limitan a **PC** y **Android**, tambíen
-      tenemos sección dedicada a una de las **handheld** más populares del
-      mercado.
-    actions:
-      - type: Button
-        label: Ver en YT
-        altText: Ir al video
-        url: >-
-          https://www.youtube.com/playlist?list=PLRZYnOrbeoT3GVKH5zJZ4AcKaFMwk32BS
-        showIcon: true
-        icon: youtube
-        iconPosition: left
-        style: primary
-        elementId: ''
-    media:
-      type: VideoBlock
-      title: Instala Emudeck en Steam Deck
-      url: 'https://youtu.be/ObKGFO00ZEk'
-      autoplay: false
-      loop: false
-      muted: false
-      controls: true
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-    colors: bg-neutral-fg-dark
     styles:
       self:
         flexDirection: row
@@ -796,175 +660,6 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - type: CarouselSection
-    subtitle: Miembros de canal con mayor antigüedad.
-    items:
-      - title: "“Ahí nos vemos ✨\U0001F609”"
-        tagline: Pollo Muy Importante
-        subtitle: '@JafiOfficial, 51 Meses'
-        text: |
-          Gracias, me ayudó para actualizar el Mario Party Superstars xd
-        image:
-          url: /images/jafiyt.jpg
-          altText: JafiOfficial
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: "\"Aquí apoyándote en lo que decidas hacer \U0001F973\U0001F973\U0001F973\""
-        tagline: Pollo de Oro
-        subtitle: '@rollodequeso, 44 Meses'
-        text: >+
-          JAJAJAJA![](https://yt3.googleusercontent.com/zecUz-MDVr2zCDoTpFW9O6EtVYa3q5cLkZH8FQx3im7NJf1RKhu-2aOGabJYlJpNT-2n7S2z1-0=w24-h24-c-k-nd)REPAMPANOS
-          JAJAJAJAJA Me sigue haciendo el día JAJAJAJA
-
-        image:
-          url: /images/rollo-miembro.webp
-          altText: Rollo de Queso
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: '"Amanecimos basados"'
-        tagline: Pollo Muy Importante
-        subtitle: '@gorditorta, 28 Meses'
-        text: |
-          fwlih añoña... ah no digo.. felih navida.. y ahora felih año nuevo uwu
-        image:
-          url: /images/gordi-miembro.webp
-          altText: Gorditorta
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: '“Espero que sea asi chainy, sino me deberas 10 dolares juas juas”'
-        tagline: Pollo de Platino
-        subtitle: '@apachejk, 10 Meses'
-        text: |
-          entonces para cuando esos mario partys?
-        image:
-          url: /images/apashe-miembro.webp
-          altText: Apashejk 2019
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: '"Sin Palabras."'
-        tagline: Pollo Muy Importante
-        subtitle: '@DanMorales100, 50 Meses'
-        text: |+
-
-
-        image:
-          url: /images/danmorales-miembro.webp
-          altText: Dan Morales
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: “Sin Palabras.”
-        tagline: Pollo de Diamante
-        subtitle: 'Luisao Eclipse, 6 Meses'
-        text: ''
-        image:
-          url: /images/luisao.png
-          altText: Luisao Eclipse
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-    elementId: null
-    variant: next-prev-nav
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
 seo:
   metaTitle: ShinySick | Emulación de Consolas y Preservación de Videojuegos
   metaDescription: >-
