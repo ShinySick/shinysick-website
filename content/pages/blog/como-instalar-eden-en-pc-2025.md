@@ -9,7 +9,7 @@ excerpt: >-
   no tan potentes.
 featuredImage:
   type: ImageBlock
-  url: /images/yuzu-steam-deck-guia.webp
+  url: /images/Eden Guia COmpleta copia.webp
   altText: Yuzu Steam Deck Guia Miniatura
   elementId: ''
   styles:
