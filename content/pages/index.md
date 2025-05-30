@@ -405,37 +405,6 @@ sections:
         self:
           textAlign: center
           fontWeight: 400
-  - subtitle: Manejamos TODOS los estados de ánimo.
-    images:
-      - url: /images/shiny bless.png
-        altText: ShinyBless
-        type: ImageBlock
-      - url: /images/bye chainy.png
-        altText: shiny bye
-        type: ImageBlock
-      - url: /images/feliv3.png
-        altText: shiny feli
-        type: ImageBlock
-      - url: /images/GG chainy 2.png
-        altText: shiny gg
-        type: ImageBlock
-      - url: /images/laughting chainy.png
-        altText: shiny XD
-        type: ImageBlock
-      - url: /images/PopCorn chainy.png
-        altText: shiny palomitas
-        type: ImageBlock
-      - url: /images/Sad chainy.png
-        altText: shiny sad
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - title: Divider
     colors: bg-neutral-fg-dark
     styles:
