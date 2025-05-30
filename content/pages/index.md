@@ -67,7 +67,7 @@ sections:
         self:
           textAlign: center
     posts:
-      - content/pages/blog/citron-0.6-ya-disponible.md
+      - content/pages/blog/como-instalar-eden-en-pc-2025.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
