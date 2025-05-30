@@ -453,7 +453,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Emulando Nintendo Switch en Meta Quest 2
+    subtitle: Configura correctamente Lossless Scaling
     text: >+
       <div style="text-align: center">En este canal nos gusta **experimentar**
       con cosas diferentes para **salir de la monotonía**.</div>
