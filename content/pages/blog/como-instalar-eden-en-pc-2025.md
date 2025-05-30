@@ -111,6 +111,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
+  socialImage: /images/Eden Guia COmpleta copia.webp
 colors: bg-dark-fg-light
 styles:
   self:
