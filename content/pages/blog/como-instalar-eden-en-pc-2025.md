@@ -111,15 +111,6 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Instala Yuzu en Steam Deck y Juega Nintendo Switch - Guía Definitiva 2024
-  metaDescription: >-
-    Descubre cómo instalar el emulador Yuzu en tu Steam Deck y transforma tu
-    experiencia de juego. Sigue nuestra guía definitiva 2024 para jugar tus
-    títulos favoritos de Nintendo Switch con el máximo rendimiento y calidad.
-    ¡Todo lo que necesitas saber, en un solo lugar!
-  addTitleSuffix: true
-  socialImage: /images/yuzu-steam-deck-guia.webp
-  metaTags: []
 colors: bg-dark-fg-light
 styles:
   self:
