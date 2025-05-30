@@ -405,6 +405,7 @@ sections:
         self:
           textAlign: center
           fontWeight: 400
+    showExcerpt: false
   - title: Divider
     colors: bg-neutral-fg-dark
     styles:
