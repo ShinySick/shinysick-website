@@ -113,6 +113,9 @@ seo:
   type: Seo
   socialImage: /images/Eden Guia COmpleta copia.webp
   addTitleSuffix: true
+  metaTitle: >-
+    Cómo Instalar el Emulador Eden para Nintendo Switch en PC [Guía Completa
+    2025]
 colors: bg-dark-fg-light
 styles:
   self:
