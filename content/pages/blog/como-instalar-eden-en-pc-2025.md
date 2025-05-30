@@ -127,8 +127,6 @@ styles:
     textAlign: center
     borderRadius: large
 ---
-# Cómo Instalar el Emulador Eden para Nintendo Switch en PC \[Guía 2025]
-
 Si quieres jugar títulos de Nintendo Switch en tu computadora, el emulador **Eden** es una opción emergente, rápida y con soporte activo. En esta guía te mostramos cómo descargarlo, instalarlo y dejarlo listo para jugar.
 
 ***
