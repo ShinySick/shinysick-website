@@ -609,57 +609,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Steam Deck Friendly
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-    subtitle: Soporte para Linux (Steam OS)
-    text: >
-      Nuestros tutoriales no solo se limitan a **PC** y **Android**, tambíen
-      tenemos sección dedicada a una de las **handheld** más populares del
-      mercado.
-    actions:
-      - type: Button
-        label: Ver en YT
-        altText: Ir al video
-        url: >-
-          https://www.youtube.com/playlist?list=PLRZYnOrbeoT3GVKH5zJZ4AcKaFMwk32BS
-        showIcon: true
-        icon: youtube
-        iconPosition: left
-        style: primary
-        elementId: ''
-    media:
-      type: VideoBlock
-      title: Instala Emudeck en Steam Deck
-      url: 'https://youtu.be/ObKGFO00ZEk'
-      autoplay: false
-      loop: false
-      muted: false
-      controls: true
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - title: Divider
     colors: bg-neutral-fg-dark
     styles:
