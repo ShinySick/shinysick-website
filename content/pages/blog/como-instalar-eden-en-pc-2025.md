@@ -4,9 +4,9 @@ title: 'Cómo Instalar el Emulador Eden de Nintendo Switch en PC [Guía 2025]'
 date: '2025-05-30'
 author: content/data/person1.json
 excerpt: >-
-  Aprende a INSTALAR Yuzu Early Access 4176 fué la versión más actualizada de
-  éste emulador, logrando tener un rendimiento muy alto incluso en dispositivos
-  no tan potentes.
+  Si quieres jugar títulos de Nintendo Switch en tu computadora, el emulador
+  Eden es una opción emergente, rápida y con soporte activo. En esta guía te
+  mostramos cómo descargarlo, instalarlo y dejarlo listo para jugar.
 featuredImage:
   type: ImageBlock
   url: /images/Eden Guia COmpleta copia.webp
