@@ -116,6 +116,10 @@ seo:
   metaTitle: >-
     Cómo Instalar el Emulador Eden para Nintendo Switch en PC [Guía Completa
     2025]
+  metaDescription: >-
+    Aprende paso a paso cómo instalar y configurar el emulador Eden para jugar
+    títulos de Nintendo Switch en tu PC. Descarga segura, claves, firmware y
+    todos sus ajustes.
 colors: bg-dark-fg-light
 styles:
   self:
