@@ -41,7 +41,7 @@ bottomSections:
           textAlign: left
     subtitle: Eden 0.0.2 Guia Completa
     text: >
-      **Guía Definitiva** para instalar y configurar **YUZU EN STEAM DECK**.
+      **Guía Definitiva** para instalar y configurar **EDEN EN WINDOWS**.
 
 
       Se recomienda ver el video en **velocidad 2x** solo si se te hace muy
