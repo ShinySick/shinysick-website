@@ -459,7 +459,7 @@ sections:
       con cosas diferentes para **salir de la monotonía**.</div>
 
     media:
-      title: Uzuy en Meta Quest 2
+      title: Como Configurar Lossless Scaling
       url: 'https://youtu.be/NxmtJP-YNn8'
       controls: true
       aspectRatio: '16:9'
