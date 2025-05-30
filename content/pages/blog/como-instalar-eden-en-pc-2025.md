@@ -172,63 +172,60 @@ Existen tres fuentes confiables para descargar la última versión de Eden:
 
 ***
 
-👉 Con esto, Eden ya está instalado y listo para correr juegos. Ahora veamos cómo ajustar la configuración gráfica y avanzada para mejorar el rendimiento.
+👉 Con Eden ya instalado, ahora es momento de optimizarlo. A continuación, te guiamos por cada pestaña importante de la configuración para asegurar el mejor rendimiento posible.
 
-
-Con Eden ya instalado, ahora es momento de optimizarlo. A continuación, te guiamos por cada pestaña importante de la configuración para asegurar el mejor rendimiento posible.
-
----
+***
 
 ## 1. Acceder a la configuración
 
 Desde el menú, ve a **Emulación > Configurar**.
 
----
+***
 
 ## 2. Opciones generales y de sistema
 
-- **Idioma y región:** Ajusta según tu preferencia.
-- **Emulación de CPU multinúcleo:** Siempre debe estar activada.
-- **Precisión de CPU:** Déjala en "Automático".
+*   **Idioma y región:** Ajusta según tu preferencia.
+*   **Emulación de CPU multinúcleo:** Siempre debe estar activada.
+*   **Precisión de CPU:** Déjala en "Automático".
 
----
+***
 
 ## 3. Configuración gráfica
 
 ### a) Pestaña Gráficos
 
-- **API de gráficos:** Selecciona **Vulkan** para mejor rendimiento.
-- **Dispositivo:** Asegúrate de elegir tu tarjeta gráfica dedicada.
-- **V-Sync:** Usa **Mailbox** para suavidad sin lag.
-- **Resolución:** Ajusta a 1x, 2x o más, según la potencia de tu equipo.
-- **Filtro de ventana:** "Bilinear" es una buena opción inicial.
+*   **API de gráficos:** Selecciona **Vulkan** para mejor rendimiento.
+*   **Dispositivo:** Asegúrate de elegir tu tarjeta gráfica dedicada.
+*   **V-Sync:** Usa **Mailbox** para suavidad sin lag.
+*   **Resolución:** Ajusta a 1x, 2x o más, según la potencia de tu equipo.
+*   **Filtro de ventana:** "Bilinear" es una buena opción inicial.
 
 ### b) Gráficos Avanzados
 
-- **Nivel de precisión:** "Normal" es ideal.
-- **Filtro anisotrópico:** Puedes dejarlo en 16x o en "Automático".
-- **Método de recompresión ASTC:**
-  - *Alta calidad*: PCs potentes.
-  - *Media calidad*: Recomendado para la mayoría.
-  - *Baja calidad*: Para equipos de gama baja.
-- **Uso de VRAM:**
-  - *Conservador*: Equilibrado.
-  - *Agresivo*: Solo si no usas otras apps al mismo tiempo.
+*   **Nivel de precisión:** "Normal" es ideal.
+*   **Filtro anisotrópico:** Puedes dejarlo en 16x o en "Automático".
+*   **Método de recompresión ASTC:**
+    *   *Alta calidad*: PCs potentes.
+    *   *Media calidad*: Recomendado para la mayoría.
+    *   *Baja calidad*: Para equipos de gama baja.
+*   **Uso de VRAM:**
+    *   *Conservador*: Equilibrado.
+    *   *Agresivo*: Solo si no usas otras apps al mismo tiempo.
 
----
+***
 
 ## 4. Extensiones (mejoran rendimiento si tu GPU es moderna)
 
 Activa todas si tu tarjeta gráfica es compatible:
 
-- **Extended Dynamic State**: Mejora el rendimiento.
-- **EDS3 + Vertex Input**: Reduce tartamudeo.
-- **Provoking Vertex**: Mejora iluminación.
-- **Descriptor Indexing**: Útil para juegos con muchos efectos.
+*   **Extended Dynamic State**: Mejora el rendimiento.
+*   **EDS3 + Vertex Input**: Reduce tartamudeo.
+*   **Provoking Vertex**: Mejora iluminación.
+*   **Descriptor Indexing**: Útil para juegos con muchos efectos.
 
 > ℹ️ Si tu GPU es antigua, puedes desactivar extensiones para evitar errores, aunque el rendimiento disminuirá.
 
----
+***
 
 ## ✅ Conclusión
 
