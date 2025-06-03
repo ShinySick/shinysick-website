@@ -24,7 +24,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Yuzu ProdKeys 20.1.1
-        tagline: ''
+        tagline: ¡¡ Más Reciente !!
         subtitle: >-
           Las más recientes y probablemente las ultimas por culpa de la Switch
           2.
