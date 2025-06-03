@@ -59,7 +59,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: FIRMWARE 20.1.0
-        tagline: ¡¡MÁS RECIENTE!!
+        tagline: ''
         subtitle: >-
           NUEVO SONIDO DEL MENU DE LANZAMIENTO... (En la Switch oficial claro...
           Al emular no importa.)
