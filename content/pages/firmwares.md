@@ -23,6 +23,41 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
+        title: Yuzu ProdKeys 20.1.1
+        tagline: ''
+        subtitle: >-
+          Las más recientes y probablemente las ultimas por culpa de la Switch
+          2.
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Descargar
+            altText: ''
+            url: >-
+              https://drive.google.com/file/d/1POs5NqUZ-dnV6kyiPeXDNE2ewecDEL5-/view?usp=sharing
+            showIcon: true
+            icon: arrowDown
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
         title: FIRMWARE 20.1.0
         tagline: ¡¡MÁS RECIENTE!!
         subtitle: >-
