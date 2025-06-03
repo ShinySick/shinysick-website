@@ -23,7 +23,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Yuzu ProdKeys 20.1.1
+        title: FIRMWARE 20.1.1
         tagline: ¡¡ Más Reciente !!
         subtitle: >-
           Se solucionó un problema por el cual algunos programas no se iniciaban
