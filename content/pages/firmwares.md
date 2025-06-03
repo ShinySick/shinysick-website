@@ -26,8 +26,8 @@ sections:
         title: Yuzu ProdKeys 20.1.1
         tagline: ¡¡ Más Reciente !!
         subtitle: >-
-          Las más recientes y probablemente las ultimas por culpa de la Switch
-          2.
+          Se solucionó un problema por el cual algunos programas no se iniciaban
+          después de actualizar a la versión del sistema 20.1.0
         text: ''
         image:
           type: ImageBlock
