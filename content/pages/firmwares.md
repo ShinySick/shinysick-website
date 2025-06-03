@@ -23,8 +23,42 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
+        title: FIRMWARE 20.1.1
+        tagline: ¡¡ Más Reciente !!
+        subtitle: >-
+          Se solucionó un problema por el cual algunos programas no se iniciaban
+          después de actualizar a la versión del sistema 20.1.0
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/luigi.webp
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Descargar
+            altText: Descargar Firmware 20
+            url: 'https://ouo.io/1GV5vO'
+            showIcon: true
+            icon: arrowDown
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
         title: FIRMWARE 20.1.0
-        tagline: ¡¡MÁS RECIENTE!!
+        tagline: ''
         subtitle: >-
           NUEVO SONIDO DEL MENU DE LANZAMIENTO... (En la Switch oficial claro...
           Al emular no importa.)
