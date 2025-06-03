@@ -13,7 +13,7 @@ sections:
     subtitle: No le cuentes a nadie.
     items:
       - type: FeaturedItem
-        title: Yuzu ProdKeys 20.1.1
+        title: Citron ProdKeys 20.1.1
         tagline: ''
         subtitle: >-
           Las más recientes y probablemente las ultimas por culpa de la Switch
