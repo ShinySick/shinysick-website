@@ -34,7 +34,7 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Consulta la Guía
+      text: Checa el vídeo
       color: text-dark
       styles:
         self:
