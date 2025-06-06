@@ -127,85 +127,32 @@ styles:
     textAlign: center
     borderRadius: large
 ---
-Aprende a **INSTALAR Yuzu en STEAM DECK,** Incluso éste mismo procedimiento te servirá para instalar **Suyu.**
+Con el reciente lanzamiento de la Nintendo Switch 2, muchos usuarios se preguntan si la tarjeta flash MIG Switch, conocida por permitir la ejecución de múltiples juegos en la consola original, es compatible con esta nueva generación.
 
-En este caso la version recomendada es **Yuzu Early Access 4176 o Suyu 0.0.3** pero puedes utilizar la versión que más te agrade.
+## 🔄 ¿Qué es la MIG Switch?
 
-### Requisitos Minimos de Steam Deck para el Emulador Yuzu:
+La MIG Switch es una tarjeta flash que permite a los usuarios cargar múltiples juegos desde una sola tarjeta, diseñada originalmente para la Nintendo Switch. Su principal atractivo es la posibilidad de jugar a varios títulos sin necesidad de cambiar de cartucho, siempre y cuando se utilicen copias legítimas de los juegos.
 
-*   **Steam Deck LCD / Steam Deck OLED**
+## ✅ Compatibilidad con Nintendo Switch 2
 
-### Archivos Necesarios:
+Algunos usuarios han reportado que la MIG Switch funciona en la Nintendo Switch 2, permitiendo la ejecución de juegos de la consola original. Sin embargo, es importante destacar que esta compatibilidad puede variar y no está garantizada para todos los casos.
 
-Las prodkeys son los archivos encargados de que el emulador decodifique el titulo del juego en conjunto con el firmware, sin estos archivos no será posible ningun tipo de emulación, si no los instalas podrias llegar a tener distintos tipos de errores.
+Por ejemplo, en foros como Reddit, un usuario mencionó:
 
-**¡ASEGURATE SIEMPRE DE INSTALAR LA VERSIÓN MÁS RECIENTE DISPONIBLE!**
+> "Tengo una MIG Switch 2 que uso para mantener 8 juegos en un cartucho (legalmente adquiridos, así que no hay preocupación de ser baneado). Juego en línea sin problemas y todo funciona bien."
+> — [reddit](https://www.reddit.com/r/SwitchPirates/comments/1h8r6t8/comment/mi359xq/?utm_source=share\&utm_medium=web3x\&utm_name=web3xcss\&utm_term=1\&utm_content=share_button)
 
-*   [**Prod.keys**](/prodkeys)
+Sin embargo, otros usuarios han reportado problemas al intentar utilizar la MIG Switch en la Nintendo Switch 2, incluyendo errores genéricos y bloqueos de la consola.
 
-*   [**Firmware**](/firmwares)
+## ⚠️ Precauciones y Recomendaciones
 
-*   [**Yuzu Early Access 4176 (Formato AppImage)**](https://bit.ly/4eRK8tK)
+Dado que la compatibilidad de la MIG Switch con la Nintendo Switch 2 no está oficialmente confirmada y puede variar según el caso, se recomienda precaución al intentar utilizarla. Es fundamental asegurarse de que los juegos utilizados sean copias legítimas y evitar conectar la consola a Internet si se sospecha de posibles problemas de compatibilidad o riesgos de baneo.
 
-*   [**Yuzu.sh (Es el launcher del emulador para el modo gaming de Steam Rom Manager)**](https://bit.ly/3NEh7ph)
+## 📝 Conclusión
 
-<br>
+La MIG Switch ha demostrado ser una herramienta útil para los usuarios de la Nintendo Switch original, y algunos informes sugieren que puede funcionar en la Nintendo Switch 2. Sin embargo, debido a las posibles incompatibilidades y riesgos asociados, es esencial proceder con cautela y estar informado sobre las experiencias de otros usuarios.
 
-### Instalar el AppImage en Steam Deck
+Para una demostración visual y más detalles sobre la MIG Switch, puedes consultar el siguiente video:
 
-Primero deberémos estar en el modo Escritorio de la Steam Deck:
 
-1.  Pulsa el **botón de apagado 5 segundos**
-
-2.  Elige **Modo Escritorio**
-
-3.  Espera a que cargue el sistema
-
-4.  Renombra el archivo **.Appimage** que descargaste y coloca solo "**yuzu**" *(Debe quedar un archivo final con nombre "**yuzu.AppImage**")*
-
-5.  Copialo y Pegalo en la carpeta **Home/Applications** 
-
-6.  **IMPORTANTE** Ejecuta una ves tu archivo desde aquí, si no no va a funcionar despues.
-
-7.  Listo, ya esta instalada la base del emulador.
-
-<br>
-
-### Instalar el Launcher de Yuzu en Steam Rom Manager para el Modo Gaming *(Yuzu.sh)*
-
-1.  Localiza tu carpeta de instalacion de **Emudeck**
-
-2.  Copia y Pega tu archivo **yuzu.sh** en la siguiente ruta: **Instalacion de Emudeck/Emulation/tools/launchers**
-
-3.  Prueba abriendo el archivo **yuzu.sh** para comprobar que abre el emulador.
-
-<br>
-
-### Configurar Launcher en Steam Rom Manager
-
-1.  Abre **Emudeck** y selecciona **Steam Rom Manager**
-
-2.  En el listado izquierdo buscar y seleccionar la opción "**Nintendo Switch - Yuzu**" y Activarlo
-
-3.  Del lado derecho en **las configuraciones** buscamos "**Executable**" y seleccionamos el archivo **yuzu.sh**
-
-4.  Clic en el boton **Test Parser** para verificar que lee los juegos
-
-5.  Clic en **Save** para guardar cambios en el parser
-
-6.  Hasta arriba daremos clic en **Add Games**
-
-7.  Clic en **Parse**
-
-8.  Selecciona las portadas de juegos que más te gusten
-
-9.  Clic abajo en **Save to Steam**
-
-10. Listo, tienes tus juegos agregados en el **Modo Gaming**
-
-<br>
-
-Si te perdiste en algún paso, revisa nuestra guía aún más detallada que se encuentra en el video de abajo!
-
-Recuerda suscribirte si te ayudo el contenido!
 
