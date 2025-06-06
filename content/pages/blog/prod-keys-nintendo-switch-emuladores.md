@@ -41,7 +41,7 @@ bottomSections:
       styles:
         self:
           textAlign: left
-    subtitle: Yuzu Early Access 4176
+    subtitle: ¿Nintendo Switch Prod.Keys Ilegales?
     text: >
       **Guía Definitiva** para instalar y configurar **YUZU EN STEAM DECK**.
 
