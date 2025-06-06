@@ -111,7 +111,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Instala Yuzu en Steam Deck y Juega Nintendo Switch - Guía Definitiva 2024
+  metaTitle: 'Nintendo Switch 2: Lanzamiento, Estado de Emulación y Medidas Antipiratería'
   metaDescription: >-
     La Nintendo Switch 2 ya es una realidad: descubre sus características,
     medidas de seguridad antipiratería, compatibilidad con juegos de Switch 1 y
