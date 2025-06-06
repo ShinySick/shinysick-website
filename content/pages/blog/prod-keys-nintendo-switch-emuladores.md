@@ -11,7 +11,7 @@ excerpt: >-
   legales? Aquí te lo explicamos todo.
 featuredImage:
   type: ImageBlock
-  url: /images/yuzu-steam-deck-guia.webp
+  url: /images/prodkeys-ilegales-thumbnail.webp
   altText: Yuzu Steam Deck Guia Miniatura
   elementId: ''
   styles:
