@@ -39,7 +39,7 @@ bottomSections:
       styles:
         self:
           textAlign: left
-    subtitle: Yuzu Early Access 4176
+    subtitle: MIG SWITCH V2
     text: >
       **Guía Definitiva** para instalar y configurar **YUZU EN STEAM DECK**.
 
