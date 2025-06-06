@@ -6,9 +6,9 @@ title: >-
 date: '2025-06-06'
 author: content/data/person1.json
 excerpt: >-
-  Aprende a INSTALAR Yuzu Early Access 4176 fué la versión más actualizada de
-  éste emulador, logrando tener un rendimiento muy alto incluso en dispositivos
-  no tan potentes.
+  Las prod.keys son archivos esenciales para que los emuladores de Nintendo
+  Switch funcionen correctamente. Pero… ¿qué contienen? ¿De dónde salen? ¿Son
+  legales? Aquí te lo explicamos todo.
 featuredImage:
   type: ImageBlock
   url: /images/yuzu-steam-deck-guia.webp
