@@ -67,7 +67,7 @@ sections:
         self:
           textAlign: center
     posts:
-      - content/pages/blog/como-instalar-eden-en-pc-2025.md
+      - content/pages/blog/nintendo-switch-2-lanzamiento.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
