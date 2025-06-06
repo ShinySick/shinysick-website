@@ -51,7 +51,7 @@ bottomSections:
     actions: []
     media:
       type: VideoBlock
-      title: Como Instalar Yuzu en Steam Deck
+      title: ¿Descargar las Prod.Keys es Ilegal?
       url: 'https://youtu.be/XXbFAd4AAP4'
       autoplay: false
       loop: false
