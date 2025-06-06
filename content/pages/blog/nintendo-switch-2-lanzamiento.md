@@ -127,85 +127,68 @@ styles:
     textAlign: center
     borderRadius: large
 ---
-Aprende a **INSTALAR Yuzu en STEAM DECK,** Incluso éste mismo procedimiento te servirá para instalar **Suyu.**
+El 5 de junio de 2025, Nintendo lanzó oficialmente la Nintendo Switch 2, la esperada sucesora de su exitosa consola híbrida. Con mejoras significativas en hardware, nuevos títulos exclusivos y un enfoque renovado en la seguridad, la Switch 2 marca un nuevo capítulo en la historia de Nintendo.
 
-En este caso la version recomendada es **Yuzu Early Access 4176 o Suyu 0.0.3** pero puedes utilizar la versión que más te agrade.
+## 🚀 Lanzamiento y Características Destacadas
 
-### Requisitos Minimos de Steam Deck para el Emulador Yuzu:
+La Nintendo Switch 2 se lanzó en dos versiones:
 
-*   **Steam Deck LCD / Steam Deck OLED**
+*   **Modelo estándar**: Precio de lanzamiento de $449.99 USD.
 
-### Archivos Necesarios:
+*   **Paquete especial con *Mario Kart World***: Incluye el juego y tiene un precio de $499.99 USD.
 
-Las prodkeys son los archivos encargados de que el emulador decodifique el titulo del juego en conjunto con el firmware, sin estos archivos no será posible ningun tipo de emulación, si no los instalas podrias llegar a tener distintos tipos de errores.
+Entre sus características más destacadas se encuentran:
 
-**¡ASEGURATE SIEMPRE DE INSTALAR LA VERSIÓN MÁS RECIENTE DISPONIBLE!**
+*   **Pantalla LCD de 7.9 pulgadas**: Resolución de 1080p y frecuencia de actualización de hasta 120Hz.
 
-*   [**Prod.keys**](/prodkeys)
+*   **Procesador personalizado Nvidia Tegra T239**: Mejor rendimiento gráfico y eficiencia energética.
 
-*   [**Firmware**](/firmwares)
+*   **12 GB de memoria RAM LPDDR5X**: Mayor velocidad y capacidad multitarea.
 
-*   [**Yuzu Early Access 4176 (Formato AppImage)**](https://bit.ly/4eRK8tK)
+*   **Almacenamiento interno de 256 GB**: Ampliable mediante tarjetas microSD Express.
 
-*   [**Yuzu.sh (Es el launcher del emulador para el modo gaming de Steam Rom Manager)**](https://bit.ly/3NEh7ph)
+*   **Compatibilidad con juegos de la Switch original**: Incluyendo mejoras de rendimiento en títulos seleccionados.
 
-<br>
+El catálogo de lanzamiento incluye casi 30 títulos, destacando *Mario Kart World*, *Zelda: Echoes of Time*, *Metroid Rebirth*, y remasterizaciones de *Breath of the Wild* y *Tears of the Kingdom*. Además, se ha anunciado la incorporación de juegos clásicos de GameCube a través del servicio Nintendo Switch Online. [en.wikipedia.org](https://en.wikipedia.org/wiki/Nintendo_Switch_2?utm_source=chatgpt.com)
 
-### Instalar el AppImage en Steam Deck
+## 🛡️ Medidas de Seguridad y Prevención de Piratería
 
-Primero deberémos estar en el modo Escritorio de la Steam Deck:
+Nintendo ha implementado diversas medidas para proteger la Nintendo Switch 2 contra la piratería:
 
-1.  Pulsa el **botón de apagado 5 segundos**
+*   **Nuevas tarjetas de juego**: Las *Game-Key Cards* pueden contener solo una clave de descarga, requiriendo conexión a Internet y validación en línea para jugar. 
 
-2.  Elige **Modo Escritorio**
+*   **Joy-Con 2 con conectividad magnética**: Mejoran la seguridad física y dificultan la modificación del hardware.
 
-3.  Espera a que cargue el sistema
+*   **Firmware con cifrado avanzado**: Incluye verificación de integridad y detección de modificaciones no autorizadas.
 
-4.  Renombra el archivo **.Appimage** que descargaste y coloca solo "**yuzu**" *(Debe quedar un archivo final con nombre "**yuzu.AppImage**")*
+*   **Reforzamiento de políticas de propiedad intelectual**: Nintendo continúa tomando acciones legales contra la distribución no autorizada de software y hardware modificado. 
 
-5.  Copialo y Pegalo en la carpeta **Home/Applications** 
+## 🖥️ Estado Actual de la Emulación
 
-6.  **IMPORTANTE** Ejecuta una ves tu archivo desde aquí, si no no va a funcionar despues.
+A pocos días de su lanzamiento, la emulación de la Nintendo Switch 2 se encuentra en una etapa muy temprana:
 
-7.  Listo, ya esta instalada la base del emulador.
+*   **Compatibilidad limitada**: Los emuladores existentes como Yuzu y Ryujinx aún no ofrecen soporte para la Switch 2.
 
-<br>
+*   **Falta de claves de cifrado**: Las nuevas medidas de seguridad dificultan la obtención de las claves necesarias para la emulación.
 
-### Instalar el Launcher de Yuzu en Steam Rom Manager para el Modo Gaming *(Yuzu.sh)*
+*   **Desarrollo en curso**: La comunidad de emulación está investigando las nuevas arquitecturas y sistemas de seguridad, pero se anticipa que tomará tiempo antes de lograr avances significativos. 
 
-1.  Localiza tu carpeta de instalacion de **Emudeck**
+## 💡 ¿Qué es la MIG Switch y su Compatibilidad con la Switch 2?
 
-2.  Copia y Pega tu archivo **yuzu.sh** en la siguiente ruta: **Instalacion de Emudeck/Emulation/tools/launchers**
+La MIG Switch es una tarjeta flash que permite cargar múltiples juegos desde una sola tarjeta, diseñada originalmente para la Nintendo Switch. Sin embargo, su compatibilidad con la Nintendo Switch 2 es limitada y puede presentar riesgos:
 
-3.  Prueba abriendo el archivo **yuzu.sh** para comprobar que abre el emulador.
+*   **Compatibilidad parcial**: Algunos usuarios han reportado que la MIG Switch funciona en la Switch 2, pero con restricciones y riesgos de seguridad.
 
-<br>
+*   **Riesgo de bloqueo**: Existen informes de que insertar una MIG Switch en la Switch 2 puede bloquear la consola, dejándola inoperable. 
 
-### Configurar Launcher en Steam Rom Manager
+*   **Prohibición de uso en línea**: El uso de la MIG Switch con juegos descargados de internet puede resultar en la prohibición permanente de la consola para acceder a servicios en línea. [neogaf.com](https://www.neogaf.com/threads/inserting-a-mig-switch-cartridge-in-the-switch-2-brick-the-console.1684707/?utm_source=chatgpt.com)[reddit.com](https://www.reddit.com/r/SwitchPirates/comments/1h8r6t8/mig_switch_2_questionsdiscussion/?utm_source=chatgpt.com)
 
-1.  Abre **Emudeck** y selecciona **Steam Rom Manager**
+Dado estos riesgos, se recomienda precaución al considerar el uso de la MIG Switch en la Nintendo Switch 2.
 
-2.  En el listado izquierdo buscar y seleccionar la opción "**Nintendo Switch - Yuzu**" y Activarlo
+## 📝 Conclusión
 
-3.  Del lado derecho en **las configuraciones** buscamos "**Executable**" y seleccionamos el archivo **yuzu.sh**
+La Nintendo Switch 2 representa un avance significativo en la línea de consolas híbridas de Nintendo, ofreciendo mejoras técnicas y un sólido catálogo de lanzamiento. Al mismo tiempo, la compañía ha reforzado sus medidas de seguridad para proteger su propiedad intelectual y prevenir la piratería. La emulación de esta nueva consola aún está en sus primeras etapas, y se espera que la comunidad enfrente desafíos considerables debido a las nuevas protecciones implementadas.
 
-4.  Clic en el boton **Test Parser** para verificar que lee los juegos
+Para los entusiastas de la emulación, es un momento de observación y análisis, mientras que para los jugadores, la Switch 2 ofrece una experiencia renovada y emocionante.
 
-5.  Clic en **Save** para guardar cambios en el parser
-
-6.  Hasta arriba daremos clic en **Add Games**
-
-7.  Clic en **Parse**
-
-8.  Selecciona las portadas de juegos que más te gusten
-
-9.  Clic abajo en **Save to Steam**
-
-10. Listo, tienes tus juegos agregados en el **Modo Gaming**
-
-<br>
-
-Si te perdiste en algún paso, revisa nuestra guía aún más detallada que se encuentra en el video de abajo!
-
-Recuerda suscribirte si te ayudo el contenido!
 
