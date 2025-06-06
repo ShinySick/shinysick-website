@@ -4,9 +4,10 @@ title: 'Nintendo Switch 2: Lanzamiento, Estado de Emulación y Medidas Antipirat
 date: '2025-06-05'
 author: content/data/person1.json
 excerpt: >-
-  Aprende a INSTALAR Yuzu Early Access 4176 fué la versión más actualizada de
-  éste emulador, logrando tener un rendimiento muy alto incluso en dispositivos
-  no tan potentes.
+  El 5 de junio de 2025, Nintendo lanzó oficialmente la Nintendo Switch 2, la
+  esperada sucesora de su exitosa consola híbrida. Con mejoras significativas en
+  hardware, nuevos títulos exclusivos y un enfoque renovado en la seguridad, la
+  Switch 2 marca un nuevo capítulo en la historia de Nintendo.
 featuredImage:
   type: ImageBlock
   url: /images/nintendo-switch2-lanzamiento-antipiratas.webp
