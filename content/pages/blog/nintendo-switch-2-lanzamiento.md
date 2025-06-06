@@ -10,7 +10,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/nintendo-switch-2-lanzamiento-antipiratas.webp
-  altText: Yuzu Steam Deck Guia Miniatura
+  altText: Nintendo Switch Lanzamiento Anti Piratas Miniatura
   elementId: ''
   styles:
     self:
