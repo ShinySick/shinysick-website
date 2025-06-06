@@ -118,7 +118,7 @@ seo:
     títulos favoritos de Nintendo Switch con el máximo rendimiento y calidad.
     ¡Todo lo que necesitas saber, en un solo lugar!
   addTitleSuffix: true
-  socialImage: /images/yuzu-steam-deck-guia.webp
+  socialImage: /images/nintendo-switch2-lanzamiento-antipiratas.webp
   metaTags: []
 colors: bg-dark-fg-light
 styles:
