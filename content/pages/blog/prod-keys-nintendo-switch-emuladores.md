@@ -119,8 +119,7 @@ seo:
     emulación actual.
   addTitleSuffix: true
   socialImage: /images/prodkeys-ilegales-thumbnail.webp
-  metaTags:
-    - type: MetaTag
+  metaTags: []
 colors: bg-dark-fg-light
 styles:
   self:
