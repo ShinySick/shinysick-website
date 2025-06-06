@@ -110,7 +110,9 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Instala Yuzu en Steam Deck y Juega Nintendo Switch - Guía Definitiva 2024
+  metaTitle: >-
+    ¿Qué son las prod.keys de Nintendo Switch y por qué son tan importantes para
+    emular?
   metaDescription: >-
     Descubre cómo instalar el emulador Yuzu en tu Steam Deck y transforma tu
     experiencia de juego. Sigue nuestra guía definitiva 2024 para jugar tus
