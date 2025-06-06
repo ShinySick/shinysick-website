@@ -40,12 +40,8 @@ bottomSections:
         self:
           textAlign: left
     subtitle: MIG SWITCH V2
-    text: >
-      **Guía Definitiva** para instalar y configurar **YUZU EN STEAM DECK**.
-
-
-      Se recomienda ver el video en **velocidad 2x** solo si se te hace muy
-      largo el video.
+    text: |
+      ****
     actions: []
     media:
       type: VideoBlock
