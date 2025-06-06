@@ -118,7 +118,7 @@ seo:
     emuladores como Yuzu y Ryujinx, si es legal usarlas y cómo afectan a la
     emulación actual.
   addTitleSuffix: true
-  socialImage: /images/yuzu-steam-deck-guia.webp
+  socialImage: /images/prodkeys-ilegales-thumbnail.webp
   metaTags: []
 colors: bg-dark-fg-light
 styles:
