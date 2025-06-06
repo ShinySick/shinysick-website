@@ -129,6 +129,8 @@ Con el reciente lanzamiento de la Nintendo Switch 2, muchos usuarios se pregunta
 
 La MIG Switch es una tarjeta flash que permite a los usuarios cargar múltiples juegos desde una sola tarjeta, diseñada originalmente para la Nintendo Switch. Su principal atractivo es la posibilidad de jugar a varios títulos sin necesidad de cambiar de cartucho, siempre y cuando se utilicen copias legítimas de los juegos.
 
+![](/images/mig-switch-2.webp)
+
 ## ✅ Compatibilidad con Nintendo Switch 2
 
 Algunos usuarios han reportado que la MIG Switch funciona en la Nintendo Switch 2, permitiendo la ejecución de juegos de la consola original. Sin embargo, es importante destacar que esta compatibilidad puede variar y no está garantizada para todos los casos.
@@ -149,6 +151,3 @@ Dado que la compatibilidad de la MIG Switch con la Nintendo Switch 2 no está of
 La MIG Switch ha demostrado ser una herramienta útil para los usuarios de la Nintendo Switch original, y algunos informes sugieren que puede funcionar en la Nintendo Switch 2. Sin embargo, debido a las posibles incompatibilidades y riesgos asociados, es esencial proceder con cautela y estar informado sobre las experiencias de otros usuarios.
 
 Para una demostración visual y más detalles sobre la MIG Switch, puedes consultar el siguiente video:
-
-
-
