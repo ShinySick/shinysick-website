@@ -43,11 +43,8 @@ bottomSections:
           textAlign: left
     subtitle: ¿Nintendo Switch Prod.Keys Ilegales?
     text: >
-      **Guía Definitiva** para instalar y configurar **YUZU EN STEAM DECK**.
-
-
-      Se recomienda ver el video en **velocidad 2x** solo si se te hace muy
-      largo el video.
+      En este video te explico todo lo necesario sobre que son las **Prod.Keys**
+      y porqué son Ilegales segun **Nintendo.**
     actions: []
     media:
       type: VideoBlock
