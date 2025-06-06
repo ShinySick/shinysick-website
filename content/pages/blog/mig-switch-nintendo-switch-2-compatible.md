@@ -49,7 +49,7 @@ bottomSections:
     actions: []
     media:
       type: VideoBlock
-      title: Como Instalar Yuzu en Steam Deck
+      title: MIG SWITCH V2
       url: 'https://youtu.be/0F397uSvCYQ?si=DniucHtFW3eHJIZY'
       autoplay: false
       loop: false
