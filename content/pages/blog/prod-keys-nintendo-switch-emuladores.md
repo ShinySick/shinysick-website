@@ -114,10 +114,9 @@ seo:
     ¿Qué son las prod.keys de Nintendo Switch y por qué son tan importantes para
     emular?
   metaDescription: >-
-    Descubre cómo instalar el emulador Yuzu en tu Steam Deck y transforma tu
-    experiencia de juego. Sigue nuestra guía definitiva 2024 para jugar tus
-    títulos favoritos de Nintendo Switch con el máximo rendimiento y calidad.
-    ¡Todo lo que necesitas saber, en un solo lugar!
+    Aprende qué son las prod.keys de Nintendo Switch, para qué sirven en los
+    emuladores como Yuzu y Ryujinx, si es legal usarlas y cómo afectan a la
+    emulación actual.
   addTitleSuffix: true
   socialImage: /images/yuzu-steam-deck-guia.webp
   metaTags: []
