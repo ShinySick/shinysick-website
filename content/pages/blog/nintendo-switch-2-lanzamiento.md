@@ -9,7 +9,7 @@ excerpt: >-
   no tan potentes.
 featuredImage:
   type: ImageBlock
-  url: /images/nintendo-switch-2-lanzamiento-antipiratas.webp
+  url: /images/nintendo-switch2-lanzamiento-antipiratas.webp
   altText: Nintendo Switch Lanzamiento Anti Piratas Miniatura
   elementId: ''
   styles:
