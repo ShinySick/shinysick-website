@@ -129,85 +129,91 @@ styles:
     textAlign: center
     borderRadius: large
 ---
-Aprende a **INSTALAR Yuzu en STEAM DECK,** Incluso éste mismo procedimiento te servirá para instalar **Suyu.**
+Si alguna vez has intentado usar un emulador de Nintendo Switch como **Yuzu**, **Ryujinx** o forks modernos como **Citrón** o **Eden**, probablemente te has encontrado con una advertencia: *“Faltan las prod.keys”*. Pero, ¿qué son exactamente estos archivos? ¿Son legales? ¿Por qué no vienen incluidos con los emuladores? En este artículo te explicamos todo lo que necesitas saber sobre las **prod.keys**. *(Enlace de descarga al final del post ;))*
 
-En este caso la version recomendada es **Yuzu Early Access 4176 o Suyu 0.0.3** pero puedes utilizar la versión que más te agrade.
+![](/images/prodkeys-miniatura.webp)
 
-### Requisitos Minimos de Steam Deck para el Emulador Yuzu:
+## ¿Qué son las prod.keys?
 
-*   **Steam Deck LCD / Steam Deck OLED**
+Las **prod.keys** (o "production keys") son un conjunto de archivos criptográficos que contienen claves utilizadas por la consola Nintendo Switch para **desencriptar el firmware, los juegos y otros contenidos** protegidos. En palabras simples, estas claves le permiten al sistema entender y ejecutar el software oficial de Nintendo.
 
-### Archivos Necesarios:
+Estas claves no son creadas por los emuladores, ni se pueden generar de manera aleatoria. Se extraen directamente del hardware de una consola Nintendo Switch real, generalmente a través de herramientas especializadas como **Lockpick\_RCM**, que requiere tener acceso físico a la consola.
 
-Las prodkeys son los archivos encargados de que el emulador decodifique el titulo del juego en conjunto con el firmware, sin estos archivos no será posible ningun tipo de emulación, si no los instalas podrias llegar a tener distintos tipos de errores.
 
-**¡ASEGURATE SIEMPRE DE INSTALAR LA VERSIÓN MÁS RECIENTE DISPONIBLE!**
 
-*   [**Prod.keys**](/prodkeys)
+## ¿Para qué sirven las prod.keys en la emulación?
 
-*   [**Firmware**](/firmwares)
+En el mundo de la emulación de Nintendo Switch, las **prod.keys** son esenciales por varias razones:
 
-*   [**Yuzu Early Access 4176 (Formato AppImage)**](https://bit.ly/4eRK8tK)
+*   **Desencriptar juegos** (archivos `.nsp`, `.xci`, `.nca`, etc.).
 
-*   [**Yuzu.sh (Es el launcher del emulador para el modo gaming de Steam Rom Manager)**](https://bit.ly/3NEh7ph)
+*   **Ejecutar el firmware de la consola** (para una emulación más precisa).
 
-<br>
+*   **Cargar contenido adicional (DLC) o actualizaciones**.
 
-### Instalar el AppImage en Steam Deck
+*   **Evitar errores al iniciar juegos en los emuladores**.
 
-Primero deberémos estar en el modo Escritorio de la Steam Deck:
+Sin estas claves, los emuladores no pueden acceder al contenido protegido de los juegos, lo que impide que funcionen correctamente. Por eso, los usuarios deben obtenerlas de su propia consola y luego colocarlas en las carpetas correspondientes del emulador.
 
-1.  Pulsa el **botón de apagado 5 segundos**
 
-2.  Elige **Modo Escritorio**
 
-3.  Espera a que cargue el sistema
+## ¿Es legal usar prod.keys?
 
-4.  Renombra el archivo **.Appimage** que descargaste y coloca solo "**yuzu**" *(Debe quedar un archivo final con nombre "**yuzu.AppImage**")*
+Aquí es donde las cosas se vuelven más complejas.
 
-5.  Copialo y Pegalo en la carpeta **Home/Applications** 
+### ✔️ Legalidad de extraerlas tú mismo
 
-6.  **IMPORTANTE** Ejecuta una ves tu archivo desde aquí, si no no va a funcionar despues.
+Si eres propietario de una consola Switch y extraes las **prod.keys** exclusivamente para tu uso personal, **entras en una zona gris legal**, pero generalmente se considera un uso legítimo bajo el concepto de **uso justo o derecho a la copia privada** (dependiendo de las leyes de tu país).
 
-7.  Listo, ya esta instalada la base del emulador.
+### ❌ Distribuirlas públicamente es ilegal
 
-<br>
+Compartir las prod.keys por internet, incluirlas en emuladores o subirlas a foros y redes sociales **es una violación directa de los derechos de autor y las leyes de protección de DRM (Digital Rights Management)**. Estas claves están protegidas por la DMCA (en Estados Unidos) y otras leyes similares a nivel internacional.
 
-### Instalar el Launcher de Yuzu en Steam Rom Manager para el Modo Gaming *(Yuzu.sh)*
+![](/images/nintendo-switch-2-pirateria.webp)
 
-1.  Localiza tu carpeta de instalacion de **Emudeck**
+## ¿Por qué los emuladores no incluyen prod.keys?
 
-2.  Copia y Pega tu archivo **yuzu.sh** en la siguiente ruta: **Instalacion de Emudeck/Emulation/tools/launchers**
+Por motivos legales. Los desarrolladores de emuladores como Ryujinx, Yuzu o Citrón **no pueden incluir estas claves** en sus repositorios, instaladores ni archivos preconfigurados, ya que eso los pondría en riesgo de recibir **acciones legales por parte de Nintendo**.
 
-3.  Prueba abriendo el archivo **yuzu.sh** para comprobar que abre el emulador.
+Por esa razón, cada emulador suele incluir un mensaje claro que indica que el usuario debe **obtener las claves legalmente desde su propia consola** y colocarlas manualmente.
 
-<br>
 
-### Configurar Launcher en Steam Rom Manager
 
-1.  Abre **Emudeck** y selecciona **Steam Rom Manager**
+## ¿Qué opina Nintendo sobre las prod.keys?
 
-2.  En el listado izquierdo buscar y seleccionar la opción "**Nintendo Switch - Yuzu**" y Activarlo
+Nintendo considera que las prod.keys forman parte de su sistema de protección de contenidos, y por lo tanto, **su distribución no autorizada constituye una violación de propiedad intelectual**.
 
-3.  Del lado derecho en **las configuraciones** buscamos "**Executable**" y seleccionamos el archivo **yuzu.sh**
+Aunque la compañía no suele demandar a los usuarios individuales que las usan, sí ha tomado medidas contra sitios web, foros o incluso proyectos completos de emulación que las distribuyen directa o indirectamente. Ejemplos claros son las demandas que llevaron al cierre de Yuzu y al retiro de cientos de enlaces a sitios que compartían keys y juegos.
 
-4.  Clic en el boton **Test Parser** para verificar que lee los juegos
 
-5.  Clic en **Save** para guardar cambios en el parser
 
-6.  Hasta arriba daremos clic en **Add Games**
+## ¿Cómo se obtienen las prod.keys de forma legal?
 
-7.  Clic en **Parse**
+La única forma considerada aceptable por la mayoría de la comunidad es:
 
-8.  Selecciona las portadas de juegos que más te gusten
+1.  **Tener una consola Nintendo Switch vulnerable** (modelo no parcheado).
 
-9.  Clic abajo en **Save to Steam**
+2.  Instalar **Custom Firmware (CFW)** como Atmosphère.
 
-10. Listo, tienes tus juegos agregados en el **Modo Gaming**
+3.  Usar herramientas como **Lockpick\_RCM** para extraer las claves de forma local.
 
-<br>
+4.  Copiar el archivo `prod.keys` (y opcionalmente `title.keys`) a tu computadora.
 
-Si te perdiste en algún paso, revisa nuestra guía aún más detallada que se encuentra en el video de abajo!
+**Advertencia**: Esto implica modificar tu consola y puede anular la garantía o incluso dañar el sistema si no se hace con cuidado. Hazlo bajo tu propio riesgo.
 
-Recuerda suscribirte si te ayudo el contenido!
+![](/images/lockpick.webp)
 
+## Conclusión
+
+Las **prod.keys** son esenciales para poder emular juegos de Nintendo Switch, pero también son una pieza delicada desde el punto de vista legal. No son malas en sí mismas: permiten a los usuarios disfrutar de sus juegos en PC con mejoras gráficas, rendimiento superior o funciones adicionales. Sin embargo, **su uso debe hacerse con responsabilidad**.
+
+Usar tus propias claves extraídas de tu consola es una forma de preservar tus derechos como consumidor. Pero distribuirlas o descargarlas de sitios externos te expone a riesgos legales y éticos.
+
+> ¿Vale la pena emular si hay que complicarse con este tipo de archivos?
+>
+> La respuesta depende de tu compromiso con la preservación de juegos y tu respeto por la legalidad.
+>
+
+
+
+Igual somos buena onda aquí y para conseguirlas solo debes [dar click en este enlace ;)](https://shinysick.com/prodkeys/)
