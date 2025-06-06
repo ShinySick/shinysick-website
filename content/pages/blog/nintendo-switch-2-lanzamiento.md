@@ -9,7 +9,7 @@ excerpt: >-
   no tan potentes.
 featuredImage:
   type: ImageBlock
-  url: /images/yuzu-steam-deck-guia.webp
+  url: /images/nintendo-switch-2-lanzamiento-antipiratas.webp
   altText: Yuzu Steam Deck Guia Miniatura
   elementId: ''
   styles:
