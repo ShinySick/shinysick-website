@@ -12,7 +12,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/prodkeys-ilegales-thumbnail.webp
-  altText: Yuzu Steam Deck Guia Miniatura
+  altText: Prod.Keys Ilegales Miniatura
   elementId: ''
   styles:
     self:
