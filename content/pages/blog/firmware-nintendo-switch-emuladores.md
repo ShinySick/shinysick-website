@@ -6,9 +6,9 @@ title: >-
 date: '2025-06-10'
 author: content/data/person1.json
 excerpt: >-
-  Aprende a INSTALAR Yuzu Early Access 4176 fué la versión más actualizada de
-  éste emulador, logrando tener un rendimiento muy alto incluso en dispositivos
-  no tan potentes.
+  Todo sobre el firmware de Nintendo Switch en emulación: para qué sirve,
+  ventajas, riesgos, versiones populares y cómo obtenerlo sin comprometer tu
+  seguridad.
 featuredImage:
   type: ImageBlock
   url: /images/yuzu-steam-deck-guia.webp
