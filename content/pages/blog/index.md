@@ -10,7 +10,7 @@ topSections:
       type: TitleBlock
     subtitle: ''
     posts:
-      - content/pages/blog/nintendo-switch-2-lanzamiento.md
+      - content/pages/blog/mario-kart-world-xci-nsp-filtracion.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
