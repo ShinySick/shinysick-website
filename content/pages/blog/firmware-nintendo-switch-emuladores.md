@@ -11,7 +11,7 @@ excerpt: >-
   seguridad.
 featuredImage:
   type: ImageBlock
-  url: /images/yuzu-steam-deck-guia.webp
+  url: /images/switch-firmware-ilegal.webp
   altText: Yuzu Steam Deck Guia Miniatura
   elementId: ''
   styles:
