@@ -131,15 +131,11 @@ styles:
 ---
 ## 🧩 [Firmware](/firmwares) de Nintendo Switch: Qué son, cómo se usan en emuladores y dónde conseguirlos
 
-En el mundo de la emulación de Nintendo Switch, los *firmware* son uno de los archivos más mencionados… y a la vez más malentendidos. Si has usado o configurado emuladores como **Yuzu, Ryujinx o Eden**, seguro has visto mensajes que te piden instalar un "firmware de sistema". Pero ¿qué son realmente estos archivos? ¿Son necesarios para jugar? ¿Dónde se consiguen y qué tan seguro (o legal) es descargarlos?
-
-
+En el mundo de la emulación de Nintendo Switch, los *firmware* son uno de los archivos más mencionados… y a la vez más malentendidos. Si has usado o configurado emuladores como [**Yuzu**](https://ouo.io/e08Rcd)**,** [**Ryujinx**](https://ouo.io/oh7t1m) **o** [**Eden**](https://ouo.io/2S5wqg), seguro has visto mensajes que te piden instalar un "firmware de sistema". Pero ¿qué son realmente estos archivos? ¿Son necesarios para jugar? ¿Dónde se consiguen y qué tan seguro (o legal) es descargarlos?
 
 ### 🧠 ¿Qué es un firmware en Nintendo Switch?
 
 El *firmware* es el sistema operativo de la consola. Contiene los archivos esenciales que le dicen a la Switch cómo funcionar: desde encenderse hasta ejecutar juegos o conectarse a la eShop. En los emuladores, este firmware se utiliza para simular el ambiente real de una consola Nintendo Switch, permitiendo que los juegos corran de forma más estable o incluso para que algunos funcionen *en absoluto*.
-
-
 
 ### ✅ Pros de usar firmware en emuladores:
 
@@ -149,8 +145,6 @@ El *firmware* es el sistema operativo de la consola. Contiene los archivos esenc
 
 *   **Emulación más precisa**: El firmware aporta autenticidad al entorno virtual del emulador.
 
-
-
 ### ❌ Contras y riesgos:
 
 *   **Origen dudoso**: La mayoría de los firmware disponibles en línea provienen de extracciones directas de consolas físicas (mediante métodos como NAND dump), lo cual implica riesgos legales y de seguridad.
@@ -158,8 +152,6 @@ El *firmware* es el sistema operativo de la consola. Contiene los archivos esenc
 *   **Posible malware**: Sitios de descarga no confiables pueden ocultar archivos maliciosos en firmware "modificados".
 
 *   **No todos los emuladores los requieren**: Por ejemplo, versiones recientes de Ryujinx pueden ejecutar muchos juegos sin necesidad de un firmware externo.
-
-
 
 ### 📥 ¿Cómo se consiguen estos firmware?
 
@@ -169,13 +161,9 @@ En teoría, el firmware debe extraerse de tu propia consola con homebrew como `T
 
 Para más información sobre cómo conseguirlos de forma segura y responsable, visita el siguiente enlace: ""
 
-
-
 ### 🛡️ ¿Qué piensa Nintendo al respecto?
 
 Nintendo considera una violación de sus derechos el uso o distribución no autorizada de su firmware. Han demostrado ser muy activos legalmente contra sitios y personas que hospedan estos archivos, pues consideran que **facilitan la piratería**. Por tanto, tanto usuarios como desarrolladores de emuladores suelen tener mucho cuidado al hablar de este tema.
-
-
 
 ### 🎯 ¿Y qué pasa si los usuarios descargan firmware de internet?
 
@@ -187,41 +175,29 @@ Desde el punto de vista práctico:
 
 Por eso siempre se recomienda obtener los firmware **únicamente desde tus propios dispositivos**, usando métodos verificados.
 
-
-
 ### 🔍 ¿Qué versiones de firmware son más populares y recomendadas?
 
 A lo largo del tiempo, ciertos firmware han ganado popularidad por su estabilidad y compatibilidad:
 
-| Versión     | Motivo de uso                                            |
-| ----------- | -------------------------------------------------------- |
-| **13.2.1**  | Muy estable, compatible con muchos juegos                |
-| **15.0.1**  | Requerido por títulos recientes (como Pokémon Escarlata) |
-| **17.0.1**  | Versión moderna con amplia compatibilidad                |
-| **18.0.0+** | Utilizada en pruebas de compatibilidad con Switch 2      |
-
-
+| Versión                              | Motivo de uso                                                                     |
+| ------------------------------------ | --------------------------------------------------------------------------------- |
+| [**16.0.3**](https://ouo.io/v9ld32w) | [Muy estable, compatible con muchos juegos](https://ouo.io/v9ld32w)               |
+| [**16.1.0**](https://ouo.io/9mwXaz)  | [Requerido por títulos recientes (como Pokémon Escarlata)](https://ouo.io/9mwXaz) |
+| [**17.0.1**](https://ouo.io/G9yPFZ)  | [Versión moderna con amplia compatibilidad](https://ouo.io/G9yPFZ)                |
+| [**18.0.0+**](https://ouo.io/3R1eKk) | [Utilizada en pruebas de compatibilidad con Switch 2](https://ouo.io/3R1eKk)      |
 
 ### ⚙️ ¿Qué firmware usar según el emulador?
 
-| Emulador                             | ¿Requiere firmware?                          | Recomendación                      |
-| ------------------------------------ | -------------------------------------------- | ---------------------------------- |
-| [**Yuzu**](https://ouo.io/e08Rcd)    | Sí, para funciones completas                 | 18.0.0 o 19.0.1                    |
-| [**Ryujinx**](https://ouo.io/oh7t1m) | Opcional, pero útil para ciertos juegos      | 15.0.1 o superior                  |
-| [**Eden**](https://ouo.io/2S5wqg)    | Sí, especialmente con DLCs o actualizaciones | Igual que Yuzu                     |
-| **NSEmu / SkyNX**                    | Depende del build                            | Revisar documentación del proyecto |
-
-
+| Emulador                             | ¿Requiere firmware?                          | Recomendación                                                         |
+| ------------------------------------ | -------------------------------------------- | --------------------------------------------------------------------- |
+| [**Yuzu**](https://ouo.io/e08Rcd)    | Sí, para funciones completas                 | [18.0.0](https://ouo.io/3R1eKk) o [19.0.1](https://ouo.io/c6FIjsR)    |
+| [**Ryujinx**](https://ouo.io/oh7t1m) | Opcional, pero útil para ciertos juegos      | [16.0.3](https://ouo.io/v9ld32w) o [superior](https://ouo.io/c6FIjsR) |
+| [**Eden**](https://ouo.io/2S5wqg)    | Sí, especialmente con DLCs o actualizaciones | Igual que Yuzu                                                        |
+| **NSEmu / SkyNX**                    | Depende del build                            | Revisar documentación del proyecto                                    |
 
 ## 📌 Conclusión
 
 El firmware de Nintendo Switch es una pieza crítica en la emulación moderna. Permite ejecutar juegos que de otra forma no correrían, pero también implica una zona gris legal y técnica. Si vas a utilizar un firmware, asegúrate de hacerlo de manera informada, segura y responsable.
 
-
-
 # [Puedes descargar todas las versiones de firmware en nuestra pagina web:](/firmwares)
-
-
-
-
 
