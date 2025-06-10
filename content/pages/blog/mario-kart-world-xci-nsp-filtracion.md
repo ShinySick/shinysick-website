@@ -10,7 +10,7 @@ excerpt: >-
   archivo filtrado? ¿es jugable? Te contamos TODO lo que se sabe (y lo que no).
 featuredImage:
   type: ImageBlock
-  url: /images/yuzu-steam-deck-guia.webp
+  url: /images/mario-kart-world-rom-xci-filtrado.webp
   altText: Yuzu Steam Deck Guia Miniatura
   elementId: ''
   styles:
