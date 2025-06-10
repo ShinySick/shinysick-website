@@ -12,7 +12,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/switch-firmware-ilegal.webp
-  altText: Yuzu Steam Deck Guia Miniatura
+  altText: Nintendo Switch Firmware Ilegal
   elementId: ''
   styles:
     self:
