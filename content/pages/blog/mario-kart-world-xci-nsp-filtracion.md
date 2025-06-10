@@ -6,9 +6,8 @@ title: >-
 date: '2025-06-10'
 author: content/data/person1.json
 excerpt: >-
-  Aprende a INSTALAR Yuzu Early Access 4176 fué la versión más actualizada de
-  éste emulador, logrando tener un rendimiento muy alto incluso en dispositivos
-  no tan potentes.
+  Un supuesto Mario Kart World XCI/NSP está encendiendo la red: ¿es real? ¿es un
+  archivo filtrado? ¿es jugable? Te contamos TODO lo que se sabe (y lo que no).
 featuredImage:
   type: ImageBlock
   url: /images/yuzu-steam-deck-guia.webp
