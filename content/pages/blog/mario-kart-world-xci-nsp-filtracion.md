@@ -73,10 +73,9 @@ seo:
     Mario Kart World XCI/NSP: ¿El juego secreto que ya se filtró y Nintendo
     quiere borrar?
   metaDescription: >-
-    Descubre cómo instalar el emulador Yuzu en tu Steam Deck y transforma tu
-    experiencia de juego. Sigue nuestra guía definitiva 2024 para jugar tus
-    títulos favoritos de Nintendo Switch con el máximo rendimiento y calidad.
-    ¡Todo lo que necesitas saber, en un solo lugar!
+    ¿Ya existe Mario Kart World XCI/NSP? Teorías, rumores y pantallazos
+    filtrados sugieren que este juego podría ser real… y Nintendo no quiere que
+    lo sepas.
   addTitleSuffix: true
   socialImage: /images/yuzu-steam-deck-guia.webp
   metaTags: []
