@@ -77,7 +77,7 @@ seo:
     filtrados sugieren que este juego podría ser real… y Nintendo no quiere que
     lo sepas.
   addTitleSuffix: true
-  socialImage: /images/yuzu-steam-deck-guia.webp
+  socialImage: /images/mario-kart-world-rom-xci-filtrado.webp
   metaTags: []
 colors: bg-dark-fg-light
 styles:
