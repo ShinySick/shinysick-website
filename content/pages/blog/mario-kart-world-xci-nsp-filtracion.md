@@ -11,7 +11,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/mario-kart-world-rom-xci-filtrado.webp
-  altText: Yuzu Steam Deck Guia Miniatura
+  altText: Mario Kart World Rom XCI NSP Miniatura
   elementId: ''
   styles:
     self:
