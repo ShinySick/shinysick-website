@@ -74,10 +74,9 @@ seo:
     Firmware Nintendo Switch para Emuladores: Cómo se usan, riesgos, versiones y
     dónde conseguirlos
   metaDescription: >-
-    Descubre cómo instalar el emulador Yuzu en tu Steam Deck y transforma tu
-    experiencia de juego. Sigue nuestra guía definitiva 2024 para jugar tus
-    títulos favoritos de Nintendo Switch con el máximo rendimiento y calidad.
-    ¡Todo lo que necesitas saber, en un solo lugar!
+    ¿Qué es el firmware de Nintendo Switch? Descubre cómo se usa en emuladores
+    como Yuzu y Ryujinx, los riesgos legales, las mejores versiones y cómo
+    conseguirlo de forma segura.
   addTitleSuffix: true
   socialImage: /images/yuzu-steam-deck-guia.webp
   metaTags: []
