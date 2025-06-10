@@ -129,85 +129,99 @@ styles:
     textAlign: center
     borderRadius: large
 ---
-Aprende a **INSTALAR Yuzu en STEAM DECK,** Incluso éste mismo procedimiento te servirá para instalar **Suyu.**
+## 🧩 [Firmware](/firmwares) de Nintendo Switch: Qué son, cómo se usan en emuladores y dónde conseguirlos
 
-En este caso la version recomendada es **Yuzu Early Access 4176 o Suyu 0.0.3** pero puedes utilizar la versión que más te agrade.
+En el mundo de la emulación de Nintendo Switch, los *firmware* son uno de los archivos más mencionados… y a la vez más malentendidos. Si has usado o configurado emuladores como **Yuzu, Ryujinx o Eden**, seguro has visto mensajes que te piden instalar un "firmware de sistema". Pero ¿qué son realmente estos archivos? ¿Son necesarios para jugar? ¿Dónde se consiguen y qué tan seguro (o legal) es descargarlos?
 
-### Requisitos Minimos de Steam Deck para el Emulador Yuzu:
 
-*   **Steam Deck LCD / Steam Deck OLED**
 
-### Archivos Necesarios:
+### 🧠 ¿Qué es un firmware en Nintendo Switch?
 
-Las prodkeys son los archivos encargados de que el emulador decodifique el titulo del juego en conjunto con el firmware, sin estos archivos no será posible ningun tipo de emulación, si no los instalas podrias llegar a tener distintos tipos de errores.
+El *firmware* es el sistema operativo de la consola. Contiene los archivos esenciales que le dicen a la Switch cómo funcionar: desde encenderse hasta ejecutar juegos o conectarse a la eShop. En los emuladores, este firmware se utiliza para simular el ambiente real de una consola Nintendo Switch, permitiendo que los juegos corran de forma más estable o incluso para que algunos funcionen *en absoluto*.
 
-**¡ASEGURATE SIEMPRE DE INSTALAR LA VERSIÓN MÁS RECIENTE DISPONIBLE!**
 
-*   [**Prod.keys**](/prodkeys)
 
-*   [**Firmware**](/firmwares)
+### ✅ Pros de usar firmware en emuladores:
 
-*   [**Yuzu Early Access 4176 (Formato AppImage)**](https://bit.ly/4eRK8tK)
+*   **Mayor compatibilidad con juegos**: Muchos títulos requieren un firmware actualizado para ejecutarse.
 
-*   [**Yuzu.sh (Es el launcher del emulador para el modo gaming de Steam Rom Manager)**](https://bit.ly/3NEh7ph)
+*   **Funciones adicionales**: Como instalación de DLCs, actualizaciones o soporte para perfiles de usuario.
 
-<br>
+*   **Emulación más precisa**: El firmware aporta autenticidad al entorno virtual del emulador.
 
-### Instalar el AppImage en Steam Deck
 
-Primero deberémos estar en el modo Escritorio de la Steam Deck:
 
-1.  Pulsa el **botón de apagado 5 segundos**
+### ❌ Contras y riesgos:
 
-2.  Elige **Modo Escritorio**
+*   **Origen dudoso**: La mayoría de los firmware disponibles en línea provienen de extracciones directas de consolas físicas (mediante métodos como NAND dump), lo cual implica riesgos legales y de seguridad.
 
-3.  Espera a que cargue el sistema
+*   **Posible malware**: Sitios de descarga no confiables pueden ocultar archivos maliciosos en firmware "modificados".
 
-4.  Renombra el archivo **.Appimage** que descargaste y coloca solo "**yuzu**" *(Debe quedar un archivo final con nombre "**yuzu.AppImage**")*
+*   **No todos los emuladores los requieren**: Por ejemplo, versiones recientes de Ryujinx pueden ejecutar muchos juegos sin necesidad de un firmware externo.
 
-5.  Copialo y Pegalo en la carpeta **Home/Applications** 
 
-6.  **IMPORTANTE** Ejecuta una ves tu archivo desde aquí, si no no va a funcionar despues.
 
-7.  Listo, ya esta instalada la base del emulador.
+### 📥 ¿Cómo se consiguen estos firmware?
 
-<br>
+En teoría, el firmware debe extraerse de tu propia consola con homebrew como `TegraExplorer` o `Hekate`. Sin embargo, la mayoría de usuarios recurren a páginas de terceros donde los firmware están publicados (normalmente en formato `.zip` o `.tar.gz`).
 
-### Instalar el Launcher de Yuzu en Steam Rom Manager para el Modo Gaming *(Yuzu.sh)*
+> **Nota importante:** Descargar firmware de terceros puede violar los términos de uso de Nintendo. Además, puede exponerte a sanciones legales o comprometer tu equipo.
 
-1.  Localiza tu carpeta de instalacion de **Emudeck**
+Para más información sobre cómo conseguirlos de forma segura y responsable, visita el siguiente enlace: ""
 
-2.  Copia y Pega tu archivo **yuzu.sh** en la siguiente ruta: **Instalacion de Emudeck/Emulation/tools/launchers**
 
-3.  Prueba abriendo el archivo **yuzu.sh** para comprobar que abre el emulador.
 
-<br>
+### 🛡️ ¿Qué piensa Nintendo al respecto?
 
-### Configurar Launcher en Steam Rom Manager
+Nintendo considera una violación de sus derechos el uso o distribución no autorizada de su firmware. Han demostrado ser muy activos legalmente contra sitios y personas que hospedan estos archivos, pues consideran que **facilitan la piratería**. Por tanto, tanto usuarios como desarrolladores de emuladores suelen tener mucho cuidado al hablar de este tema.
 
-1.  Abre **Emudeck** y selecciona **Steam Rom Manager**
 
-2.  En el listado izquierdo buscar y seleccionar la opción "**Nintendo Switch - Yuzu**" y Activarlo
 
-3.  Del lado derecho en **las configuraciones** buscamos "**Executable**" y seleccionamos el archivo **yuzu.sh**
+### 🎯 ¿Y qué pasa si los usuarios descargan firmware de internet?
 
-4.  Clic en el boton **Test Parser** para verificar que lee los juegos
+Desde el punto de vista práctico:
 
-5.  Clic en **Save** para guardar cambios en el parser
+*   Pueden **jugar títulos más recientes** en sus emuladores.
 
-6.  Hasta arriba daremos clic en **Add Games**
+*   Pero se exponen a **riesgos legales, virus** o incluso *bricks* en consolas si usan esos archivos en dispositivos reales.
 
-7.  Clic en **Parse**
+Por eso siempre se recomienda obtener los firmware **únicamente desde tus propios dispositivos**, usando métodos verificados.
 
-8.  Selecciona las portadas de juegos que más te gusten
 
-9.  Clic abajo en **Save to Steam**
 
-10. Listo, tienes tus juegos agregados en el **Modo Gaming**
+### 🔍 ¿Qué versiones de firmware son más populares y recomendadas?
 
-<br>
+A lo largo del tiempo, ciertos firmware han ganado popularidad por su estabilidad y compatibilidad:
 
-Si te perdiste en algún paso, revisa nuestra guía aún más detallada que se encuentra en el video de abajo!
+| Versión     | Motivo de uso                                            |
+| ----------- | -------------------------------------------------------- |
+| **13.2.1**  | Muy estable, compatible con muchos juegos                |
+| **15.0.1**  | Requerido por títulos recientes (como Pokémon Escarlata) |
+| **17.0.1**  | Versión moderna con amplia compatibilidad                |
+| **18.0.0+** | Utilizada en pruebas de compatibilidad con Switch 2      |
 
-Recuerda suscribirte si te ayudo el contenido!
+
+
+### ⚙️ ¿Qué firmware usar según el emulador?
+
+| Emulador                             | ¿Requiere firmware?                          | Recomendación                      |
+| ------------------------------------ | -------------------------------------------- | ---------------------------------- |
+| [**Yuzu**](https://ouo.io/e08Rcd)    | Sí, para funciones completas                 | 18.0.0 o 19.0.1                    |
+| [**Ryujinx**](https://ouo.io/oh7t1m) | Opcional, pero útil para ciertos juegos      | 15.0.1 o superior                  |
+| [**Eden**](https://ouo.io/2S5wqg)    | Sí, especialmente con DLCs o actualizaciones | Igual que Yuzu                     |
+| **NSEmu / SkyNX**                    | Depende del build                            | Revisar documentación del proyecto |
+
+
+
+## 📌 Conclusión
+
+El firmware de Nintendo Switch es una pieza crítica en la emulación moderna. Permite ejecutar juegos que de otra forma no correrían, pero también implica una zona gris legal y técnica. Si vas a utilizar un firmware, asegúrate de hacerlo de manera informada, segura y responsable.
+
+
+
+# [Puedes descargar todas las versiones de firmware en nuestra pagina web:](/firmwares)
+
+
+
+
 
