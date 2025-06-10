@@ -78,7 +78,7 @@ seo:
     como Yuzu y Ryujinx, los riesgos legales, las mejores versiones y cómo
     conseguirlo de forma segura.
   addTitleSuffix: true
-  socialImage: /images/yuzu-steam-deck-guia.webp
+  socialImage: /images/switch-firmware-ilegal.webp
   metaTags: []
 colors: bg-dark-fg-light
 styles:
