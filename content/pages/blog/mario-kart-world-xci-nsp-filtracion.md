@@ -129,85 +129,85 @@ styles:
     textAlign: center
     borderRadius: large
 ---
-Aprende a **INSTALAR Yuzu en STEAM DECK,** Incluso éste mismo procedimiento te servirá para instalar **Suyu.**
+### 🚨 ¿La secuela definitiva? ¿Una filtración oculta en la red oscura?
 
-En este caso la version recomendada es **Yuzu Early Access 4176 o Suyu 0.0.3** pero puedes utilizar la versión que más te agrade.
+¡Alerta para todos los fans de Nintendo! En las últimas horas se ha comenzado a hablar del posible título de la franquicia: [**Mario Kart World XCI/NSP.**](https://ouo.io/CNAtYL)
 
-### Requisitos Minimos de Steam Deck para el Emulador Yuzu:
 
-*   **Steam Deck LCD / Steam Deck OLED**
 
-### Archivos Necesarios:
+### 🎮 ¿Qué es [*Mario Kart World XCI/NSP*](https://ouo.io/CNAtYL)?
 
-Las prodkeys son los archivos encargados de que el emulador decodifique el titulo del juego en conjunto con el firmware, sin estos archivos no será posible ningun tipo de emulación, si no los instalas podrias llegar a tener distintos tipos de errores.
+Según algunas fuentes de los deseos, este juego es una evolución directa de Mario Kart 8 Deluxe, pero reimaginado con:
 
-**¡ASEGURATE SIEMPRE DE INSTALAR LA VERSIÓN MÁS RECIENTE DISPONIBLE!**
+*   Un **motor gráfico mejorado** adaptado a hardware de nueva generación.
 
-*   [**Prod.keys**](/prodkeys)
+*   Integración con mapas de mundo abierto, al estilo de Forza Horizon.
 
-*   [**Firmware**](/firmwares)
+*   Más de **60 personajes jugables** (¿incluso personajes de otras franquicias?).
 
-*   [**Yuzu Early Access 4176 (Formato AppImage)**](https://bit.ly/4eRK8tK)
+*   Nuevas modalidades online y compatibilidad cruzada entre consolas (¡supuestamente!).
 
-*   [**Yuzu.sh (Es el launcher del emulador para el modo gaming de Steam Rom Manager)**](https://bit.ly/3NEh7ph)
+Pero lo más sorprendente es cómo se está hablando del **formato XCI/NSP** —términos conocidos dentro del mundo de la emulación— como si **este archivo ya existiera “por ahí”**. ¿Será real?
 
-<br>
 
-### Instalar el AppImage en Steam Deck
 
-Primero deberémos estar en el modo Escritorio de la Steam Deck:
+### 🕵️‍♂️ Rumores, filtraciones y "pantallazos que desaparecen"
 
-1.  Pulsa el **botón de apagado 5 segundos**
+![](/images/mario-kart-world-xci.webp)[(Checa el video completo aquí)](https://ouo.io/a1Lim5)
 
-2.  Elige **Modo Escritorio**
+Desde supuestos *screenshots* hasta videos que duran minutos antes de ser eliminados por copyright, [*Mario Kart World XCI/NSP*](https://ouo.io/CNAtYL) ha sido mencionado en **foros privados, Discords secretos y archivos encriptados** que se comparten en la sombra.
 
-3.  Espera a que cargue el sistema
+Una teoría popular sugiere que este juego estaba pensado como el gran lanzamiento sorpresa para Switch 2... pero algo se filtró.
 
-4.  Renombra el archivo **.Appimage** que descargaste y coloca solo "**yuzu**" *(Debe quedar un archivo final con nombre "**yuzu.AppImage**")*
 
-5.  Copialo y Pegalo en la carpeta **Home/Applications** 
 
-6.  **IMPORTANTE** Ejecuta una ves tu archivo desde aquí, si no no va a funcionar despues.
+### 🧩 ¿Qué significa el “XCI/NSP” en el nombre?
 
-7.  Listo, ya esta instalada la base del emulador.
+Aunque suene técnico, estas extensiones son usadas en archivos de juegos en formatos digitales. En este caso, el hecho de que el nombre del juego aparezca como [**Mario Kart World XCI/NSP**](https://ouo.io/CNAtYL) ha despertado las siguientes hipótesis:
 
-<br>
+*   ¿Fue este un build interno que se escapó antes de tiempo?
 
-### Instalar el Launcher de Yuzu en Steam Rom Manager para el Modo Gaming *(Yuzu.sh)*
+*   ¿Están los emuladores detrás de esta revelación?
 
-1.  Localiza tu carpeta de instalacion de **Emudeck**
+*   ¿O es todo parte de una campaña viral no autorizada?
 
-2.  Copia y Pega tu archivo **yuzu.sh** en la siguiente ruta: **Instalacion de Emudeck/Emulation/tools/launchers**
 
-3.  Prueba abriendo el archivo **yuzu.sh** para comprobar que abre el emulador.
 
-<br>
+### 🔐 Nintendo guarda silencio (¿o no tanto?)
 
-### Configurar Launcher en Steam Rom Manager
+Lo más llamativo es que **Nintendo no ha emitido ningún comunicado oficial** sobre [*Mario Kart World XCI/NSP*](https://ouo.io/CNAtYL), pero algunas personas afirman que ciertos contenidos han sido **eliminados a través de DMCA** misteriosamente, lo cual “podría” confirmar que algo real hay detrás del humo...
 
-1.  Abre **Emudeck** y selecciona **Steam Rom Manager**
 
-2.  En el listado izquierdo buscar y seleccionar la opción "**Nintendo Switch - Yuzu**" y Activarlo
 
-3.  Del lado derecho en **las configuraciones** buscamos "**Executable**" y seleccionamos el archivo **yuzu.sh**
+### 🌍 ¿Un Mario Kart de mundo abierto?
 
-4.  Clic en el boton **Test Parser** para verificar que lee los juegos
+Algunos conceptos filtrados hablan de recorrer:
 
-5.  Clic en **Save** para guardar cambios en el parser
+*   **Mushroom Kingdom** a gran escala,
 
-6.  Hasta arriba daremos clic en **Add Games**
+*   Explorar pistas libres al estilo *sandbox*,
 
-7.  Clic en **Parse**
+*   Eventos dinámicos por regiones,
 
-8.  Selecciona las portadas de juegos que más te gusten
+*   E incluso un **modo historia con cinemáticas**.
 
-9.  Clic abajo en **Save to Steam**
+¿Será [*Mario Kart World XCI/NSP* ](https://ouo.io/CNAtYL)el primer Mario Kart que realmente reinvente la fórmula?
 
-10. Listo, tienes tus juegos agregados en el **Modo Gaming**
 
-<br>
 
-Si te perdiste en algún paso, revisa nuestra guía aún más detallada que se encuentra en el video de abajo!
+### 🧪 ¿Y qué dicen los modders y dataminers?
 
-Recuerda suscribirte si te ayudo el contenido!
+Voces de la comunidad aseguran que el formato en el que está circulando el supuesto juego —**XCI/NSP**— sugiere que **ya ha sido probado en emuladores de nueva generación** (teóricamente hablando). Algunos incluso afirman haberlo ejecutado brevemente antes de que el archivo “se autodestruyera”.
+
+
+
+### 🔥 ¿Conclusión?
+
+[**Mario Kart World XCI/NSP**](https://ouo.io/CNAtYL) puede que no exista... o puede que ya haya llegado a manos de algunos.
+
+Si quieres saber más, te recomendamos mantener los ojos abiertos. Porque [este rom](https://ouo.io/CNAtYL)... **está apareciendo en más lugares de lo que Nintendo quisiera.**
+
+
+
+
 
