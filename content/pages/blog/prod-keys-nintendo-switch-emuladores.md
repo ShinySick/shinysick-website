@@ -3,7 +3,7 @@ type: PostLayout
 title: >-
   ¿Qué son las prod.keys de Nintendo Switch y por qué son tan importantes para
   emular?
-date: '2025-06-06'
+date: '2025-06-17'
 author: content/data/person1.json
 excerpt: >-
   Las prod.keys son archivos esenciales para que los emuladores de Nintendo
