@@ -121,6 +121,7 @@ seo:
       property: 'twitter:card'
       content: summary_large_image
     - type: MetaTag
+      property: 'twitter:title'
 colors: bg-dark-fg-light
 styles:
   self:
