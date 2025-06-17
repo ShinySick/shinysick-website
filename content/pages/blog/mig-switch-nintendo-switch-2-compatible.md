@@ -4,13 +4,14 @@ title: 'MIG Switch y Nintendo Switch 2: ¿Compatibilidad Confirmada?'
 date: '2025-06-17'
 author: content/data/person1.json
 excerpt: >-
-  Aprende a INSTALAR Yuzu Early Access 4176 fué la versión más actualizada de
-  éste emulador, logrando tener un rendimiento muy alto incluso en dispositivos
-  no tan potentes.
+  Con el reciente lanzamiento de la Nintendo Switch 2, muchos usuarios se
+  preguntan si la tarjeta flash MIG Switch, conocida por permitir la ejecución
+  de múltiples juegos en la consola original, es compatible con esta nueva
+  generación.
 featuredImage:
   type: ImageBlock
-  url: /images/yuzu-steam-deck-guia.webp
-  altText: Yuzu Steam Deck Guia Miniatura
+  url: /images/mig-switch-2.webp
+  altText: MIG SWITCH V2 MINIATURA
   elementId: ''
   styles:
     self:
@@ -107,15 +108,21 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Instala Yuzu en Steam Deck y Juega Nintendo Switch - Guía Definitiva 2024
+  metaTitle: 'MIG Switch y Nintendo Switch 2: ¿Compatibilidad Confirmada?'
   metaDescription: >-
-    Descubre cómo instalar el emulador Yuzu en tu Steam Deck y transforma tu
-    experiencia de juego. Sigue nuestra guía definitiva 2024 para jugar tus
-    títulos favoritos de Nintendo Switch con el máximo rendimiento y calidad.
-    ¡Todo lo que necesitas saber, en un solo lugar!
+    ¿Es compatible el MIG Switch V2 con la Nintendo Switch 2? Descubre si este
+    popular adaptador para mandos y periféricos funciona correctamente con la
+    nueva consola de Nintendo. Compatibilidad, funcionamiento y recomendaciones
+    en un solo lugar.
   addTitleSuffix: true
-  socialImage: /images/yuzu-steam-deck-guia.webp
-  metaTags: []
+  socialImage: /images/mig-switch-2.webp
+  metaTags:
+    - type: MetaTag
+      property: 'twitter:card'
+      content: summary_large_image
+    - type: MetaTag
+      property: 'twitter:title'
+      content: 'MIG Switch y Nintendo Switch 2: ¿Compatibilidad Confirmada?'
 colors: bg-dark-fg-light
 styles:
   self:
