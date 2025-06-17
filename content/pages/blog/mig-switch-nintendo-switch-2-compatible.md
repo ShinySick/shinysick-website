@@ -110,10 +110,10 @@ seo:
   type: Seo
   metaTitle: 'MIG Switch y Nintendo Switch 2: ¿Compatibilidad Confirmada?'
   metaDescription: >-
-    Descubre cómo instalar el emulador Yuzu en tu Steam Deck y transforma tu
-    experiencia de juego. Sigue nuestra guía definitiva 2024 para jugar tus
-    títulos favoritos de Nintendo Switch con el máximo rendimiento y calidad.
-    ¡Todo lo que necesitas saber, en un solo lugar!
+    ¿Es compatible el MIG Switch V2 con la Nintendo Switch 2? Descubre si este
+    popular adaptador para mandos y periféricos funciona correctamente con la
+    nueva consola de Nintendo. Compatibilidad, funcionamiento y recomendaciones
+    en un solo lugar.
   addTitleSuffix: true
   socialImage: /images/yuzu-steam-deck-guia.webp
   metaTags: []
