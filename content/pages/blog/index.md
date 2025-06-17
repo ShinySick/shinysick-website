@@ -5,9 +5,9 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: ¡¡NO TE LO PIERDAS!!
-      color: text-dark
       type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
     subtitle: ''
     posts:
       - content/pages/blog/mario-kart-world-xci-nsp-filtracion.md
