@@ -11,7 +11,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/mig-switch-2.webp
-  altText: Yuzu Steam Deck Guia Miniatura
+  altText: MIG SWITCH V2 MINIATURA
   elementId: ''
   styles:
     self:
