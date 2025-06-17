@@ -120,6 +120,7 @@ seo:
     - type: MetaTag
       property: 'twitter:card'
       content: summary_large_image
+    - type: MetaTag
 colors: bg-dark-fg-light
 styles:
   self:
