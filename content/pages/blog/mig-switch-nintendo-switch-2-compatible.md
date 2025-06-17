@@ -122,6 +122,7 @@ seo:
       content: summary_large_image
     - type: MetaTag
       property: 'twitter:title'
+      content: 'MIG Switch y Nintendo Switch 2: ¿Compatibilidad Confirmada?'
 colors: bg-dark-fg-light
 styles:
   self:
