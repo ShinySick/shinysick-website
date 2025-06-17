@@ -6,7 +6,7 @@ enableSearch: true
 topSections:
   - title:
       type: TitleBlock
-      text: ¡¡ NO TE LO PIERDAS !!
+      text: This Is A Big Headline
       color: text-dark
     subtitle: ''
     posts:
