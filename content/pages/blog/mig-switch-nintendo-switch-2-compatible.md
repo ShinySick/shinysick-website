@@ -4,9 +4,10 @@ title: 'MIG Switch y Nintendo Switch 2: ¿Compatibilidad Confirmada?'
 date: '2025-06-17'
 author: content/data/person1.json
 excerpt: >-
-  Aprende a INSTALAR Yuzu Early Access 4176 fué la versión más actualizada de
-  éste emulador, logrando tener un rendimiento muy alto incluso en dispositivos
-  no tan potentes.
+  Con el reciente lanzamiento de la Nintendo Switch 2, muchos usuarios se
+  preguntan si la tarjeta flash MIG Switch, conocida por permitir la ejecución
+  de múltiples juegos en la consola original, es compatible con esta nueva
+  generación.
 featuredImage:
   type: ImageBlock
   url: /images/yuzu-steam-deck-guia.webp
