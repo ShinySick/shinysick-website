@@ -115,7 +115,7 @@ seo:
     nueva consola de Nintendo. Compatibilidad, funcionamiento y recomendaciones
     en un solo lugar.
   addTitleSuffix: true
-  socialImage: /images/yuzu-steam-deck-guia.webp
+  socialImage: /images/mig-switch-2.webp
   metaTags: []
 colors: bg-dark-fg-light
 styles:
