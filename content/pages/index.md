@@ -67,7 +67,7 @@ sections:
         self:
           textAlign: center
     posts:
-      - content/pages/blog/mario-kart-world-xci-nsp-filtracion.md
+      - content/pages/blog/prod-keys-nintendo-switch-emuladores.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
