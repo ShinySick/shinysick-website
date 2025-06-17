@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: 'MIG Switch y Nintendo Switch 2: ¿Compatibilidad Confirmada?'
-date: '2025-06-05'
+date: '2025-06-17'
 author: content/data/person1.json
 excerpt: >-
   Aprende a INSTALAR Yuzu Early Access 4176 fué la versión más actualizada de
