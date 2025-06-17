@@ -10,7 +10,7 @@ excerpt: >-
   generación.
 featuredImage:
   type: ImageBlock
-  url: /images/yuzu-steam-deck-guia.webp
+  url: /images/mig-switch-2.webp
   altText: Yuzu Steam Deck Guia Miniatura
   elementId: ''
   styles:
