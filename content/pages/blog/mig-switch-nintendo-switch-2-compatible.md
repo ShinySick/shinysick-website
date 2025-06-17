@@ -119,6 +119,7 @@ seo:
   metaTags:
     - type: MetaTag
       property: 'twitter:card'
+      content: summary_large_image
 colors: bg-dark-fg-light
 styles:
   self:
