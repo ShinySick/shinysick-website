@@ -106,7 +106,7 @@ bottomSections:
       self:
         justifyContent: center
 slug: /prod-keys-nintendo-switch-emuladores
-isFeatured: false
+isFeatured: true
 isDraft: false
 seo:
   type: Seo
