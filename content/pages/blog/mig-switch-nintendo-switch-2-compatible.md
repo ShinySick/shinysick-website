@@ -116,7 +116,8 @@ seo:
     en un solo lugar.
   addTitleSuffix: true
   socialImage: /images/mig-switch-2.webp
-  metaTags: []
+  metaTags:
+    - type: MetaTag
 colors: bg-dark-fg-light
 styles:
   self:
