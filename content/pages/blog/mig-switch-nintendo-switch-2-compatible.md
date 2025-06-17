@@ -118,6 +118,7 @@ seo:
   socialImage: /images/mig-switch-2.webp
   metaTags:
     - type: MetaTag
+      property: 'twitter:card'
 colors: bg-dark-fg-light
 styles:
   self:
