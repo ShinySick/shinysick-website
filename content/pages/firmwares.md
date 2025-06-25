@@ -60,8 +60,9 @@ sections:
         title: FIRMWARE 20.1.1
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Se solucionó un problema por el cual algunos programas no se iniciaban
+          después de actualizar a la versión del sistema 20.1.0
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
