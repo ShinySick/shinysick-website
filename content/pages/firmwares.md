@@ -56,7 +56,7 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: col
+            flexDirection: row
             textAlign: left
             justifyContent: flex-start
       - type: FeaturedItem
