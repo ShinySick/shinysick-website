@@ -58,7 +58,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: FIRMWARE 20.1.1
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
