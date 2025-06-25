@@ -58,7 +58,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             textAlign: left
-            justifyContent: center
+            justifyContent: flex-start
       - type: FeaturedItem
         title: FIRMWARE 20.1.1
         tagline: ''
