@@ -59,7 +59,7 @@ sections:
       - type: FeaturedItem
         title: FIRMWARE 20.1.1
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
