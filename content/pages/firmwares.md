@@ -75,7 +75,7 @@ sections:
             label: Descargar
             altText: ''
             url: 'https://ouo.io/1GV5vO'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
