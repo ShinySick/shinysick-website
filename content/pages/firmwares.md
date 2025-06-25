@@ -25,9 +25,7 @@ sections:
       - type: FeaturedItem
         title: FIRMWARE 20.1.5
         tagline: ¡¡ Más Reciente !!
-        subtitle: >-
-          Se solucionó un problema por el cual algunos programas no se iniciaban
-          después de actualizar a la versión del sistema 20.1.0
+        subtitle: "Arregla errores de compatibilidad en juegos de Switch 1 en Switch 2... Como si eso importara al emular. \U0001F440"
         text: ''
         image:
           type: ImageBlock
