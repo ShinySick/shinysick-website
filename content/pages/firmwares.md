@@ -65,7 +65,7 @@ sections:
           después de actualizar a la versión del sistema 20.1.0
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/luigi.webp
           altText: Placeholder text
           styles:
             self:
