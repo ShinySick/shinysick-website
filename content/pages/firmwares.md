@@ -29,7 +29,10 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/luigi.webp
+          url: >-
+            /images/A character inspired by Mario Bros, with a yellow outfit
+            with red details, a happy face, and confetti in the eyes, now with
+            pink and sky blue colors..png
           altText: Placeholder text
           styles:
             self:
