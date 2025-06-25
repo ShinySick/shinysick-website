@@ -44,7 +44,7 @@ sections:
             url: 'https://ouo.io/cABCo6'
             showIcon: true
             icon: arrowDown
-            iconPosition: right
+            iconPosition: left
             style: secondary
             elementId: ''
         colors: bg-dark-fg-light
