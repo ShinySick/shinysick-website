@@ -37,7 +37,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: Descargar Firmware 20
+            altText: Descargar Firmware 20.1.5
             url: 'https://ouo.io/cABCo6'
             showIcon: true
             icon: arrowDown
