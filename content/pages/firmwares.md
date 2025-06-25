@@ -76,7 +76,7 @@ sections:
             altText: ''
             url: 'https://ouo.io/1GV5vO'
             showIcon: true
-            icon: arrowRight
+            icon: arrowDown
             iconPosition: right
             style: primary
             elementId: ''
