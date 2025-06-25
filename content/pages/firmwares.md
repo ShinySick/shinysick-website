@@ -72,7 +72,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Descargar
             altText: ''
             url: 'https://ouo.io/1GV5vO'
             showIcon: false
