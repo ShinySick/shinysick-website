@@ -57,7 +57,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: FIRMWARE 20.1.5
+        title: FIRMWARE 20.1.1
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
