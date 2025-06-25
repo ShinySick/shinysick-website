@@ -57,6 +57,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            textAlign: right
       - type: FeaturedItem
         title: FIRMWARE 20.1.1
         tagline: ''
