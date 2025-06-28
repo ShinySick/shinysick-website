@@ -282,7 +282,7 @@ seo:
   type: Seo
   metaTitle: Descargar ProdKeys del Emulador Sumi
   metaDescription: >-
-    Obtén los ProdKeys necesarios para ejecutar juegos en el emulador Citron
+    Obtén los ProdKeys necesarios para ejecutar juegos en el emulador Sumi
     fácilmente.
   addTitleSuffix: true
   socialImage: /images/citron-prodkeys-miniatura-2.webp
