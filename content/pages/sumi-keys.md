@@ -285,6 +285,6 @@ seo:
     Obtén los ProdKeys necesarios para ejecutar juegos en el emulador Sumi
     fácilmente.
   addTitleSuffix: true
-  socialImage: /images/citron-prodkeys-miniatura-2.webp
+  socialImage: /images/sumi-prodkeys--thumbnail.webp
   metaTags: []
 ---
