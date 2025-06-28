@@ -13,6 +13,38 @@ sections:
     subtitle: No le cuentes a nadie.
     items:
       - type: FeaturedItem
+        title: Sudachi ProdKeys 20.1.5
+        tagline: ''
+        subtitle: "No hacen milagros... Pero ahi estan \U0001F525\U0001F525"
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Descargar
+            altText: ''
+            url: 'https://ouo.io/VnO5jT'
+            showIcon: true
+            icon: arrowDown
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
         title: Sudachi ProdKeys 20.1.1
         tagline: ''
         subtitle: "Disponible hasta que Nintendo las Tire \U0001F440"
