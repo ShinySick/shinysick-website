@@ -206,7 +206,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Citron Prodkeys 16.X.X
+        title: Sumi Prodkeys 16.X.X
         tagline: ''
         subtitle: Segúro viste un tutorial muy viejo x.x
         text: ''
