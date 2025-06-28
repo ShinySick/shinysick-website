@@ -249,8 +249,8 @@ sections:
         price: MAGIA
         details: Prod.Keys
         description: >
-          Segundo Fork que intento revivir el legado de YUZU... sin mucho exito
-          pero igual tiene mejoras a probar.
+          Ultimo Fork conocido de Yuzu, creado a partir de "Citron" (Aunque
+          digan que no)
         features:
           - Windows
           - Android
