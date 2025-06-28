@@ -129,7 +129,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: Descargar Prodkeys sudachi
+            altText: Descargar Prodkeys Sumi
             url: /sumi-keys
             showIcon: true
             icon: arrowDown
