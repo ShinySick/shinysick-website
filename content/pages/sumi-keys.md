@@ -45,7 +45,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Citron ProdKeys 20.1.1
+        title: Sumi ProdKeys 20.1.1
         tagline: ''
         subtitle: "Disponible hasta que Nintendo las Tire \U0001F440"
         text: ''
