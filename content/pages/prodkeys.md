@@ -79,40 +79,6 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Early Access 4176 + Optimized
-        price: MAGIA
-        details: Prod.Keys
-        description: |
-          Aunque cesó su desarrollo aún puede correr algunos juegos recientes.
-
-          Las keys son compatibles con las siguientes plataformas:
-        features:
-          - Windows
-          - Android
-          - Linux
-        image:
-          type: ImageBlock
-          url: /images/yuzu-prodkeys-miniatura.webp
-          altText: Pricing plan 1
-        actions:
-          - type: Button
-            label: Descargar
-            url: /yuzu-keys
-            icon: arrowDown
-            iconPosition: right
-            style: secondary
-            showIcon: true
-            altText: Descargar Prodkeys Yuzu
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-      - type: PricingPlan
         title: Ryujinx 1.2 + LDN
         price: MAGIA
         details: Prod.Keys
@@ -137,6 +103,40 @@ sections:
             style: secondary
             showIcon: true
             altText: Descargar Prodkeys Ryujinx
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
+        title: Early Access 4176 + Optimized
+        price: MAGIA
+        details: Prod.Keys
+        description: |
+          Aunque cesó su desarrollo aún puede correr algunos juegos recientes.
+
+          Las keys son compatibles con las siguientes plataformas:
+        features:
+          - Windows
+          - Android
+          - Linux
+        image:
+          type: ImageBlock
+          url: /images/yuzu-prodkeys-miniatura.webp
+          altText: Pricing plan 1
+        actions:
+          - type: Button
+            label: Descargar
+            url: /yuzu-keys
+            icon: arrowDown
+            iconPosition: right
+            style: secondary
+            showIcon: true
+            altText: Descargar Prodkeys Yuzu
         colors: bg-dark-fg-light
         styles:
           self:
