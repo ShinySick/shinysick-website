@@ -45,30 +45,30 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Early Access 4176 + Optimized
+        title: Citron 0.6.1
         price: MAGIA
-        details: Prod.Keys
-        description: |
-          Aunque cesó su desarrollo aún puede correr algunos juegos recientes.
-
-          Las keys son compatibles con las siguientes plataformas:
+        details: Prod.keys
+        description: >
+          Segundo proyecto más grande despues de Ryujinx 1.2 con actualizaciones
+          de desarrollo constante.
         features:
           - Windows
-          - Android
           - Linux
+          - Mac
+          - Android
         image:
           type: ImageBlock
-          url: /images/yuzu-prodkeys-miniatura.webp
+          url: /images/citron-prodkeys-miniatura.webp
           altText: Pricing plan 1
         actions:
           - type: Button
             label: Descargar
-            url: /yuzu-keys
+            url: /citron-keys
             icon: arrowDown
             iconPosition: right
             style: secondary
             showIcon: true
-            altText: Descargar Prodkeys Yuzu
+            altText: Descargar ProdKeys Citron
         colors: bg-dark-fg-light
         styles:
           self:
@@ -113,30 +113,28 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Citron 0.6.1
+        title: Sumi 0.9.4
         price: MAGIA
-        details: Prod.keys
+        details: Prod.Keys
         description: >
-          Segundo proyecto más grande despues de Ryujinx 1.2 con actualizaciones
-          de desarrollo constante.
+          Ultimo Fork conocido de Yuzu, creado a partir de "Citron" (Aunque
+          digan que no)
         features:
           - Windows
-          - Linux
-          - Mac
           - Android
         image:
           type: ImageBlock
-          url: /images/citron-prodkeys-miniatura.webp
+          url: /images/sumi-prodkeys.webp
           altText: Pricing plan 1
         actions:
           - type: Button
             label: Descargar
-            url: /citron-keys
+            altText: Descargar Prodkeys sudachi
+            url: /sudachi-keys
+            showIcon: true
             icon: arrowDown
             iconPosition: right
             style: secondary
-            showIcon: true
-            altText: Descargar ProdKeys Citron
         colors: bg-dark-fg-light
         styles:
           self:
@@ -147,30 +145,63 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Suyu 0.0.3
+        title: Early Access 4176 + Optimized
         price: MAGIA
         details: Prod.Keys
-        description: >
-          Conitnuación del emulador YUZU, pero nació muerto... Sí lo usas...
-          enserio?
+        description: |
+          Aunque cesó su desarrollo aún puede correr algunos juegos recientes.
+
+          Las keys son compatibles con las siguientes plataformas:
         features:
           - Windows
           - Android
           - Linux
-          - Mac
         image:
           type: ImageBlock
-          url: /images/suyu-prodkeys-miniatura.webp
-          altText: Pricing plan 3
+          url: /images/yuzu-prodkeys-miniatura.webp
+          altText: Pricing plan 1
         actions:
           - type: Button
             label: Descargar
-            url: /suyu-keys
+            url: /yuzu-keys
             icon: arrowDown
             iconPosition: right
             style: secondary
             showIcon: true
-            altText: Descargar Prodkeys Suyu
+            altText: Descargar Prodkeys Yuzu
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
+        title: Sudachi 1.0.15
+        price: MAGIA
+        details: Prod.Keys
+        description: >
+          Segundo Fork que intento revivir el legado de YUZU... sin mucho exito
+          pero igual tiene mejoras a probar.
+        features:
+          - Windows
+          - Android
+          - Linux
+        image:
+          type: ImageBlock
+          url: /images/sudachi-prodkeys-miniatura.webp
+          altText: Pricing plan 1
+        actions:
+          - type: Button
+            label: Descargar
+            url: /sudachi-keys
+            icon: arrowDown
+            iconPosition: right
+            style: secondary
+            showIcon: true
+            altText: Descargar Prodkeys sudachi
         colors: bg-dark-fg-light
         styles:
           self:
@@ -212,29 +243,30 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Sudachi 1.0.15
+        title: Suyu 0.0.3
         price: MAGIA
         details: Prod.Keys
         description: >
-          Segundo Fork que intento revivir el legado de YUZU... sin mucho exito
-          pero igual tiene mejoras a probar.
+          Conitnuación del emulador YUZU, pero nació muerto... Sí lo usas...
+          enserio?
         features:
           - Windows
           - Android
           - Linux
+          - Mac
         image:
           type: ImageBlock
-          url: /images/sudachi-prodkeys-miniatura.webp
-          altText: Pricing plan 1
+          url: /images/suyu-prodkeys-miniatura.webp
+          altText: Pricing plan 3
         actions:
           - type: Button
             label: Descargar
-            url: /sudachi-keys
+            url: /suyu-keys
             icon: arrowDown
             iconPosition: right
             style: secondary
             showIcon: true
-            altText: Descargar Prodkeys sudachi
+            altText: Descargar Prodkeys Suyu
         colors: bg-dark-fg-light
         styles:
           self:
