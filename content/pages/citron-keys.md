@@ -15,9 +15,7 @@ sections:
       - type: FeaturedItem
         title: Citron ProdKeys 20.1.5
         tagline: ''
-        subtitle: >-
-          Las más recientes y probablemente las ultimas por culpa de la Switch
-          2.
+        subtitle: "No hacen milagros... Pero ahi estan \U0001F525\U0001F525"
         text: ''
         image:
           type: ImageBlock
