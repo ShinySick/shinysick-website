@@ -104,7 +104,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Citron Prodkeys 19.0.0
+        title: Sumi Prodkeys 19.0.0
         tagline: ''
         subtitle: No le des clic al enlace de abajo ;)
         text: ''
