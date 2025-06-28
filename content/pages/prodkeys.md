@@ -256,7 +256,7 @@ sections:
           - Android
         image:
           type: ImageBlock
-          url: /images/sudachi-prodkeys-miniatura.webp
+          url: /images/sumi-prodkeys.webp
           altText: Pricing plan 1
         actions:
           - type: Button
