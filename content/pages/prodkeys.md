@@ -181,37 +181,6 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Uzuy MMJR
-        price: MAGIA
-        details: Prod.Keys
-        description: >
-          UZUY Cesó su desarrollo... pero renació en CITRON así que todas las
-          mejoras estan ahi.
-        features:
-          - Android
-        image:
-          type: ImageBlock
-          url: /images/uzuy-prodkeys-miniatura.webp
-          altText: Uzuy Prodkeys Mini
-        actions:
-          - type: Button
-            label: Descargar
-            url: /uzuy-keys
-            icon: arrowDown
-            iconPosition: right
-            style: secondary
-            showIcon: true
-            altText: Descargar Prodkeys uzuy
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-      - type: PricingPlan
         title: Sumi 0.9.4
         price: MAGIA
         details: Prod.Keys
@@ -234,6 +203,37 @@ sections:
             icon: arrowDown
             iconPosition: right
             style: secondary
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
+        title: Uzuy MMJR
+        price: MAGIA
+        details: Prod.Keys
+        description: >
+          UZUY Cesó su desarrollo... pero renació en CITRON así que todas las
+          mejoras estan ahi.
+        features:
+          - Android
+        image:
+          type: ImageBlock
+          url: /images/uzuy-prodkeys-miniatura.webp
+          altText: Uzuy Prodkeys Mini
+        actions:
+          - type: Button
+            label: Descargar
+            url: /uzuy-keys
+            icon: arrowDown
+            iconPosition: right
+            style: secondary
+            showIcon: true
+            altText: Descargar Prodkeys uzuy
         colors: bg-dark-fg-light
         styles:
           self:
