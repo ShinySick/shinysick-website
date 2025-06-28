@@ -111,40 +111,6 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Ryujinx 1.2 + LDN
-        price: MAGIA
-        details: Prod.Keys
-        description: >
-          Continuación del Ryujinx original, ahora desarrollado por GreemDev,
-          sigue funcionando PERFECTO.
-        features:
-          - Windows
-          - Linux
-          - Mac
-          - Android
-        image:
-          type: ImageBlock
-          url: /images/ryujinx-prodkeys-miniatura.webp
-          altText: Pricing plan 2
-        actions:
-          - type: Button
-            label: Descargar
-            url: /ryujinx-keys
-            icon: arrowDown
-            iconPosition: right
-            style: secondary
-            showIcon: true
-            altText: Descargar Prodkeys Ryujinx
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-      - type: PricingPlan
         title: Citron 0.6.1
         price: MAGIA
         details: Prod.keys
@@ -169,6 +135,40 @@ sections:
             style: secondary
             showIcon: true
             altText: Descargar ProdKeys Citron
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
+        title: Ryujinx 1.2 + LDN
+        price: MAGIA
+        details: Prod.Keys
+        description: >
+          Continuación del Ryujinx original, ahora desarrollado por GreemDev,
+          sigue funcionando PERFECTO.
+        features:
+          - Windows
+          - Linux
+          - Mac
+          - Android
+        image:
+          type: ImageBlock
+          url: /images/ryujinx-prodkeys-miniatura.webp
+          altText: Pricing plan 2
+        actions:
+          - type: Button
+            label: Descargar
+            url: /ryujinx-keys
+            icon: arrowDown
+            iconPosition: right
+            style: secondary
+            showIcon: true
+            altText: Descargar Prodkeys Ryujinx
         colors: bg-dark-fg-light
         styles:
           self:
