@@ -157,7 +157,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Citron Prodkeys 18.0.0
+        title: Sumi Prodkeys 18.0.0
         subtitle: Sirven para el Menú de Switch en Suyu y Sudachi ;)
         text: ''
         actions:
