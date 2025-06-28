@@ -245,7 +245,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Sumi 1.0.15
+        title: Sumi 0.9.4
         price: MAGIA
         details: Prod.Keys
         description: >
