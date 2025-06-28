@@ -254,7 +254,7 @@ sections:
         features:
           - Windows
           - Android
-          - Linux
+          - ''
         image:
           type: ImageBlock
           url: /images/sudachi-prodkeys-miniatura.webp
