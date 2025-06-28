@@ -179,6 +179,39 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
+        title: Sudachi 1.0.15
+        price: MAGIA
+        details: Prod.Keys
+        description: >
+          Segundo Fork que intento revivir el legado de YUZU... sin mucho exito
+          pero igual tiene mejoras a probar.
+        features:
+          - Windows
+          - Android
+          - Linux
+        image:
+          type: ImageBlock
+          url: /images/sudachi-prodkeys-miniatura.webp
+          altText: Pricing plan 1
+        actions:
+          - type: Button
+            label: Descargar
+            url: /sudachi-keys
+            icon: arrowDown
+            iconPosition: right
+            style: secondary
+            showIcon: true
+            altText: Descargar Prodkeys sudachi
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
         title: Suyu 0.0.3
         price: MAGIA
         details: Prod.Keys
@@ -203,39 +236,6 @@ sections:
             style: secondary
             showIcon: true
             altText: Descargar Prodkeys Suyu
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-      - type: PricingPlan
-        title: Sudachi 1.0.15
-        price: MAGIA
-        details: Prod.Keys
-        description: >
-          Segundo Fork que intento revivir el legado de YUZU... sin mucho exito
-          pero igual tiene mejoras a probar.
-        features:
-          - Windows
-          - Android
-          - Linux
-        image:
-          type: ImageBlock
-          url: /images/sudachi-prodkeys-miniatura.webp
-          altText: Pricing plan 1
-        actions:
-          - type: Button
-            label: Descargar
-            url: /sudachi-keys
-            icon: arrowDown
-            iconPosition: right
-            style: secondary
-            showIcon: true
-            altText: Descargar Prodkeys sudachi
         colors: bg-dark-fg-light
         styles:
           self:
