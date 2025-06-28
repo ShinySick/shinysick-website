@@ -129,8 +129,8 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: Descargar Prodkeys sudachi
-            url: /sudachi-keys
+            altText: Descargar Prodkeys Sumi
+            url: /sumi-keys
             showIcon: true
             icon: arrowDown
             iconPosition: right
