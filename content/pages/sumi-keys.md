@@ -280,7 +280,7 @@ slug: /sumi-keys
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Descargar ProdKeys del Emulador Citron
+  metaTitle: Descargar ProdKeys del Emulador Sumi
   metaDescription: >-
     Obtén los ProdKeys necesarios para ejecutar juegos en el emulador Citron
     fácilmente.
