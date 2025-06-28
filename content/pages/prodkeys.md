@@ -212,6 +212,38 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
+        title: Sumi 0.9.4
+        price: MAGIA
+        details: Prod.Keys
+        description: >
+          Ultimo Fork conocido de Yuzu, creado a partir de "Citron" (Aunque
+          digan que no)
+        features:
+          - Windows
+          - Android
+        image:
+          type: ImageBlock
+          url: /images/sumi-prodkeys.webp
+          altText: Pricing plan 1
+        actions:
+          - type: Button
+            label: Descargar
+            altText: Descargar Prodkeys sudachi
+            url: /sudachi-keys
+            showIcon: true
+            icon: arrowDown
+            iconPosition: right
+            style: secondary
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
         title: Sudachi 1.0.15
         price: MAGIA
         details: Prod.Keys
@@ -235,38 +267,6 @@ sections:
             style: secondary
             showIcon: true
             altText: Descargar Prodkeys sudachi
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-      - type: PricingPlan
-        title: Sumi 0.9.4
-        price: MAGIA
-        details: Prod.Keys
-        description: >
-          Ultimo Fork conocido de Yuzu, creado a partir de "Citron" (Aunque
-          digan que no)
-        features:
-          - Windows
-          - Android
-        image:
-          type: ImageBlock
-          url: /images/sumi-prodkeys.webp
-          altText: Pricing plan 1
-        actions:
-          - type: Button
-            label: Descargar
-            altText: Descargar Prodkeys sudachi
-            url: /sudachi-keys
-            showIcon: true
-            icon: arrowDown
-            iconPosition: right
-            style: secondary
         colors: bg-dark-fg-light
         styles:
           self:
