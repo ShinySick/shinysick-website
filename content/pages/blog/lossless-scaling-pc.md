@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Como Usar Lossless Scaling Correctamente
+title: Como Usar Lossless Scaling Correctamente l
 date: '2024-10-21'
 author: content/data/person1.json
 excerpt: "DESCARGA MÁS FPS en CUALQUIER PC incluso de GAMA BAJA. \U0001F632"
