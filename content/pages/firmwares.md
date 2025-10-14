@@ -59,6 +59,40 @@ sections:
             textAlign: left
             justifyContent: flex-start
       - type: FeaturedItem
+        title: FIRMWARE 20.4.0
+        tagline: ''
+        subtitle: "No hay cambios para emulador... pero vale probar con todos. \U0001F440"
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/firmware 20.4.0.webp
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Descargar
+            altText: Descargar Firmware 20.4.0
+            url: 'https://ouo.io/86chAA'
+            showIcon: true
+            icon: arrowDown
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: flex-start
+      - type: FeaturedItem
         title: FIRMWARE 20.1.5
         tagline: ''
         subtitle: "Arregla errores de compatibilidad en juegos de Switch 1 en Switch 2... Como si eso importara al emular. \U0001F440"
