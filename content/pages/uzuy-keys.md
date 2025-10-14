@@ -83,7 +83,7 @@ sections:
       - type: FeaturedItem
         title: Uzuy ProdKeys 20.3.0
         tagline: ''
-        subtitle: Prodkeys 20.2.0 para emuladores de Switch
+        subtitle: Prodkeys 20.3.0 para emuladores de Switch
         text: ''
         image:
           type: ImageBlock
