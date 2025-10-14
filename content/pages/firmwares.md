@@ -40,7 +40,7 @@ sections:
           - type: Button
             label: Descargar
             altText: Descargar Firmware 20.1.5
-            url: 'https://ouo.io/cABCo6'
+            url: 'https://ouo.io/aliMn4'
             showIcon: true
             icon: arrowDown
             iconPosition: right
