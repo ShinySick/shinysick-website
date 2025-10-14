@@ -47,7 +47,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Yuzu ProdKeys 20.4.0
+        title: Eden ProdKeys 20.4.0
         tagline: ''
         subtitle: ProdKeys Version 20.4.0 para Emuladores
         text: ''
