@@ -13,7 +13,7 @@ sections:
     subtitle: No le cuentes a nadie.
     items:
       - type: FeaturedItem
-        title: Sumi ProdKeys 20.0.0
+        title: Sumi ProdKeys 20.3.0
         tagline: ''
         subtitle: >-
           Las más recientes y probablemente las ultimas por culpa de la Switch
