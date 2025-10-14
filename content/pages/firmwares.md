@@ -65,7 +65,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/firmware 20.4.0.webp
+          url: /images/firmware 20.4.02.webp
           altText: Placeholder text
           styles:
             self:
