@@ -74,7 +74,7 @@ sections:
           - type: Button
             label: Descargar
             altText: Descargar Firmware 20.1.5
-            url: 'https://ouo.io/cABCo6'
+            url: 'https://ouo.io/86chAA'
             showIcon: true
             icon: arrowDown
             iconPosition: right
