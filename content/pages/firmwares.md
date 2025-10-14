@@ -31,10 +31,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: >-
-            /images/A character inspired by Mario Bros, with a yellow outfit
-            with red details, a happy face, and confetti in the eyes, now with
-            pink and sky blue colors..png
+          url: /images/firmware 20.5.0.webp
           altText: Placeholder text
           styles:
             self:
