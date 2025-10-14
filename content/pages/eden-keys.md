@@ -15,9 +15,7 @@ sections:
       - type: FeaturedItem
         title: Eden ProdKeys 20.2.0
         tagline: ''
-        subtitle: >-
-          Las más recientes y probablemente las ultimas por culpa de la Switch
-          2.
+        subtitle: ''
         text: ''
         image:
           type: ImageBlock
