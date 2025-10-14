@@ -79,7 +79,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Ryujinx 1.2 + LDN
+        title: Ryujinx 1.3 + LDN
         price: MAGIA
         details: Prod.Keys
         description: >
