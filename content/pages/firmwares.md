@@ -136,7 +136,7 @@ sections:
       - type: FeaturedItem
         title: FIRMWARE 20.2.0
         tagline: ¡¡ Más Reciente !!
-        subtitle: Arreglaron errores de
+        subtitle: Arreglaron errores del control parental en Switch 2...
         text: ''
         image:
           type: ImageBlock
