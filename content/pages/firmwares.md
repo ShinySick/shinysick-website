@@ -25,7 +25,9 @@ sections:
       - type: FeaturedItem
         title: FIRMWARE 20.5.0
         tagline: ¡¡ Más Reciente !!
-        subtitle: "Arregla errores de compatibilidad en juegos de Switch 1 en Switch 2... Como si eso importara al emular. \U0001F440"
+        subtitle: >-
+          No hay cambios notorios, pero es el más reciente para Pokemon Legends
+          AZ.
         text: ''
         image:
           type: ImageBlock
