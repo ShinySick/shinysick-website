@@ -15,9 +15,7 @@ sections:
       - type: FeaturedItem
         title: Yuzu ProdKeys 20.4.0
         tagline: ''
-        subtitle: >-
-          Las más recientes y probablemente las ultimas por culpa de la Switch
-          2.
+        subtitle: ProdKeys Version 20.4.0 para Emuladores
         text: ''
         image:
           type: ImageBlock
