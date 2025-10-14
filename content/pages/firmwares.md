@@ -60,7 +60,7 @@ sections:
             justifyContent: flex-start
       - type: FeaturedItem
         title: FIRMWARE 20.4.0
-        tagline: ¡¡ Más Reciente !!
+        tagline: ''
         subtitle: "No hay cambios para emulador... pero vale probar con todos. \U0001F440"
         text: ''
         image:
