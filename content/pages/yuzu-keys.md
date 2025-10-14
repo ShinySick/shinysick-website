@@ -16,8 +16,8 @@ sections:
         title: Yuzu ProdKeys 20.5.0
         tagline: ''
         subtitle: >-
-          Las más recientes y probablemente las ultimas por culpa de la Switch
-          2.
+          Prodkeys 20.5.0 para emuladores de Switch (Necesarias para Pokemon
+          Legends AZ)
         text: ''
         image:
           type: ImageBlock
