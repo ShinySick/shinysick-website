@@ -62,8 +62,7 @@ sections:
           - type: Button
             label: Descargar
             altText: ''
-            url: >-
-              https://drive.google.com/file/d/1POs5NqUZ-dnV6kyiPeXDNE2ewecDEL5-/view?usp=sharing
+            url: 'https://ouo.io/nUK1s1'
             showIcon: true
             icon: arrowDown
             iconPosition: right
