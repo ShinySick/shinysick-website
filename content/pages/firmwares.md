@@ -60,7 +60,7 @@ sections:
             justifyContent: flex-start
       - type: FeaturedItem
         title: FIRMWARE 20.1.5
-        tagline: ¡¡ Más Reciente !!
+        tagline: ''
         subtitle: "Arregla errores de compatibilidad en juegos de Switch 1 en Switch 2... Como si eso importara al emular. \U0001F440"
         text: ''
         image:
