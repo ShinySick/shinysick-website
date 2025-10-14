@@ -99,7 +99,9 @@ sections:
       - type: FeaturedItem
         title: FIRMWARE 20.3.0
         tagline: ¡¡ Más Reciente !!
-        subtitle: "Arregla errores de compatibilidad en juegos de Switch 1 en Switch 2... Como si eso importara al emular. \U0001F440"
+        subtitle: >-
+          Mejoras en estabilidad y experiencia del usuario... en consola...
+          (Igual funciona en el Emulador)
         text: ''
         image:
           type: ImageBlock
