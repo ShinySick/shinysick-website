@@ -16,8 +16,8 @@ sections:
         title: Eden ProdKeys 20.5.0
         tagline: ''
         subtitle: >-
-          Las más recientes y probablemente las ultimas por culpa de la Switch
-          2.
+          ProdKeys Más recientes para Emuladores (Necesarias para Pokemon
+          Legends AZ)
         text: ''
         image:
           type: ImageBlock
