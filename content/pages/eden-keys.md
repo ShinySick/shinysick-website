@@ -15,9 +15,7 @@ sections:
       - type: FeaturedItem
         title: Eden ProdKeys 20.3.0
         tagline: ''
-        subtitle: >-
-          Las más recientes y probablemente las ultimas por culpa de la Switch
-          2.
+        subtitle: Prodkeys version 20.3.0 para Emuladores
         text: ''
         image:
           type: ImageBlock
