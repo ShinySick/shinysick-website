@@ -13,6 +13,136 @@ sections:
     subtitle: No le cuentes a nadie.
     items:
       - type: FeaturedItem
+        title: Eden ProdKeys 20.5.0
+        tagline: ''
+        subtitle: >-
+          ProdKeys Más recientes para Emuladores (Necesarias para Pokemon
+          Legends AZ)
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Descargar
+            altText: ''
+            url: 'https://ouo.io/J1Xm1n'
+            showIcon: true
+            icon: arrowDown
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Yuzu ProdKeys 20.4.0
+        tagline: ''
+        subtitle: ProdKeys Version 20.4.0 para Emuladores
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Descargar
+            altText: ''
+            url: 'https://ouo.io/nUK1s1'
+            showIcon: true
+            icon: arrowDown
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Eden ProdKeys 20.3.0
+        tagline: ''
+        subtitle: Prodkeys version 20.3.0 para Emuladores
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Descargar
+            altText: ''
+            url: 'https://ouo.io/BlIHzj'
+            showIcon: true
+            icon: arrowDown
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Eden ProdKeys 20.2.0
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Descargar
+            altText: ''
+            url: 'https://ouo.io/7W3D4Q'
+            showIcon: true
+            icon: arrowDown
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
         title: Eden ProdKeys 20.1.5
         tagline: ''
         subtitle: "No hacen milagros... Pero ahi estan \U0001F525\U0001F525"
