@@ -116,9 +116,7 @@ sections:
       - type: FeaturedItem
         title: Suyu ProdKeys 20.2.0
         tagline: ''
-        subtitle: >-
-          Las más recientes y probablemente las ultimas por culpa de la Switch
-          2.
+        subtitle: Prodkeys 20.2.0 para emuladores de Switch
         text: ''
         image:
           type: ImageBlock
