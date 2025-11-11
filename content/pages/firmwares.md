@@ -31,7 +31,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/firmware 20.5.0.webp
+          url: /images/Bless chainy.png
           altText: Placeholder text
           styles:
             self:
