@@ -26,8 +26,8 @@ sections:
         title: FIRMWARE 21.0.0
         tagline: ¡¡ Más Reciente !!
         subtitle: >-
-          No hay cambios notorios, pero es el más reciente para Pokemon Legends
-          AZ.
+          Los cambios importantes son para Consola Fisica, usar bajo su propio
+          criterio.
         text: ''
         image:
           type: ImageBlock
