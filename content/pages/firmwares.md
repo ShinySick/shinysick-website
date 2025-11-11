@@ -60,7 +60,7 @@ sections:
             justifyContent: flex-start
       - type: FeaturedItem
         title: FIRMWARE 20.5.0
-        tagline: ¡¡ Más Reciente !!
+        tagline: ''
         subtitle: >-
           No hay cambios notorios, pero es el más reciente para Pokemon Legends
           AZ.
