@@ -26,8 +26,8 @@ sections:
         title: FIRMWARE 21.0.1
         tagline: ¡¡ Más Reciente !!
         subtitle: >-
-          Los cambios importantes son para Consola Fisica, usar bajo su propio
-          criterio.
+          Arregló un error al transferir datos locales de una Switch a otra...
+          Pero nada interesante pal emulador. (Igual descargalo)
         text: ''
         image:
           type: ImageBlock
