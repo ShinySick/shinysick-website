@@ -45,7 +45,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Eden ProdKeys 20.0.0
+        title: Eden ProdKeys 21.0.0
         tagline: ''
         subtitle: ProdKeys Más estables para Emuladores.
         text: ''
