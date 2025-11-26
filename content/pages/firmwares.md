@@ -60,7 +60,7 @@ sections:
             justifyContent: flex-start
       - type: FeaturedItem
         title: FIRMWARE 21.0.0
-        tagline: ¡¡ Más Reciente !!
+        tagline: ''
         subtitle: >-
           Los cambios importantes son para Consola Fisica, usar bajo su propio
           criterio.
