@@ -31,7 +31,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/Bless chainy.png
+          url: /images/firmware 21.0.1.png
           altText: Placeholder text
           styles:
             self:
