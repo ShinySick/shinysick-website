@@ -60,7 +60,7 @@ sections:
           - type: Button
             label: Descargar
             altText: ''
-            url: 'https://ouo.io/P7XCXk'
+            url: ''
             showIcon: true
             icon: arrowDown
             iconPosition: right
