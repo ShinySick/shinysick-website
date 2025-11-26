@@ -47,7 +47,7 @@ sections:
       - type: FeaturedItem
         title: Sumi ProdKeys 21.0.0
         tagline: ''
-        subtitle: ProdKeys Más recientes para Emuladores.
+        subtitle: ProdKeys Más estables para Emuladores.
         text: ''
         image:
           type: ImageBlock
