@@ -13,7 +13,7 @@ sections:
     subtitle: No le cuentes a nadie.
     items:
       - type: FeaturedItem
-        title: Eden ProdKeys 21.0.1
+        title: Citron ProdKeys 21.0.1
         tagline: ''
         subtitle: ProdKeys Más recientes para Emuladores.
         text: ''
@@ -45,7 +45,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Eden ProdKeys 21.0.0
+        title: Citron ProdKeys 21.0.0
         tagline: ''
         subtitle: ProdKeys Más estables para Emuladores.
         text: ''
