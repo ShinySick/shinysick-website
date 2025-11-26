@@ -13,6 +13,70 @@ sections:
     subtitle: No le cuentes a nadie.
     items:
       - type: FeaturedItem
+        title: Suyu ProdKeys 21.0.1
+        tagline: ''
+        subtitle: ProdKeys Más recientes para Emuladores.
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Descargar
+            altText: ''
+            url: 'https://ouo.io/P7XCXk'
+            showIcon: true
+            icon: arrowDown
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Suyu ProdKeys 21.0.0
+        tagline: ''
+        subtitle: ProdKeys Más estables para Emuladores.
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Descargar
+            altText: ''
+            url: 'https://ouo.io/2dMeAk6'
+            showIcon: true
+            icon: arrowDown
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
         title: Suyu ProdKeys 20.5.0
         tagline: ''
         subtitle: >-
