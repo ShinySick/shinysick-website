@@ -15,9 +15,7 @@ sections:
       - type: FeaturedItem
         title: Eden ProdKeys 21.0.0
         tagline: ''
-        subtitle: >-
-          ProdKeys Más recientes para Emuladores (Necesarias para Pokemon
-          Legends AZ)
+        subtitle: ProdKeys estables para emuladores.
         text: ''
         image:
           type: ImageBlock
