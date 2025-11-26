@@ -13,7 +13,7 @@ sections:
     subtitle: Aquí NO ESTÁ lo que buscas ;)
     plans:
       - type: PricingPlan
-        title: Eden 0.0.3
+        title: Eden 0.0.4
         price: MAGIA
         details: Prod.Keys
         description: >
@@ -45,7 +45,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Citron 0.8.0
+        title: Citron 0.11.0
         price: MAGIA
         details: Prod.keys
         description: >
