@@ -29,7 +29,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/firmware 21.0.1.png
+          url: /images/canelita.png
           altText: Placeholder text
           styles:
             self:
