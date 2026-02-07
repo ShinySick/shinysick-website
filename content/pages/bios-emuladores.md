@@ -19,7 +19,7 @@ sections:
         description: |
           Incluye las BIOS más utilizadas para todos los emuladores de PS1:
         features:
-          - Feature one
+          - SCPH1000
           - Feature two
           - Feature three
           - Feature four
