@@ -54,7 +54,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "BIOS",
             "altText": "",
             "url": "/bios",
             "showIcon": false,
