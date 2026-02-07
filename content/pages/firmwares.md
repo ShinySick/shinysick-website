@@ -26,8 +26,8 @@ sections:
         title: FIRMWARE 21.2.0
         tagline: ¡¡ Más Reciente !!
         subtitle: >-
-          Arregló un error al transferir datos locales de una Switch a otra...
-          Pero nada interesante pal emulador. (Igual descargalo)
+          MÁS Mejoras de estabilidad y rendimiento... Utilizalo solo si de
+          verdad lo necesita algun juego.
         text: ''
         image:
           type: ImageBlock
