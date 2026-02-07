@@ -15,7 +15,7 @@ sections:
       - type: PricingPlan
         title: BIOS
         price: PS1
-        details: No credit card required
+        details: ''
         description: |
           Incluye las BIOS más utilizadas para todos los emuladores de PS1:
         features:
