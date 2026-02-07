@@ -55,7 +55,7 @@ sections:
           emuladores de PS2.
         features:
           - SCPH-77001
-          - Feature two
+          - SCPH-70008
           - Feature three
           - Feature four
         image:
