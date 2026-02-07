@@ -5,7 +5,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: BIOS PLAY STATION
+      text: 'BIOS DE PS1, PS2, PS3'
       color: text-dark
       styles:
         self:
