@@ -71,7 +71,7 @@ sections:
             style: secondary
             altText: Descargar BIOS PS2
             showIcon: true
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
