@@ -35,6 +35,7 @@ sections:
             icon: arrowRight
             iconPosition: right
             style: secondary
+            showIcon: true
         colors: bg-dark-fg-light
         styles:
           self:
