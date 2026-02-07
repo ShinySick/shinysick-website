@@ -23,6 +23,7 @@ sections:
           - SCPH1001
           - SCPH5000
           - SCPH9002
+          - ''
         image:
           type: ImageBlock
           url: /images/ps1 logo.webp
