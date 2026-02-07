@@ -45,7 +45,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Professional
+        title: BIOS
         price: $99
         details: per month
         description: >-
