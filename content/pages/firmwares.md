@@ -31,7 +31,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/firmware 21.0.1.png
+          url: /images/Shiny TikTok.jpg
           altText: Placeholder text
           styles:
             self:
