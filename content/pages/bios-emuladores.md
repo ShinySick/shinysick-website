@@ -88,7 +88,7 @@ sections:
         description: |
           Incluye el Firmware necesario para poder utilizar el emulador RPCS3.
         features:
-          - ''
+          - Firmware 4.92
         image:
           type: ImageBlock
           url: /images/ps3 loggo.webp
