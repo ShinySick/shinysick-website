@@ -120,7 +120,7 @@ sections:
 slug: bios-emuladores
 seo:
   type: Seo
-  metaTitle: Pricing - Demo site
+  metaTitle: 'BIOS para PS1, PS2 y PS3: Descarga y Guía de Configuración'
   metaDescription: This is the pricing page built with Netlify Create.
   socialImage: /images/main-hero.jpg
   metaTags: []
