@@ -91,7 +91,7 @@ sections:
           - Feature five
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/ps3 loggo.webp
           altText: Pricing plan 3
         actions:
           - type: Button
