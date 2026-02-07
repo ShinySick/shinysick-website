@@ -54,7 +54,7 @@ sections:
           Incluye TODAS las BIOS disponibles para PS2, compatibles con todos los
           emuladores de PS2.
         features:
-          - Feature one
+          - SCPH-77001
           - Feature two
           - Feature three
           - Feature four
