@@ -36,6 +36,7 @@ sections:
             iconPosition: right
             style: secondary
             showIcon: true
+            altText: Descargar Bios de PS1
         colors: bg-dark-fg-light
         styles:
           self:
