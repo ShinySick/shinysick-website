@@ -58,6 +58,7 @@ sections:
           - SCPH-70008
           - SCPH-30004
           - SCPH-10000
+          - ''
         image:
           type: ImageBlock
           url: /images/ps2 logo.webp
