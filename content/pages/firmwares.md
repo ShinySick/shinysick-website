@@ -60,7 +60,7 @@ sections:
             justifyContent: flex-start
       - type: FeaturedItem
         title: FIRMWARE 21.0.1
-        tagline: ¡¡ Más Reciente !!
+        tagline: ''
         subtitle: >-
           Arregló un error al transferir datos locales de una Switch a otra...
           Pero nada interesante pal emulador. (Igual descargalo)
