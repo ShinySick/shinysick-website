@@ -49,7 +49,7 @@ sections:
       - type: PricingPlan
         title: BIOS
         price: PS2
-        details: per month
+        details: ''
         description: >
           Incluye TODAS las BIOS disponibles para PS2, compatibles con todos los
           emuladores de PS2.
