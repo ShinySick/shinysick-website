@@ -124,4 +124,5 @@ seo:
   metaDescription: This is the pricing page built with Netlify Create.
   socialImage: /images/main-hero.jpg
   metaTags: []
+  addTitleSuffix: true
 ---
