@@ -21,7 +21,7 @@ sections:
         features:
           - SCPH-1000
           - SCPH-1001
-          - SCPH5000
+          - SCPH-5000
           - SCPH9002
           - Y más...
         image:
