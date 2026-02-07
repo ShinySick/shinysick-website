@@ -21,7 +21,7 @@ sections:
         features:
           - SCPH1000
           - SCPH1001
-          - Feature three
+          - SCPH5000
           - Feature four
         image:
           type: ImageBlock
