@@ -84,7 +84,7 @@ sections:
       - type: PricingPlan
         title: FIRMWARE
         price: PS3
-        details: per month
+        details: ''
         description: |
           Incluye el Firmware necesario para poder utilizar el emulador RPCS3.
         features:
