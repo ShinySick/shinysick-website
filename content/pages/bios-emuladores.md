@@ -104,6 +104,7 @@ sections:
             icon: arrowRight
             iconPosition: right
             style: secondary
+            altText: Descarar Firmware PS3
         colors: bg-neutral-fg-dark
         styles:
           self:
