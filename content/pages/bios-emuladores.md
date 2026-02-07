@@ -106,7 +106,7 @@ sections:
             style: secondary
             altText: Descarar Firmware PS3
             showIcon: true
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
