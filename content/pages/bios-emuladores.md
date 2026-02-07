@@ -19,7 +19,7 @@ sections:
         description: |
           Incluye las BIOS más utilizadas para todos los emuladores de PS1:
         features:
-          - SCPH1000
+          - SCPH-1000
           - SCPH1001
           - SCPH5000
           - SCPH9002
