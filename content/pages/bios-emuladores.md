@@ -125,7 +125,7 @@ seo:
     Descarga las BIOS esenciales para emuladores de PlayStation (PCSX2, RPCS3,
     DuckStation). Archivos verificados, tutoriales de instalación y solución de
     errores.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/bios ps SEO.webp
   metaTags: []
   addTitleSuffix: true
 ---
