@@ -50,9 +50,9 @@ sections:
         title: BIOS
         price: PS2
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Incluye TODAS las BIOS disponibles para PS2, compatibles con todos los
+          emuladores de PS2.
         features:
           - Feature one
           - Feature two
