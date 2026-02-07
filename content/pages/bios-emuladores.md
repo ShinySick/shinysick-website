@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Aquí no está lo que necesitas ;)
+    subtitle: Aquí NO ESTÁ lo que necesitas ;)
     plans:
       - type: PricingPlan
         title: Developers
