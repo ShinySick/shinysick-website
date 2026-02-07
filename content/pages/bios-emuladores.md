@@ -16,9 +16,8 @@ sections:
         title: BIOS
         price: PS1
         details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          Incluye las BIOS más utilizadas para todos los emuladores de PS1:
         features:
           - Feature one
           - Feature two
