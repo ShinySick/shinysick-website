@@ -121,7 +121,10 @@ slug: bios-emuladores
 seo:
   type: Seo
   metaTitle: 'BIOS para PS1, PS2 y PS3: Descarga y Guía de Configuración'
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaDescription: >-
+    Descarga las BIOS esenciales para emuladores de PlayStation (PCSX2, RPCS3,
+    DuckStation). Archivos verificados, tutoriales de instalación y solución de
+    errores.
   socialImage: /images/main-hero.jpg
   metaTags: []
   addTitleSuffix: true
