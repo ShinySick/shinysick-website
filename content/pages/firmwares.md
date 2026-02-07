@@ -24,7 +24,7 @@ sections:
     items:
       - type: FeaturedItem
         title: FIRMWARE 21.1.0
-        tagline: ¡¡ Más Reciente !!
+        tagline: ''
         subtitle: >-
           Arregló un error al transferir datos locales de una Switch a otra...
           Pero nada interesante pal emulador. (Igual descargalo)
