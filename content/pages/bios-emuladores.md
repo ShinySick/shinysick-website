@@ -22,7 +22,7 @@ sections:
           - SCPH-1000
           - SCPH-1001
           - SCPH-5000
-          - SCPH9002
+          - SCPH-9002
           - Y más...
         image:
           type: ImageBlock
