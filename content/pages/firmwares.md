@@ -39,7 +39,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: Descargar Firmware 21.0.1
+            altText: Descargar Firmware 21.1.0
             url: 'https://ouo.io/MWAIf8'
             showIcon: true
             icon: arrowDown
