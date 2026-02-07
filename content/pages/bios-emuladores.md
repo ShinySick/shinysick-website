@@ -65,7 +65,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            url: /
+            url: 'https://ouo.io/REj668M'
             icon: arrowRight
             iconPosition: right
             style: secondary
