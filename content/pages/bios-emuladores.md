@@ -120,7 +120,7 @@ sections:
 slug: bios-emuladores
 seo:
   type: Seo
-  metaTitle: 'BIOS para PS1, PS2 y PS3: Descarga y Guía de Configuración'
+  metaTitle: 'Pack de BIOS para PCSX2, RPCS3, DuckStation y ePSXe - PS1, PS2, PS3'
   metaDescription: >-
     Descarga las BIOS esenciales para emuladores de PlayStation (PCSX2, RPCS3,
     DuckStation). Archivos verificados, tutoriales de instalación y solución de
