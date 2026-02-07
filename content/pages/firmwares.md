@@ -23,8 +23,78 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: FIRMWARE 21.0.1
+        title: FIRMWARE 21.2.0
         tagline: ¡¡ Más Reciente !!
+        subtitle: >-
+          MÁS Mejoras de estabilidad y rendimiento... Utilizalo solo si de
+          verdad lo necesita algun juego.
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/Shiny TikTok.jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Descargar
+            altText: Descargar Firmware 21.2.0
+            url: 'https://ouo.io/dtsmRW4'
+            showIcon: true
+            icon: arrowDown
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: flex-start
+      - type: FeaturedItem
+        title: FIRMWARE 21.1.0
+        tagline: ''
+        subtitle: Mejoras en la estabilidad y rendimiento del sistema...
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/canelita.png
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Descargar
+            altText: Descargar Firmware 21.1.0
+            url: 'https://ouo.io/MWAIf8'
+            showIcon: true
+            icon: arrowDown
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: flex-start
+      - type: FeaturedItem
+        title: FIRMWARE 21.0.1
+        tagline: ''
         subtitle: >-
           Arregló un error al transferir datos locales de una Switch a otra...
           Pero nada interesante pal emulador. (Igual descargalo)
