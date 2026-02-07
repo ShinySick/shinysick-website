@@ -13,7 +13,7 @@ sections:
     subtitle: Aquí NO ESTÁ lo que necesitas ;)
     plans:
       - type: PricingPlan
-        title: Developers
+        title: BIOS
         price: Free
         details: No credit card required
         description: >-
