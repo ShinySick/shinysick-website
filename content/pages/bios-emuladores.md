@@ -101,7 +101,7 @@ sections:
           - type: Button
             label: Descargar
             url: 'https://ouo.io/SluI1FP'
-            icon: arrowRight
+            icon: arrowDown
             iconPosition: right
             style: secondary
             altText: Descarar Firmware PS3
