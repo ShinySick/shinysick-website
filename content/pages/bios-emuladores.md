@@ -100,7 +100,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            url: /
+            url: 'https://ouo.io/SluI1FP'
             icon: arrowRight
             iconPosition: right
             style: secondary
