@@ -56,7 +56,7 @@ sections:
         features:
           - SCPH-77001
           - SCPH-70008
-          - SCPH-3004
+          - SCPH-30004
           - Feature four
         image:
           type: ImageBlock
