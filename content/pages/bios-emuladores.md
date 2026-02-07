@@ -14,7 +14,7 @@ sections:
     plans:
       - type: PricingPlan
         title: BIOS
-        price: Free
+        price: PS1
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
