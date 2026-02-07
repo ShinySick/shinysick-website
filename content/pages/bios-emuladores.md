@@ -91,7 +91,6 @@ sections:
           - Feature one
           - Feature two
           - Feature three
-          - Feature four
         image:
           type: ImageBlock
           url: /images/ps3 loggo.webp
