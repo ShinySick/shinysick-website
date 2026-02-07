@@ -39,7 +39,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: Descargar Firmware 21.2.
+            altText: Descargar Firmware 21.2.0
             url: 'https://ouo.io/dtsmRW4'
             showIcon: true
             icon: arrowDown
