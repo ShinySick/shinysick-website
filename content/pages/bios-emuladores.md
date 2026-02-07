@@ -31,7 +31,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            url: /
+            url: 'https://ouo.io/091pxu'
             icon: arrowDown
             iconPosition: right
             style: secondary
