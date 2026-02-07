@@ -66,7 +66,7 @@ sections:
           - type: Button
             label: Descargar
             url: 'https://ouo.io/REj668M'
-            icon: arrowRight
+            icon: arrowDown
             iconPosition: right
             style: secondary
             altText: Descargar BIOS PS2
