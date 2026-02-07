@@ -22,7 +22,7 @@ sections:
           - SCPH1000
           - SCPH1001
           - SCPH5000
-          - Feature four
+          - SCPH9002
         image:
           type: ImageBlock
           url: /images/ps1 logo.webp
