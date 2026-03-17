@@ -31,7 +31,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/Shiny TikTok.jpg
+          url: /images/firmware-22.webp
           altText: Placeholder text
           styles:
             self:
