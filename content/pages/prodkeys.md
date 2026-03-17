@@ -13,7 +13,7 @@ sections:
     subtitle: Aquí NO ESTÁ lo que buscas ;)
     plans:
       - type: PricingPlan
-        title: Eden 0.0.4
+        title: Eden 0.2.0-rc2
         price: MAGIA
         details: Prod.Keys
         description: >
@@ -79,7 +79,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Ryujinx 1.3 + LDN
+        title: Ryujinx 1.4 + LDN
         price: MAGIA
         details: Prod.Keys
         description: >
