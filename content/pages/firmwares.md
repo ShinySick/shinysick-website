@@ -60,7 +60,7 @@ sections:
             justifyContent: flex-start
       - type: FeaturedItem
         title: FIRMWARE 21.2.0
-        tagline: ¡¡ Más Reciente !!
+        tagline: ''
         subtitle: >-
           MÁS Mejoras de estabilidad y rendimiento... Utilizalo solo si de
           verdad lo necesita algun juego.
