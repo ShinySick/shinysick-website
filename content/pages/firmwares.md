@@ -25,7 +25,9 @@ sections:
       - type: FeaturedItem
         title: FIRMWARE 22.0.0
         tagline: ¡¡ Más Reciente !!
-        subtitle: Mejoras para el modo portable... en Switch 2...
+        subtitle: >-
+          Mejoras para el modo portable... en Switch 2... Probable uso para los
+          juegos mas recientes aún actuales de la Switch 1.
         text: ''
         image:
           type: ImageBlock
