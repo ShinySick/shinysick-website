@@ -13,7 +13,7 @@ sections:
     subtitle: Aquí NO ESTÁ lo que buscas ;)
     plans:
       - type: PricingPlan
-        title: Eden 0.2.0-rc
+        title: Eden 0.2.0-rc2
         price: MAGIA
         details: Prod.Keys
         description: >
