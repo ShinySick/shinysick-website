@@ -25,9 +25,7 @@ sections:
       - type: FeaturedItem
         title: FIRMWARE 22.0.0
         tagline: ¡¡ Más Reciente !!
-        subtitle: >-
-          MÁS Mejoras de estabilidad y rendimiento... Utilizalo solo si de
-          verdad lo necesita algun juego.
+        subtitle: Mejoras para el modo portable... en Switch 2...
         text: ''
         image:
           type: ImageBlock
