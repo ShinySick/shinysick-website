@@ -28,7 +28,7 @@ sections:
           - type: Button
             label: Descargar
             altText: ''
-            url: 'https://ouo.io/yKW0LB9'
+            url: 'https://ouo.io/LWZoVpY'
             showIcon: true
             icon: arrowDown
             iconPosition: right
