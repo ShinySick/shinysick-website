@@ -39,7 +39,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            altText: Descargar Firmware 22.0.0
+            altText: Descargar Firmware 22.1.0
             url: 'https://ouo.io/9VIBZR'
             showIcon: true
             icon: arrowDown
