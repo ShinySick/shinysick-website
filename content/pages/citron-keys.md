@@ -15,7 +15,7 @@ sections:
       - type: FeaturedItem
         title: Citron ProdKeys 22.0.0
         tagline: ''
-        subtitle: ProdKeys Más recientes para Emuladores.
+        subtitle: ProdKeys Más recientes para Emuladores .
         text: ''
         image:
           type: ImageBlock
