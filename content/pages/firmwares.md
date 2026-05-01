@@ -23,8 +23,44 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: FIRMWARE 22.0.0
+        title: FIRMWARE 22.1.0
         tagline: ¡¡ Más Reciente !!
+        subtitle: >-
+          Mejoras para el modo portable... en Switch 2... Probable uso para los
+          juegos mas recientes aún actuales de la Switch 1.
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/firmware-tercero1.webp
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Descargar
+            altText: Descargar Firmware 22.1.0
+            url: 'https://ouo.io/9VIBZR'
+            showIcon: true
+            icon: arrowDown
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: flex-start
+      - type: FeaturedItem
+        title: FIRMWARE 22.0.0
+        tagline: ''
         subtitle: >-
           Mejoras para el modo portable... en Switch 2... Probable uso para los
           juegos mas recientes aún actuales de la Switch 1.
