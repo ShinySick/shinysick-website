@@ -31,7 +31,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/firmware-22.webp
+          url: /images/firmware-tercero1.webp
           altText: Placeholder text
           styles:
             self:
