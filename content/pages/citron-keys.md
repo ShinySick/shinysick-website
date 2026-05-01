@@ -13,7 +13,7 @@ sections:
     subtitle: No le cuentes a nadie.
     items:
       - type: FeaturedItem
-        title: Citron ProdKeys 22.0.0
+        title: Citron ProdKeys 22.1.0
         tagline: ''
         subtitle: ProdKeys Más recientes para Emuladores .
         text: ''
@@ -28,7 +28,7 @@ sections:
           - type: Button
             label: Descargar
             altText: ''
-            url: 'https://ouo.io/yKW0LB9'
+            url: 'https://ouo.io/LWZoVpY'
             showIcon: true
             icon: arrowDown
             iconPosition: right
