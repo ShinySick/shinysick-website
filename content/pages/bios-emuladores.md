@@ -122,7 +122,7 @@ sections:
           - libSceDiscMap.sprx
           - Feature two
           - libSceUlt.sprx
-          - Y más
+          - Y más...
         image:
           type: ImageBlock
           url: /images/ps4_full.webp
