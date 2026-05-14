@@ -111,6 +111,39 @@ sections:
               - pl-6
               - pr-6
             borderRadius: large
+      - type: PricingPlan
+        title: Sys_Modules
+        price: PS4
+        details: No credit card required
+        description: >
+          Incluye los sys\_modules más importantes para la mayoria de los juegos
+          (Suelen ser requeridos para BLOODBORNE)
+        features:
+          - libSceDiscMap.sprx
+          - libScelibcInternal.sprx
+          - libSceUlt.sprx
+          - Y más...
+        image:
+          type: ImageBlock
+          url: /images/ps4_full.webp
+          altText: Pricing plan 1
+        actions:
+          - type: Button
+            label: Descargar
+            url: 'https://ouo.io/R6Jaoor'
+            icon: arrowDown
+            iconPosition: right
+            style: secondary
+            showIcon: true
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
     colors: bg-light-fg-dark
     styles:
       self:
