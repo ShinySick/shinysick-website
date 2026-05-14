@@ -133,9 +133,8 @@ sections:
             url: 'https://ouo.io/R6Jaoor'
             icon: arrowDown
             iconPosition: right
-            style: primary
-            showIcon: true
-        colors: bg-neutral-fg-dark
+            style: secondary
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
