@@ -114,7 +114,7 @@ sections:
       - type: PricingPlan
         title: Sys_Modules
         price: PS4
-        details: No credit card required
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
