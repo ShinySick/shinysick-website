@@ -130,7 +130,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            url: /
+            url: 'https://ouo.io/R6Jaoor'
             icon: arrowRight
             iconPosition: right
             style: secondary
