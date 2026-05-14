@@ -56,11 +56,11 @@
             "type": "Link",
             "label": "BIOS",
             "altText": "",
-            "url": "bios-emuladores",
+            "url": "/bios-emuladores",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "primary",
+            "style": "secondary",
             "elementId": ""
         }
     ],
