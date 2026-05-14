@@ -119,9 +119,9 @@ sections:
           Incluye los sys\_modules más importantes para la mayoria de los juegos
           (Suelen ser requeridos para BLOODBORNE)
         features:
-          - libSceDiscMap.sprx
-          - libSceLibcInternal.sprx
-          - Feature three
+          - Feature one
+          - Feature two
+          - libSceUlt.sprx
           - Feature four
         image:
           type: ImageBlock
