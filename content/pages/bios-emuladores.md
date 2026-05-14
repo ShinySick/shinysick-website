@@ -131,7 +131,7 @@ sections:
           - type: Button
             label: Descargar
             url: 'https://ouo.io/R6Jaoor'
-            icon: arrowRight
+            icon: arrowDown
             iconPosition: right
             style: secondary
             showIcon: true
