@@ -120,7 +120,7 @@ sections:
           (Suelen ser requeridos para BLOODBORNE)
         features:
           - libSceDiscMap.sprx
-          - Feature two
+          - libSceLibcInternal.sprx
           - Feature three
           - Feature four
         image:
