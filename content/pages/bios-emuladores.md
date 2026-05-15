@@ -155,7 +155,7 @@ sections:
         features:
           - MCPX Boot ROM
           - Flash ROM (BIOS)
-          - Feature three
+          - Hard Disk
           - Feature four
         image:
           type: ImageBlock
