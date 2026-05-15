@@ -158,7 +158,7 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/xemu-logo-full.webp
           altText: Pricing plan 1
         actions:
           - type: Button
