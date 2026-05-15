@@ -154,7 +154,7 @@ sections:
 
         features:
           - mcpx_1.0.bin
-          - ''
+          - Complex_4627Debug.bin
           - ''
         image:
           type: ImageBlock
