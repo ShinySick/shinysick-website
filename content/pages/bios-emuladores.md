@@ -155,7 +155,7 @@ sections:
         features:
           - mcpx_1.0.bin
           - Complex_4627Debug.bin
-          - ''
+          - xbox_hdd.qcow2
         image:
           type: ImageBlock
           url: /images/xemu-logo-full.webp
