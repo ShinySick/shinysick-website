@@ -5,7 +5,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: 'BIOS DE PS1, PS2, PS3'
+      text: 'BIOS DE PS1, PS2, PS3, XBOX'
       color: text-dark
       styles:
         self:
@@ -114,7 +114,7 @@ sections:
       - type: PricingPlan
         title: Sys_Modules
         price: PS4
-        details: No credit card required
+        details: ''
         description: >
           Incluye los sys\_modules más importantes para la mayoria de los juegos
           (Suelen ser requeridos para BLOODBORNE)
@@ -131,6 +131,39 @@ sections:
           - type: Button
             label: Descargar
             url: 'https://ouo.io/R6Jaoor'
+            icon: arrowDown
+            iconPosition: right
+            style: secondary
+            showIcon: true
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
+        title: BIOS
+        price: XEMU
+        details: ''
+        description: >+
+          Incluye los 3 archivos necesarios para configurar correctamente el
+          emulador XEMU
+
+        features:
+          - mcpx_1.0.bin
+          - Complex_4627Debug.bin
+          - xbox_hdd.qcow2
+        image:
+          type: ImageBlock
+          url: /images/xemu-logo-full.webp
+          altText: Pricing plan 1
+        actions:
+          - type: Button
+            label: Descargar
+            url: 'https://ouo.io/lMVC61'
             icon: arrowDown
             iconPosition: right
             style: secondary
