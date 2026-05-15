@@ -153,10 +153,9 @@ sections:
           emulador XEMU
 
         features:
-          - MCPX Boot ROM
-          - Flash ROM (BIOS)
-          - Hard Disk
-          - ''
+          - Feature one
+          - Feature two
+          - Feature three
         image:
           type: ImageBlock
           url: /images/xemu-logo-full.webp
