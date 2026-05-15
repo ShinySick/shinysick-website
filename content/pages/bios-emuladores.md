@@ -146,7 +146,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: BIOS
-        price: Free
+        price: XEMU
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
