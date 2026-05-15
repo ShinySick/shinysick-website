@@ -153,7 +153,7 @@ sections:
           emulador XEMU
 
         features:
-          - Feature one
+          - MCPX Boot ROM
           - Feature two
           - Feature three
         image:
