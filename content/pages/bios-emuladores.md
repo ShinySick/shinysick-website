@@ -147,7 +147,7 @@ sections:
       - type: PricingPlan
         title: BIOS
         price: Free
-        details: No credit card required
+        details: ''
         description: >+
           Incluye los 3 archivos necesarios para configurar correctamente el
           emulador XEMU
