@@ -154,7 +154,8 @@ sections:
 
         features:
           - mcpx_1.0.bin
-          - Complex_4627Debug.bin
+          - ''
+          - ''
         image:
           type: ImageBlock
           url: /images/xemu-logo-full.webp
