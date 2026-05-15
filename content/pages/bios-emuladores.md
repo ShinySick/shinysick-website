@@ -146,7 +146,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: BIOS
-        price: Free
+        price: XEMU
         details: ''
         description: >+
           Incluye los 3 archivos necesarios para configurar correctamente el
