@@ -164,7 +164,7 @@ sections:
           - type: Button
             label: Descargar
             url: 'https://ouo.io/lMVC61'
-            icon: arrowRight
+            icon: chevronDown
             iconPosition: right
             style: secondary
             showIcon: true
