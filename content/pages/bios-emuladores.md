@@ -153,8 +153,8 @@ sections:
           emulador XEMU
 
         features:
-          - Feature one
-          - Flash ROM (BIOS)
+          - mcpx_1.0.bin
+          - Feature two
           - Feature three
         image:
           type: ImageBlock
