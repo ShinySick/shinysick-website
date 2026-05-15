@@ -114,7 +114,7 @@ sections:
       - type: PricingPlan
         title: Sys_Modules
         price: PS4
-        details: No credit card required
+        details: ''
         description: >
           Incluye los sys\_modules más importantes para la mayoria de los juegos
           (Suelen ser requeridos para BLOODBORNE)
