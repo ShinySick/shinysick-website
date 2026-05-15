@@ -153,8 +153,8 @@ sections:
           emulador XEMU
 
         features:
-          - mcpx_1.0.bin
-          - Feature two
+          - Feature one
+          - Complex_4627Debug.bin
           - Feature three
         image:
           type: ImageBlock
