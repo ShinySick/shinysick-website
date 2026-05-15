@@ -148,9 +148,10 @@ sections:
         title: BIOS
         price: Free
         details: No credit card required
-        description: >
-          Incluye los 3 archivos necesarios para poder configurar el emulador
-          XEMU correctamente.
+        description: >+
+          Incluye los 3 archivos necesarios para configurar correctamente el
+          emulador XEMU
+
         features:
           - Feature one
           - Feature two
