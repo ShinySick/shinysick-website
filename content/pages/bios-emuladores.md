@@ -155,7 +155,6 @@ sections:
         features:
           - Feature one
           - Complex_4627Debug.bin
-          - Feature three
         image:
           type: ImageBlock
           url: /images/xemu-logo-full.webp
