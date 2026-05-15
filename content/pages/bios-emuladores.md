@@ -153,8 +153,8 @@ sections:
           emulador XEMU
 
         features:
-          - Feature one
-          - Complex_4627Debug.bin
+          - mcpx_1.0.bin
+          - Feature two
         image:
           type: ImageBlock
           url: /images/xemu-logo-full.webp
