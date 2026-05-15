@@ -156,7 +156,7 @@ sections:
           - MCPX Boot ROM
           - Flash ROM (BIOS)
           - Hard Disk
-          - Feature four
+          - ''
         image:
           type: ImageBlock
           url: /images/xemu-logo-full.webp
