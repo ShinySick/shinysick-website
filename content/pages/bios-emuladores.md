@@ -154,7 +154,7 @@ sections:
 
         features:
           - MCPX Boot ROM
-          - Feature two
+          - Flash ROM (BIOS)
           - Feature three
           - Feature four
         image:
