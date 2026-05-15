@@ -163,7 +163,7 @@ sections:
         actions:
           - type: Button
             label: Descargar
-            url: /
+            url: 'https://ouo.io/lMVC61'
             icon: arrowRight
             iconPosition: right
             style: secondary
